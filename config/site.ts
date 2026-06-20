@@ -13,7 +13,7 @@ export const SITE = {
 
   // --- Google & Analytics ---
   // ⚠️ استبدل القيم دي بالكودات الحقيقية
-  googleAnalyticsId: 'GA_MEASUREMENT_ID',         // من analytics.google.com
+  googleAnalyticsId: 'G-7X05LBKCKF',         // من analytics.google.com
   googleVerification: '<meta name="google-site-verification" content="L3GTPIj7d5Wt6-SB4HJbpVm5xdAK9AS9kFTGyNAdBGs" />',  // من Search Console
   bingVerification: 'YOUR_BING_VERIFICATION_CODE',      // من Bing Webmaster
 
