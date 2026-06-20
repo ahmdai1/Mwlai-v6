@@ -1,0 +1,1978 @@
+[
+  {
+    "id": "canva-ai-2026",
+    "name_ar": "Canva AI",
+    "name_en": "Canva AI",
+    "slug": "canva-ai-2026",
+    "tagline_ar": "16 مليار استخدام لـ Magic Studio",
+    "tagline_en": "16 billion Magic Studio uses",
+    "desc_ar": "Canva AI يدمج Magic Studio مع توليد الصور والفيديو والنصوص. 200M+ مستخدم.",
+    "desc_en": "Canva AI integrates Magic Studio with image, video, text generation. 200M+ users.",
+    "long_desc_ar": "Canva تطور إلى منصة AI متكاملة. Magic Studio استُخدم 16 مليار مرة. يدمج الصور والفيديو والكتابة AI مع قوالب احترافية.",
+    "long_desc_en": "Canva evolved into integrated AI platform. Magic Studio used 16 billion times. Integrates image, video, and AI writing with professional templates.",
+    "category": "design",
+    "tags_ar": [
+      "Canva",
+      "Magic Studio",
+      "تصميم",
+      "سهل"
+    ],
+    "tags_en": [
+      "Canva",
+      "Magic Studio",
+      "design",
+      "easy"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "Mac",
+      "Windows"
+    ],
+    "website": "https://canva.com",
+    "monthly_visits": "200M+",
+    "trending_score": 95,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "adobe-firefly-2026",
+      "figma-ai",
+      "google-stitch"
+    ],
+    "integrations": [
+      "HubSpot",
+      "Mailchimp",
+      "Social Media",
+      "Google Drive"
+    ],
+    "use_cases_ar": [
+      "سوشيال",
+      "Presentations",
+      "تسويق",
+      "Branding"
+    ],
+    "use_cases_en": [
+      "Social",
+      "Presentations",
+      "Marketing",
+      "Branding"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64"
+  },
+  {
+    "id": "canva",
+    "name_ar": "كانفا",
+    "name_en": "Canva",
+    "slug": "canva",
+    "tagline_ar": "تصميم كل شيء بسهولة مع AI",
+    "tagline_en": "Design everything easily with AI",
+    "desc_ar": "منصة التصميم الأشهر بـ 100 مليون مستخدم. Magic Studio AI لتوليد الصور وإزالة الخلفية وغيرها.",
+    "desc_en": "Most popular design platform 100M users. Magic Studio AI for image gen, background removal and more.",
+    "long_desc_ar": "Canva في a16z Top 100 AI Apps 2026. Magic Suite محرك نمو رئيسي. توليد الصور وإزالة الخلفية والعروض الذكية. مجانية بشكل سخي.",
+    "long_desc_en": "Canva on a16z Top 100 AI Apps 2026. Magic Suite became major growth driver. Image gen, background removal, smart presentations. Very generous free plan.",
+    "category": "design",
+    "tags_ar": [
+      "تصميم",
+      "سهل",
+      "Magic AI",
+      "منشورات"
+    ],
+    "tags_en": [
+      "design",
+      "easy",
+      "Magic AI",
+      "posts"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$14.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://canva.com",
+    "monthly_visits": "996M+",
+    "trending_score": 94,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "adobe-firefly",
+      "figma",
+      "picsart"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox",
+      "HubSpot"
+    ],
+    "use_cases_ar": [
+      "منشورات سوشيال",
+      "عروض تقديمية",
+      "تصميم لوجو",
+      "مواد تسويقية"
+    ],
+    "use_cases_en": [
+      "Social posts",
+      "Presentations",
+      "Logo design",
+      "Marketing materials"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64"
+  },
+  {
+    "id": "canva-pro",
+    "name_ar": "Canva Pro AI",
+    "name_en": "Canva Pro AI",
+    "slug": "canva-pro",
+    "tagline_ar": "كل مزايا Canva AI بلا قيود",
+    "tagline_en": "All Canva AI features without limits",
+    "desc_ar": "Canva Pro AI — كل مزايا Canva AI بلا قيود",
+    "desc_en": "Canva Pro AI — All Canva AI features without limits",
+    "long_desc_ar": "Canva Pro AI — كل مزايا Canva AI بلا قيود",
+    "long_desc_en": "Canva Pro AI — All Canva AI features without limits",
+    "category": "design",
+    "tags_ar": [
+      "Canva Pro AI",
+      "design"
+    ],
+    "tags_en": [
+      "Canva Pro AI",
+      "design"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$15",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://canva.com",
+    "monthly_visits": "2M+",
+    "trending_score": 93,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64"
+  },
+  {
+    "id": "figma",
+    "name_ar": "فيجما",
+    "name_en": "Figma",
+    "slug": "figma",
+    "tagline_ar": "أداة تصميم UI/UX الاحترافية التعاونية",
+    "tagline_en": "Professional collaborative UI/UX design tool",
+    "desc_ar": "المنصة الاحترافية لتصميم واجهات المستخدم والنماذج الأولية. AI يولد التصاميم تلقائياً.",
+    "desc_en": "Professional UI design and prototyping platform. AI for automatic design generation.",
+    "long_desc_ar": "Figma الأداة الأولى لتصميم UI. AI قوي في 2025 يولد واجهات من وصف نصي ويحوّل التصاميم لكود. Dev Mode للمطورين. مجانية للفرد.",
+    "long_desc_en": "Figma is #1 UI design tool. Powerful AI in 2025 generating interfaces from text and converting designs to code. Dev Mode for developers. Free for individuals.",
+    "category": "design",
+    "tags_ar": [
+      "UI/UX",
+      "تعاون",
+      "نماذج أولية",
+      "كود"
+    ],
+    "tags_en": [
+      "UI/UX",
+      "collaboration",
+      "prototyping",
+      "code"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "website": "https://figma.com",
+    "monthly_visits": "20M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "sketch",
+      "adobe-xd",
+      "framer"
+    ],
+    "integrations": [
+      "VS Code",
+      "Jira",
+      "Slack",
+      "GitHub"
+    ],
+    "use_cases_ar": [
+      "تصميم تطبيقات",
+      "نماذج أولية",
+      "تصميم مواقع",
+      "تعاون الفرق"
+    ],
+    "use_cases_en": [
+      "App design",
+      "Prototyping",
+      "Website design",
+      "Team collaboration"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=figma.com&sz=64"
+  },
+  {
+    "id": "adobe-firefly-2026",
+    "name_ar": "Adobe Firefly",
+    "name_en": "Adobe Firefly",
+    "slug": "adobe-firefly-2026",
+    "tagline_ar": "AI إبداعي آمن تجارياً 100%",
+    "tagline_en": "Creative AI 100% commercially safe",
+    "desc_ar": "Adobe Firefly مدمج في Photoshop وIllustrator وPremiere. آمن تجارياً بالكامل مع 25 صورة مجانية/شهر.",
+    "desc_en": "Adobe Firefly integrated in Photoshop, Illustrator, Premiere. 100% commercially safe with 25 free images/month.",
+    "long_desc_ar": "Adobe Firefly الوحيد الذي يضمن حماية تجارية كاملة. مدرّب على محتوى مرخص. مدمج في كل تطبيقات Adobe.",
+    "long_desc_en": "Adobe Firefly is the only tool guaranteeing full commercial protection. Trained on licensed content. Integrated into all Adobe apps.",
+    "category": "design",
+    "tags_ar": [
+      "Adobe Firefly",
+      "تصميم",
+      "Photoshop AI",
+      "آمن"
+    ],
+    "tags_en": [
+      "Adobe Firefly",
+      "design",
+      "Photoshop AI",
+      "safe"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$5",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Photoshop",
+      "Illustrator",
+      "Premiere"
+    ],
+    "website": "https://firefly.adobe.com",
+    "monthly_visits": "30M+",
+    "trending_score": 89,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "midjourney-v8",
+      "flux-pro",
+      "canva-ai-2026"
+    ],
+    "integrations": [
+      "Photoshop",
+      "Illustrator",
+      "InDesign",
+      "Premiere"
+    ],
+    "use_cases_ar": [
+      "تصميم احترافي",
+      "تحرير صور",
+      "Branding",
+      "تسويق"
+    ],
+    "use_cases_en": [
+      "Professional design",
+      "Image editing",
+      "Branding",
+      "Marketing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=64"
+  },
+  {
+    "id": "google-stitch",
+    "name_ar": "Google Stitch",
+    "name_en": "Google Stitch",
+    "slug": "google-stitch",
+    "tagline_ar": "أداة Google لتصميم UI بالذكاء الاصطناعي — مجاني",
+    "tagline_en": "Google's AI UI design tool — free",
+    "desc_ar": "Google Stitch يحوّل الوصف النصي لواجهة مستخدم كاملة مع كود قابل للاستخدام. مجاني تماماً.",
+    "desc_en": "Google Stitch converts text description to complete UI with usable code. Completely free.",
+    "long_desc_ar": "Google Stitch أداة تصميم UI من Google تستخدم Gemini. تحوّل الوصف النصي لواجهة مستخدم كاملة مع كود قابل للاستخدام. مجاني كلياً.",
+    "long_desc_en": "Google Stitch is Google's Gemini-powered UI design tool. Converts text to complete UI with usable code. Completely free.",
+    "category": "design",
+    "tags_ar": [
+      "Google Stitch",
+      "UI",
+      "مجاني",
+      "Gemini"
+    ],
+    "tags_en": [
+      "Google Stitch",
+      "UI",
+      "free",
+      "Gemini"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://stitch.withgoogle.com",
+    "monthly_visits": "5M+",
+    "trending_score": 89,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "v0",
+      "bolt",
+      "lovable",
+      "figma-ai"
+    ],
+    "integrations": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "use_cases_ar": [
+      "UI سريع",
+      "نماذج",
+      "Startups",
+      "تطوير"
+    ],
+    "use_cases_en": [
+      "Quick UI",
+      "Prototypes",
+      "Startups",
+      "Development"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=64"
+  },
+  {
+    "id": "figma-ai",
+    "name_ar": "Figma AI",
+    "name_en": "Figma AI",
+    "slug": "figma-ai",
+    "tagline_ar": "تصميم UI/UX بالذكاء الاصطناعي",
+    "tagline_en": "AI-powered UI/UX design",
+    "desc_ar": "Figma AI يولّد Wireframes من النص ويحسّن Auto-Layout. المعيار الذهبي لفرق تصميم المنتجات.",
+    "desc_en": "Figma AI generates wireframes from text and improves Auto-Layout. Gold standard for product design teams.",
+    "long_desc_ar": "Figma AI في 2026 يُقدم First Draft لتوليد Wireframes من النص. يُعد المعيار الذهبي لفرق تصميم المنتجات.",
+    "long_desc_en": "Figma AI in 2026 offers First Draft for wireframe generation from text. Gold standard for product design teams.",
+    "category": "design",
+    "tags_ar": [
+      "Figma",
+      "UI/UX",
+      "تصميم منتجات",
+      "Wireframe"
+    ],
+    "tags_en": [
+      "Figma",
+      "UI/UX",
+      "product design",
+      "wireframe"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Mac",
+      "Windows"
+    ],
+    "website": "https://figma.com",
+    "monthly_visits": "20M+",
+    "trending_score": 88,
+    "rating": 4.8,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "google-stitch",
+      "adobe-xd"
+    ],
+    "integrations": [
+      "VS Code",
+      "GitHub",
+      "Zeplin",
+      "Slack"
+    ],
+    "use_cases_ar": [
+      "تصميم تطبيقات",
+      "Prototyping",
+      "Design Systems",
+      "فريق"
+    ],
+    "use_cases_en": [
+      "App design",
+      "Prototyping",
+      "Design systems",
+      "Team"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=figma.com&sz=64"
+  },
+  {
+    "id": "framer-ai",
+    "name_ar": "Framer AI",
+    "name_en": "Framer AI",
+    "slug": "framer-ai",
+    "tagline_ar": "مواقع ويب من النص في دقائق",
+    "tagline_en": "Websites from text in minutes",
+    "desc_ar": "Framer AI يبني مواقع ويب احترافية من وصف نصي. تصميم جميل بدون كود مع نشر فوري.",
+    "desc_en": "Framer AI builds professional websites from text description. Beautiful design without code with instant deployment.",
+    "long_desc_ar": "Framer AI يبني مواقع ويب احترافية من وصف نصي. تصميم جميل بدون كود مع نشر فوري.",
+    "long_desc_en": "Framer AI builds professional websites from text description. Beautiful design without code with instant deployment.",
+    "category": "design",
+    "tags_ar": [
+      "Framer",
+      "مواقع ويب",
+      "No-code",
+      "AI"
+    ],
+    "tags_en": [
+      "Framer",
+      "websites",
+      "no-code",
+      "AI"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://framer.com",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "webflow",
+      "wix-ai",
+      "squarespace"
+    ],
+    "integrations": [
+      "Figma",
+      "GitHub",
+      "Netlify"
+    ],
+    "use_cases_ar": [
+      "مواقع ويب",
+      "Landing Pages",
+      "Startups",
+      "Portfolios"
+    ],
+    "use_cases_en": [
+      "Websites",
+      "Landing pages",
+      "Startups",
+      "Portfolios"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=framer.com&sz=64"
+  },
+  {
+    "id": "freepik",
+    "name_ar": "فري بيك",
+    "name_en": "Freepik",
+    "slug": "freepik",
+    "tagline_ar": "ملايين الأصول الإبداعية مع AI مجاني",
+    "tagline_en": "Millions of creative assets with free AI",
+    "desc_ar": "أكبر مكتبة أصول تصميم مجانية مع أدوات AI. أُدرجت في a16z Top 100 2026.",
+    "desc_en": "Largest free design asset library with AI tools. Listed on a16z Top 100 2026.",
+    "long_desc_ar": "Freepik أكبر منصة أصول تصميم بملايين الصور والأيقونات والقوالب. أُدرجت في a16z بعد إطلاق Pikaso AI. الخطة المجانية سخية جداً.",
+    "long_desc_en": "Freepik is the largest design assets platform with millions of images, icons, templates. Listed on a16z after launching Pikaso AI. Very generous free plan.",
+    "category": "design",
+    "tags_ar": [
+      "أصول تصميم",
+      "مجاني",
+      "ملايين ملفات",
+      "AI توليد"
+    ],
+    "tags_en": [
+      "design assets",
+      "free",
+      "millions files",
+      "AI generation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://freepik.com",
+    "monthly_visits": "100M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [
+      "canva",
+      "unsplash",
+      "flaticon"
+    ],
+    "integrations": [
+      "Canva",
+      "Figma",
+      "API"
+    ],
+    "use_cases_ar": [
+      "أصول تصميم",
+      "توليد صور",
+      "قوالب",
+      "أيقونات"
+    ],
+    "use_cases_en": [
+      "Design assets",
+      "Image generation",
+      "Templates",
+      "Icons"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=freepik.com&sz=64"
+  },
+  {
+    "id": "framer",
+    "name_ar": "فريمر",
+    "name_en": "Framer",
+    "slug": "framer",
+    "tagline_ar": "مواقع ويب تفاعلية بالذكاء AI",
+    "tagline_en": "Interactive websites with AI",
+    "desc_ar": "منشئ مواقع احترافي بالذكاء الاصطناعي. من التصميم للنشر في دقائق.",
+    "desc_en": "Professional AI website builder. From design to deployment in minutes.",
+    "long_desc_ar": "منشئ مواقع احترافي بالذكاء الاصطناعي. من التصميم للنشر في دقائق.",
+    "long_desc_en": "Professional AI website builder. From design to deployment in minutes.",
+    "category": "design",
+    "tags_ar": [
+      "مواقع",
+      "تفاعلي",
+      "تصميم",
+      "نشر"
+    ],
+    "tags_en": [
+      "websites",
+      "interactive",
+      "design",
+      "deployment"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://framer.com",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [
+      "webflow",
+      "figma",
+      "wix"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=framer.com&sz=64"
+  },
+  {
+    "id": "webflow-ai",
+    "name_ar": "Webflow AI",
+    "name_en": "Webflow AI",
+    "slug": "webflow-ai",
+    "tagline_ar": "تصميم مواقع احترافي مع AI",
+    "tagline_en": "Professional website design with AI",
+    "desc_ar": "Webflow AI يُضيف ذكاءً اصطناعياً لأقوى منشئ مواقع No-code. CMS مدمج مع تصدير كود نظيف.",
+    "desc_en": "Webflow AI adds artificial intelligence to the most powerful no-code website builder. Built-in CMS with clean code export.",
+    "long_desc_ar": "Webflow AI يُضيف ذكاءً اصطناعياً لأقوى منشئ مواقع No-code. CMS مدمج مع تصدير كود نظيف.",
+    "long_desc_en": "Webflow AI adds artificial intelligence to the most powerful no-code website builder. Built-in CMS with clean code export.",
+    "category": "design",
+    "tags_ar": [
+      "Webflow",
+      "مواقع",
+      "No-code",
+      "CMS"
+    ],
+    "tags_en": [
+      "Webflow",
+      "websites",
+      "no-code",
+      "CMS"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$23",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://webflow.com",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "framer-ai",
+      "wix-ai",
+      "squarespace"
+    ],
+    "integrations": [
+      "Figma",
+      "Zapier",
+      "Google Analytics",
+      "API"
+    ],
+    "use_cases_ar": [
+      "مواقع احترافية",
+      "Ecommerce",
+      "CMS",
+      "Agencies"
+    ],
+    "use_cases_en": [
+      "Professional websites",
+      "Ecommerce",
+      "CMS",
+      "Agencies"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=webflow.com&sz=64"
+  },
+  {
+    "id": "adobe-express-ai",
+    "name_ar": "Adobe Express AI",
+    "name_en": "Adobe Express AI",
+    "slug": "adobe-express-ai",
+    "tagline_ar": "تصميم سريع احترافي مجاناً من Adobe",
+    "tagline_en": "Fast professional design free from Adobe",
+    "desc_ar": "Adobe Express AI يُقدم تصميماً سريعاً احترافياً مجاناً. يدمج Firefly لتوليد الصور مع آلاف القوالب.",
+    "desc_en": "Adobe Express AI provides fast professional design for free. Integrates Firefly for image generation with thousands of templates.",
+    "long_desc_ar": "Adobe Express AI يُقدم تصميماً سريعاً احترافياً مجاناً. يدمج Firefly لتوليد الصور مع آلاف القوالب.",
+    "long_desc_en": "Adobe Express AI provides fast professional design for free. Integrates Firefly for image generation with thousands of templates.",
+    "category": "design",
+    "tags_ar": [
+      "Adobe Express",
+      "تصميم سريع",
+      "مجاني",
+      "Firefly"
+    ],
+    "tags_en": [
+      "Adobe Express",
+      "quick design",
+      "free",
+      "Firefly"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://express.adobe.com",
+    "monthly_visits": "20M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "canva-ai-2026",
+      "adobe-firefly-2026",
+      "picsart"
+    ],
+    "integrations": [
+      "Adobe CC",
+      "Firefly",
+      "Social Media"
+    ],
+    "use_cases_ar": [
+      "تصميم سريع",
+      "سوشيال",
+      "الشعارات",
+      "Branding"
+    ],
+    "use_cases_en": [
+      "Quick design",
+      "Social",
+      "Logos",
+      "Branding"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=express.adobe.com&sz=64"
+  },
+  {
+    "id": "adobe-illustrator-ai",
+    "name_ar": "أدوبي إليستريتور AI",
+    "name_en": "Adobe Illustrator AI",
+    "slug": "adobe-illustrator-ai",
+    "tagline_ar": "تصميم فيكتور AI احترافي",
+    "tagline_en": "Professional AI vector design",
+    "desc_ar": "Illustrator مع Generative Shape Fill وText to Vector. تصميم فيكتور ثوري.",
+    "desc_en": "Illustrator مع Generative Shape Fill وText to Vector. تصميم فيكتور ثوري.",
+    "long_desc_ar": "Illustrator مع Generative Shape Fill وText to Vector. تصميم فيكتور ثوري.",
+    "long_desc_en": "Illustrator مع Generative Shape Fill وText to Vector. تصميم فيكتور ثوري.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$22.99/mo",
+    "price_pro": "$22.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://adobe.com",
+    "monthly_visits": "50M+",
+    "trending_score": 84,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=adobe.com&sz=64"
+  },
+  {
+    "id": "framer-ai-sites",
+    "name_ar": "فريمر AI مواقع",
+    "name_en": "Framer AI Sites",
+    "slug": "framer-ai-sites",
+    "tagline_ar": "مواقع AI جاهزة للنشر فوراً",
+    "tagline_en": "AI websites ready to publish instantly",
+    "desc_ar": "Framer AI يبني موقع كامل من وصف نصي ويُنشره فوراً. تصميم استثنائي.",
+    "desc_en": "Framer AI يبني موقع كامل من وصف نصي ويُنشره فوراً. تصميم استثنائي.",
+    "long_desc_ar": "Framer AI يبني موقع كامل من وصف نصي ويُنشره فوراً. تصميم استثنائي.",
+    "long_desc_en": "Framer AI يبني موقع كامل من وصف نصي ويُنشره فوراً. تصميم استثنائي.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://framer.com",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=framer.com&sz=64"
+  },
+  {
+    "id": "adobe-express",
+    "name_ar": "أدوبي اكسبريس",
+    "name_en": "Adobe Express",
+    "slug": "adobe-express",
+    "tagline_ar": "تصميم سريع احترافي من Adobe مجاناً",
+    "tagline_en": "Fast professional design from Adobe for free",
+    "desc_ar": "أداة التصميم السريع من Adobe. مدمجة بـ Firefly AI لتوليد الصور وتعديلها مجاناً.",
+    "desc_en": "Adobe's fast design tool. Integrated with Firefly AI for image generation and editing for free.",
+    "long_desc_ar": "Adobe Express هي أداة التصميم السريع من Adobe للمستخدمين العاديين. مدمجة مع Firefly AI لتوليد الصور وإزالة الخلفية. مجانية بشكل سخي وتتيح إنشاء محتوى احترافي بدقائق.",
+    "long_desc_en": "Adobe Express is Adobe's fast design tool for regular users. Integrated with Firefly AI for image generation and background removal. Very generous free plan for professional content in minutes.",
+    "category": "design",
+    "tags_ar": [
+      "أدوبي",
+      "تصميم سريع",
+      "Firefly",
+      "مجاني"
+    ],
+    "tags_en": [
+      "Adobe",
+      "fast design",
+      "Firefly",
+      "free"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://express.adobe.com",
+    "monthly_visits": "20M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "canva",
+      "picsart",
+      "freepik"
+    ],
+    "integrations": [
+      "Photoshop",
+      "Illustrator",
+      "Firefly"
+    ],
+    "use_cases_ar": [
+      "منشورات سوشيال",
+      "فيديوهات قصيرة",
+      "قوالب",
+      "إعلانات"
+    ],
+    "use_cases_en": [
+      "Social posts",
+      "Short videos",
+      "Templates",
+      "Ads"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=express.adobe.com&sz=64"
+  },
+  {
+    "id": "spline",
+    "name_ar": "سبلاين",
+    "name_en": "Spline",
+    "slug": "spline",
+    "tagline_ar": "تصميم ثلاثي الأبعاد تفاعلي للويب",
+    "tagline_en": "Interactive 3D design for web",
+    "desc_ar": "تصميم 3D بسيط للويب. AI يولد مشاهد ثلاثية الأبعاد من النص.",
+    "desc_en": "Simple 3D design for web. AI generates 3D scenes from text.",
+    "long_desc_ar": "تصميم 3D بسيط للويب. AI يولد مشاهد ثلاثية الأبعاد من النص.",
+    "long_desc_en": "Simple 3D design for web. AI generates 3D scenes from text.",
+    "category": "design",
+    "tags_ar": [
+      "3D",
+      "تفاعلي",
+      "ويب",
+      "تصميم"
+    ],
+    "tags_en": [
+      "3D",
+      "interactive",
+      "web",
+      "design"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "website": "https://spline.design",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "blender",
+      "figma",
+      "webflow"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=spline.design&sz=64"
+  },
+  {
+    "id": "wix-ai",
+    "name_ar": "Wix AI",
+    "name_en": "Wix AI",
+    "slug": "wix-ai",
+    "tagline_ar": "بناء مواقع ويب بالذكاء الاصطناعي من صفر",
+    "tagline_en": "Build websites with AI from scratch",
+    "desc_ar": "Wix AI يبني موقعاً كاملاً من إجاباتك على أسئلة بسيطة. لا تصميم ولا كود مطلوب.",
+    "desc_en": "Wix AI builds a complete website from your answers to simple questions. No design or code required.",
+    "long_desc_ar": "Wix AI يبني موقعاً كاملاً من إجاباتك على أسئلة بسيطة. لا تصميم ولا كود مطلوب.",
+    "long_desc_en": "Wix AI builds a complete website from your answers to simple questions. No design or code required.",
+    "category": "design",
+    "tags_ar": [
+      "Wix",
+      "مواقع ويب",
+      "No-code",
+      "AI"
+    ],
+    "tags_en": [
+      "Wix",
+      "websites",
+      "no-code",
+      "AI"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$17",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://wix.com",
+    "monthly_visits": "50M+",
+    "trending_score": 81,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "framer-ai",
+      "webflow-ai",
+      "squarespace"
+    ],
+    "integrations": [
+      "Stripe",
+      "PayPal",
+      "Google Analytics",
+      "Mailchimp"
+    ],
+    "use_cases_ar": [
+      "مواقع شخصية",
+      "متاجر",
+      "أعمال صغيرة",
+      "Portfolios"
+    ],
+    "use_cases_en": [
+      "Personal sites",
+      "Stores",
+      "Small business",
+      "Portfolios"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wix.com&sz=64"
+  },
+  {
+    "id": "lottiefiles",
+    "name_ar": "لوتي فايلز",
+    "name_en": "LottieFiles",
+    "slug": "lottiefiles",
+    "tagline_ar": "رسوم متحركة خفيفة لمواقع الويب",
+    "tagline_en": "Lightweight animations for websites",
+    "desc_ar": "ملايين الرسوم المتحركة Lottie المجانية لمواقع الويب.",
+    "desc_en": "Millions of free Lottie animations for websites.",
+    "long_desc_ar": "ملايين الرسوم المتحركة Lottie المجانية لمواقع الويب.",
+    "long_desc_en": "Millions of free Lottie animations for websites.",
+    "category": "design",
+    "tags_ar": [
+      "رسوم متحركة",
+      "Lottie",
+      "خفيف",
+      "مجاني"
+    ],
+    "tags_en": [
+      "animations",
+      "Lottie",
+      "lightweight",
+      "free"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://lottiefiles.com",
+    "monthly_visits": "3M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "framer",
+      "figma",
+      "spline"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lottiefiles.com&sz=64"
+  },
+  {
+    "id": "relume-ai",
+    "name_ar": "ريلوم AI",
+    "name_en": "Relume AI",
+    "slug": "relume-ai",
+    "tagline_ar": "مواقع Webflow AI من وصف نصي",
+    "tagline_en": "Webflow websites from text description",
+    "desc_ar": "Relume يبني مواقع Webflow كاملة من وصف نصي. Sitemap وWireframes وتصميم.",
+    "desc_en": "Relume يبني مواقع Webflow كاملة من وصف نصي. Sitemap وWireframes وتصميم.",
+    "long_desc_ar": "Relume يبني مواقع Webflow كاملة من وصف نصي. Sitemap وWireframes وتصميم.",
+    "long_desc_en": "Relume يبني مواقع Webflow كاملة من وصف نصي. Sitemap وWireframes وتصميم.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://relume.io",
+    "monthly_visits": "500K+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=relume.io&sz=64"
+  },
+  {
+    "id": "sketch-ai",
+    "name_ar": "سكتش AI",
+    "name_en": "Sketch AI",
+    "slug": "sketch-ai",
+    "tagline_ar": "تصميم UI/UX على macOS مع AI",
+    "tagline_en": "UI/UX design on macOS with AI",
+    "desc_ar": "Sketch يضيف AI لتصميم UI على macOS. توليد محتوى وتحسين تلقائي.",
+    "desc_en": "Sketch يضيف AI لتصميم UI على macOS. توليد محتوى وتحسين تلقائي.",
+    "long_desc_ar": "Sketch يضيف AI لتصميم UI على macOS. توليد محتوى وتحسين تلقائي.",
+    "long_desc_en": "Sketch يضيف AI لتصميم UI على macOS. توليد محتوى وتحسين تلقائي.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$12/mo",
+    "price_pro": "$12/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://sketch.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sketch.com&sz=64"
+  },
+  {
+    "id": "squarespace-ai",
+    "name_ar": "Squarespace AI",
+    "name_en": "Squarespace AI",
+    "slug": "squarespace-ai",
+    "tagline_ar": "مواقع أنيقة بـ AI لا تحتاج تصميم",
+    "tagline_en": "Elegant AI websites without design skills",
+    "desc_ar": "Squarespace AI — مواقع أنيقة بـ AI لا تحتاج تصميم",
+    "desc_en": "Squarespace AI — Elegant AI websites without design skills",
+    "long_desc_ar": "Squarespace AI — مواقع أنيقة بـ AI لا تحتاج تصميم",
+    "long_desc_en": "Squarespace AI — Elegant AI websites without design skills",
+    "category": "design",
+    "tags_ar": [
+      "Squarespace AI",
+      "design"
+    ],
+    "tags_en": [
+      "Squarespace AI",
+      "design"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$16",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://squarespace.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2003,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=squarespace.com&sz=64"
+  },
+  {
+    "id": "rive-ai",
+    "name_ar": "رايف AI",
+    "name_en": "Rive AI",
+    "slug": "rive-ai",
+    "tagline_ar": "رسوم متحركة تفاعلية AI للويب",
+    "tagline_en": "Interactive AI animations for web",
+    "desc_ar": "Rive يصمم رسوم متحركة تفاعلية AI للمواقع والتطبيقات. بديل Lottie المتقدم.",
+    "desc_en": "Rive يصمم رسوم متحركة تفاعلية AI للمواقع والتطبيقات. بديل Lottie المتقدم.",
+    "long_desc_ar": "Rive يصمم رسوم متحركة تفاعلية AI للمواقع والتطبيقات. بديل Lottie المتقدم.",
+    "long_desc_en": "Rive يصمم رسوم متحركة تفاعلية AI للمواقع والتطبيقات. بديل Lottie المتقدم.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://rive.app",
+    "monthly_visits": "1M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=rive.app&sz=64"
+  },
+  {
+    "id": "relume",
+    "name_ar": "Relume",
+    "name_en": "Relume",
+    "slug": "relume",
+    "tagline_ar": "Wireframes مواقع AI بلا كود",
+    "tagline_en": "No-code AI website wireframes",
+    "desc_ar": "Relume — Wireframes مواقع AI بلا كود",
+    "desc_en": "Relume — No-code AI website wireframes",
+    "long_desc_ar": "Relume — Wireframes مواقع AI بلا كود",
+    "long_desc_en": "Relume — No-code AI website wireframes",
+    "category": "design",
+    "tags_ar": [
+      "Relume",
+      "design"
+    ],
+    "tags_en": [
+      "Relume",
+      "design"
+    ],
+    "pricing_type": true,
+    "price_starts": "$79",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://relume.io",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=relume.io&sz=64"
+  },
+  {
+    "id": "galileo-ai",
+    "name_ar": "جاليليو AI",
+    "name_en": "Galileo AI",
+    "slug": "galileo-ai",
+    "tagline_ar": "واجهات UI من وصف نصي فوراً",
+    "tagline_en": "Instant UI interfaces from text description",
+    "desc_ar": "Galileo AI يولد واجهات UI احترافية من وصف نصي في ثوانٍ. لمطوري Frontend.",
+    "desc_en": "Galileo AI يولد واجهات UI احترافية من وصف نصي في ثوانٍ. لمطوري Frontend.",
+    "long_desc_ar": "Galileo AI يولد واجهات UI احترافية من وصف نصي في ثوانٍ. لمطوري Frontend.",
+    "long_desc_en": "Galileo AI يولد واجهات UI احترافية من وصف نصي في ثوانٍ. لمطوري Frontend.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://usegalileo.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=usegalileo.ai&sz=64"
+  },
+  {
+    "id": "looka-ai",
+    "name_ar": "لوكا AI",
+    "name_en": "Looka AI",
+    "slug": "looka-ai",
+    "tagline_ar": "تصميم لوجو وهوية بصرية AI",
+    "tagline_en": "AI logo and brand identity design",
+    "desc_ar": "Looka يصمم لوجو وهوية بصرية كاملة بالذكاء الاصطناعي. سهل وسريع.",
+    "desc_en": "Looka يصمم لوجو وهوية بصرية كاملة بالذكاء الاصطناعي. سهل وسريع.",
+    "long_desc_ar": "Looka يصمم لوجو وهوية بصرية كاملة بالذكاء الاصطناعي. سهل وسريع.",
+    "long_desc_en": "Looka يصمم لوجو وهوية بصرية كاملة بالذكاء الاصطناعي. سهل وسريع.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "$20",
+    "price_pro": "$20",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://looka.com",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=looka.com&sz=64"
+  },
+  {
+    "id": "magician-figma",
+    "name_ar": "ماجيشن فيجما",
+    "name_en": "Magician for Figma",
+    "slug": "magician-figma",
+    "tagline_ar": "ذكاء AI مباشرة داخل Figma",
+    "tagline_en": "AI intelligence directly inside Figma",
+    "desc_ar": "Magician يضيف قدرات AI لـ Figma. توليد أيقونات ونصوص وصور مباشرة.",
+    "desc_en": "Magician يضيف قدرات AI لـ Figma. توليد أيقونات ونصوص وصور مباشرة.",
+    "long_desc_ar": "Magician يضيف قدرات AI لـ Figma. توليد أيقونات ونصوص وصور مباشرة.",
+    "long_desc_en": "Magician يضيف قدرات AI لـ Figma. توليد أيقونات ونصوص وصور مباشرة.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://magician.design",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=magician.design&sz=64"
+  },
+  {
+    "id": "coolors-ai",
+    "name_ar": "كولورز AI",
+    "name_en": "Coolors AI",
+    "slug": "coolors-ai",
+    "tagline_ar": "لوحات ألوان AI للمصممين",
+    "tagline_en": "AI color palettes for designers",
+    "desc_ar": "Coolors يولد لوحات ألوان متناسقة بالذكاء الاصطناعي. مجاني ومحبوب المصممين.",
+    "desc_en": "Coolors يولد لوحات ألوان متناسقة بالذكاء الاصطناعي. مجاني ومحبوب المصممين.",
+    "long_desc_ar": "Coolors يولد لوحات ألوان متناسقة بالذكاء الاصطناعي. مجاني ومحبوب المصممين.",
+    "long_desc_en": "Coolors يولد لوحات ألوان متناسقة بالذكاء الاصطناعي. مجاني ومحبوب المصممين.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://coolors.co",
+    "monthly_visits": "10M+",
+    "trending_score": 78,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=coolors.co&sz=64"
+  },
+  {
+    "id": "uizard-ai",
+    "name_ar": "يوآيزارد",
+    "name_en": "Uizard AI",
+    "slug": "uizard-ai",
+    "tagline_ar": "تصميم تطبيقات AI من الرسم اليدوي",
+    "tagline_en": "App design from hand drawing with AI",
+    "desc_ar": "Uizard يحوّل رسوماتك اليدوية لتصميمات تطبيقات احترافية بالذكاء الاصطناعي.",
+    "desc_en": "Uizard يحوّل رسوماتك اليدوية لتصميمات تطبيقات احترافية بالذكاء الاصطناعي.",
+    "long_desc_ar": "Uizard يحوّل رسوماتك اليدوية لتصميمات تطبيقات احترافية بالذكاء الاصطناعي.",
+    "long_desc_en": "Uizard يحوّل رسوماتك اليدوية لتصميمات تطبيقات احترافية بالذكاء الاصطناعي.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://uizard.io",
+    "monthly_visits": "1M+",
+    "trending_score": 77,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=uizard.io&sz=64"
+  },
+  {
+    "id": "haikei-app",
+    "name_ar": "هايكي",
+    "name_en": "Haikei",
+    "slug": "haikei-app",
+    "tagline_ar": "توليد خلفيات وأشكال SVG AI",
+    "tagline_en": "Generate AI SVG backgrounds and shapes",
+    "desc_ar": "Haikei يولد خلفيات وأشكال SVG جميلة للمواقع. مجاني وعالي الجودة.",
+    "desc_en": "Haikei يولد خلفيات وأشكال SVG جميلة للمواقع. مجاني وعالي الجودة.",
+    "long_desc_ar": "Haikei يولد خلفيات وأشكال SVG جميلة للمواقع. مجاني وعالي الجودة.",
+    "long_desc_en": "Haikei يولد خلفيات وأشكال SVG جميلة للمواقع. مجاني وعالي الجودة.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://haikei.app",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=haikei.app&sz=64"
+  },
+  {
+    "id": "dzine-ai",
+    "name_ar": "دزاين AI",
+    "name_en": "Dzine AI",
+    "slug": "dzine-ai",
+    "tagline_ar": "تصميم جرافيك AI بدون خبرة",
+    "tagline_en": "AI graphic design without experience",
+    "desc_ar": "Dzine AI يُمكّن أي شخص من إنشاء تصاميم جرافيك احترافية بالذكاء الاصطناعي.",
+    "desc_en": "Dzine AI يُمكّن أي شخص من إنشاء تصاميم جرافيك احترافية بالذكاء الاصطناعي.",
+    "long_desc_ar": "Dzine AI يُمكّن أي شخص من إنشاء تصاميم جرافيك احترافية بالذكاء الاصطناعي.",
+    "long_desc_en": "Dzine AI يُمكّن أي شخص من إنشاء تصاميم جرافيك احترافية بالذكاء الاصطناعي.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://dzine.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 76,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=dzine.ai&sz=64"
+  },
+  {
+    "id": "visily-ai",
+    "name_ar": "فيسيلي AI",
+    "name_en": "Visily AI",
+    "slug": "visily-ai",
+    "tagline_ar": "تحويل الصور ل wireframes",
+    "tagline_en": "Convert images to wireframes",
+    "desc_ar": "Visily يحوّل screenshots ورسومات يدوية ل wireframes احترافية بالذكاء الاصطناعي.",
+    "desc_en": "Visily يحوّل screenshots ورسومات يدوية ل wireframes احترافية بالذكاء الاصطناعي.",
+    "long_desc_ar": "Visily يحوّل screenshots ورسومات يدوية ل wireframes احترافية بالذكاء الاصطناعي.",
+    "long_desc_en": "Visily يحوّل screenshots ورسومات يدوية ل wireframes احترافية بالذكاء الاصطناعي.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://visily.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=visily.ai&sz=64"
+  },
+  {
+    "id": "brandmark-ai",
+    "name_ar": "براند مارك",
+    "name_en": "Brandmark AI",
+    "slug": "brandmark-ai",
+    "tagline_ar": "لوجو AI احترافي فوري",
+    "tagline_en": "Instant professional AI logo",
+    "desc_ar": "Brandmark يولد لوجو احترافي بالذكاء الاصطناعي. اختر الأسلوب والألوان.",
+    "desc_en": "Brandmark يولد لوجو احترافي بالذكاء الاصطناعي. اختر الأسلوب والألوان.",
+    "long_desc_ar": "Brandmark يولد لوجو احترافي بالذكاء الاصطناعي. اختر الأسلوب والألوان.",
+    "long_desc_en": "Brandmark يولد لوجو احترافي بالذكاء الاصطناعي. اختر الأسلوب والألوان.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "$25",
+    "price_pro": "$25",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://brandmark.io",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=brandmark.io&sz=64"
+  },
+  {
+    "id": "zeplin-ai",
+    "name_ar": "زيبلن AI",
+    "name_en": "Zeplin AI",
+    "slug": "zeplin-ai",
+    "tagline_ar": "نقل التصميم للكود بالذكاء AI",
+    "tagline_en": "AI-powered design to code handoff",
+    "desc_ar": "Zeplin يستخرج الكود من التصاميم بالذكاء الاصطناعي. ينهي الفجوة بين المصمم والمطور.",
+    "desc_en": "Zeplin يستخرج الكود من التصاميم بالذكاء الاصطناعي. ينهي الفجوة بين المصمم والمطور.",
+    "long_desc_ar": "Zeplin يستخرج الكود من التصاميم بالذكاء الاصطناعي. ينهي الفجوة بين المصمم والمطور.",
+    "long_desc_en": "Zeplin يستخرج الكود من التصاميم بالذكاء الاصطناعي. ينهي الفجوة بين المصمم والمطور.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://zeplin.io",
+    "monthly_visits": "1M+",
+    "trending_score": 76,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zeplin.io&sz=64"
+  },
+  {
+    "id": "uxpilot",
+    "name_ar": "UXPilot",
+    "name_en": "UXPilot",
+    "slug": "uxpilot",
+    "tagline_ar": "تصميم UX بالذكاء الاصطناعي",
+    "tagline_en": "AI-powered UX design",
+    "desc_ar": "UXPilot — تصميم UX بالذكاء الاصطناعي",
+    "desc_en": "UXPilot — AI-powered UX design",
+    "long_desc_ar": "UXPilot — تصميم UX بالذكاء الاصطناعي",
+    "long_desc_en": "UXPilot — AI-powered UX design",
+    "category": "design",
+    "tags_ar": [
+      "UXPilot",
+      "design"
+    ],
+    "tags_en": [
+      "UXPilot",
+      "design"
+    ],
+    "pricing_type": true,
+    "price_starts": "$10",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://uxpilot.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=uxpilot.ai&sz=64"
+  },
+  {
+    "id": "vistacreate",
+    "name_ar": "فيستا كريت",
+    "name_en": "VistaCreate",
+    "slug": "vistacreate",
+    "tagline_ar": "تصميم مواد تسويقية بالذكاء AI",
+    "tagline_en": "Design marketing materials with AI",
+    "desc_ar": "تصميم المواد التسويقية بالذكاء الاصطناعي. قوالب للطباعة والرقمي.",
+    "desc_en": "Design marketing materials with AI. Templates for print and digital.",
+    "long_desc_ar": "تصميم المواد التسويقية بالذكاء الاصطناعي. قوالب للطباعة والرقمي.",
+    "long_desc_en": "Design marketing materials with AI. Templates for print and digital.",
+    "category": "design",
+    "tags_ar": [
+      "مواد تسويقية",
+      "قوالب",
+      "طباعة",
+      "رقمي"
+    ],
+    "tags_en": [
+      "marketing materials",
+      "templates",
+      "print",
+      "digital"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$13/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://create.vista.com",
+    "monthly_visits": "5M+",
+    "trending_score": 75,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "canva",
+      "adobe-express",
+      "fotor"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=create.vista.com&sz=64"
+  },
+  {
+    "id": "pattern-ai",
+    "name_ar": "باترن AI",
+    "name_en": "Pattern AI",
+    "slug": "pattern-ai",
+    "tagline_ar": "توليد أنماط وخلفيات AI",
+    "tagline_en": "Generate AI patterns and backgrounds",
+    "desc_ar": "يولد أنماطاً وخلفيات AI إبداعية للتصميم والطباعة والويب.",
+    "desc_en": "يولد أنماطاً وخلفيات AI إبداعية للتصميم والطباعة والويب.",
+    "long_desc_ar": "يولد أنماطاً وخلفيات AI إبداعية للتصميم والطباعة والويب.",
+    "long_desc_en": "يولد أنماطاً وخلفيات AI إبداعية للتصميم والطباعة والويب.",
+    "category": "design",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pattern.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 74,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pattern.ai&sz=64"
+  }
+]

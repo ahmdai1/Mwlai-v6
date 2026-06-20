@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "openai-api",
+    "name_ar": "OpenAI API",
+    "name_en": "OpenAI API",
+    "slug": "openai-api",
+    "tagline_ar": "أقوى API للذكاء الاصطناعي",
+    "tagline_en": "Most powerful AI API",
+    "desc_ar": "API OpenAI للوصول لنماذج GPT-4o وDALL-E وWhisper. أساس آلاف التطبيقات.",
+    "desc_en": "OpenAI API for GPT-4o, DALL-E, Whisper. Foundation of thousands of apps.",
+    "long_desc_ar": "API OpenAI للوصول لنماذج GPT-4o وDALL-E وWhisper. أساس آلاف التطبيقات.",
+    "long_desc_en": "OpenAI API for GPT-4o, DALL-E, Whisper. Foundation of thousands of apps.",
+    "category": "business",
+    "tags_ar": [
+      "API",
+      "GPT-4o",
+      "مطورون",
+      "تطبيقات"
+    ],
+    "tags_en": [
+      "API",
+      "GPT-4o",
+      "developers",
+      "apps"
+    ],
+    "pricing_type": "paid",
+    "price_starts": "Pay-per-use",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "api"
+    ],
+    "website": "https://platform.openai.com",
+    "monthly_visits": "5M+",
+    "trending_score": 92,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "anthropic-api",
+      "google-ai",
+      "azure-ai"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=platform.openai.com&sz=64"
+  },
+  {
+    "id": "anthropic-api",
+    "name_ar": "Anthropic API",
+    "name_en": "Anthropic API",
+    "slug": "anthropic-api",
+    "tagline_ar": "API كلود للمطورين والشركات",
+    "tagline_en": "Claude API for developers and companies",
+    "desc_ar": "API Anthropic لنماذج Claude. الأمثل للتطبيقات التي تحتاج دقة وأماناً.",
+    "desc_en": "Anthropic API for Claude models. Optimal for apps needing accuracy and safety.",
+    "long_desc_ar": "API Anthropic لنماذج Claude. الأمثل للتطبيقات التي تحتاج دقة وأماناً.",
+    "long_desc_en": "Anthropic API for Claude models. Optimal for apps needing accuracy and safety.",
+    "category": "business",
+    "tags_ar": [
+      "API",
+      "Claude",
+      "مطورون",
+      "أمان"
+    ],
+    "tags_en": [
+      "API",
+      "Claude",
+      "developers",
+      "safety"
+    ],
+    "pricing_type": "paid",
+    "price_starts": "Pay-per-use",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "api"
+    ],
+    "website": "https://anthropic.com",
+    "monthly_visits": "3M+",
+    "trending_score": 91,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "openai-api",
+      "google-ai",
+      "cohere"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
+  },
+  {
+    "id": "intercom-fin",
+    "name_ar": "Intercom Fin",
+    "name_en": "Intercom Fin",
+    "slug": "intercom-fin",
+    "tagline_ar": "وكيل دعم عملاء AI يحل 60%+ من المشاكل",
+    "tagline_en": "AI customer support agent solving 60%+ of issues",
+    "desc_ar": "Intercom Fin يحل 60%+ من مشكلات العملاء تلقائياً. يتعلم من وثائقك ويُوجّه المعقدة للبشر.",
+    "desc_en": "Intercom Fin resolves 60%+ of customer issues automatically. Learns from your docs and routes complex ones to humans.",
+    "long_desc_ar": "Intercom Fin يحل 60%+ من مشكلات العملاء تلقائياً. يتعلم من وثائقك ويُوجّه المعقدة للبشر.",
+    "long_desc_en": "Intercom Fin resolves 60%+ of customer issues automatically. Learns from your docs and routes complex ones to humans.",
+    "category": "business",
+    "tags_ar": [
+      "Intercom",
+      "دعم عملاء AI",
+      "Chatbot",
+      "60%"
+    ],
+    "tags_en": [
+      "Intercom",
+      "AI customer support",
+      "chatbot",
+      "60%"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$39",
+    "price_pro": "$139",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API",
+      "Mobile"
+    ],
+    "website": "https://intercom.com",
+    "monthly_visits": "10M+",
+    "trending_score": 89,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "zendesk-ai",
+      "freshdesk",
+      "hubspot-ai"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Slack",
+      "Jira",
+      "HubSpot"
+    ],
+    "use_cases_ar": [
+      "دعم عملاء",
+      "Chatbot",
+      "Ticket resolution",
+      "FAQ"
+    ],
+    "use_cases_en": [
+      "Customer support",
+      "Chatbot",
+      "Ticket resolution",
+      "FAQ"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=intercom.com&sz=64"
+  },
+  {
+    "id": "stripe",
+    "name_ar": "سترايب",
+    "name_en": "Stripe",
+    "slug": "stripe",
+    "tagline_ar": "بنية تحتية للدفع عبر الإنترنت",
+    "tagline_en": "Internet payment infrastructure",
+    "desc_ar": "أقوى منصة معالجة مدفوعات إلكترونية. تشغّل ملايين المواقع.",
+    "desc_en": "Most powerful online payment processor. Powers millions of websites.",
+    "long_desc_ar": "أقوى منصة معالجة مدفوعات إلكترونية. تشغّل ملايين المواقع.",
+    "long_desc_en": "Most powerful online payment processor. Powers millions of websites.",
+    "category": "business",
+    "tags_ar": [
+      "مدفوعات",
+      "API",
+      "أعمال",
+      "تجارة"
+    ],
+    "tags_en": [
+      "payments",
+      "API",
+      "business",
+      "commerce"
+    ],
+    "pricing_type": "paid",
+    "price_starts": "2.9%+$0.30",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://stripe.com",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [
+      "paypal",
+      "square",
+      "braintree"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=stripe.com&sz=64"
+  },
+  {
+    "id": "hubspot",
+    "name_ar": "هاب سبوت",
+    "name_en": "HubSpot",
+    "slug": "hubspot",
+    "tagline_ar": "CRM التسويق والمبيعات الأكثر شعبية",
+    "tagline_en": "Most popular CRM marketing and sales platform",
+    "desc_ar": "المنصة الأشمل للـ CRM والتسويق والمبيعات. AI ضخم لأتمتة المهام وكتابة المحتوى.",
+    "desc_en": "Most comprehensive CRM, marketing, sales. Massive AI for automation and content writing.",
+    "long_desc_ar": "HubSpot أشهر منصة CRM. AI يكتب الإيميلات ويتوقع نتائج الصفقات. 235,000+ شركة. الخطة المجانية شاملة جداً.",
+    "long_desc_en": "HubSpot most popular CRM platform. AI writes emails and predicts deal outcomes. 235K+ companies. Very comprehensive free plan.",
+    "category": "business",
+    "tags_ar": [
+      "CRM",
+      "تسويق",
+      "مبيعات",
+      "شامل"
+    ],
+    "tags_en": [
+      "CRM",
+      "marketing",
+      "sales",
+      "comprehensive"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$45/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://hubspot.com",
+    "monthly_visits": "50M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "salesforce",
+      "zoho",
+      "pipedrive"
+    ],
+    "integrations": [
+      "Gmail",
+      "Outlook",
+      "Slack",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "إدارة العملاء",
+      "حملات البريد",
+      "تتبع المبيعات",
+      "تقارير الأداء"
+    ],
+    "use_cases_en": [
+      "Customer management",
+      "Email campaigns",
+      "Sales tracking",
+      "Performance reports"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hubspot.com&sz=64"
+  },
+  {
+    "id": "hubspot-ai",
+    "name_ar": "HubSpot AI",
+    "name_en": "HubSpot AI",
+    "slug": "hubspot-ai",
+    "tagline_ar": "CRM بالذكاء الاصطناعي للـ B2B",
+    "tagline_en": "AI-powered CRM for B2B",
+    "desc_ar": "HubSpot AI يدمج الذكاء الاصطناعي في CRM والتسويق والمبيعات وخدمة العملاء في منصة واحدة.",
+    "desc_en": "HubSpot AI integrates AI in CRM, marketing, sales, and customer service in one platform.",
+    "long_desc_ar": "HubSpot أضاف AI في كل جوانب منصته. يكتب Emails ويُحلّل بيانات العملاء ويتنبأ بالصفقات. الخيار الأول للـ B2B.",
+    "long_desc_en": "HubSpot added AI across all platform aspects. Writes emails, analyzes customer data, predicts deals. First choice for B2B.",
+    "category": "business",
+    "tags_ar": [
+      "HubSpot",
+      "CRM AI",
+      "تسويق",
+      "B2B"
+    ],
+    "tags_en": [
+      "HubSpot",
+      "AI CRM",
+      "marketing",
+      "B2B"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$45",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://hubspot.com",
+    "monthly_visits": "20M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "salesforce-ai",
+      "gohighlevel",
+      "pipedrive"
+    ],
+    "integrations": [
+      "Gmail",
+      "Outlook",
+      "Slack",
+      "Zapier",
+      "Salesforce"
+    ],
+    "use_cases_ar": [
+      "CRM",
+      "Email",
+      "Lead Gen",
+      "خدمة عملاء"
+    ],
+    "use_cases_en": [
+      "CRM",
+      "Email",
+      "Lead gen",
+      "Customer service"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hubspot.com&sz=64"
+  },
+  {
+    "id": "perplexity-enterprise",
+    "name_ar": "بيربلكسيتي إنتربرايز",
+    "name_en": "Perplexity Enterprise",
+    "slug": "perplexity-enterprise",
+    "tagline_ar": "بحث AI للشركات والمؤسسات",
+    "tagline_en": "Enterprise AI research",
+    "desc_ar": "Perplexity Enterprise للشركات. بحث عميق مع حماية البيانات والتكامل المؤسسي.",
+    "desc_en": "Perplexity Enterprise للشركات. بحث عميق مع حماية البيانات والتكامل المؤسسي.",
+    "long_desc_ar": "Perplexity Enterprise للشركات. بحث عميق مع حماية البيانات والتكامل المؤسسي.",
+    "long_desc_en": "Perplexity Enterprise للشركات. بحث عميق مع حماية البيانات والتكامل المؤسسي.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$40/mo",
+    "price_pro": "$40/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "165M+",
+    "trending_score": 86,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "salesforce",
+    "name_ar": "سيلس فورس",
+    "name_en": "Salesforce",
+    "slug": "salesforce",
+    "tagline_ar": "CRM المؤسسي الأضخم مع Einstein AI",
+    "tagline_en": "Largest enterprise CRM with Einstein AI",
+    "desc_ar": "CRM المؤسسي الأقوى في العالم. Einstein AI يتوقع المبيعات ويكتب الإيميلات تلقائياً.",
+    "desc_en": "World's most powerful enterprise CRM. Einstein AI predicts sales and writes emails automatically.",
+    "long_desc_ar": "Salesforce هو CRM المؤسسي الأول عالمياً. Einstein AI مدمج في كل جانب. يستخدمه 150,000+ شركة. الأقوى للمؤسسات الكبيرة. مكلف لكنه لا مثيل له.",
+    "long_desc_en": "Salesforce is the world's #1 enterprise CRM. Einstein AI integrated in every aspect. Used by 150K+ companies. Most powerful for large enterprises. Expensive but unmatched.",
+    "category": "business",
+    "tags_ar": [
+      "CRM مؤسسي",
+      "مبيعات",
+      "Einstein AI",
+      "الأضخم"
+    ],
+    "tags_en": [
+      "enterprise CRM",
+      "sales",
+      "Einstein AI",
+      "largest"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$25/mo",
+    "price_pro": "$300/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://salesforce.com",
+    "monthly_visits": "100M+",
+    "trending_score": 85,
+    "rating": 4.3,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 1999,
+    "alternatives": [
+      "hubspot",
+      "zoho",
+      "pipedrive"
+    ],
+    "integrations": [
+      "Gmail",
+      "Outlook",
+      "Slack",
+      "Zapier",
+      "Tableau"
+    ],
+    "use_cases_ar": [
+      "CRM مؤسسي",
+      "تتبع المبيعات",
+      "دعم العملاء",
+      "تحليل البيانات"
+    ],
+    "use_cases_en": [
+      "Enterprise CRM",
+      "Sales tracking",
+      "Customer support",
+      "Data analysis"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=salesforce.com&sz=64"
+  },
+  {
+    "id": "zendesk-ai",
+    "name_ar": "Zendesk AI",
+    "name_en": "Zendesk AI",
+    "slug": "zendesk-ai",
+    "tagline_ar": "منصة دعم عملاء AI المؤسسية",
+    "tagline_en": "Enterprise AI customer support platform",
+    "desc_ar": "Zendesk AI يُضيف ذكاءً اصطناعياً لأكبر منصة دعم عملاء. يُصنّف التذاكر ويُقترح الردود تلقائياً.",
+    "desc_en": "Zendesk AI adds artificial intelligence to the largest customer support platform. Auto-classifies tickets and suggests responses.",
+    "long_desc_ar": "Zendesk AI يُضيف ذكاءً اصطناعياً لأكبر منصة دعم عملاء. يُصنّف التذاكر ويُقترح الردود تلقائياً.",
+    "long_desc_en": "Zendesk AI adds artificial intelligence to the largest customer support platform. Auto-classifies tickets and suggests responses.",
+    "category": "business",
+    "tags_ar": [
+      "Zendesk",
+      "دعم عملاء",
+      "Tickets",
+      "مؤسسات"
+    ],
+    "tags_en": [
+      "Zendesk",
+      "customer support",
+      "tickets",
+      "enterprise"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$55",
+    "price_pro": "$115",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "API"
+    ],
+    "website": "https://zendesk.com",
+    "monthly_visits": "10M+",
+    "trending_score": 84,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2007,
+    "alternatives": [
+      "intercom-fin",
+      "freshdesk",
+      "hubspot-ai"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Slack",
+      "Jira",
+      "API"
+    ],
+    "use_cases_ar": [
+      "دعم عملاء",
+      "Tickets",
+      "مؤسسات",
+      "Helpdesk"
+    ],
+    "use_cases_en": [
+      "Customer support",
+      "Tickets",
+      "Enterprise",
+      "Helpdesk"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zendesk.com&sz=64"
+  },
+  {
+    "id": "harvey-ai",
+    "name_ar": "Harvey AI",
+    "name_en": "Harvey AI",
+    "slug": "harvey-ai",
+    "tagline_ar": "AI للمحامين — يُعادل مساعد قانوني كامل",
+    "tagline_en": "AI for lawyers — equals a full legal assistant",
+    "desc_ar": "Harvey AI يُحلّل الوثائق القانونية ويُصيغ العقود ويبحث في قواعد البيانات القانونية. يُستخدم من كبرى المحاكم.",
+    "desc_en": "Harvey AI analyzes legal documents, drafts contracts, and searches legal databases. Used by top law firms.",
+    "long_desc_ar": "Harvey AI يُحلّل الوثائق القانونية ويُصيغ العقود ويبحث في قواعد البيانات القانونية. يُستخدم من كبرى المحاكم.",
+    "long_desc_en": "Harvey AI analyzes legal documents, drafts contracts, and searches legal databases. Used by top law firms.",
+    "category": "business",
+    "tags_ar": [
+      "Harvey AI",
+      "قانوني",
+      "محامين",
+      "عقود"
+    ],
+    "tags_en": [
+      "Harvey AI",
+      "legal",
+      "lawyers",
+      "contracts"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": false,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://harvey.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "chatgpt",
+      "claude"
+    ],
+    "integrations": [
+      "Legal databases",
+      "API"
+    ],
+    "use_cases_ar": [
+      "تحليل قانوني",
+      "عقود",
+      "بحث قانوني",
+      "محاكم"
+    ],
+    "use_cases_en": [
+      "Legal analysis",
+      "Contracts",
+      "Legal research",
+      "Law firms"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=harvey.ai&sz=64"
+  },
+  {
+    "id": "quickbooks",
+    "name_ar": "كويك بوكس",
+    "name_en": "QuickBooks",
+    "slug": "quickbooks",
+    "tagline_ar": "محاسبة أعمال ذكية بالذكاء AI",
+    "tagline_en": "Smart business accounting with AI",
+    "desc_ar": "أشهر برنامج محاسبة للشركات الصغيرة. AI يصنف المعاملات ويولد التقارير.",
+    "desc_en": "Most popular small business accounting. AI categorizes transactions and generates reports.",
+    "long_desc_ar": "أشهر برنامج محاسبة للشركات الصغيرة. AI يصنف المعاملات ويولد التقارير.",
+    "long_desc_en": "Most popular small business accounting. AI categorizes transactions and generates reports.",
+    "category": "business",
+    "tags_ar": [
+      "محاسبة",
+      "شركات صغيرة",
+      "تقارير",
+      "ضرائب"
+    ],
+    "tags_en": [
+      "accounting",
+      "small business",
+      "reports",
+      "taxes"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$35/mo",
+    "price_pro": "$90/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://quickbooks.intuit.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 1983,
+    "alternatives": [
+      "xero",
+      "wave",
+      "freshbooks"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=quickbooks.intuit.com&sz=64"
+  },
+  {
+    "id": "salesforce-einstein",
+    "name_ar": "Salesforce Einstein",
+    "name_en": "Salesforce Einstein AI",
+    "slug": "salesforce-einstein",
+    "tagline_ar": "AI مدمج في Salesforce CRM",
+    "tagline_en": "AI embedded in Salesforce CRM",
+    "desc_ar": "Einstein AI يتوقع نتائج الصفقات ويكتب الإيميلات ويوصي بالخطوات التالية.",
+    "desc_en": "Einstein AI يتوقع نتائج الصفقات ويكتب الإيميلات ويوصي بالخطوات التالية.",
+    "long_desc_ar": "Einstein AI يتوقع نتائج الصفقات ويكتب الإيميلات ويوصي بالخطوات التالية.",
+    "long_desc_en": "Einstein AI يتوقع نتائج الصفقات ويكتب الإيميلات ويوصي بالخطوات التالية.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$25/mo",
+    "price_pro": "$25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://salesforce.com",
+    "monthly_visits": "100M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=salesforce.com&sz=64"
+  },
+  {
+    "id": "clay-growth",
+    "name_ar": "Clay",
+    "name_en": "Clay",
+    "slug": "clay-growth",
+    "tagline_ar": "أتمتة Prospecting بالـ AI",
+    "tagline_en": "AI-powered Prospecting automation",
+    "desc_ar": "Clay — أتمتة Prospecting بالـ AI",
+    "desc_en": "Clay — AI-powered Prospecting automation",
+    "long_desc_ar": "Clay — أتمتة Prospecting بالـ AI",
+    "long_desc_en": "Clay — AI-powered Prospecting automation",
+    "category": "business",
+    "tags_ar": [
+      "Clay",
+      "business"
+    ],
+    "tags_en": [
+      "Clay",
+      "business"
+    ],
+    "pricing_type": true,
+    "price_starts": "$149",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://clay.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=clay.com&sz=64"
+  },
+  {
+    "id": "zoho",
+    "name_ar": "زوهو",
+    "name_en": "Zoho",
+    "slug": "zoho",
+    "tagline_ar": "50+ تطبيق أعمال في مكان واحد",
+    "tagline_en": "50+ business apps in one place",
+    "desc_ar": "50+ تطبيق للأعمال. CRM وبريد وحسابات وHR. الأفضل للشركات الناشئة.",
+    "desc_en": "50+ business apps. CRM, email, accounting, HR. Best for startups.",
+    "long_desc_ar": "50+ تطبيق للأعمال. CRM وبريد وحسابات وHR. الأفضل للشركات الناشئة.",
+    "long_desc_en": "50+ business apps. CRM, email, accounting, HR. Best for startups.",
+    "category": "business",
+    "tags_ar": [
+      "CRM",
+      "حسابات",
+      "HR",
+      "شامل"
+    ],
+    "tags_en": [
+      "CRM",
+      "accounting",
+      "HR",
+      "comprehensive"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$14/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://zoho.com",
+    "monthly_visits": "5M+",
+    "trending_score": 80,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2005,
+    "alternatives": [
+      "hubspot",
+      "salesforce",
+      "microsoft-365"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zoho.com&sz=64"
+  },
+  {
+    "id": "glean-ai",
+    "name_ar": "جلين AI",
+    "name_en": "Glean AI",
+    "slug": "glean-ai",
+    "tagline_ar": "بحث مؤسسي AI في كل أدواتك",
+    "tagline_en": "Enterprise AI search across all tools",
+    "desc_ar": "Glean يبحث في Slack وDrive وJira وEmail بالذكاء الاصطناعي. للشركات الكبيرة.",
+    "desc_en": "Glean يبحث في Slack وDrive وJira وEmail بالذكاء الاصطناعي. للشركات الكبيرة.",
+    "long_desc_ar": "Glean يبحث في Slack وDrive وJira وEmail بالذكاء الاصطناعي. للشركات الكبيرة.",
+    "long_desc_en": "Glean يبحث في Slack وDrive وJira وEmail بالذكاء الاصطناعي. للشركات الكبيرة.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://glean.com",
+    "monthly_visits": "1M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=glean.com&sz=64"
+  },
+  {
+    "id": "workday-ai",
+    "name_ar": "Workday AI",
+    "name_en": "Workday AI",
+    "slug": "workday-ai",
+    "tagline_ar": "إدارة الموارد البشرية AI للمؤسسات",
+    "tagline_en": "Enterprise AI HR management",
+    "desc_ar": "Workday AI يدمج الذكاء الاصطناعي في إدارة الموارد البشرية والتوظيف والرواتب والأداء.",
+    "desc_en": "Workday AI integrates artificial intelligence into HR management, hiring, payroll, and performance.",
+    "long_desc_ar": "Workday AI يدمج الذكاء الاصطناعي في إدارة الموارد البشرية والتوظيف والرواتب والأداء.",
+    "long_desc_en": "Workday AI integrates artificial intelligence into HR management, hiring, payroll, and performance.",
+    "category": "business",
+    "tags_ar": [
+      "Workday",
+      "HR AI",
+      "مؤسسات",
+      "توظيف"
+    ],
+    "tags_en": [
+      "Workday",
+      "AI HR",
+      "enterprise",
+      "hiring"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://workday.com",
+    "monthly_visits": "5M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2005,
+    "alternatives": [
+      "successfactors",
+      "greenhouse",
+      "lever"
+    ],
+    "integrations": [
+      "SAP",
+      "Oracle",
+      "API"
+    ],
+    "use_cases_ar": [
+      "HR",
+      "توظيف",
+      "رواتب",
+      "أداء"
+    ],
+    "use_cases_en": [
+      "HR",
+      "Hiring",
+      "Payroll",
+      "Performance"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=workday.com&sz=64"
+  },
+  {
+    "id": "freshdesk",
+    "name_ar": "Freshdesk AI",
+    "name_en": "Freshdesk AI",
+    "slug": "freshdesk",
+    "tagline_ar": "دعم عملاء AI بسعر منافس",
+    "tagline_en": "AI customer support at competitive price",
+    "desc_ar": "Freshdesk AI يُقدم دعم عملاء AI بديل Zendesk بسعر أقل. Freddy AI يُحل المشاكل تلقائياً.",
+    "desc_en": "Freshdesk AI provides AI customer support as a Zendesk alternative at lower price. Freddy AI solves issues automatically.",
+    "long_desc_ar": "Freshdesk AI يُقدم دعم عملاء AI بديل Zendesk بسعر أقل. Freddy AI يُحل المشاكل تلقائياً.",
+    "long_desc_en": "Freshdesk AI provides AI customer support as a Zendesk alternative at lower price. Freddy AI solves issues automatically.",
+    "category": "business",
+    "tags_ar": [
+      "Freshdesk AI",
+      "business"
+    ],
+    "tags_en": [
+      "Freshdesk AI",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://freshdesk.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=freshdesk.com&sz=64"
+  },
+  {
+    "id": "typeform-ai",
+    "name_ar": "Typeform AI",
+    "name_en": "Typeform AI",
+    "slug": "typeform-ai",
+    "tagline_ar": "استبيانات AI تفاعلية",
+    "tagline_en": "AI interactive surveys",
+    "desc_ar": "Typeform AI يُنشئ استبيانات تفاعلية جميلة مع تحليل AI للردود. معدل إكمال أعلى 3x.",
+    "desc_en": "Typeform AI creates beautiful interactive surveys with AI response analysis. 3x higher completion rate.",
+    "long_desc_ar": "Typeform AI يُنشئ استبيانات تفاعلية جميلة مع تحليل AI للردود. معدل إكمال أعلى 3x.",
+    "long_desc_en": "Typeform AI creates beautiful interactive surveys with AI response analysis. 3x higher completion rate.",
+    "category": "business",
+    "tags_ar": [
+      "Typeform AI",
+      "business"
+    ],
+    "tags_en": [
+      "Typeform AI",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://typeform.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=typeform.com&sz=64"
+  },
+  {
+    "id": "pipedrive-ai",
+    "name_ar": "بايب درايف AI",
+    "name_en": "Pipedrive AI",
+    "slug": "pipedrive-ai",
+    "tagline_ar": "CRM مبيعات AI للفرق الصغيرة",
+    "tagline_en": "AI sales CRM for small teams",
+    "desc_ar": "Pipedrive يضيف AI لتتبع المبيعات وتوقع الصفقات. بسيط وفعال للشركات الصغيرة.",
+    "desc_en": "Pipedrive يضيف AI لتتبع المبيعات وتوقع الصفقات. بسيط وفعال للشركات الصغيرة.",
+    "long_desc_ar": "Pipedrive يضيف AI لتتبع المبيعات وتوقع الصفقات. بسيط وفعال للشركات الصغيرة.",
+    "long_desc_en": "Pipedrive يضيف AI لتتبع المبيعات وتوقع الصفقات. بسيط وفعال للشركات الصغيرة.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$14.90/mo",
+    "price_pro": "$14.90/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pipedrive.com",
+    "monthly_visits": "5M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pipedrive.com&sz=64"
+  },
+  {
+    "id": "bloomberg-gpt",
+    "name_ar": "BloombergGPT",
+    "name_en": "BloombergGPT",
+    "slug": "bloomberg-gpt",
+    "tagline_ar": "نموذج AI متخصص في المالية",
+    "tagline_en": "AI model specialized in finance",
+    "desc_ar": "BloombergGPT نموذج LLM مدرّب على بيانات مالية ضخمة من Bloomberg. متخصص في التحليل المالي.",
+    "desc_en": "BloombergGPT is an LLM trained on massive Bloomberg financial data. Specialized in financial analysis.",
+    "long_desc_ar": "BloombergGPT نموذج LLM مدرّب على بيانات مالية ضخمة من Bloomberg. متخصص في التحليل المالي.",
+    "long_desc_en": "BloombergGPT is an LLM trained on massive Bloomberg financial data. Specialized in financial analysis.",
+    "category": "business",
+    "tags_ar": [
+      "Bloomberg",
+      "مالية",
+      "تحليل مالي",
+      "LLM"
+    ],
+    "tags_en": [
+      "Bloomberg",
+      "finance",
+      "financial analysis",
+      "LLM"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": false,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://bloomberg.com",
+    "monthly_visits": "5M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "perplexity-pro"
+    ],
+    "integrations": [
+      "Bloomberg Terminal",
+      "API"
+    ],
+    "use_cases_ar": [
+      "تحليل مالي",
+      "أسواق",
+      "استثمار",
+      "تقارير"
+    ],
+    "use_cases_en": [
+      "Financial analysis",
+      "Markets",
+      "Investment",
+      "Reports"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+  },
+  {
+    "id": "tally-ai",
+    "name_ar": "Tally AI",
+    "name_en": "Tally AI",
+    "slug": "tally-ai",
+    "tagline_ar": "نماذج مجانية بلا حدود مع AI",
+    "tagline_en": "Unlimited free forms with AI",
+    "desc_ar": "Tally يُقدم نماذج مجانية بلا حدود مع AI. بديل Typeform مجاني بالكامل.",
+    "desc_en": "Tally provides unlimited free forms with AI. A completely free Typeform alternative.",
+    "long_desc_ar": "Tally يُقدم نماذج مجانية بلا حدود مع AI. بديل Typeform مجاني بالكامل.",
+    "long_desc_en": "Tally provides unlimited free forms with AI. A completely free Typeform alternative.",
+    "category": "business",
+    "tags_ar": [
+      "Tally AI",
+      "business"
+    ],
+    "tags_en": [
+      "Tally AI",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://tally.so",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tally.so&sz=64"
+  },
+  {
+    "id": "clickup-crm",
+    "name_ar": "ClickUp CRM",
+    "name_en": "ClickUp CRM",
+    "slug": "clickup-crm",
+    "tagline_ar": "CRM مدمج في ClickUp للفرق",
+    "tagline_en": "CRM integrated into ClickUp for teams",
+    "desc_ar": "ClickUp CRM — CRM مدمج في ClickUp للفرق",
+    "desc_en": "ClickUp CRM — CRM integrated into ClickUp for teams",
+    "long_desc_ar": "ClickUp CRM — CRM مدمج في ClickUp للفرق",
+    "long_desc_en": "ClickUp CRM — CRM integrated into ClickUp for teams",
+    "category": "business",
+    "tags_ar": [
+      "ClickUp CRM",
+      "business"
+    ],
+    "tags_en": [
+      "ClickUp CRM",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://clickup.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64"
+  },
+  {
+    "id": "monday-crm",
+    "name_ar": "Monday CRM",
+    "name_en": "Monday CRM",
+    "slug": "monday-crm",
+    "tagline_ar": "CRM مرن على Monday.com",
+    "tagline_en": "Flexible CRM on Monday.com",
+    "desc_ar": "Monday CRM — CRM مرن على Monday.com",
+    "desc_en": "Monday CRM — Flexible CRM on Monday.com",
+    "long_desc_ar": "Monday CRM — CRM مرن على Monday.com",
+    "long_desc_en": "Monday CRM — Flexible CRM on Monday.com",
+    "category": "business",
+    "tags_ar": [
+      "Monday CRM",
+      "business"
+    ],
+    "tags_en": [
+      "Monday CRM",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$10",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://monday.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=monday.com&sz=64"
+  },
+  {
+    "id": "abacus-ai",
+    "name_ar": "أباكوس AI",
+    "name_en": "Abacus AI",
+    "slug": "abacus-ai",
+    "tagline_ar": "منصة AI مؤسسية شاملة",
+    "tagline_en": "Comprehensive enterprise AI platform",
+    "desc_ar": "Abacus AI تبني تطبيقات AI مؤسسية متكاملة. الأقوى للشركات الكبيرة.",
+    "desc_en": "Abacus AI تبني تطبيقات AI مؤسسية متكاملة. الأقوى للشركات الكبيرة.",
+    "long_desc_ar": "Abacus AI تبني تطبيقات AI مؤسسية متكاملة. الأقوى للشركات الكبيرة.",
+    "long_desc_en": "Abacus AI تبني تطبيقات AI مؤسسية متكاملة. الأقوى للشركات الكبيرة.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$299/mo",
+    "price_pro": "$299/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://abacus.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=abacus.ai&sz=64"
+  },
+  {
+    "id": "zoho-crm-ai",
+    "name_ar": "زوهو CRM AI",
+    "name_en": "Zoho CRM AI Zia",
+    "slug": "zoho-crm-ai",
+    "tagline_ar": "مساعد AI للمبيعات من Zoho",
+    "tagline_en": "Zoho sales AI assistant",
+    "desc_ar": "Zia مساعد AI في Zoho CRM. يتوقع نتائج الصفقات ويقترح أفضل وقت للتواصل.",
+    "desc_en": "Zia مساعد AI في Zoho CRM. يتوقع نتائج الصفقات ويقترح أفضل وقت للتواصل.",
+    "long_desc_ar": "Zia مساعد AI في Zoho CRM. يتوقع نتائج الصفقات ويقترح أفضل وقت للتواصل.",
+    "long_desc_en": "Zia مساعد AI في Zoho CRM. يتوقع نتائج الصفقات ويقترح أفضل وقت للتواصل.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://zoho.com",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zoho.com&sz=64"
+  },
+  {
+    "id": "attio",
+    "name_ar": "Attio",
+    "name_en": "Attio",
+    "slug": "attio",
+    "tagline_ar": "CRM AI للـ Startups والمؤسسات",
+    "tagline_en": "AI CRM for Startups and enterprises",
+    "desc_ar": "Attio — CRM AI للـ Startups والمؤسسات",
+    "desc_en": "Attio — AI CRM for Startups and enterprises",
+    "long_desc_ar": "Attio — CRM AI للـ Startups والمؤسسات",
+    "long_desc_en": "Attio — AI CRM for Startups and enterprises",
+    "category": "business",
+    "tags_ar": [
+      "Attio",
+      "business"
+    ],
+    "tags_en": [
+      "Attio",
+      "business"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://attio.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=attio.com&sz=64"
+  },
+  {
+    "id": "warmly-ai",
+    "name_ar": "Warmly AI",
+    "name_en": "Warmly AI",
+    "slug": "warmly-ai",
+    "tagline_ar": "تحديد زوار الموقع بالـ AI",
+    "tagline_en": "Identify website visitors with AI",
+    "desc_ar": "Warmly AI — تحديد زوار الموقع بالـ AI",
+    "desc_en": "Warmly AI — Identify website visitors with AI",
+    "long_desc_ar": "Warmly AI — تحديد زوار الموقع بالـ AI",
+    "long_desc_en": "Warmly AI — Identify website visitors with AI",
+    "category": "business",
+    "tags_ar": [
+      "Warmly AI",
+      "business"
+    ],
+    "tags_en": [
+      "Warmly AI",
+      "business"
+    ],
+    "pricing_type": true,
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://warmly.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=warmly.ai&sz=64"
+  },
+  {
+    "id": "jotform-ai",
+    "name_ar": "Jotform AI",
+    "name_en": "Jotform AI",
+    "slug": "jotform-ai",
+    "tagline_ar": "نماذج AI احترافية للشركات",
+    "tagline_en": "Professional AI forms for companies",
+    "desc_ar": "Jotform AI — نماذج AI احترافية للشركات",
+    "desc_en": "Jotform AI — Professional AI forms for companies",
+    "long_desc_ar": "Jotform AI — نماذج AI احترافية للشركات",
+    "long_desc_en": "Jotform AI — Professional AI forms for companies",
+    "category": "business",
+    "tags_ar": [
+      "Jotform AI",
+      "business"
+    ],
+    "tags_en": [
+      "Jotform AI",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://jotform.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=jotform.com&sz=64"
+  },
+  {
+    "id": "aisera-ai",
+    "name_ar": "أيسيرا",
+    "name_en": "Aisera AI",
+    "slug": "aisera-ai",
+    "tagline_ar": "أتمتة خدمة العملاء والـ IT بالذكاء AI",
+    "tagline_en": "AI customer service and IT automation",
+    "desc_ar": "Aisera يؤتمت خدمة العملاء والـ IT بالذكاء الاصطناعي. ROI عالية للمؤسسات.",
+    "desc_en": "Aisera يؤتمت خدمة العملاء والـ IT بالذكاء الاصطناعي. ROI عالية للمؤسسات.",
+    "long_desc_ar": "Aisera يؤتمت خدمة العملاء والـ IT بالذكاء الاصطناعي. ROI عالية للمؤسسات.",
+    "long_desc_en": "Aisera يؤتمت خدمة العملاء والـ IT بالذكاء الاصطناعي. ROI عالية للمؤسسات.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://aisera.com",
+    "monthly_visits": "500K+",
+    "trending_score": 77,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aisera.com&sz=64"
+  },
+  {
+    "id": "notion-crm",
+    "name_ar": "Folk CRM",
+    "name_en": "Folk CRM",
+    "slug": "folk-crm",
+    "tagline_ar": "CRM خفيف وذكي للفرق الصغيرة",
+    "tagline_en": "Lightweight smart CRM for small teams",
+    "desc_ar": "Folk CRM — CRM خفيف وذكي للفرق الصغيرة",
+    "desc_en": "Folk CRM — Lightweight smart CRM for small teams",
+    "long_desc_ar": "Folk CRM — CRM خفيف وذكي للفرق الصغيرة",
+    "long_desc_en": "Folk CRM — Lightweight smart CRM for small teams",
+    "category": "business",
+    "tags_ar": [
+      "Folk CRM",
+      "business"
+    ],
+    "tags_en": [
+      "Folk CRM",
+      "business"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://folk.app",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=folk.app&sz=64"
+  },
+  {
+    "id": "folk-crm",
+    "name_ar": "Folk CRM",
+    "name_en": "Folk CRM",
+    "slug": "folk-crm",
+    "tagline_ar": "CRM خفيف وذكي للفرق الصغيرة",
+    "tagline_en": "Lightweight smart CRM for small teams",
+    "desc_ar": "Folk CRM — CRM خفيف وذكي للفرق الصغيرة",
+    "desc_en": "Folk CRM — Lightweight smart CRM for small teams",
+    "long_desc_ar": "Folk CRM — CRM خفيف وذكي للفرق الصغيرة",
+    "long_desc_en": "Folk CRM — Lightweight smart CRM for small teams",
+    "category": "business",
+    "tags_ar": [
+      "Folk CRM",
+      "business"
+    ],
+    "tags_en": [
+      "Folk CRM",
+      "business"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://folk.app",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=folk.app&sz=64"
+  },
+  {
+    "id": "bayt",
+    "name_ar": "بيت",
+    "name_en": "Bayt.com",
+    "slug": "bayt",
+    "tagline_ar": "أكبر موقع وظائف عربي",
+    "tagline_en": "Largest Arabic jobs website",
+    "desc_ar": "أكبر موقع وظائف في الشرق الأوسط. AI يوصل المرشحين بالوظائف.",
+    "desc_en": "Largest job website in Middle East. AI connects candidates with jobs.",
+    "long_desc_ar": "أكبر موقع وظائف في الشرق الأوسط. AI يوصل المرشحين بالوظائف.",
+    "long_desc_en": "Largest job website in Middle East. AI connects candidates with jobs.",
+    "category": "business",
+    "tags_ar": [
+      "وظائف",
+      "عربي",
+      "شرق أوسط",
+      "توظيف"
+    ],
+    "tags_en": [
+      "jobs",
+      "arabic",
+      "middle east",
+      "recruitment"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://bayt.com",
+    "monthly_visits": "5M+",
+    "trending_score": 76,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2000,
+    "alternatives": [
+      "linkedin",
+      "glassdoor",
+      "indeed"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bayt.com&sz=64"
+  },
+  {
+    "id": "sweetspot",
+    "name_ar": "SweetSpot AI",
+    "name_en": "SweetSpot AI",
+    "slug": "sweetspot",
+    "tagline_ar": "إدارة عقود حكومية بالذكاء الاصطناعي",
+    "tagline_en": "Government contract management with AI",
+    "desc_ar": "SweetSpot AI يُساعد الشركات في العثور على العقود الحكومية المناسبة وإدارتها.",
+    "desc_en": "SweetSpot AI helps companies find and manage suitable government contracts.",
+    "long_desc_ar": "SweetSpot AI يُساعد الشركات في العثور على العقود الحكومية المناسبة وإدارتها.",
+    "long_desc_en": "SweetSpot AI helps companies find and manage suitable government contracts.",
+    "category": "business",
+    "tags_ar": [
+      "SweetSpot AI",
+      "business"
+    ],
+    "tags_en": [
+      "SweetSpot AI",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://sweetspot.so",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sweetspot.so&sz=64"
+  },
+  {
+    "id": "affinity-crm",
+    "name_ar": "Affinity CRM",
+    "name_en": "Affinity CRM",
+    "slug": "affinity-crm",
+    "tagline_ar": "CRM للعلاقات والشبكات AI",
+    "tagline_en": "AI relationships and network CRM",
+    "desc_ar": "Affinity CRM — CRM للعلاقات والشبكات AI",
+    "desc_en": "Affinity CRM — AI relationships and network CRM",
+    "long_desc_ar": "Affinity CRM — CRM للعلاقات والشبكات AI",
+    "long_desc_en": "Affinity CRM — AI relationships and network CRM",
+    "category": "business",
+    "tags_ar": [
+      "Affinity CRM",
+      "business"
+    ],
+    "tags_en": [
+      "Affinity CRM",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://affinity.co",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=affinity.co&sz=64"
+  },
+  {
+    "id": "paytabs",
+    "name_ar": "باي تابز",
+    "name_en": "PayTabs",
+    "slug": "paytabs",
+    "tagline_ar": "بوابة دفع إلكتروني عربية",
+    "tagline_en": "Arabic e-payment gateway",
+    "desc_ar": "بوابة دفع رائدة في الشرق الأوسط. 50+ عملة وطريقة دفع.",
+    "desc_en": "Leading e-payment gateway in Middle East. 50+ currencies and payment methods.",
+    "long_desc_ar": "بوابة دفع رائدة في الشرق الأوسط. 50+ عملة وطريقة دفع.",
+    "long_desc_en": "Leading e-payment gateway in Middle East. 50+ currencies and payment methods.",
+    "category": "business",
+    "tags_ar": [
+      "دفع إلكتروني",
+      "عربي",
+      "50 عملة",
+      "بوابة"
+    ],
+    "tags_en": [
+      "e-payment",
+      "arabic",
+      "50 currencies",
+      "gateway"
+    ],
+    "pricing_type": "paid",
+    "price_starts": "1.8%+fixed",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://paytabs.com",
+    "monthly_visits": "500K+",
+    "trending_score": 74,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [
+      "stripe",
+      "paypal",
+      "checkout"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=paytabs.com&sz=64"
+  },
+  {
+    "id": "maqsam-ai",
+    "name_ar": "مقسم AI",
+    "name_en": "Maqsam AI",
+    "slug": "maqsam-ai",
+    "tagline_ar": "مركز اتصال AI للسوق العربي",
+    "tagline_en": "AI call center for Arab market",
+    "desc_ar": "Maqsam يبني مراكز اتصال AI باللغة العربية. تحليل المكالمات والردود التلقائية.",
+    "desc_en": "Maqsam يبني مراكز اتصال AI باللغة العربية. تحليل المكالمات والردود التلقائية.",
+    "long_desc_ar": "Maqsam يبني مراكز اتصال AI باللغة العربية. تحليل المكالمات والردود التلقائية.",
+    "long_desc_en": "Maqsam يبني مراكز اتصال AI باللغة العربية. تحليل المكالمات والردود التلقائية.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://maqsam.com",
+    "monthly_visits": "500K+",
+    "trending_score": 74,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=maqsam.com&sz=64"
+  },
+  {
+    "id": "mozn-ai",
+    "name_ar": "مزن AI",
+    "name_en": "Mozn AI",
+    "slug": "mozn-ai",
+    "tagline_ar": "ذكاء اصطناعي للشركات السعودية",
+    "tagline_en": "AI for Saudi companies",
+    "desc_ar": "Mozn شركة سعودية تبني حلول AI للشركات الخليجية. KYC وامتثال ومخاطر.",
+    "desc_en": "Mozn شركة سعودية تبني حلول AI للشركات الخليجية. KYC وامتثال ومخاطر.",
+    "long_desc_ar": "Mozn شركة سعودية تبني حلول AI للشركات الخليجية. KYC وامتثال ومخاطر.",
+    "long_desc_en": "Mozn شركة سعودية تبني حلول AI للشركات الخليجية. KYC وامتثال ومخاطر.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://mozn.ai",
+    "monthly_visits": "100K+",
+    "trending_score": 73,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mozn.ai&sz=64"
+  },
+  {
+    "id": "tahakom-ai",
+    "name_ar": "تحكم AI",
+    "name_en": "Tahakom AI",
+    "slug": "tahakom-ai",
+    "tagline_ar": "ذكاء اصطناعي للحوكمة والامتثال في الخليج",
+    "tagline_en": "AI for governance and compliance in Gulf",
+    "desc_ar": "Tahakom تقدم حلول AI للحوكمة والامتثال التنظيمي في السوق الخليجي.",
+    "desc_en": "Tahakom تقدم حلول AI للحوكمة والامتثال التنظيمي في السوق الخليجي.",
+    "long_desc_ar": "Tahakom تقدم حلول AI للحوكمة والامتثال التنظيمي في السوق الخليجي.",
+    "long_desc_en": "Tahakom تقدم حلول AI للحوكمة والامتثال التنظيمي في السوق الخليجي.",
+    "category": "business",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://tahakom.com",
+    "monthly_visits": "50K+",
+    "trending_score": 70,
+    "rating": 3.9,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tahakom.com&sz=64"
+  }
+]

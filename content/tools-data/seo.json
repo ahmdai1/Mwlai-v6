@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "semrush",
+    "name_ar": "سيم راش",
+    "name_en": "Semrush",
+    "slug": "semrush",
+    "tagline_ar": "أشمل منصة SEO وتسويق رقمي",
+    "tagline_en": "Most comprehensive SEO and digital marketing platform",
+    "desc_ar": "المنصة الأشمل للـ SEO وتحليل المنافسين والكلمات المفتاحية. 55+ أداة في منصة واحدة.",
+    "desc_en": "Most comprehensive SEO, competitor analysis, keyword research. 55+ tools in one platform.",
+    "long_desc_ar": "Semrush المنصة الأولى عالمياً للـ SEO. 55+ أداة. AI ضخم في 2025 لإنشاء المحتوى المحسّن. 10 مليون مستخدم. المرجع الأول لمحترفي SEO.",
+    "long_desc_en": "Semrush is world's #1 SEO platform. 55+ tools. Massive AI in 2025 for optimized content creation. 10M users. Primary reference for SEO professionals.",
+    "category": "seo",
+    "tags_ar": [
+      "SEO",
+      "كلمات مفتاحية",
+      "منافسون",
+      "باك لينك"
+    ],
+    "tags_en": [
+      "SEO",
+      "keywords",
+      "competitors",
+      "backlinks"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$139.95/mo",
+    "price_pro": "$249.95/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://semrush.com",
+    "monthly_visits": "50M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [
+      "ahrefs",
+      "moz",
+      "surfer-seo"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Search Console",
+      "WordPress"
+    ],
+    "use_cases_ar": [
+      "بحث كلمات مفتاحية",
+      "تحليل منافسين",
+      "تدقيق SEO",
+      "تتبع الترتيب"
+    ],
+    "use_cases_en": [
+      "Keyword research",
+      "Competitor analysis",
+      "SEO audit",
+      "Rank tracking"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=semrush.com&sz=64"
+  },
+  {
+    "id": "ahrefs-ai",
+    "name_ar": "Ahrefs AI",
+    "name_en": "Ahrefs AI",
+    "slug": "ahrefs-ai",
+    "tagline_ar": "المعيار الذهبي لمحترفي SEO",
+    "tagline_en": "Gold standard for SEO professionals",
+    "desc_ar": "Ahrefs AI يحلل الكلمات المفتاحية والمنافسين ويقترح المحتوى. المعيار الذهبي لمحترفي SEO.",
+    "desc_en": "Ahrefs AI analyzes keywords and competitors and suggests content. Gold standard for SEO professionals.",
+    "long_desc_ar": "Ahrefs AI يحلل الكلمات المفتاحية والمنافسين ويقترح المحتوى. المعيار الذهبي لمحترفي SEO.",
+    "long_desc_en": "Ahrefs AI analyzes keywords and competitors and suggests content. Gold standard for SEO professionals.",
+    "category": "seo",
+    "tags_ar": [
+      "Ahrefs",
+      "SEO",
+      "كلمات مفتاحية",
+      "منافسين"
+    ],
+    "tags_en": [
+      "Ahrefs",
+      "SEO",
+      "keywords",
+      "competitors"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$129",
+    "price_pro": "$449",
+    "has_free_trial": false,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://ahrefs.com",
+    "monthly_visits": "10M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [
+      "semrush-ai",
+      "surfer-seo",
+      "neuronwriter"
+    ],
+    "integrations": [
+      "GSC",
+      "Data Studio",
+      "API"
+    ],
+    "use_cases_ar": [
+      "SEO",
+      "تحليل منافسين",
+      "كلمات مفتاحية",
+      "تدقيق"
+    ],
+    "use_cases_en": [
+      "SEO",
+      "Competitor analysis",
+      "Keywords",
+      "Audit"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ahrefs.com&sz=64"
+  },
+  {
+    "id": "ahrefs",
+    "name_ar": "إيه ريفس",
+    "name_en": "Ahrefs",
+    "slug": "ahrefs",
+    "tagline_ar": "أقوى أداة لتحليل الباك لينك والـ SEO",
+    "tagline_en": "Most powerful backlink and SEO analysis",
+    "desc_ar": "منصة SEO متخصصة في الباك لينك والمنافسين. 30 تريليون رابط في قاعدة البيانات.",
+    "desc_en": "SEO platform for backlinks and competitors. 30 trillion links in database.",
+    "long_desc_ar": "Ahrefs الأداة المفضلة لمحترفي SEO. 30+ تريليون رابط محدّث باستمرار. تحليل دقيق للكلمات المفتاحية وفحص المحتوى. يستخدمها الوكالات الكبرى.",
+    "long_desc_en": "Ahrefs preferred by SEO professionals. 30+ trillion links updated continuously. Precise keyword analysis and content auditing. Used by major agencies.",
+    "category": "seo",
+    "tags_ar": [
+      "باك لينك",
+      "SEO",
+      "تحليل",
+      "روابط"
+    ],
+    "tags_en": [
+      "backlinks",
+      "SEO",
+      "analysis",
+      "links"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$129/mo",
+    "price_pro": "$249/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ahrefs.com",
+    "monthly_visits": "20M+",
+    "trending_score": 87,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "semrush",
+      "moz",
+      "majestic"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "WordPress"
+    ],
+    "use_cases_ar": [
+      "تحليل باك لينك",
+      "بحث كلمات مفتاحية",
+      "فحص المحتوى",
+      "تتبع ترتيب"
+    ],
+    "use_cases_en": [
+      "Backlink analysis",
+      "Keyword research",
+      "Content audit",
+      "Rank tracking"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ahrefs.com&sz=64"
+  },
+  {
+    "id": "semrush-ai",
+    "name_ar": "سيم راش كوبايلوت",
+    "name_en": "Semrush AI Copilot",
+    "slug": "semrush-ai",
+    "tagline_ar": "مساعد SEO AI يحلل ويقترح",
+    "tagline_en": "AI SEO assistant that analyzes and suggests",
+    "desc_ar": "Semrush AI Copilot يحلل موقعك ويقترح تحسينات SEO تلقائياً.",
+    "desc_en": "Semrush AI Copilot يحلل موقعك ويقترح تحسينات SEO تلقائياً.",
+    "long_desc_ar": "Semrush AI Copilot يحلل موقعك ويقترح تحسينات SEO تلقائياً.",
+    "long_desc_en": "Semrush AI Copilot يحلل موقعك ويقترح تحسينات SEO تلقائياً.",
+    "category": "seo",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$139.95/mo",
+    "price_pro": "$139.95/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://semrush.com",
+    "monthly_visits": "50M+",
+    "trending_score": 84,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=semrush.com&sz=64"
+  },
+  {
+    "id": "surfer-seo",
+    "name_ar": "سيرفر SEO",
+    "name_en": "Surfer SEO",
+    "slug": "surfer-seo",
+    "tagline_ar": "محتوى محسّن لـ SEO في دقائق",
+    "tagline_en": "SEO-optimized content in minutes",
+    "desc_ar": "أداة تحسين المحتوى AI لتصدر Google. تحلل الصفحات المتصدرة وتعطي خطة محتوى دقيقة.",
+    "desc_en": "AI content optimization for Google ranking. Analyzes top pages and gives precise content plan.",
+    "long_desc_ar": "Surfer SEO تحلل الـ 10 الأولى في Google وتعطي خطة محتوى تشمل الكلمات المفتاحية والعناوين والطول. مدمجة مع Jasper وWritesonic. مثالية للكُتّاب.",
+    "long_desc_en": "Surfer SEO analyzes top 10 Google results and gives content plan with keywords, headings, length. Integrated with Jasper and Writesonic. Perfect for writers.",
+    "category": "seo",
+    "tags_ar": [
+      "محتوى SEO",
+      "تحسين",
+      "ترتيب",
+      "مقالات"
+    ],
+    "tags_en": [
+      "SEO content",
+      "optimization",
+      "ranking",
+      "articles"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$89/mo",
+    "price_pro": "$219/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://surferseo.com",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "semrush",
+      "clearscope",
+      "marketmuse"
+    ],
+    "integrations": [
+      "Google Docs",
+      "WordPress",
+      "Jasper"
+    ],
+    "use_cases_ar": [
+      "كتابة مقالات SEO",
+      "تحسين صفحات",
+      "استراتيجية محتوى",
+      "وكالات"
+    ],
+    "use_cases_en": [
+      "SEO articles",
+      "Page optimization",
+      "Content strategy",
+      "Agencies"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=surferseo.com&sz=64"
+  },
+  {
+    "id": "moz",
+    "name_ar": "موز",
+    "name_en": "Moz",
+    "slug": "moz",
+    "tagline_ar": "أدوات SEO موثوقة منذ 2004",
+    "tagline_en": "Trusted SEO tools since 2004",
+    "desc_ar": "أشهر أدوات SEO. Domain Authority وMoz Bar وبحث كلمات مفتاحية.",
+    "desc_en": "Most popular SEO tools. Domain Authority, Moz Bar, keyword research.",
+    "long_desc_ar": "أشهر أدوات SEO. Domain Authority وMoz Bar وبحث كلمات مفتاحية.",
+    "long_desc_en": "Most popular SEO tools. Domain Authority, Moz Bar, keyword research.",
+    "category": "seo",
+    "tags_ar": [
+      "Domain Authority",
+      "Moz Bar",
+      "SEO",
+      "باك لينك"
+    ],
+    "tags_en": [
+      "Domain Authority",
+      "Moz Bar",
+      "SEO",
+      "backlinks"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://moz.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2004,
+    "alternatives": [
+      "semrush",
+      "ahrefs",
+      "ubersuggest"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=moz.com&sz=64"
+  },
+  {
+    "id": "hotjar",
+    "name_ar": "هوت جار",
+    "name_en": "Hotjar",
+    "slug": "hotjar",
+    "tagline_ar": "فهم سلوك زوار موقعك بالذكاء AI",
+    "tagline_en": "Understand website visitor behavior with AI",
+    "desc_ar": "خرائط الحرارة وتسجيل الجلسات وتحليل سلوك المستخدم بالذكاء الاصطناعي.",
+    "desc_en": "Heatmaps, session recordings, and AI user behavior analysis.",
+    "long_desc_ar": "خرائط الحرارة وتسجيل الجلسات وتحليل سلوك المستخدم بالذكاء الاصطناعي.",
+    "long_desc_en": "Heatmaps, session recordings, and AI user behavior analysis.",
+    "category": "seo",
+    "tags_ar": [
+      "سلوك المستخدم",
+      "خرائط حرارة",
+      "تسجيل",
+      "تحليل"
+    ],
+    "tags_en": [
+      "user behavior",
+      "heatmaps",
+      "recording",
+      "analysis"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$39/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://hotjar.com",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [
+      "google-analytics",
+      "mixpanel",
+      "fullstory"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hotjar.com&sz=64"
+  },
+  {
+    "id": "rankmath",
+    "name_ar": "Rank Math AI",
+    "name_en": "Rank Math AI",
+    "slug": "rankmath",
+    "tagline_ar": "إضافة SEO WordPress الأقوى مع AI",
+    "tagline_en": "Most powerful AI WordPress SEO plugin",
+    "desc_ar": "Rank Math AI — إضافة SEO WordPress الأقوى مع AI",
+    "desc_en": "Rank Math AI — Most powerful AI WordPress SEO plugin",
+    "long_desc_ar": "Rank Math AI — إضافة SEO WordPress الأقوى مع AI",
+    "long_desc_en": "Rank Math AI — Most powerful AI WordPress SEO plugin",
+    "category": "seo",
+    "tags_ar": [
+      "Rank Math AI",
+      "seo"
+    ],
+    "tags_en": [
+      "Rank Math AI",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://rankmath.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=rankmath.com&sz=64"
+  },
+  {
+    "id": "rankmath-ai",
+    "name_ar": "رانك ماث AI",
+    "name_en": "RankMath AI",
+    "slug": "rankmath-ai",
+    "tagline_ar": "SEO WordPress بالذكاء الاصطناعي",
+    "tagline_en": "WordPress SEO with AI",
+    "desc_ar": "RankMath أشهر إضافة SEO لـ WordPress. الآن مع AI لتحسين المحتوى تلقائياً.",
+    "desc_en": "RankMath أشهر إضافة SEO لـ WordPress. الآن مع AI لتحسين المحتوى تلقائياً.",
+    "long_desc_ar": "RankMath أشهر إضافة SEO لـ WordPress. الآن مع AI لتحسين المحتوى تلقائياً.",
+    "long_desc_en": "RankMath أشهر إضافة SEO لـ WordPress. الآن مع AI لتحسين المحتوى تلقائياً.",
+    "category": "seo",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://rankmath.com",
+    "monthly_visits": "5M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=rankmath.com&sz=64"
+  },
+  {
+    "id": "tubebuddy",
+    "name_ar": "TubeBuddy AI",
+    "name_en": "TubeBuddy AI",
+    "slug": "tubebuddy",
+    "tagline_ar": "SEO يوتيوب — Chrome extension الأشهر",
+    "tagline_en": "YouTube SEO — most popular Chrome extension",
+    "desc_ar": "TubeBuddy AI — SEO يوتيوب — Chrome extension الأشهر",
+    "desc_en": "TubeBuddy AI — YouTube SEO — most popular Chrome extension",
+    "long_desc_ar": "TubeBuddy AI — SEO يوتيوب — Chrome extension الأشهر",
+    "long_desc_en": "TubeBuddy AI — YouTube SEO — most popular Chrome extension",
+    "category": "seo",
+    "tags_ar": [
+      "TubeBuddy AI",
+      "seo"
+    ],
+    "tags_en": [
+      "TubeBuddy AI",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://tubebuddy.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tubebuddy.com&sz=64"
+  },
+  {
+    "id": "ubersuggest",
+    "name_ar": "يوبر سيجست",
+    "name_en": "Ubersuggest",
+    "slug": "ubersuggest",
+    "tagline_ar": "أداة SEO مجانية من Neil Patel",
+    "tagline_en": "Free SEO tool from Neil Patel",
+    "desc_ar": "أداة SEO مجانية من Neil Patel لبحث الكلمات وتحليل المنافسين بسهولة.",
+    "desc_en": "Free SEO tool from Neil Patel for keyword research and competitor analysis.",
+    "long_desc_ar": "أداة SEO مجانية من Neil Patel لبحث الكلمات وتحليل المنافسين بسهولة.",
+    "long_desc_en": "Free SEO tool from Neil Patel for keyword research and competitor analysis.",
+    "category": "seo",
+    "tags_ar": [
+      "مجاني",
+      "Neil Patel",
+      "كلمات",
+      "سهل"
+    ],
+    "tags_en": [
+      "free",
+      "Neil Patel",
+      "keywords",
+      "easy"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://neilpatel.com/ubersuggest",
+    "monthly_visits": "5M+",
+    "trending_score": 79,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "semrush",
+      "ahrefs",
+      "moz"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=neilpatel.com&sz=64"
+  },
+  {
+    "id": "yoast-ai",
+    "name_ar": "يواست AI",
+    "name_en": "Yoast SEO AI",
+    "slug": "yoast-ai",
+    "tagline_ar": "تحسين SEO WordPress الأشهر",
+    "tagline_en": "Most popular WordPress SEO",
+    "desc_ar": "Yoast SEO الأشهر لـ WordPress مع AI يساعد في كتابة محتوى محسّن.",
+    "desc_en": "Yoast SEO الأشهر لـ WordPress مع AI يساعد في كتابة محتوى محسّن.",
+    "long_desc_ar": "Yoast SEO الأشهر لـ WordPress مع AI يساعد في كتابة محتوى محسّن.",
+    "long_desc_en": "Yoast SEO الأشهر لـ WordPress مع AI يساعد في كتابة محتوى محسّن.",
+    "category": "seo",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://yoast.com",
+    "monthly_visits": "10M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=yoast.com&sz=64"
+  },
+  {
+    "id": "se-ranking",
+    "name_ar": "SE Ranking",
+    "name_en": "SE Ranking",
+    "slug": "se-ranking",
+    "tagline_ar": "أداة SEO شاملة بسعر منافس",
+    "tagline_en": "Comprehensive SEO tool at competitive price",
+    "desc_ar": "SE Ranking تقدم تحليل SEO شاملاً بسعر أقل من Ahrefs وSemrush مع قدرات AI جيدة.",
+    "desc_en": "SE Ranking offers comprehensive SEO analysis at lower price than Ahrefs and Semrush with good AI capabilities.",
+    "long_desc_ar": "SE Ranking تقدم تحليل SEO شاملاً بسعر أقل من Ahrefs وSemrush مع قدرات AI جيدة.",
+    "long_desc_en": "SE Ranking offers comprehensive SEO analysis at lower price than Ahrefs and Semrush with good AI capabilities.",
+    "category": "seo",
+    "tags_ar": [
+      "SE Ranking",
+      "SEO",
+      "منافس",
+      "شامل"
+    ],
+    "tags_en": [
+      "SE Ranking",
+      "SEO",
+      "competitive",
+      "comprehensive"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$52",
+    "price_pro": "$114",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://seranking.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "ahrefs-ai",
+      "semrush-ai",
+      "surfer-seo"
+    ],
+    "integrations": [
+      "GSC",
+      "GA4",
+      "WordPress"
+    ],
+    "use_cases_ar": [
+      "تتبع ترتيب",
+      "تدقيق",
+      "كلمات مفتاحية",
+      "تقارير"
+    ],
+    "use_cases_en": [
+      "Rank tracking",
+      "Audit",
+      "Keywords",
+      "Reports"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=seranking.com&sz=64"
+  },
+  {
+    "id": "scalenut",
+    "name_ar": "Scalenut",
+    "name_en": "Scalenut",
+    "slug": "scalenut",
+    "tagline_ar": "SEO Content AI شامل",
+    "tagline_en": "Comprehensive SEO Content AI",
+    "desc_ar": "Scalenut يُنشئ محتوى SEO متكاملاً من الكلمات المفتاحية للنشر. يتضمن Cruiser mode للنشر التلقائي.",
+    "desc_en": "Scalenut creates comprehensive SEO content from keywords to publishing. Includes Cruiser mode for auto publishing.",
+    "long_desc_ar": "Scalenut يُنشئ محتوى SEO متكاملاً من الكلمات المفتاحية للنشر. يتضمن Cruiser mode للنشر التلقائي.",
+    "long_desc_en": "Scalenut creates comprehensive SEO content from keywords to publishing. Includes Cruiser mode for auto publishing.",
+    "category": "seo",
+    "tags_ar": [
+      "Scalenut",
+      "seo"
+    ],
+    "tags_en": [
+      "Scalenut",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$39",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://scalenut.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=scalenut.com&sz=64"
+  },
+  {
+    "id": "moz-pro",
+    "name_ar": "Moz Pro",
+    "name_en": "Moz Pro",
+    "slug": "moz-pro",
+    "tagline_ar": "أداة SEO موثوقة من رواد المجال",
+    "tagline_en": "Trusted SEO tool from industry pioneers",
+    "desc_ar": "Moz Pro — أداة SEO موثوقة من رواد المجال",
+    "desc_en": "Moz Pro — Trusted SEO tool from industry pioneers",
+    "long_desc_ar": "Moz Pro — أداة SEO موثوقة من رواد المجال",
+    "long_desc_en": "Moz Pro — Trusted SEO tool from industry pioneers",
+    "category": "seo",
+    "tags_ar": [
+      "Moz Pro",
+      "seo"
+    ],
+    "tags_en": [
+      "Moz Pro",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$99",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://moz.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2004,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=moz.com&sz=64"
+  },
+  {
+    "id": "clearscope",
+    "name_ar": "Clearscope",
+    "name_en": "Clearscope",
+    "slug": "clearscope",
+    "tagline_ar": "تحسين المحتوى لترتيب أعلى",
+    "tagline_en": "Content optimization for higher rankings",
+    "desc_ar": "Clearscope يُعطيك درجة لمحتواك مع اقتراحات لتحسين الترتيب. بسيط وفعّال.",
+    "desc_en": "Clearscope gives your content a score with suggestions to improve ranking. Simple and effective.",
+    "long_desc_ar": "Clearscope يُعطيك درجة لمحتواك مع اقتراحات لتحسين الترتيب. بسيط وفعّال.",
+    "long_desc_en": "Clearscope gives your content a score with suggestions to improve ranking. Simple and effective.",
+    "category": "seo",
+    "tags_ar": [
+      "Clearscope",
+      "seo"
+    ],
+    "tags_en": [
+      "Clearscope",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$189",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://clearscope.io",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=clearscope.io&sz=64"
+  },
+  {
+    "id": "frase-io",
+    "name_ar": "فريز",
+    "name_en": "Frase.io",
+    "slug": "frase-io",
+    "tagline_ar": "بحث وكتابة SEO في منصة واحدة",
+    "tagline_en": "SEO research and writing in one platform",
+    "desc_ar": "Frase يجمع البحث عن الكلمات المفتاحية وكتابة المقالات وتحسين SEO في منصة واحدة.",
+    "desc_en": "Frase يجمع البحث عن الكلمات المفتاحية وكتابة المقالات وتحسين SEO في منصة واحدة.",
+    "long_desc_ar": "Frase يجمع البحث عن الكلمات المفتاحية وكتابة المقالات وتحسين SEO في منصة واحدة.",
+    "long_desc_en": "Frase يجمع البحث عن الكلمات المفتاحية وكتابة المقالات وتحسين SEO في منصة واحدة.",
+    "category": "seo",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$14.99/mo",
+    "price_pro": "$14.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://frase.io",
+    "monthly_visits": "500K+",
+    "trending_score": 77,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=frase.io&sz=64"
+  },
+  {
+    "id": "marketmuse",
+    "name_ar": "MarketMuse",
+    "name_en": "MarketMuse",
+    "slug": "marketmuse",
+    "tagline_ar": "استراتيجية محتوى AI للمؤسسات",
+    "tagline_en": "AI content strategy for enterprise",
+    "desc_ar": "MarketMuse يُحلّل فجوات المحتوى ويُقترح استراتيجية شاملة بالذكاء الاصطناعي.",
+    "desc_en": "MarketMuse analyzes content gaps and suggests comprehensive strategy with AI.",
+    "long_desc_ar": "MarketMuse يُحلّل فجوات المحتوى ويُقترح استراتيجية شاملة بالذكاء الاصطناعي.",
+    "long_desc_en": "MarketMuse analyzes content gaps and suggests comprehensive strategy with AI.",
+    "category": "seo",
+    "tags_ar": [
+      "MarketMuse",
+      "seo"
+    ],
+    "tags_en": [
+      "MarketMuse",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$149",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://marketmuse.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=marketmuse.com&sz=64"
+  },
+  {
+    "id": "mangools",
+    "name_ar": "Mangools",
+    "name_en": "Mangools",
+    "slug": "mangools",
+    "tagline_ar": "مجموعة أدوات SEO بسيطة وفعّالة",
+    "tagline_en": "Simple and effective SEO tools suite",
+    "desc_ar": "Mangools — مجموعة أدوات SEO بسيطة وفعّالة",
+    "desc_en": "Mangools — Simple and effective SEO tools suite",
+    "long_desc_ar": "Mangools — مجموعة أدوات SEO بسيطة وفعّالة",
+    "long_desc_en": "Mangools — Simple and effective SEO tools suite",
+    "category": "seo",
+    "tags_ar": [
+      "Mangools",
+      "seo"
+    ],
+    "tags_en": [
+      "Mangools",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$29",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://mangools.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mangools.com&sz=64"
+  },
+  {
+    "id": "keysearch",
+    "name_ar": "KeySearch",
+    "name_en": "KeySearch",
+    "slug": "keysearch",
+    "tagline_ar": "بحث كلمات مفتاحية بسعر منافس",
+    "tagline_en": "Keyword research at competitive price",
+    "desc_ar": "KeySearch — بحث كلمات مفتاحية بسعر منافس",
+    "desc_en": "KeySearch — Keyword research at competitive price",
+    "long_desc_ar": "KeySearch — بحث كلمات مفتاحية بسعر منافس",
+    "long_desc_en": "KeySearch — Keyword research at competitive price",
+    "category": "seo",
+    "tags_ar": [
+      "KeySearch",
+      "seo"
+    ],
+    "tags_en": [
+      "KeySearch",
+      "seo"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$17",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://keysearch.co",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=keysearch.co&sz=64"
+  },
+  {
+    "id": "scalenut-ai",
+    "name_ar": "سكيل نت",
+    "name_en": "Scalenut",
+    "slug": "scalenut-ai",
+    "tagline_ar": "منصة SEO متكاملة بالذكاء AI",
+    "tagline_en": "Integrated SEO platform with AI",
+    "desc_ar": "Scalenut تجمع البحث والكتابة وتحسين SEO. للوكالات والمسوقين الرقميين.",
+    "desc_en": "Scalenut تجمع البحث والكتابة وتحسين SEO. للوكالات والمسوقين الرقميين.",
+    "long_desc_ar": "Scalenut تجمع البحث والكتابة وتحسين SEO. للوكالات والمسوقين الرقميين.",
+    "long_desc_en": "Scalenut تجمع البحث والكتابة وتحسين SEO. للوكالات والمسوقين الرقميين.",
+    "category": "seo",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://scalenut.com",
+    "monthly_visits": "1M+",
+    "trending_score": 75,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=scalenut.com&sz=64"
+  },
+  {
+    "id": "neuronwriter",
+    "name_ar": "نيورون رايتر",
+    "name_en": "NeuronWriter",
+    "slug": "neuronwriter",
+    "tagline_ar": "تحسين محتوى SEO بتحليل عميق",
+    "tagline_en": "Deep SEO content optimization",
+    "desc_ar": "NeuronWriter يحلل المنافسين ويوفر خطة تحسين SEO دقيقة. مثالي للكتّاب والوكالات.",
+    "desc_en": "NeuronWriter يحلل المنافسين ويوفر خطة تحسين SEO دقيقة. مثالي للكتّاب والوكالات.",
+    "long_desc_ar": "NeuronWriter يحلل المنافسين ويوفر خطة تحسين SEO دقيقة. مثالي للكتّاب والوكالات.",
+    "long_desc_en": "NeuronWriter يحلل المنافسين ويوفر خطة تحسين SEO دقيقة. مثالي للكتّاب والوكالات.",
+    "category": "seo",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://neuronwriter.com",
+    "monthly_visits": "500K+",
+    "trending_score": 75,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=neuronwriter.com&sz=64"
+  },
+  {
+    "id": "aiseo-app",
+    "name_ar": "AI SEO",
+    "name_en": "AISEO",
+    "slug": "aiseo-app",
+    "tagline_ar": "تحسين تلقائي لمحتوى SEO",
+    "tagline_en": "Automatic SEO content optimization",
+    "desc_ar": "AISEO يحسّن محتواك الموجود تلقائياً لتصدر نتائج البحث.",
+    "desc_en": "AISEO يحسّن محتواك الموجود تلقائياً لتصدر نتائج البحث.",
+    "long_desc_ar": "AISEO يحسّن محتواك الموجود تلقائياً لتصدر نتائج البحث.",
+    "long_desc_en": "AISEO يحسّن محتواك الموجود تلقائياً لتصدر نتائج البحث.",
+    "category": "seo",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://aiseo.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 73,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aiseo.ai&sz=64"
+  }
+]

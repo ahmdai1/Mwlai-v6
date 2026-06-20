@@ -1,0 +1,4111 @@
+[
+  {
+    "id": "chatgpt",
+    "name_ar": "شات جي بي تي",
+    "name_en": "ChatGPT",
+    "slug": "chatgpt",
+    "tagline_ar": "المساعد الذكي الأكثر استخداماً في العالم",
+    "tagline_en": "World's most used AI assistant",
+    "desc_ar": "منصة OpenAI الرائدة تجمع الكتابة والبرمجة والتحليل والبحث. تدعم الصوت والصور والفيديو والملفات.",
+    "desc_en": "OpenAI's flagship platform combining writing, coding, analysis, research with voice, image, video, file support.",
+    "long_desc_ar": "ChatGPT هو المساعد الذكي الأكثر استخداماً في التاريخ بأكثر من 900 مليون مستخدم أسبوعياً. يعمل بنماذج GPT-4o ويدعم المحادثة الصوتية وتوليد الصور والفيديو وتحليل الملفات. يُستخدم في التعليم والأعمال والتطوير والمحتوى. الخطة المجانية قوية والـ Plus تضيف نماذج أقوى.",
+    "long_desc_en": "ChatGPT is the most used AI assistant in history with 900M+ weekly active users. Powered by GPT-4o with voice, image generation, video creation, and file analysis. Widely used in education, business, development, and creative content.",
+    "category": "chatbots",
+    "tags_ar": [
+      "محادثة",
+      "كتابة",
+      "برمجة",
+      "بحث"
+    ],
+    "tags_en": [
+      "chat",
+      "writing",
+      "coding",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "website": "https://chatgpt.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 100,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "claude",
+      "gemini",
+      "grok"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Microsoft 365"
+    ],
+    "use_cases_ar": [
+      "كتابة المحتوى",
+      "حل مشاكل البرمجة",
+      "البحث والتلخيص",
+      "توليد الصور"
+    ],
+    "use_cases_en": [
+      "Content writing",
+      "Coding help",
+      "Research",
+      "Image generation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64"
+  },
+  {
+    "id": "claude",
+    "name_ar": "كلود",
+    "name_en": "Claude",
+    "slug": "claude",
+    "tagline_ar": "أذكى مساعد AI للبرمجة والكتابة الطويلة",
+    "tagline_en": "Smartest AI for coding and long-form writing",
+    "desc_ar": "مساعد Anthropic المتقدم بدقة عالية وقدرات برمجية استثنائية ونافذة سياق ضخمة.",
+    "desc_en": "Anthropic's advanced assistant with exceptional accuracy, coding, and massive context window.",
+    "long_desc_ar": "Claude من Anthropic هو المنافس الأقوى لـ ChatGPT في البرمجة والكتابة الطويلة والتحليل العميق. يدعم نافذة سياق مليون رمز. Claude Code بلغ مليار دولار ARR في 6 أشهر. يتميز بالصدق وعدم التزلف.",
+    "long_desc_en": "Claude from Anthropic excels at coding, long-form writing, and deep analysis. 1M token context window. Claude Code reached $1B ARR in 6 months. Known for honesty and accuracy.",
+    "category": "chatbots",
+    "tags_ar": [
+      "برمجة",
+      "تحليل",
+      "كتابة",
+      "أمان"
+    ],
+    "tags_en": [
+      "coding",
+      "analysis",
+      "writing",
+      "safety"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 99,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "gemini",
+      "perplexity"
+    ],
+    "integrations": [
+      "GitHub",
+      "Slack",
+      "Google Drive"
+    ],
+    "use_cases_ar": [
+      "برمجة الأنظمة",
+      "تلخيص الأبحاث",
+      "كتابة تقنية",
+      "تحليل البيانات"
+    ],
+    "use_cases_en": [
+      "Systems programming",
+      "Research summarization",
+      "Technical writing",
+      "Data analysis"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "claude-opus-4",
+    "name_ar": "كلود أوبوس 4",
+    "name_en": "Claude Opus 4",
+    "slug": "claude-opus-4",
+    "tagline_ar": "أقوى نموذج من Anthropic على الإطلاق",
+    "tagline_en": "Most powerful Anthropic model ever",
+    "desc_ar": "Claude Opus 4 يُعدّ أقوى نماذج Anthropic. يتفوق في التحليل المعقد والبرمجة والكتابة الإبداعية.",
+    "desc_en": "Claude Opus 4 يُعدّ أقوى نماذج Anthropic. يتفوق في التحليل المعقد والبرمجة والكتابة الإبداعية.",
+    "long_desc_ar": "Claude Opus 4 يُعدّ أقوى نماذج Anthropic. يتفوق في التحليل المعقد والبرمجة والكتابة الإبداعية.",
+    "long_desc_en": "Claude Opus 4 يُعدّ أقوى نماذج Anthropic. يتفوق في التحليل المعقد والبرمجة والكتابة الإبداعية.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$100/mo",
+    "price_pro": "$100/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 99,
+    "rating": 5.0,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "gpt-5-5",
+    "name_ar": "GPT-5.5",
+    "name_en": "GPT-5.5",
+    "slug": "gpt-5-5",
+    "tagline_ar": "أقوى نموذج OpenAI — أبريل 2026",
+    "tagline_en": "OpenAI's strongest model — April 2026",
+    "desc_ar": "GPT-5.5 أُعيد بناؤه من الصفر. يقود Intelligence Index بـ 60 و Terminal-Bench بـ 82.7%. نقلة نوعية حقيقية.",
+    "desc_en": "GPT-5.5 rebuilt from scratch. Leads Intelligence Index at 60 and Terminal-Bench at 82.7%. A genuine generational leap.",
+    "long_desc_ar": "GPT-5.5 صدر أبريل 2026 — أول إعادة بناء كاملة لـ OpenAI منذ GPT-4.5. يتصدر Intelligence Index بنتيجة 60، ويقود Terminal-Bench 2.0 بـ 82.7%، مع تقليل الهلوسة 52.5%.",
+    "long_desc_en": "GPT-5.5 released April 2026 — first full rebuild from OpenAI since GPT-4.5. Leads Intelligence Index at 60, Terminal-Bench 2.0 at 82.7%, 52.5% fewer hallucinations.",
+    "category": "chatbots",
+    "tags_ar": [
+      "GPT-5.5",
+      "OpenAI",
+      "نموذج 2026",
+      "ذكاء اصطناعي"
+    ],
+    "tags_en": [
+      "GPT-5.5",
+      "OpenAI",
+      "2026 model",
+      "frontier AI"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$20",
+    "price_pro": "$200",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://chatgpt.com",
+    "monthly_visits": "900M+",
+    "trending_score": 99,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "claude",
+      "gemini",
+      "grok"
+    ],
+    "integrations": [
+      "API",
+      "Microsoft",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "كتابة محتوى",
+      "برمجة",
+      "بحث",
+      "أتمتة"
+    ],
+    "use_cases_en": [
+      "Content writing",
+      "Coding",
+      "Research",
+      "Automation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64"
+  },
+  {
+    "id": "claude-opus-4-8",
+    "name_ar": "Claude Opus 4.8",
+    "name_en": "Claude Opus 4.8",
+    "slug": "claude-opus-4-8",
+    "tagline_ar": "الأفضل عالمياً في البرمجة — يونيو 2026",
+    "tagline_en": "World's best coding model — June 2026",
+    "desc_ar": "Claude Opus 4.8 يقود Intelligence Index بـ 61.4 و SWE-bench بـ 87.6%. الأول في البرمجة والكتابة.",
+    "desc_en": "Claude Opus 4.8 leads Intelligence Index at 61.4 and SWE-bench at 87.6%. #1 in coding and writing.",
+    "long_desc_ar": "Claude Opus 4.8 يتصدر Intelligence Index بـ 61.4 ويحقق 87.6% على SWE-bench Verified. يدعم 200K توكن مع 1M في بيتا. يُشغّل Cursor وWindsurf وClaude Code.",
+    "long_desc_en": "Claude Opus 4.8 leads Intelligence Index at 61.4 with 87.6% on SWE-bench Verified. 200K tokens with 1M in beta. Powers Cursor, Windsurf, and Claude Code.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Claude Opus",
+      "Anthropic",
+      "برمجة AI",
+      "2026"
+    ],
+    "tags_en": [
+      "Claude Opus",
+      "Anthropic",
+      "AI coding",
+      "2026"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$20",
+    "price_pro": "$15/M tokens",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "100M+",
+    "trending_score": 99,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "gpt-5-5",
+      "gemini",
+      "grok"
+    ],
+    "integrations": [
+      "API",
+      "Cursor",
+      "Windsurf",
+      "Claude Code"
+    ],
+    "use_cases_ar": [
+      "برمجة متقدمة",
+      "كتابة طويلة",
+      "تحليل وثائق",
+      "Agents"
+    ],
+    "use_cases_en": [
+      "Advanced coding",
+      "Long-form writing",
+      "Document analysis",
+      "Agents"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "anthropic-claude-mythos",
+    "name_ar": "Claude Mythos Preview",
+    "name_en": "Claude Mythos Preview",
+    "slug": "claude-mythos",
+    "tagline_ar": "نموذج Anthropic الأكثر تقدماً — مقيّد الوصول",
+    "tagline_en": "Anthropic's most advanced model — restricted access",
+    "desc_ar": "Claude Mythos Preview هو أقوى نماذج Anthropic. متاح لعدد محدود من المؤسسات الموثوقة فقط.",
+    "desc_en": "Claude Mythos Preview is Anthropic's most powerful model. Available to a limited number of trusted organizations only.",
+    "long_desc_ar": "Claude Mythos Preview هو أقوى نماذج Anthropic. متاح لعدد محدود من المؤسسات الموثوقة فقط.",
+    "long_desc_en": "Claude Mythos Preview is Anthropic's most powerful model. Available to a limited number of trusted organizations only.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Claude Mythos Preview",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Claude Mythos Preview",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://anthropic.com",
+    "monthly_visits": "2M+",
+    "trending_score": 99,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
+  },
+  {
+    "id": "gemini",
+    "name_ar": "جيميناي",
+    "name_en": "Gemini",
+    "slug": "gemini",
+    "tagline_ar": "ذكاء Google المدمج في كل أدواتك",
+    "tagline_en": "Google's AI embedded in all your tools",
+    "desc_ar": "نموذج Google الرائد بنافذة سياق 2 مليون رمز ومتكامل مع Gmail وDocs وSheets.",
+    "desc_en": "Google's flagship model with 2M token context, integrated with Gmail, Docs, Sheets.",
+    "long_desc_ar": "Gemini يجمع القدرات النصية والبصرية والصوتية ومعالجة الفيديو. نافذة 2 مليون رمز لتحليل ساعات من الفيديو. التكامل العميق مع Google Workspace يجعله الخيار الأمثل لمستخدميه.",
+    "long_desc_en": "Gemini combines text, vision, voice, and video processing. 2M token window for analyzing hours of video. Deep Google Workspace integration makes it ideal for Google users.",
+    "category": "chatbots",
+    "tags_ar": [
+      "جوجل",
+      "متعدد الوسائط",
+      "بحث",
+      "ترجمة"
+    ],
+    "tags_en": [
+      "google",
+      "multimodal",
+      "research",
+      "translation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "website": "https://gemini.google.com",
+    "monthly_visits": "139M+",
+    "trending_score": 98,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ],
+    "integrations": [
+      "Gmail",
+      "Google Docs",
+      "YouTube"
+    ],
+    "use_cases_ar": [
+      "أتمتة Gmail",
+      "تحليل الفيديو",
+      "بحث أكاديمي",
+      "ترجمة"
+    ],
+    "use_cases_en": [
+      "Gmail automation",
+      "Video analysis",
+      "Academic research",
+      "Translation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
+  },
+  {
+    "id": "claude-sonnet-4",
+    "name_ar": "كلود سونيت 4",
+    "name_en": "Claude Sonnet 4",
+    "slug": "claude-sonnet-4",
+    "tagline_ar": "أسرع وأذكى نماذج Claude 2026",
+    "tagline_en": "Fastest and smartest Claude models 2026",
+    "desc_ar": "Claude Sonnet 4 يمثل قمة أداء Anthropic. الاختيار الأمثل للمطورين والشركات في 2026.",
+    "desc_en": "Claude Sonnet 4 represents peak Anthropic performance. The optimal choice for developers and companies in 2026.",
+    "long_desc_ar": "Claude Sonnet 4 يمثل قمة أداء Anthropic. الاختيار الأمثل للمطورين والشركات في 2026.",
+    "long_desc_en": "Claude Sonnet 4 represents peak Anthropic performance. The optimal choice for developers and companies in 2026.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 98,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "gpt5",
+    "name_ar": "GPT-5",
+    "name_en": "GPT-5",
+    "slug": "gpt5",
+    "tagline_ar": "أقوى نموذج OpenAI المنتظر في 2026",
+    "tagline_en": "Most powerful awaited OpenAI model in 2026",
+    "desc_ar": "GPT-5 من OpenAI يُعدّ القفزة الكبرى القادمة. تحسينات ضخمة في التفكير والإبداع.",
+    "desc_en": "GPT-5 من OpenAI يُعدّ القفزة الكبرى القادمة. تحسينات ضخمة في التفكير والإبداع.",
+    "long_desc_ar": "GPT-5 من OpenAI يُعدّ القفزة الكبرى القادمة. تحسينات ضخمة في التفكير والإبداع.",
+    "long_desc_en": "GPT-5 من OpenAI يُعدّ القفزة الكبرى القادمة. تحسينات ضخمة في التفكير والإبداع.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 98,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "gemini-3-1-pro",
+    "name_ar": "Gemini 3.1 Pro",
+    "name_en": "Gemini 3.1 Pro",
+    "slug": "gemini-3-1-pro",
+    "tagline_ar": "أفضل استدلال AI بسعر منافس",
+    "tagline_en": "Best AI reasoning at competitive price",
+    "desc_ar": "Gemini 3.1 Pro يحقق 94.3% على GPQA Diamond. سياق 1M توكن بـ $2/$12 للمليون. صدر فبراير 2026.",
+    "desc_en": "Gemini 3.1 Pro achieves 94.3% on GPQA Diamond. 1M token context at $2/$12 per million. Released February 2026.",
+    "long_desc_ar": "Gemini 3.1 Pro صدر فبراير 2026. يحقق 77.1% على ARC-AGI-2 مع أفضل نسبة تكلفة/أداء في السوق. يقبل نصاً وصوراً وصوتاً وفيديو في سياق 1M توكن.",
+    "long_desc_en": "Released February 2026. Achieves 77.1% on ARC-AGI-2 with best cost/performance ratio. Accepts text, images, audio, video in 1M token context.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Gemini",
+      "Google",
+      "استدلال",
+      "متعدد الوسائط"
+    ],
+    "tags_en": [
+      "Gemini",
+      "Google",
+      "reasoning",
+      "multimodal"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$2/M tokens",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API",
+      "Android",
+      "iOS"
+    ],
+    "website": "https://gemini.google.com",
+    "monthly_visits": "500M+",
+    "trending_score": 98,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "gpt-5-5",
+      "claude-opus-4-8",
+      "grok"
+    ],
+    "integrations": [
+      "Google Workspace",
+      "API",
+      "Vertex AI"
+    ],
+    "use_cases_ar": [
+      "بحث وتحليل",
+      "Workspace automation",
+      "ملفات ضخمة",
+      "تطوير"
+    ],
+    "use_cases_en": [
+      "Research",
+      "Workspace automation",
+      "Large files",
+      "Development"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
+  },
+  {
+    "id": "claude-opus-4-7",
+    "name_ar": "Claude Opus 4.7",
+    "name_en": "Claude Opus 4.7",
+    "slug": "claude-opus-4-7",
+    "tagline_ar": "أحدث Claude قبل 4.8",
+    "tagline_en": "Latest Claude before 4.8",
+    "desc_ar": "Claude Opus 4.7 يتصدر WebDev Arena بـ 1567 Elo. يشغّل معظم Coding tools.",
+    "desc_en": "Claude Opus 4.7 leads WebDev Arena at 1567 Elo. Powers most coding tools.",
+    "long_desc_ar": "Claude Opus 4.7 يتصدر WebDev Arena بـ 1567 Elo. يشغّل معظم Coding tools.",
+    "long_desc_en": "Claude Opus 4.7 leads WebDev Arena at 1567 Elo. Powers most coding tools.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Claude Opus 4.7",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Claude Opus 4.7",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$20",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 98,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "gemini-25-pro",
+    "name_ar": "جيميناي 2.5 برو",
+    "name_en": "Gemini 2.5 Pro",
+    "slug": "gemini-25-pro",
+    "tagline_ar": "أقوى نموذج من Google بتفكير متقدم",
+    "tagline_en": "Google's most powerful model with advanced reasoning",
+    "desc_ar": "Gemini 2.5 Pro يتصدر معظم المقاييس في 2026. نافذة سياق 2M رمز وتفكير متقدم عالمي المستوى.",
+    "desc_en": "Gemini 2.5 Pro tops most benchmarks in 2026. 2M token context and world-class advanced reasoning.",
+    "long_desc_ar": "Gemini 2.5 Pro يتصدر معظم المقاييس في 2026. نافذة سياق 2M رمز وتفكير متقدم عالمي المستوى.",
+    "long_desc_en": "Gemini 2.5 Pro tops most benchmarks in 2026. 2M token context and world-class advanced reasoning.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://gemini.google.com",
+    "monthly_visits": "139M+",
+    "trending_score": 97,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
+  },
+  {
+    "id": "claude-claude-ai",
+    "name_ar": "Claude.ai Pro",
+    "name_en": "Claude.ai Pro",
+    "slug": "claude-claude-ai",
+    "tagline_ar": "أقوى تجربة Claude للمستخدمين",
+    "tagline_en": "Most powerful Claude experience for users",
+    "desc_ar": "Claude.ai Pro يفتح Opus 4 وResearch Mode وClaude Code وميزات حصرية.",
+    "desc_en": "Claude.ai Pro يفتح Opus 4 وResearch Mode وClaude Code وميزات حصرية.",
+    "long_desc_ar": "Claude.ai Pro يفتح Opus 4 وResearch Mode وClaude Code وميزات حصرية.",
+    "long_desc_en": "Claude.ai Pro يفتح Opus 4 وResearch Mode وClaude Code وميزات حصرية.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 97,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "deepseek",
+    "name_ar": "ديب سيك",
+    "name_en": "DeepSeek",
+    "slug": "deepseek",
+    "tagline_ar": "النموذج الصيني الذي هزّ السوق",
+    "tagline_en": "The Chinese model that shook the market",
+    "desc_ar": "نموذج AI صيني منخفض التكلفة بأداء يضاهي النماذج الأمريكية. مفتوح المصدر ومجاني تماماً.",
+    "desc_en": "Chinese AI model matching US performance at fraction of cost. Open source and completely free.",
+    "long_desc_ar": "DeepSeek صنع ضجة عالمية في يناير 2025 بنموذج يضاهي GPT-4 بتكلفة أقل عشرين مرة. وصل 792 مليون زيارة شهرية ونمو 196% في شهر. مفتوح المصدر يمكن تشغيله محلياً. يتميز بالبرمجة والرياضيات.",
+    "long_desc_en": "DeepSeek caused global sensation in January 2025 matching GPT-4 at 1/20th cost. 792M monthly visits, 196% growth in one month. Open source, can run locally. Excels at coding and math.",
+    "category": "chatbots",
+    "tags_ar": [
+      "مفتوح المصدر",
+      "صيني",
+      "برمجة",
+      "رياضيات"
+    ],
+    "tags_en": [
+      "open-source",
+      "chinese",
+      "coding",
+      "math"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "website": "https://deepseek.com",
+    "monthly_visits": "792M+",
+    "trending_score": 96,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "integrations": [
+      "API",
+      "Local deployment"
+    ],
+    "use_cases_ar": [
+      "برمجة",
+      "رياضيات",
+      "تحليل",
+      "بحث"
+    ],
+    "use_cases_en": [
+      "Coding",
+      "Mathematics",
+      "Analysis",
+      "Research"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=64"
+  },
+  {
+    "id": "deepseek-v4",
+    "name_ar": "DeepSeek V4",
+    "name_en": "DeepSeek V4",
+    "slug": "deepseek-v4",
+    "tagline_ar": "90% من GPT-5.5 بـ 1/50 السعر",
+    "tagline_en": "90% of GPT-5.5 quality at 1/50 the price",
+    "desc_ar": "DeepSeek V4 يحقق 90% من جودة GPT-5.5 بتكلفة أقل 50 مرة. 1M توكن سياق.",
+    "desc_en": "DeepSeek V4 achieves 90% of GPT-5.5 quality at 50x lower cost. 1M token context.",
+    "long_desc_ar": "DeepSeek V4 يثبت أن مفتوح المصدر أغلق الفجوة مع النماذج المملوكة. يدعم 1M توكن سياق بأسعار $0.14/M فقط.",
+    "long_desc_en": "DeepSeek V4 proves open-weight models closed the gap with proprietary ones. 1M token context at just $0.14/M.",
+    "category": "chatbots",
+    "tags_ar": [
+      "DeepSeek",
+      "مفتوح المصدر",
+      "API رخيص",
+      "صيني"
+    ],
+    "tags_en": [
+      "DeepSeek",
+      "open source",
+      "cheap API",
+      "Chinese"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0.14/M tokens",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://deepseek.com",
+    "monthly_visits": "80M+",
+    "trending_score": 96,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "gpt-5-5",
+      "qwen-3-7-max"
+    ],
+    "integrations": [
+      "API",
+      "OpenRouter"
+    ],
+    "use_cases_ar": [
+      "برمجة",
+      "تحليل",
+      "Agents",
+      "معالجة نصوص"
+    ],
+    "use_cases_en": [
+      "Coding",
+      "Analysis",
+      "Agents",
+      "Text processing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=64"
+  },
+  {
+    "id": "gemini-flash-3",
+    "name_ar": "Gemini 3.5 Flash",
+    "name_en": "Gemini 3.5 Flash",
+    "slug": "gemini-flash-3",
+    "tagline_ar": "أسرع نموذج Gemini بتكلفة منخفضة",
+    "tagline_en": "Fastest Gemini model at low cost",
+    "desc_ar": "Gemini 3.5 Flash صدر يونيو 2026. أسرع وأرخص نموذج Gemini مع جودة ممتازة للمهام اليومية.",
+    "desc_en": "Gemini 3.5 Flash released June 2026. Fastest and cheapest Gemini model with excellent quality for daily tasks.",
+    "long_desc_ar": "Gemini 3.5 Flash صدر يونيو 2026. أسرع وأرخص نموذج Gemini مع جودة ممتازة للمهام اليومية.",
+    "long_desc_en": "Gemini 3.5 Flash released June 2026. Fastest and cheapest Gemini model with excellent quality for daily tasks.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Gemini 3.5 Flash",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Gemini 3.5 Flash",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://gemini.google.com",
+    "monthly_visits": "2M+",
+    "trending_score": 96,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
+  },
+  {
+    "id": "deepseek-r2",
+    "name_ar": "ديب سيك R2",
+    "name_en": "DeepSeek R2",
+    "slug": "deepseek-r2",
+    "tagline_ar": "نموذج التفكير الصيني الأقوى في 2026",
+    "tagline_en": "China's most powerful reasoning model in 2026",
+    "desc_ar": "DeepSeek R2 يتصدر مقاييس التفكير في 2026. مفتوح المصدر ومجاني ويضاهي o3 من OpenAI.",
+    "desc_en": "DeepSeek R2 يتصدر مقاييس التفكير في 2026. مفتوح المصدر ومجاني ويضاهي o3 من OpenAI.",
+    "long_desc_ar": "DeepSeek R2 يتصدر مقاييس التفكير في 2026. مفتوح المصدر ومجاني ويضاهي o3 من OpenAI.",
+    "long_desc_en": "DeepSeek R2 يتصدر مقاييس التفكير في 2026. مفتوح المصدر ومجاني ويضاهي o3 من OpenAI.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://deepseek.com",
+    "monthly_visits": "792M+",
+    "trending_score": 95,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=64"
+  },
+  {
+    "id": "anthropic-opus",
+    "name_ar": "Claude Opus 4",
+    "name_en": "Claude Opus 4",
+    "slug": "claude-opus-4",
+    "tagline_ar": "نموذج Claude الأكثر قدرة للمهام المعقدة",
+    "tagline_en": "Most capable Claude for complex tasks",
+    "desc_ar": "Claude Opus 4 للمهام المعقدة والتفكير العميق. يسبق Opus 4.7 و4.8 في التسلسل الزمني.",
+    "desc_en": "Claude Opus 4 for complex tasks and deep thinking. Precedes Opus 4.7 and 4.8 chronologically.",
+    "long_desc_ar": "Claude Opus 4 للمهام المعقدة والتفكير العميق. يسبق Opus 4.7 و4.8 في التسلسل الزمني.",
+    "long_desc_en": "Claude Opus 4 for complex tasks and deep thinking. Precedes Opus 4.7 and 4.8 chronologically.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Claude Opus 4",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Claude Opus 4",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$15",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 95,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "grok-3",
+    "name_ar": "جروك 3",
+    "name_en": "Grok 3",
+    "slug": "grok-3",
+    "tagline_ar": "أقوى نموذج xAI بنتائج مذهلة",
+    "tagline_en": "xAI's most powerful model with stunning results",
+    "desc_ar": "Grok 3 من xAI تصدّر معظم المقاييس عند إطلاقه. Aurora نموذج التفكير العميق الخاص به.",
+    "desc_en": "Grok 3 from xAI topped most benchmarks at launch. Aurora is its dedicated deep reasoning model.",
+    "long_desc_ar": "Grok 3 من xAI تصدّر معظم المقاييس عند إطلاقه. Aurora نموذج التفكير العميق الخاص به.",
+    "long_desc_en": "Grok 3 from xAI topped most benchmarks at launch. Aurora is its dedicated deep reasoning model.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://grok.com",
+    "monthly_visits": "50M+",
+    "trending_score": 94,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=grok.com&sz=64"
+  },
+  {
+    "id": "grok-4-3",
+    "name_ar": "Grok 4.3",
+    "name_en": "Grok 4.3",
+    "slug": "grok-4-3",
+    "tagline_ar": "نموذج xAI مع وصول حصري لـ X",
+    "tagline_en": "xAI model with exclusive X data access",
+    "desc_ar": "Grok 4.3 يقدم بحثاً فورياً مع وصول حصري لبيانات X. يضيف توليد وثائق ومدخلات فيديو.",
+    "desc_en": "Grok 4.3 delivers real-time research with exclusive X data. Adds document generation and video input.",
+    "long_desc_ar": "Grok 4.3 صدر أبريل 2026 من xAI. متميز في البحث الفوري والمحتوى المرتبط بوسائل التواصل. أفضل الميزات في SuperGrok Heavy بـ $300/شهر.",
+    "long_desc_en": "Grok 4.3 released April 2026 by xAI. Excels at real-time research and social media content. Best features in SuperGrok Heavy at $300/month.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Grok",
+      "xAI",
+      "بيانات فورية",
+      "X Twitter"
+    ],
+    "tags_en": [
+      "Grok",
+      "xAI",
+      "real-time data",
+      "X Twitter"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$0",
+    "price_pro": "$30",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "X"
+    ],
+    "website": "https://grok.com",
+    "monthly_visits": "50M+",
+    "trending_score": 94,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "gpt-5-5",
+      "claude-opus-4-8",
+      "gemini-3-1-pro"
+    ],
+    "integrations": [
+      "X/Twitter",
+      "API"
+    ],
+    "use_cases_ar": [
+      "بحث فوري",
+      "محتوى سوشيال",
+      "تحليل أخبار",
+      "كتابة إبداعية"
+    ],
+    "use_cases_en": [
+      "Real-time research",
+      "Social content",
+      "News analysis",
+      "Creative writing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=grok.com&sz=64"
+  },
+  {
+    "id": "claude-sonnet-4-6",
+    "name_ar": "Claude Sonnet 4.6",
+    "name_en": "Claude Sonnet 4.6",
+    "slug": "claude-sonnet-4-6",
+    "tagline_ar": "Claude المتوازن للاستخدام اليومي",
+    "tagline_en": "Balanced Claude for daily use",
+    "desc_ar": "Claude Sonnet 4.6 يوفر أفضل توازن بين الجودة والسرعة والتكلفة في عائلة Claude 4.",
+    "desc_en": "Claude Sonnet 4.6 provides the best balance of quality, speed, and cost in the Claude 4 family.",
+    "long_desc_ar": "Claude Sonnet 4.6 يوفر أفضل توازن بين الجودة والسرعة والتكلفة في عائلة Claude 4.",
+    "long_desc_en": "Claude Sonnet 4.6 provides the best balance of quality, speed, and cost in the Claude 4 family.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Claude Sonnet 4.6",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Claude Sonnet 4.6",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$20",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 94,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "openai-o3",
+    "name_ar": "أوبن AI o3",
+    "name_en": "OpenAI o3",
+    "slug": "openai-o3",
+    "tagline_ar": "أقوى نموذج تفكير وحل المشكلات",
+    "tagline_en": "Most powerful reasoning and problem-solving model",
+    "desc_ar": "نموذج OpenAI المتخصص في التفكير العميق وحل المسائل الرياضية والعلمية المعقدة.",
+    "desc_en": "OpenAI model specialized in deep reasoning and solving complex math and scientific problems.",
+    "long_desc_ar": "OpenAI o3 هو نموذج التفكير المتقدم من OpenAI. يتفوق في حل المسائل الرياضية والبرمجية والعلمية المعقدة. يفكر خطوة بخطوة قبل الإجابة. مثالي للباحثين والمهندسين.",
+    "long_desc_en": "OpenAI o3 is OpenAI's advanced reasoning model. Excels at solving complex math, programming, and scientific problems. Thinks step-by-step before answering. Perfect for researchers and engineers.",
+    "category": "chatbots",
+    "tags_ar": [
+      "تفكير متقدم",
+      "رياضيات",
+      "علوم",
+      "OpenAI"
+    ],
+    "tags_en": [
+      "advanced reasoning",
+      "math",
+      "science",
+      "OpenAI"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$200/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 93,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "integrations": [
+      "API",
+      "ChatGPT"
+    ],
+    "use_cases_ar": [
+      "حل مسائل رياضية",
+      "برمجة متقدمة",
+      "بحث علمي",
+      "تحليل معقد"
+    ],
+    "use_cases_en": [
+      "Math problem solving",
+      "Advanced coding",
+      "Scientific research",
+      "Complex analysis"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "chatgpt-voice",
+    "name_ar": "ChatGPT Voice Mode",
+    "name_en": "ChatGPT Advanced Voice",
+    "slug": "chatgpt-voice",
+    "tagline_ar": "المحادثة الصوتية الطبيعية مع ChatGPT",
+    "tagline_en": "Natural voice conversation with ChatGPT",
+    "desc_ar": "Advanced Voice Mode يتيح محادثة صوتية طبيعية مع ChatGPT. يفهم المشاعر ويتفاعل بشكل بشري.",
+    "desc_en": "Advanced Voice Mode يتيح محادثة صوتية طبيعية مع ChatGPT. يفهم المشاعر ويتفاعل بشكل بشري.",
+    "long_desc_ar": "Advanced Voice Mode يتيح محادثة صوتية طبيعية مع ChatGPT. يفهم المشاعر ويتفاعل بشكل بشري.",
+    "long_desc_en": "Advanced Voice Mode يتيح محادثة صوتية طبيعية مع ChatGPT. يفهم المشاعر ويتفاعل بشكل بشري.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://chatgpt.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 93,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64"
+  },
+  {
+    "id": "qwen-3-7-max",
+    "name_ar": "Qwen 3.7 Max",
+    "name_en": "Qwen 3.7 Max",
+    "slug": "qwen-3-7-max",
+    "tagline_ar": "مفاجأة يونيو 2026 — نصف سعر Claude",
+    "tagline_en": "June 2026 surprise — half Claude's price",
+    "desc_ar": "Qwen 3.7 Max حقق #4 على WebDev Arena بـ 1541 Elo. Agent-first بـ $2.50/$7.50 فقط.",
+    "desc_en": "Qwen 3.7 Max ranked #4 on WebDev Arena at 1541 Elo. Agent-first at just $2.50/$7.50.",
+    "long_desc_ar": "Qwen 3.7 Max من Alibaba فاجأ الجميع في يونيو 2026. Agent-first مع جلسات استقلالية 35 ساعة. الحد الوحيد: لا يدعم مدخلات الصور.",
+    "long_desc_en": "Qwen 3.7 Max from Alibaba surprised everyone June 2026. Agent-first with 35-hour autonomous runs. Only limitation: no vision input.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Qwen",
+      "Alibaba",
+      "رخيص",
+      "Agent"
+    ],
+    "tags_en": [
+      "Qwen",
+      "Alibaba",
+      "cheap",
+      "agent-first"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$2.50/M",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://qwen.ai",
+    "monthly_visits": "30M+",
+    "trending_score": 93,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "deepseek-v4",
+      "claude",
+      "gpt-5-5"
+    ],
+    "integrations": [
+      "API",
+      "OpenRouter",
+      "HuggingFace"
+    ],
+    "use_cases_ar": [
+      "Agents",
+      "معالجة ضخمة",
+      "B2B",
+      "أتمتة"
+    ],
+    "use_cases_en": [
+      "Agents",
+      "Large-scale",
+      "B2B",
+      "Automation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=qwen.ai&sz=64"
+  },
+  {
+    "id": "chatgpt-4o",
+    "name_ar": "ChatGPT-4o",
+    "name_en": "ChatGPT-4o",
+    "slug": "chatgpt-4o",
+    "tagline_ar": "GPT-4o المجاني بقدرات متعددة الوسائط",
+    "tagline_en": "Free GPT-4o with multimodal capabilities",
+    "desc_ar": "ChatGPT-4o متاح مجاناً بقدرات الصوت والصورة والنص في نفس الوقت. الأكثر استخداماً في 2026.",
+    "desc_en": "ChatGPT-4o is freely available with voice, image, and text capabilities simultaneously. Most used in 2026.",
+    "long_desc_ar": "ChatGPT-4o متاح مجاناً بقدرات الصوت والصورة والنص في نفس الوقت. الأكثر استخداماً في 2026.",
+    "long_desc_en": "ChatGPT-4o is freely available with voice, image, and text capabilities simultaneously. Most used in 2026.",
+    "category": "chatbots",
+    "tags_ar": [
+      "ChatGPT-4o",
+      "chatbots"
+    ],
+    "tags_en": [
+      "ChatGPT-4o",
+      "chatbots"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://chatgpt.com",
+    "monthly_visits": "2M+",
+    "trending_score": 93,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64"
+  },
+  {
+    "id": "grok",
+    "name_ar": "جروك",
+    "name_en": "Grok",
+    "slug": "grok",
+    "tagline_ar": "مساعد xAI المدمج في تويتر/X",
+    "tagline_en": "xAI's assistant embedded in X/Twitter",
+    "desc_ar": "مساعد Elon Musk المدمج في X مع وصول فوري للأخبار والتغريدات. يدعم توليد الصور والفيديو.",
+    "desc_en": "Elon Musk's AI in X platform with real-time news access. Supports image and video generation.",
+    "long_desc_ar": "Grok من xAI هو المساعد الذكي الوحيد المدمج في منصة X مع وصول فوري لملايين التغريدات. شخصية غير رسمية وحرية أكبر في المواضيع الحساسة. يدعم توليد الصور بجودة عالية.",
+    "long_desc_en": "Grok from xAI is the only AI assistant embedded in X with real-time access to millions of tweets. Informal personality and more freedom with sensitive topics. High-quality image generation.",
+    "category": "chatbots",
+    "tags_ar": [
+      "تويتر",
+      "أخبار",
+      "توليد صور",
+      "ترفيه"
+    ],
+    "tags_en": [
+      "twitter",
+      "news",
+      "images",
+      "entertainment"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://grok.com",
+    "monthly_visits": "50M+",
+    "trending_score": 92,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ],
+    "integrations": [
+      "X/Twitter"
+    ],
+    "use_cases_ar": [
+      "تدقيق الحقائق",
+      "متابعة الأخبار",
+      "توليد الصور",
+      "ترفيه"
+    ],
+    "use_cases_en": [
+      "Fact checking",
+      "News tracking",
+      "Image generation",
+      "Entertainment"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=grok.com&sz=64"
+  },
+  {
+    "id": "copilot",
+    "name_ar": "مايكروسوفت كوبايلوت",
+    "name_en": "Microsoft Copilot",
+    "slug": "copilot",
+    "tagline_ar": "مساعد مايكروسوفت في كل تطبيقاتك",
+    "tagline_en": "Microsoft's AI in all your apps",
+    "desc_ar": "مساعد Microsoft المدمج في Windows وOffice وBing. يعمل بنماذج GPT وClaude لتعزيز الإنتاجية.",
+    "desc_en": "Microsoft's AI in Windows, Office and Bing. Powered by GPT and Claude for productivity.",
+    "long_desc_ar": "Microsoft Copilot مدمج في Windows 11 وOffice 365 وEdge وBing. يعمل بمزيج من نماذج OpenAI وClaude. الخطة المجانية لجميع مستخدمي Windows والـ 365 يضيف تكاملاً مع Word وExcel وTeams.",
+    "long_desc_en": "Microsoft Copilot is embedded in Windows 11, Office 365, Edge, and Bing. Mix of OpenAI and Claude models. Free for all Windows users and 365 adds deep Word, Excel, Teams integration.",
+    "category": "chatbots",
+    "tags_ar": [
+      "مايكروسوفت",
+      "أوفيس",
+      "ويندوز",
+      "إنتاجية"
+    ],
+    "tags_en": [
+      "microsoft",
+      "office",
+      "windows",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$30/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://copilot.microsoft.com",
+    "monthly_visits": "300M+",
+    "trending_score": 91,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "gemini",
+      "claude"
+    ],
+    "integrations": [
+      "Microsoft 365",
+      "Windows",
+      "Edge"
+    ],
+    "use_cases_ar": [
+      "كتابة Word",
+      "تحليل Excel",
+      "عروض PowerPoint",
+      "اجتماعات Teams"
+    ],
+    "use_cases_en": [
+      "Word writing",
+      "Excel analysis",
+      "PowerPoint",
+      "Teams meetings"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=64"
+  },
+  {
+    "id": "google-bard-advanced",
+    "name_ar": "Gemini Advanced",
+    "name_en": "Gemini Advanced",
+    "slug": "google-bard-advanced",
+    "tagline_ar": "أقوى Gemini مع Ultra 1.0",
+    "tagline_en": "Most powerful Gemini with Ultra 1.0",
+    "desc_ar": "Gemini Advanced يوفر Ultra 1.0 أقوى نماذج Google. مدمج مع كل خدمات Google.",
+    "desc_en": "Gemini Advanced يوفر Ultra 1.0 أقوى نماذج Google. مدمج مع كل خدمات Google.",
+    "long_desc_ar": "Gemini Advanced يوفر Ultra 1.0 أقوى نماذج Google. مدمج مع كل خدمات Google.",
+    "long_desc_en": "Gemini Advanced يوفر Ultra 1.0 أقوى نماذج Google. مدمج مع كل خدمات Google.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$19.99/mo",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://gemini.google.com",
+    "monthly_visits": "139M+",
+    "trending_score": 91,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
+  },
+  {
+    "id": "llama-4-scout",
+    "name_ar": "Llama 4 Scout",
+    "name_en": "Llama 4 Scout",
+    "slug": "llama-4-scout",
+    "tagline_ar": "سياق 10 مليون توكن — الأكبر عالمياً",
+    "tagline_en": "10 million token context — world's largest",
+    "desc_ar": "Llama 4 Scout يدعم سياقاً بـ 10M توكن — الأكبر بين جميع النماذج. مجاني ومفتوح المصدر.",
+    "desc_en": "Llama 4 Scout supports 10M token context — largest of any model. Free and open source.",
+    "long_desc_ar": "Meta's Llama 4 Scout يُحدث ثورة في معالجة الوثائق الضخمة. مفتوح المصدر بالكامل مع سياق 10M توكن.",
+    "long_desc_en": "Meta's Llama 4 Scout revolutionizes large document processing. Fully open source with 10M token context.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Llama",
+      "Meta",
+      "مفتوح المصدر",
+      "سياق ضخم"
+    ],
+    "tags_en": [
+      "Llama",
+      "Meta",
+      "open source",
+      "large context"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "API",
+      "Local",
+      "HuggingFace"
+    ],
+    "website": "https://llama.meta.com",
+    "monthly_visits": "20M+",
+    "trending_score": 91,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "deepseek-v4",
+      "qwen-3-7-max"
+    ],
+    "integrations": [
+      "HuggingFace",
+      "Ollama",
+      "API",
+      "AWS"
+    ],
+    "use_cases_ar": [
+      "وثائق ضخمة",
+      "بحث علمي",
+      "مؤسسات",
+      "Self-hosting"
+    ],
+    "use_cases_en": [
+      "Large documents",
+      "Scientific research",
+      "Enterprise",
+      "Self-hosting"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=llama.meta.com&sz=64"
+  },
+  {
+    "id": "llama",
+    "name_ar": "لاما Meta",
+    "name_en": "Meta Llama",
+    "slug": "llama",
+    "tagline_ar": "نموذج Meta المفتوح المصدر الأقوى",
+    "tagline_en": "Meta's most powerful open-source model",
+    "desc_ar": "Llama 4 من Meta يقدم أداءً استثنائياً مجاناً ومفتوح المصدر كامل.",
+    "desc_en": "Llama 4 from Meta delivers exceptional performance for free and fully open source.",
+    "long_desc_ar": "Llama 4 من Meta يقدم أداءً استثنائياً مجاناً ومفتوح المصدر كامل.",
+    "long_desc_en": "Llama 4 from Meta delivers exceptional performance for free and fully open source.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Meta",
+      "مفتوح المصدر",
+      "مجاني",
+      "قوي"
+    ],
+    "tags_en": [
+      "Meta",
+      "open-source",
+      "free",
+      "powerful"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "api",
+      "desktop"
+    ],
+    "website": "https://llama.meta.com",
+    "monthly_visits": "50M+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "mistral",
+      "deepseek"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=llama.meta.com&sz=64"
+  },
+  {
+    "id": "meta-ai",
+    "name_ar": "ميتا AI",
+    "name_en": "Meta AI",
+    "slug": "meta-ai",
+    "tagline_ar": "مساعد Facebook وInstagram وWhatsApp الذكي",
+    "tagline_en": "Smart assistant for Facebook, Instagram and WhatsApp",
+    "desc_ar": "مساعد AI مدمج في كل منتجات Meta. يصل لمليارات المستخدمين عبر WhatsApp وInstagram وFacebook.",
+    "desc_en": "AI assistant embedded in all Meta products. Reaches billions via WhatsApp, Instagram and Facebook.",
+    "long_desc_ar": "مساعد AI مدمج في كل منتجات Meta. يصل لمليارات المستخدمين عبر WhatsApp وInstagram وFacebook.",
+    "long_desc_en": "AI assistant embedded in all Meta products. Reaches billions via WhatsApp, Instagram and Facebook.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://meta.ai",
+    "monthly_visits": "500M+",
+    "trending_score": 90,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=meta.ai&sz=64"
+  },
+  {
+    "id": "alibaba-qwen25",
+    "name_ar": "كوين 2.5",
+    "name_en": "Qwen 2.5",
+    "slug": "alibaba-qwen25",
+    "tagline_ar": "نموذج Alibaba الأحدث والأقوى",
+    "tagline_en": "Alibaba's newest and most powerful",
+    "desc_ar": "Qwen 2.5 من Alibaba يتصدر المقاييس في اللغة العربية والمهام المتعددة. مجاني ومفتوح المصدر.",
+    "desc_en": "Qwen 2.5 من Alibaba يتصدر المقاييس في اللغة العربية والمهام المتعددة. مجاني ومفتوح المصدر.",
+    "long_desc_ar": "Qwen 2.5 من Alibaba يتصدر المقاييس في اللغة العربية والمهام المتعددة. مجاني ومفتوح المصدر.",
+    "long_desc_en": "Qwen 2.5 من Alibaba يتصدر المقاييس في اللغة العربية والمهام المتعددة. مجاني ومفتوح المصدر.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://qwenlm.github.io",
+    "monthly_visits": "20M+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=qwenlm.github.io&sz=64"
+  },
+  {
+    "id": "copilot-ms",
+    "name_ar": "Microsoft Copilot",
+    "name_en": "Microsoft Copilot",
+    "slug": "copilot-ms",
+    "tagline_ar": "الذكاء الاصطناعي من Microsoft للجميع",
+    "tagline_en": "Microsoft's AI for everyone",
+    "desc_ar": "Microsoft Copilot مجاني متاح لكل مستخدم Windows. يدمج GPT-5.5 في سطح المكتب.",
+    "desc_en": "Microsoft Copilot is free and available to every Windows user. Integrates GPT-5.5 into the desktop.",
+    "long_desc_ar": "Microsoft Copilot مجاني متاح لكل مستخدم Windows. يدمج GPT-5.5 في سطح المكتب.",
+    "long_desc_en": "Microsoft Copilot is free and available to every Windows user. Integrates GPT-5.5 into the desktop.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Microsoft Copilot",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Microsoft Copilot",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://copilot.microsoft.com",
+    "monthly_visits": "2M+",
+    "trending_score": 90,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=64"
+  },
+  {
+    "id": "openai-o4-mini",
+    "name_ar": "OpenAI o4-mini",
+    "name_en": "OpenAI o4-mini",
+    "slug": "openai-o4-mini",
+    "tagline_ar": "استدلال AI سريع ومنخفض التكلفة",
+    "tagline_en": "Fast low-cost AI reasoning",
+    "desc_ar": "OpenAI o4-mini — استدلال AI سريع ومنخفض التكلفة",
+    "desc_en": "OpenAI o4-mini — Fast low-cost AI reasoning",
+    "long_desc_ar": "OpenAI o4-mini — استدلال AI سريع ومنخفض التكلفة",
+    "long_desc_en": "OpenAI o4-mini — Fast low-cost AI reasoning",
+    "category": "chatbots",
+    "tags_ar": [
+      "OpenAI o4-mini",
+      "chatbots"
+    ],
+    "tags_en": [
+      "OpenAI o4-mini",
+      "chatbots"
+    ],
+    "pricing_type": true,
+    "price_starts": "$2/M",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "2M+",
+    "trending_score": 90,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "gemini-flash",
+    "name_ar": "جيميناي فلاش",
+    "name_en": "Gemini 2.0 Flash",
+    "slug": "gemini-flash",
+    "tagline_ar": "أسرع نماذج Google بتكلفة صفرية",
+    "tagline_en": "Google's fastest models at zero cost",
+    "desc_ar": "Gemini 2.0 Flash يقدم أداءً ممتازاً بتكلفة منخفضة جداً. مثالي للتطبيقات والتكامل.",
+    "desc_en": "Gemini 2.0 Flash يقدم أداءً ممتازاً بتكلفة منخفضة جداً. مثالي للتطبيقات والتكامل.",
+    "long_desc_ar": "Gemini 2.0 Flash يقدم أداءً ممتازاً بتكلفة منخفضة جداً. مثالي للتطبيقات والتكامل.",
+    "long_desc_en": "Gemini 2.0 Flash يقدم أداءً ممتازاً بتكلفة منخفضة جداً. مثالي للتطبيقات والتكامل.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://gemini.google.com",
+    "monthly_visits": "139M+",
+    "trending_score": 89,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
+  },
+  {
+    "id": "character-ai",
+    "name_ar": "كاراكتر AI",
+    "name_en": "Character.AI",
+    "slug": "character-ai",
+    "tagline_ar": "دردش مع شخصيات AI واقعية ومبدعة",
+    "tagline_en": "Chat with realistic AI characters",
+    "desc_ar": "منصة إنشاء والدردشة مع شخصيات ذكاء اصطناعي متنوعة. الأكثر شعبية للترفيه والقصص التفاعلية.",
+    "desc_en": "Platform for creating and chatting with diverse AI characters. Most popular for entertainment and interactive stories.",
+    "long_desc_ar": "Character.AI تتيح الدردشة مع شخصيات متنوعة حقيقية أو خيالية أو مخصصة. وصلت 223 مليون زيارة شهرية. شعبية ضخمة خاصة لدى الشباب. شائعة للقصص التفاعلية وتعلم اللغات.",
+    "long_desc_en": "Character.AI lets you chat with diverse real, fictional, or custom characters. 223M monthly visits. Massive popularity especially among youth. Popular for interactive stories and language learning.",
+    "category": "chatbots",
+    "tags_ar": [
+      "شخصيات",
+      "ترفيه",
+      "قصص",
+      "ألعاب أدوار"
+    ],
+    "tags_en": [
+      "characters",
+      "entertainment",
+      "stories",
+      "roleplay"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://character.ai",
+    "monthly_visits": "223M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "janitor-ai",
+      "crushon-ai"
+    ],
+    "integrations": [
+      ""
+    ],
+    "use_cases_ar": [
+      "ترفيه",
+      "تعلم اللغات",
+      "محاكاة مقابلات",
+      "كتابة قصص"
+    ],
+    "use_cases_en": [
+      "Entertainment",
+      "Language learning",
+      "Interview practice",
+      "Story writing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=character.ai&sz=64"
+  },
+  {
+    "id": "qwen",
+    "name_ar": "كوين",
+    "name_en": "Qwen",
+    "slug": "qwen",
+    "tagline_ar": "نموذج Alibaba الأقوى من الصين",
+    "tagline_en": "Alibaba's most powerful AI from China",
+    "desc_ar": "نموذج Alibaba AI يتصدر معظم المقاييس. مجاني ومفتوح المصدر للجميع.",
+    "desc_en": "Alibaba AI model topping most benchmarks. Free and open source for everyone.",
+    "long_desc_ar": "نموذج Alibaba AI يتصدر معظم المقاييس. مجاني ومفتوح المصدر للجميع.",
+    "long_desc_en": "Alibaba AI model topping most benchmarks. Free and open source for everyone.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Alibaba",
+      "صيني",
+      "مفتوح المصدر",
+      "قوي"
+    ],
+    "tags_en": [
+      "Alibaba",
+      "chinese",
+      "open-source",
+      "powerful"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://qwenlm.github.io",
+    "monthly_visits": "20M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "deepseek",
+      "mistral",
+      "llama"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=qwenlm.github.io&sz=64"
+  },
+  {
+    "id": "doubao",
+    "name_ar": "دوباو",
+    "name_en": "Doubao",
+    "slug": "doubao",
+    "tagline_ar": "مساعد AI الأكثر استخداماً في الصين",
+    "tagline_en": "Most used AI assistant in China",
+    "desc_ar": "مساعد AI من ByteDance (TikTok) يقود السوق الصيني بعشرات الملايين من المستخدمين اليوميين.",
+    "desc_en": "AI assistant from ByteDance (TikTok) leading the Chinese market with tens of millions of daily users.",
+    "long_desc_ar": "مساعد AI من ByteDance (TikTok) يقود السوق الصيني بعشرات الملايين من المستخدمين اليوميين.",
+    "long_desc_en": "AI assistant from ByteDance (TikTok) leading the Chinese market with tens of millions of daily users.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://doubao.com",
+    "monthly_visits": "100M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=doubao.com&sz=64"
+  },
+  {
+    "id": "claude-haiku",
+    "name_ar": "كلود هايكو",
+    "name_en": "Claude Haiku 4.5",
+    "slug": "claude-haiku",
+    "tagline_ar": "الأسرع والأرخص من Anthropic",
+    "tagline_en": "Fastest and cheapest from Anthropic",
+    "desc_ar": "Claude Haiku 4.5 هو النموذج الأسرع من Anthropic. مثالي للتطبيقات التي تحتاج سرعة وتكلفة منخفضة.",
+    "desc_en": "Claude Haiku 4.5 هو النموذج الأسرع من Anthropic. مثالي للتطبيقات التي تحتاج سرعة وتكلفة منخفضة.",
+    "long_desc_ar": "Claude Haiku 4.5 هو النموذج الأسرع من Anthropic. مثالي للتطبيقات التي تحتاج سرعة وتكلفة منخفضة.",
+    "long_desc_en": "Claude Haiku 4.5 هو النموذج الأسرع من Anthropic. مثالي للتطبيقات التي تحتاج سرعة وتكلفة منخفضة.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "llama-3",
+    "name_ar": "لاما 3.3",
+    "name_en": "Llama 3.3 70B",
+    "slug": "llama-3",
+    "tagline_ar": "نموذج Meta الأقوى المجاني",
+    "tagline_en": "Meta's most powerful free model",
+    "desc_ar": "Llama 3.3 70B يضاهي GPT-4 في معظم المهام. مجاني ومفتوح المصدر للتشغيل المحلي.",
+    "desc_en": "Llama 3.3 70B يضاهي GPT-4 في معظم المهام. مجاني ومفتوح المصدر للتشغيل المحلي.",
+    "long_desc_ar": "Llama 3.3 70B يضاهي GPT-4 في معظم المهام. مجاني ومفتوح المصدر للتشغيل المحلي.",
+    "long_desc_en": "Llama 3.3 70B يضاهي GPT-4 في معظم المهام. مجاني ومفتوح المصدر للتشغيل المحلي.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://llama.meta.com",
+    "monthly_visits": "50M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=llama.meta.com&sz=64"
+  },
+  {
+    "id": "claude-api-v2",
+    "name_ar": "Anthropic API",
+    "name_en": "Anthropic API",
+    "slug": "anthropic-api",
+    "tagline_ar": "API Anthropic للمطورين",
+    "tagline_en": "Anthropic API for developers",
+    "desc_ar": "Anthropic API يوفر وصولاً لكل نماذج Claude للمطورين. $3/$15 للمليون توكن.",
+    "desc_en": "Anthropic API provides access to all Claude models for developers. $3/$15 per million tokens.",
+    "long_desc_ar": "Anthropic API يوفر وصولاً لكل نماذج Claude للمطورين. $3/$15 للمليون توكن.",
+    "long_desc_en": "Anthropic API provides access to all Claude models for developers. $3/$15 per million tokens.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Anthropic API",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Anthropic API",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$3/M",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://anthropic.com",
+    "monthly_visits": "2M+",
+    "trending_score": 88,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
+  },
+  {
+    "id": "mistral",
+    "name_ar": "ميسترال",
+    "name_en": "Mistral AI",
+    "slug": "mistral",
+    "tagline_ar": "نموذج AI فرنسي مفتوح المصدر سريع",
+    "tagline_en": "Fast French open-source AI model",
+    "desc_ar": "نماذج AI فرنسية مفتوحة المصدر. Le Chat المساعد المجاني بأداء ممتاز.",
+    "desc_en": "French open-source AI models. Le Chat free assistant with excellent performance.",
+    "long_desc_ar": "نماذج AI فرنسية مفتوحة المصدر. Le Chat المساعد المجاني بأداء ممتاز.",
+    "long_desc_en": "French open-source AI models. Le Chat free assistant with excellent performance.",
+    "category": "chatbots",
+    "tags_ar": [
+      "فرنسي",
+      "مفتوح المصدر",
+      "سريع",
+      "API"
+    ],
+    "tags_en": [
+      "french",
+      "open-source",
+      "fast",
+      "API"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$14.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://mistral.ai",
+    "monthly_visits": "10M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "llama"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=64"
+  },
+  {
+    "id": "mistral-ai",
+    "name_ar": "Mistral AI",
+    "name_en": "Mistral AI",
+    "slug": "mistral-ai",
+    "tagline_ar": "نموذج أوروبي مفتوح المصدر متميز",
+    "tagline_en": "Outstanding open-source European model",
+    "desc_ar": "Mistral من فرنسا يقدم نماذج مفتوحة المصدر عالية الجودة. Le Chat متاح مجاناً للعموم.",
+    "desc_en": "Mistral from France offers high-quality open-source models. Le Chat is available free to the public.",
+    "long_desc_ar": "Mistral من فرنسا يقدم نماذج مفتوحة المصدر عالية الجودة. Le Chat متاح مجاناً للعموم.",
+    "long_desc_en": "Mistral from France offers high-quality open-source models. Le Chat is available free to the public.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Mistral AI",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Mistral AI",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://mistral.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 87,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=64"
+  },
+  {
+    "id": "anthropic-claude3",
+    "name_ar": "Claude 3.5 Haiku",
+    "name_en": "Claude 3.5 Haiku",
+    "slug": "claude-3-5-haiku",
+    "tagline_ar": "أسرع وأرخص Claude للاستخدام اليومي",
+    "tagline_en": "Fastest and cheapest Claude for daily use",
+    "desc_ar": "Claude 3.5 Haiku يُقدم استجابات سريعة بتكلفة منخفضة. مثالي للتطبيقات عالية الحجم.",
+    "desc_en": "Claude 3.5 Haiku delivers fast responses at low cost. Ideal for high-volume applications.",
+    "long_desc_ar": "Claude 3.5 Haiku يُقدم استجابات سريعة بتكلفة منخفضة. مثالي للتطبيقات عالية الحجم.",
+    "long_desc_en": "Claude 3.5 Haiku delivers fast responses at low cost. Ideal for high-volume applications.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Claude 3.5 Haiku",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Claude 3.5 Haiku",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0.80/M",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 87,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "character-ai-plus",
+    "name_ar": "كاراكتر AI بلاس",
+    "name_en": "Character.AI+",
+    "slug": "character-ai-plus",
+    "tagline_ar": "شخصيات AI بدون فلاتر للمشتركين",
+    "tagline_en": "AI characters without filters for subscribers",
+    "desc_ar": "Character.AI+ يتيح محادثات بحدود أقل وسرعة أعلى. 223 مليون زيارة شهرية.",
+    "desc_en": "Character.AI+ يتيح محادثات بحدود أقل وسرعة أعلى. 223 مليون زيارة شهرية.",
+    "long_desc_ar": "Character.AI+ يتيح محادثات بحدود أقل وسرعة أعلى. 223 مليون زيارة شهرية.",
+    "long_desc_en": "Character.AI+ يتيح محادثات بحدود أقل وسرعة أعلى. 223 مليون زيارة شهرية.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$9.99/mo",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://character.ai",
+    "monthly_visits": "223M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=character.ai&sz=64"
+  },
+  {
+    "id": "google-gemma",
+    "name_ar": "Google Gemma",
+    "name_en": "Google Gemma 3",
+    "slug": "google-gemma",
+    "tagline_ar": "نماذج Google المفتوحة المصدر الأقوى",
+    "tagline_en": "Google's most powerful open-source models",
+    "desc_ar": "Gemma 3 من Google يقود سوق النماذج المفتوحة. أداء استثنائي بحجم صغير.",
+    "desc_en": "Gemma 3 من Google يقود سوق النماذج المفتوحة. أداء استثنائي بحجم صغير.",
+    "long_desc_ar": "Gemma 3 من Google يقود سوق النماذج المفتوحة. أداء استثنائي بحجم صغير.",
+    "long_desc_en": "Gemma 3 من Google يقود سوق النماذج المفتوحة. أداء استثنائي بحجم صغير.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ai.google.dev",
+    "monthly_visits": "10M+",
+    "trending_score": 86,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ai.google.dev&sz=64"
+  },
+  {
+    "id": "msft-copilot-365",
+    "name_ar": "Copilot for Microsoft 365",
+    "name_en": "Copilot for M365",
+    "slug": "msft-copilot-365",
+    "tagline_ar": "AI في Word وExcel وTeams وOutlook",
+    "tagline_en": "AI in Word, Excel, Teams and Outlook",
+    "desc_ar": "Copilot for M365 يضيف AI لكل تطبيقات Office. يكتب ويلخص ويحلل مباشرة في عملك.",
+    "desc_en": "Copilot for M365 يضيف AI لكل تطبيقات Office. يكتب ويلخص ويحلل مباشرة في عملك.",
+    "long_desc_ar": "Copilot for M365 يضيف AI لكل تطبيقات Office. يكتب ويلخص ويحلل مباشرة في عملك.",
+    "long_desc_en": "Copilot for M365 يضيف AI لكل تطبيقات Office. يكتب ويلخص ويحلل مباشرة في عملك.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$30/mo",
+    "price_pro": "$30/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://microsoft.com",
+    "monthly_visits": "300M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64"
+  },
+  {
+    "id": "janitor-ai",
+    "name_ar": "جانيتور AI",
+    "name_en": "JanitorAI",
+    "slug": "janitor-ai",
+    "tagline_ar": "شخصيات AI متنوعة بحرية أكبر",
+    "tagline_en": "Diverse AI characters with more freedom",
+    "desc_ar": "منصة محادثة AI مع شخصيات متنوعة وقيود أقل. وصلت 173 مليون زيارة شهرية.",
+    "desc_en": "AI conversation with diverse characters and fewer restrictions. Reached 173M monthly visits.",
+    "long_desc_ar": "JanitorAI وصلت إلى 173 مليون زيارة شهرية لتكون من أكثر منصات AI زيارة. شخصيات مخصصة بأسلوب تفاعلي وقيود أقل من المنصات الكبرى. شائعة للقصص والروايات التفاعلية.",
+    "long_desc_en": "JanitorAI reached 173M monthly visits making it one of the most visited AI platforms. Custom characters with fewer restrictions than major platforms. Popular for interactive stories.",
+    "category": "chatbots",
+    "tags_ar": [
+      "شخصيات",
+      "قصص",
+      "ترفيه",
+      "تخصيص"
+    ],
+    "tags_en": [
+      "characters",
+      "stories",
+      "entertainment",
+      "custom"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://janitorai.com",
+    "monthly_visits": "173M+",
+    "trending_score": 85,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "character-ai",
+      "crushon-ai"
+    ],
+    "integrations": [
+      ""
+    ],
+    "use_cases_ar": [
+      "كتابة قصص",
+      "ترفيه",
+      "محادثة",
+      "ألعاب أدوار"
+    ],
+    "use_cases_en": [
+      "Story writing",
+      "Entertainment",
+      "Conversation",
+      "Roleplay"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=janitorai.com&sz=64"
+  },
+  {
+    "id": "kimi",
+    "name_ar": "كيمي",
+    "name_en": "Kimi",
+    "slug": "kimi",
+    "tagline_ar": "مساعد AI صيني بنافذة سياق ضخمة",
+    "tagline_en": "Chinese AI assistant with massive context window",
+    "desc_ar": "مساعد AI صيني من Moonshot بنافذة سياق 2 مليون رمز. شائع جداً في الصين.",
+    "desc_en": "Chinese AI assistant from Moonshot with 2M token context. Very popular in China.",
+    "long_desc_ar": "Kimi من Moonshot AI يقدم نافذة سياق 2 مليون رمز تتيح تحليل مستندات ضخمة جداً. شائع جداً في الصين وتحظى بنمو سريع في الأسواق الدولية. يتميز بالتحليل العميق والبحث.",
+    "long_desc_en": "Kimi from Moonshot AI offers 2M token context for analyzing very large documents. Very popular in China with rapid growth in international markets. Excels at deep analysis and research.",
+    "category": "chatbots",
+    "tags_ar": [
+      "صيني",
+      "نافذة سياق ضخمة",
+      "تحليل",
+      "بحث"
+    ],
+    "tags_en": [
+      "chinese",
+      "massive context",
+      "analysis",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://kimi.moonshot.cn",
+    "monthly_visits": "30M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "deepseek"
+    ],
+    "integrations": [
+      "API"
+    ],
+    "use_cases_ar": [
+      "تحليل مستندات ضخمة",
+      "بحث متعمق",
+      "ترجمة",
+      "محادثة"
+    ],
+    "use_cases_en": [
+      "Large document analysis",
+      "Deep research",
+      "Translation",
+      "Conversation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=kimi.moonshot.cn&sz=64"
+  },
+  {
+    "id": "mistral-large",
+    "name_ar": "ميسترال لارج",
+    "name_en": "Mistral Large 2",
+    "slug": "mistral-large",
+    "tagline_ar": "أقوى نموذج أوروبي في 2026",
+    "tagline_en": "Europe's most powerful model in 2026",
+    "desc_ar": "Mistral Large 2 يتصدر نماذج أوروبا. خصوصية ومتوافق مع GDPR.",
+    "desc_en": "Mistral Large 2 يتصدر نماذج أوروبا. خصوصية ومتوافق مع GDPR.",
+    "long_desc_ar": "Mistral Large 2 يتصدر نماذج أوروبا. خصوصية ومتوافق مع GDPR.",
+    "long_desc_en": "Mistral Large 2 يتصدر نماذج أوروبا. خصوصية ومتوافق مع GDPR.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://mistral.ai",
+    "monthly_visits": "10M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=64"
+  },
+  {
+    "id": "chatgpt-gpts",
+    "name_ar": "ChatGPT GPTs",
+    "name_en": "Custom GPTs Store",
+    "slug": "chatgpt-gpts",
+    "tagline_ar": "آلاف الـ GPT المخصصة لكل غرض",
+    "tagline_en": "Thousands of custom GPTs for every purpose",
+    "desc_ar": "GPT Store من OpenAI يضم آلاف الـ GPT المخصصة. اختر الأداة المناسبة لمهمتك.",
+    "desc_en": "GPT Store من OpenAI يضم آلاف الـ GPT المخصصة. اختر الأداة المناسبة لمهمتك.",
+    "long_desc_ar": "GPT Store من OpenAI يضم آلاف الـ GPT المخصصة. اختر الأداة المناسبة لمهمتك.",
+    "long_desc_en": "GPT Store من OpenAI يضم آلاف الـ GPT المخصصة. اختر الأداة المناسبة لمهمتك.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://chatgpt.com/gpts",
+    "monthly_visits": "5.2B+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64"
+  },
+  {
+    "id": "mistral-le-chat",
+    "name_ar": "Le Chat",
+    "name_en": "Le Chat",
+    "slug": "le-chat",
+    "tagline_ar": "محادثة AI مجانية من Mistral أوروبا",
+    "tagline_en": "Free AI chat from European Mistral",
+    "desc_ar": "Le Chat من Mistral AI يُقدم محادثة AI مجانية مع نماذج أوروبية متميزة. بديل جيد لـ ChatGPT.",
+    "desc_en": "Le Chat from Mistral AI provides free AI conversation with outstanding European models. A good ChatGPT alternative.",
+    "long_desc_ar": "Le Chat من Mistral AI يُقدم محادثة AI مجانية مع نماذج أوروبية متميزة. بديل جيد لـ ChatGPT.",
+    "long_desc_en": "Le Chat from Mistral AI provides free AI conversation with outstanding European models. A good ChatGPT alternative.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Le Chat",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Le Chat",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://chat.mistral.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chat.mistral.ai&sz=64"
+  },
+  {
+    "id": "poe",
+    "name_ar": "بو",
+    "name_en": "Poe",
+    "slug": "poe",
+    "tagline_ar": "اوصل لكل النماذج من مكان واحد",
+    "tagline_en": "Access all AI models from one place",
+    "desc_ar": "منصة Quora للوصول لـ ChatGPT وClaude وGemini من مكان واحد.",
+    "desc_en": "Quora's platform for ChatGPT, Claude, Gemini access from one place.",
+    "long_desc_ar": "منصة Quora للوصول لـ ChatGPT وClaude وGemini من مكان واحد.",
+    "long_desc_en": "Quora's platform for ChatGPT, Claude, Gemini access from one place.",
+    "category": "chatbots",
+    "tags_ar": [
+      "نماذج متعددة",
+      "Quora",
+      "موحد",
+      "مريح"
+    ],
+    "tags_en": [
+      "multiple models",
+      "Quora",
+      "unified",
+      "convenient"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://poe.com",
+    "monthly_visits": "10M+",
+    "trending_score": 83,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=poe.com&sz=64"
+  },
+  {
+    "id": "monica",
+    "name_ar": "مونيكا",
+    "name_en": "Monica AI",
+    "slug": "monica",
+    "tagline_ar": "مساعد AI شامل في المتصفح",
+    "tagline_en": "Comprehensive AI assistant in browser",
+    "desc_ar": "مساعد AI قوي في Chrome يجمع ChatGPT وClaude وGemini في مكان واحد. ظهر في a16z 2026.",
+    "desc_en": "Powerful Chrome AI assistant combining ChatGPT, Claude and Gemini in one place. On a16z 2026.",
+    "long_desc_ar": "مساعد AI قوي في Chrome يجمع ChatGPT وClaude وGemini في مكان واحد. ظهر في a16z 2026.",
+    "long_desc_en": "Powerful Chrome AI assistant combining ChatGPT, Claude and Gemini in one place. On a16z 2026.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://monica.im",
+    "monthly_visits": "10M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=monica.im&sz=64"
+  },
+  {
+    "id": "minimax-chat",
+    "name_ar": "ميني ماكس شات",
+    "name_en": "MiniMax Chat",
+    "slug": "minimax-chat",
+    "tagline_ar": "محادثة AI من صانع Hailuo",
+    "tagline_en": "AI chat from Hailuo creator",
+    "desc_ar": "MiniMax مطور Hailuo يطلق مساعد AI قوي. نافذة سياق ضخمة وأداء ممتاز.",
+    "desc_en": "MiniMax مطور Hailuo يطلق مساعد AI قوي. نافذة سياق ضخمة وأداء ممتاز.",
+    "long_desc_ar": "MiniMax مطور Hailuo يطلق مساعد AI قوي. نافذة سياق ضخمة وأداء ممتاز.",
+    "long_desc_en": "MiniMax مطور Hailuo يطلق مساعد AI قوي. نافذة سياق ضخمة وأداء ممتاز.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://minimaxi.com",
+    "monthly_visits": "10M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=minimaxi.com&sz=64"
+  },
+  {
+    "id": "google-aistudio",
+    "name_ar": "Google AI Studio",
+    "name_en": "Google AI Studio",
+    "slug": "google-aistudio",
+    "tagline_ar": "بناء تطبيقات Gemini مجاناً",
+    "tagline_en": "Build Gemini applications for free",
+    "desc_ar": "Google AI Studio — بناء تطبيقات Gemini مجاناً",
+    "desc_en": "Google AI Studio — Build Gemini applications for free",
+    "long_desc_ar": "Google AI Studio — بناء تطبيقات Gemini مجاناً",
+    "long_desc_en": "Google AI Studio — Build Gemini applications for free",
+    "category": "chatbots",
+    "tags_ar": [
+      "Google AI Studio",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Google AI Studio",
+      "chatbots"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://aistudio.google.com",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64"
+  },
+  {
+    "id": "cohere",
+    "name_ar": "كوهير",
+    "name_en": "Cohere",
+    "slug": "cohere",
+    "tagline_ar": "AI مؤسسي للشركات الكبرى",
+    "tagline_en": "Enterprise AI for large companies",
+    "desc_ar": "منصة AI مؤسسية متخصصة في RAG والبحث الدلالي وأتمتة العمليات.",
+    "desc_en": "Enterprise AI specialized in RAG, semantic search, and business automation.",
+    "long_desc_ar": "منصة AI مؤسسية متخصصة في RAG والبحث الدلالي وأتمتة العمليات.",
+    "long_desc_en": "Enterprise AI specialized in RAG, semantic search, and business automation.",
+    "category": "chatbots",
+    "tags_ar": [
+      "مؤسسي",
+      "RAG",
+      "بحث دلالي",
+      "API"
+    ],
+    "tags_en": [
+      "enterprise",
+      "RAG",
+      "semantic search",
+      "API"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$0",
+    "price_pro": "$99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://cohere.com",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "openai",
+      "anthropic",
+      "mistral"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cohere.com&sz=64"
+  },
+  {
+    "id": "polybuzz",
+    "name_ar": "بولي بز",
+    "name_en": "PolyBuzz",
+    "slug": "polybuzz",
+    "tagline_ar": "دردشة مع شخصيات AI متنوعة",
+    "tagline_en": "Chat with diverse AI characters",
+    "desc_ar": "منصة محادثة AI مع شخصيات متنوعة. ظهرت في قائمة a16z Top 100 2026 بزيارات ضخمة.",
+    "desc_en": "AI character chat platform. Appeared on a16z Top 100 2026 with massive visits.",
+    "long_desc_ar": "منصة محادثة AI مع شخصيات متنوعة. ظهرت في قائمة a16z Top 100 2026 بزيارات ضخمة.",
+    "long_desc_en": "AI character chat platform. Appeared on a16z Top 100 2026 with massive visits.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://polybuzz.ai",
+    "monthly_visits": "20M+",
+    "trending_score": 82,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=polybuzz.ai&sz=64"
+  },
+  {
+    "id": "groq-chat",
+    "name_ar": "جروك شات",
+    "name_en": "Groq Chat",
+    "slug": "groq-chat",
+    "tagline_ar": "أسرع استنتاج AI على وجه الأرض",
+    "tagline_en": "Fastest AI inference on earth",
+    "desc_ar": "Groq LPU يحقق سرعات استنتاج تفوق كل المنافسين. 800+ رمز في الثانية.",
+    "desc_en": "Groq LPU يحقق سرعات استنتاج تفوق كل المنافسين. 800+ رمز في الثانية.",
+    "long_desc_ar": "Groq LPU يحقق سرعات استنتاج تفوق كل المنافسين. 800+ رمز في الثانية.",
+    "long_desc_en": "Groq LPU يحقق سرعات استنتاج تفوق كل المنافسين. 800+ رمز في الثانية.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://groq.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=groq.com&sz=64"
+  },
+  {
+    "id": "bing-copilot",
+    "name_ar": "Bing Copilot",
+    "name_en": "Bing AI Copilot",
+    "slug": "bing-copilot",
+    "tagline_ar": "مساعد AI في محرك بحث Bing",
+    "tagline_en": "AI assistant in Bing search engine",
+    "desc_ar": "Copilot مدمج في Bing. يجيب على أسئلتك مع نتائج البحث مباشرة. مجاني للجميع.",
+    "desc_en": "Copilot مدمج في Bing. يجيب على أسئلتك مع نتائج البحث مباشرة. مجاني للجميع.",
+    "long_desc_ar": "Copilot مدمج في Bing. يجيب على أسئلتك مع نتائج البحث مباشرة. مجاني للجميع.",
+    "long_desc_en": "Copilot مدمج في Bing. يجيب على أسئلتك مع نتائج البحث مباشرة. مجاني للجميع.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://bing.com",
+    "monthly_visits": "1B+",
+    "trending_score": 82,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bing.com&sz=64"
+  },
+  {
+    "id": "inflection-pi",
+    "name_ar": "Pi AI",
+    "name_en": "Pi AI",
+    "slug": "inflection-pi",
+    "tagline_ar": "محادثة AI دافئة وإنسانية",
+    "tagline_en": "Warm and human-like AI conversation",
+    "desc_ar": "Pi AI من Inflection مصمّم للمحادثة الطبيعية والدعم العاطفي بأسلوب إنساني دافئ.",
+    "desc_en": "Pi AI from Inflection designed for natural conversation and emotional support with warm human style.",
+    "long_desc_ar": "Pi AI من Inflection مصمّم للمحادثة الطبيعية والدعم العاطفي بأسلوب إنساني دافئ.",
+    "long_desc_en": "Pi AI from Inflection designed for natural conversation and emotional support with warm human style.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Pi AI",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Pi AI",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://pi.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pi.ai&sz=64"
+  },
+  {
+    "id": "nvidia-chat",
+    "name_ar": "NVIDIA NIM",
+    "name_en": "NVIDIA NIM",
+    "slug": "nvidia-chat",
+    "tagline_ar": "تشغيل نماذج AI على GPUs من NVIDIA",
+    "tagline_en": "Run AI models on NVIDIA GPUs",
+    "desc_ar": "NVIDIA NIM — تشغيل نماذج AI على GPUs من NVIDIA",
+    "desc_en": "NVIDIA NIM — Run AI models on NVIDIA GPUs",
+    "long_desc_ar": "NVIDIA NIM — تشغيل نماذج AI على GPUs من NVIDIA",
+    "long_desc_en": "NVIDIA NIM — Run AI models on NVIDIA GPUs",
+    "category": "chatbots",
+    "tags_ar": [
+      "NVIDIA NIM",
+      "chatbots"
+    ],
+    "tags_en": [
+      "NVIDIA NIM",
+      "chatbots"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://build.nvidia.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=build.nvidia.com&sz=64"
+  },
+  {
+    "id": "together-ai",
+    "name_ar": "توجيذر AI",
+    "name_en": "Together AI",
+    "slug": "together-ai",
+    "tagline_ar": "تشغيل نماذج مفتوحة المصدر بسرعة",
+    "tagline_en": "Run open-source models at speed",
+    "desc_ar": "منصة تشغيل نماذج AI مفتوحة المصدر بسرعة عالية وتكلفة منخفضة.",
+    "desc_en": "Platform for running open-source AI models at high speed and low cost.",
+    "long_desc_ar": "منصة تشغيل نماذج AI مفتوحة المصدر بسرعة عالية وتكلفة منخفضة.",
+    "long_desc_en": "Platform for running open-source AI models at high speed and low cost.",
+    "category": "chatbots",
+    "tags_ar": [
+      "API",
+      "مفتوح المصدر",
+      "سريع",
+      "رخيص"
+    ],
+    "tags_en": [
+      "API",
+      "open-source",
+      "fast",
+      "cheap"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "Pay-per-use",
+    "has_free_trial": true,
+    "platforms": [
+      "api",
+      "web"
+    ],
+    "website": "https://together.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "openai",
+      "anthropic",
+      "mistral"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=together.ai&sz=64"
+  },
+  {
+    "id": "cohere-command-r",
+    "name_ar": "Cohere Command R+",
+    "name_en": "Cohere Command R+",
+    "slug": "cohere-command-r",
+    "tagline_ar": "نموذج RAG المؤسسي الأقوى",
+    "tagline_en": "Most powerful enterprise RAG model",
+    "desc_ar": "Command R+ من Cohere متخصص في RAG والبحث في المستندات المؤسسية الضخمة.",
+    "desc_en": "Command R+ من Cohere متخصص في RAG والبحث في المستندات المؤسسية الضخمة.",
+    "long_desc_ar": "Command R+ من Cohere متخصص في RAG والبحث في المستندات المؤسسية الضخمة.",
+    "long_desc_en": "Command R+ من Cohere متخصص في RAG والبحث في المستندات المؤسسية الضخمة.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$99/mo",
+    "price_pro": "$99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://cohere.com",
+    "monthly_visits": "3M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cohere.com&sz=64"
+  },
+  {
+    "id": "ai-girlfriend-apps",
+    "name_ar": "تطبيقات الرفيق AI",
+    "name_en": "AI Companion Apps",
+    "slug": "ai-girlfriend-apps",
+    "tagline_ar": "رفقاء AI عاطفيون للمستخدمين",
+    "tagline_en": "Emotional AI companions for users",
+    "desc_ar": "Replika وCharacter AI وCrushOn أكثر تطبيقات الرفيق AI زيارة. 500M+ زيارة مجتمعة.",
+    "desc_en": "Replika وCharacter AI وCrushOn أكثر تطبيقات الرفيق AI زيارة. 500M+ زيارة مجتمعة.",
+    "long_desc_ar": "Replika وCharacter AI وCrushOn أكثر تطبيقات الرفيق AI زيارة. 500M+ زيارة مجتمعة.",
+    "long_desc_en": "Replika وCharacter AI وCrushOn أكثر تطبيقات الرفيق AI زيارة. 500M+ زيارة مجتمعة.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://replika.com",
+    "monthly_visits": "100M+",
+    "trending_score": 80,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=replika.com&sz=64"
+  },
+  {
+    "id": "perplexity-labs",
+    "name_ar": "Perplexity Labs",
+    "name_en": "Perplexity Labs",
+    "slug": "perplexity-labs",
+    "tagline_ar": "تجارب AI جديدة من Perplexity",
+    "tagline_en": "New AI experiments from Perplexity",
+    "desc_ar": "Perplexity Labs يُطلق تجارب AI جديدة قبل إضافتها للمنتج الرئيسي. للمتحمسين.",
+    "desc_en": "Perplexity Labs launches new AI experiments before adding them to the main product. For enthusiasts.",
+    "long_desc_ar": "Perplexity Labs يُطلق تجارب AI جديدة قبل إضافتها للمنتج الرئيسي. للمتحمسين.",
+    "long_desc_en": "Perplexity Labs launches new AI experiments before adding them to the main product. For enthusiasts.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Perplexity Labs",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Perplexity Labs",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$20",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://labs.perplexity.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=labs.perplexity.ai&sz=64"
+  },
+  {
+    "id": "writer-ai",
+    "name_ar": "Writer AI",
+    "name_en": "Writer AI",
+    "slug": "writer-ai",
+    "tagline_ar": "AI مؤسسي آمن وخاص للفرق الكبيرة",
+    "tagline_en": "Safe private enterprise AI for large teams",
+    "desc_ar": "Writer AI — AI مؤسسي آمن وخاص للفرق الكبيرة",
+    "desc_en": "Writer AI — Safe private enterprise AI for large teams",
+    "long_desc_ar": "Writer AI — AI مؤسسي آمن وخاص للفرق الكبيرة",
+    "long_desc_en": "Writer AI — Safe private enterprise AI for large teams",
+    "category": "chatbots",
+    "tags_ar": [
+      "Writer AI",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Writer AI",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://writer.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=writer.com&sz=64"
+  },
+  {
+    "id": "anthropic-workbench",
+    "name_ar": "Claude Workbench",
+    "name_en": "Claude Workbench",
+    "slug": "anthropic-workbench",
+    "tagline_ar": "تجربة نماذج Claude للمطورين",
+    "tagline_en": "Experiment with Claude models for developers",
+    "desc_ar": "Claude Workbench — تجربة نماذج Claude للمطورين",
+    "desc_en": "Claude Workbench — Experiment with Claude models for developers",
+    "long_desc_ar": "Claude Workbench — تجربة نماذج Claude للمطورين",
+    "long_desc_en": "Claude Workbench — Experiment with Claude models for developers",
+    "category": "chatbots",
+    "tags_ar": [
+      "Claude Workbench",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Claude Workbench",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://console.anthropic.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=console.anthropic.com&sz=64"
+  },
+  {
+    "id": "cohere-command",
+    "name_ar": "Cohere Command",
+    "name_en": "Cohere Command",
+    "slug": "cohere-command",
+    "tagline_ar": "نماذج LLM للمؤسسات مع RAG",
+    "tagline_en": "Enterprise LLM models with RAG",
+    "desc_ar": "Cohere Command متخصص في تطبيقات المؤسسات مع RAG والبحث السيمانتيكي.",
+    "desc_en": "Cohere Command specializes in enterprise applications with RAG and semantic search.",
+    "long_desc_ar": "Cohere Command متخصص في تطبيقات المؤسسات مع RAG والبحث السيمانتيكي.",
+    "long_desc_en": "Cohere Command specializes in enterprise applications with RAG and semantic search.",
+    "category": "chatbots",
+    "tags_ar": [
+      "Cohere Command",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Cohere Command",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://cohere.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": "subscription",
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cohere.com&sz=64"
+  },
+  {
+    "id": "cohere-chat",
+    "name_ar": "Cohere Command R+",
+    "name_en": "Cohere Command R+",
+    "slug": "cohere-chat",
+    "tagline_ar": "نماذج RAG للمؤسسات من Cohere",
+    "tagline_en": "Enterprise RAG models from Cohere",
+    "desc_ar": "Cohere Command R+ — نماذج RAG للمؤسسات من Cohere",
+    "desc_en": "Cohere Command R+ — Enterprise RAG models from Cohere",
+    "long_desc_ar": "Cohere Command R+ — نماذج RAG للمؤسسات من Cohere",
+    "long_desc_en": "Cohere Command R+ — Enterprise RAG models from Cohere",
+    "category": "chatbots",
+    "tags_ar": [
+      "Cohere Command R+",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Cohere Command R+",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://cohere.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cohere.com&sz=64"
+  },
+  {
+    "id": "pi-ai",
+    "name_ar": "باي AI",
+    "name_en": "Pi AI",
+    "slug": "pi-ai",
+    "tagline_ar": "مساعد AI شخصي ودود وعاطفي",
+    "tagline_en": "Friendly emotionally intelligent personal AI",
+    "desc_ar": "مساعد AI شخصي من Inflection للمحادثة الطبيعية والدعم العاطفي.",
+    "desc_en": "Personal AI from Inflection for natural conversation and emotional support.",
+    "long_desc_ar": "مساعد AI شخصي من Inflection للمحادثة الطبيعية والدعم العاطفي.",
+    "long_desc_en": "Personal AI from Inflection for natural conversation and emotional support.",
+    "category": "chatbots",
+    "tags_ar": [
+      "شخصي",
+      "عاطفي",
+      "محادثة",
+      "ودود"
+    ],
+    "tags_en": [
+      "personal",
+      "emotional",
+      "conversation",
+      "friendly"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://pi.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "character-ai",
+      "chatgpt",
+      "claude"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pi.ai&sz=64"
+  },
+  {
+    "id": "ai21-labs",
+    "name_ar": "AI21 لابس",
+    "name_en": "AI21 Jamba",
+    "slug": "ai21-labs",
+    "tagline_ar": "نموذج Mamba الهجين للنصوص الطويلة",
+    "tagline_en": "Hybrid Mamba model for long texts",
+    "desc_ar": "AI21 Jamba يجمع Transformer وMamba. يعالج نصوصاً طويلة بكفاءة استثنائية.",
+    "desc_en": "AI21 Jamba يجمع Transformer وMamba. يعالج نصوصاً طويلة بكفاءة استثنائية.",
+    "long_desc_ar": "AI21 Jamba يجمع Transformer وMamba. يعالج نصوصاً طويلة بكفاءة استثنائية.",
+    "long_desc_en": "AI21 Jamba يجمع Transformer وMamba. يعالج نصوصاً طويلة بكفاءة استثنائية.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ai21.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ai21.com&sz=64"
+  },
+  {
+    "id": "venice-ai",
+    "name_ar": "فينيس AI",
+    "name_en": "Venice AI",
+    "slug": "venice-ai",
+    "tagline_ar": "مساعد AI بخصوصية مطلقة بدون تتبع",
+    "tagline_en": "AI assistant with absolute privacy no tracking",
+    "desc_ar": "Venice AI يقدم ذكاء اصطناعي بخصوصية كاملة. لا سجلات ولا تتبع ولا تدريب على بياناتك.",
+    "desc_en": "Venice AI يقدم ذكاء اصطناعي بخصوصية كاملة. لا سجلات ولا تتبع ولا تدريب على بياناتك.",
+    "long_desc_ar": "Venice AI يقدم ذكاء اصطناعي بخصوصية كاملة. لا سجلات ولا تتبع ولا تدريب على بياناتك.",
+    "long_desc_en": "Venice AI يقدم ذكاء اصطناعي بخصوصية كاملة. لا سجلات ولا تتبع ولا تدريب على بياناتك.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://venice.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=venice.ai&sz=64"
+  },
+  {
+    "id": "jais-ai",
+    "name_ar": "جيس AI",
+    "name_en": "Jais AI",
+    "slug": "jais-ai",
+    "tagline_ar": "نموذج AI عربي من Inception والإمارات",
+    "tagline_en": "Arabic AI model from Inception and UAE",
+    "desc_ar": "Jais من Inception Institute بالإمارات. أقوى نموذج AI مخصص للغة العربية.",
+    "desc_en": "Jais من Inception Institute بالإمارات. أقوى نموذج AI مخصص للغة العربية.",
+    "long_desc_ar": "Jais من Inception Institute بالإمارات. أقوى نموذج AI مخصص للغة العربية.",
+    "long_desc_en": "Jais من Inception Institute بالإمارات. أقوى نموذج AI مخصص للغة العربية.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://inceptioniai.org",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=inceptioniai.org&sz=64"
+  },
+  {
+    "id": "inflection-2",
+    "name_ar": "Inflection AI",
+    "name_en": "Inflection AI",
+    "slug": "inflection-2",
+    "tagline_ar": "نماذج AI مؤسسية من Inflection",
+    "tagline_en": "Enterprise AI models from Inflection",
+    "desc_ar": "Inflection AI — نماذج AI مؤسسية من Inflection",
+    "desc_en": "Inflection AI — Enterprise AI models from Inflection",
+    "long_desc_ar": "Inflection AI — نماذج AI مؤسسية من Inflection",
+    "long_desc_en": "Inflection AI — Enterprise AI models from Inflection",
+    "category": "chatbots",
+    "tags_ar": [
+      "Inflection AI",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Inflection AI",
+      "chatbots"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://inflection.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=inflection.ai&sz=64"
+  },
+  {
+    "id": "glif-ai",
+    "name_ar": "Glif AI",
+    "name_en": "Glif AI",
+    "slug": "glif-ai",
+    "tagline_ar": "بناء أدوات AI بصرية بدون كود",
+    "tagline_en": "Build visual AI tools without code",
+    "desc_ar": "Glif AI — بناء أدوات AI بصرية بدون كود",
+    "desc_en": "Glif AI — Build visual AI tools without code",
+    "long_desc_ar": "Glif AI — بناء أدوات AI بصرية بدون كود",
+    "long_desc_en": "Glif AI — Build visual AI tools without code",
+    "category": "chatbots",
+    "tags_ar": [
+      "Glif AI",
+      "chatbots"
+    ],
+    "tags_en": [
+      "Glif AI",
+      "chatbots"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://glif.app",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=glif.app&sz=64"
+  },
+  {
+    "id": "joyland-ai",
+    "name_ar": "جوي لاند",
+    "name_en": "Joyland AI",
+    "slug": "joyland-ai",
+    "tagline_ar": "شخصيات AI تفاعلية للترفيه",
+    "tagline_en": "Interactive AI characters for entertainment",
+    "desc_ar": "منصة شخصيات AI تفاعلية ومسلية. نمت بسرعة كبيرة في 2025-2026 في السوق الآسيوي.",
+    "desc_en": "Interactive and entertaining AI character platform. Grew rapidly in 2025-2026 in the Asian market.",
+    "long_desc_ar": "منصة شخصيات AI تفاعلية ومسلية. نمت بسرعة كبيرة في 2025-2026 في السوق الآسيوي.",
+    "long_desc_en": "Interactive and entertaining AI character platform. Grew rapidly in 2025-2026 in the Asian market.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://joyland.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 76,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=joyland.ai&sz=64"
+  },
+  {
+    "id": "gigachat",
+    "name_ar": "جيجاشات",
+    "name_en": "GigaChat",
+    "slug": "gigachat",
+    "tagline_ar": "مساعد AI روسي من Sberbank",
+    "tagline_en": "Russian AI assistant from Sberbank",
+    "desc_ar": "مساعد AI من Sberbank الروسي. يقود السوق الروسي كبديل محلي للأدوات الغربية.",
+    "desc_en": "AI assistant from Russian Sberbank. Leads the Russian market as a local alternative to Western tools.",
+    "long_desc_ar": "مساعد AI من Sberbank الروسي. يقود السوق الروسي كبديل محلي للأدوات الغربية.",
+    "long_desc_en": "AI assistant from Russian Sberbank. Leads the Russian market as a local alternative to Western tools.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://gigachat.ru",
+    "monthly_visits": "20M+",
+    "trending_score": 75,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gigachat.ru&sz=64"
+  },
+  {
+    "id": "silma-ai",
+    "name_ar": "سيلما AI",
+    "name_en": "Silma AI",
+    "slug": "silma-ai",
+    "tagline_ar": "نموذج عربي متعدد اللغات",
+    "tagline_en": "Multilingual Arabic model",
+    "desc_ar": "Silma AI نموذج متعدد اللغات متخصص في العربية. مثالي للتطبيقات في الخليج.",
+    "desc_en": "Silma AI نموذج متعدد اللغات متخصص في العربية. مثالي للتطبيقات في الخليج.",
+    "long_desc_ar": "Silma AI نموذج متعدد اللغات متخصص في العربية. مثالي للتطبيقات في الخليج.",
+    "long_desc_en": "Silma AI نموذج متعدد اللغات متخصص في العربية. مثالي للتطبيقات في الخليج.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://silma.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 75,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=silma.ai&sz=64"
+  },
+  {
+    "id": "candy-network",
+    "name_ar": "كاندي نتورك",
+    "name_en": "Candy Network",
+    "slug": "candy-network",
+    "tagline_ar": "شبكة AI اجتماعية إبداعية",
+    "tagline_en": "Creative AI social network",
+    "desc_ar": "شبكة اجتماعية مدعومة بالذكاء الاصطناعي ظهرت في a16z Top 100 2026.",
+    "desc_en": "AI-powered social network on a16z Top 100 2026.",
+    "long_desc_ar": "شبكة اجتماعية مدعومة بالذكاء الاصطناعي ظهرت في a16z Top 100 2026.",
+    "long_desc_en": "AI-powered social network on a16z Top 100 2026.",
+    "category": "chatbots",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://candy.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 73,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=candy.ai&sz=64"
+  }
+]

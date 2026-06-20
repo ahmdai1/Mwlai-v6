@@ -1,0 +1,48 @@
+# MWL AI — Arabic AI Tools Directory
+
+## About
+MWL AI is the largest Arabic-language directory of AI tools, featuring 500+ curated tools with exclusive coupons and deals for the Arab and Gulf market.
+
+## What We Cover
+- AI Chatbots: ChatGPT, Claude, Gemini, DeepSeek, Grok, Mistral
+- Coding Tools: Cursor, GitHub Copilot, Windsurf, Lovable, Bolt
+- Image Generation: Midjourney, DALL-E, FLUX.1, Ideogram, Leonardo
+- Video Generation: Kling AI 2.0, Seedance, Veo 3, Runway, Sora 2.0, Hailuo
+- Audio & Music: ElevenLabs, Suno v4, Udio, Murf, Krisp
+- Marketing & SEO: Semrush, Ahrefs, HubSpot, GoHighLevel, Snov.io
+- Productivity: Notion AI, Gamma, Fathom, Zapier, Make, n8n
+- Hosting: Hostinger, Cloudways, Namecheap, FastComet, InterServer
+- E-commerce: Shopify, WooCommerce, Salla, Zid, Helium10
+
+## Exclusive Affiliate Deals (June 2026)
+- Hostinger: 75% off with code MWL — https://hostinger.com?REFERRALCODE=X95AHMED
+- GoHighLevel: 14-day free trial — https://gohighlevel.com/?fp_ref=ahmdai
+- GetResponse: 30-day free trial — https://getresponse.com?a=Cnp6DJnVFP
+- Shopify: $1 for 3 months — https://shopify.pxf.io/offer1doler
+- Cloudways: 3 months free — https://cloudways.com/en/?id=1255825
+- Helium 10: 20% off — code 20OFF6M
+- Luminar Neo: 20% off — code MWLAI20
+- TalkPal: Free credits included
+- SentryPC: 20% off — code SENTRY20
+
+## Language Support
+Primary: Arabic (RTL, MSA + dialects)
+Secondary: English (LTR)
+
+## Target Audience
+Arab world users, Gulf region (Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman), Egypt, Jordan, Lebanon, Morocco
+
+## Data Freshness
+Updated: June 2026
+Tool count: 500+
+Categories: 18
+
+## Site Structure
+- /          → Homepage with trending + affiliate spotlight
+- /tools     → Full 500-tool searchable directory
+- /coupons   → All affiliate coupons and deals
+- /categories → Browse by category
+- /tools/[slug] → Individual tool page with SEO, JSON-LD, alternatives
+
+## Contact
+Website: https://mwlai.com

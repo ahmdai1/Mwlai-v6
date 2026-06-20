@@ -1,0 +1,3696 @@
+[
+  {
+    "id": "cursor",
+    "name_ar": "كيرسور",
+    "name_en": "Cursor",
+    "slug": "cursor",
+    "tagline_ar": "محرر الكود الذكي للمطورين المحترفين",
+    "tagline_en": "The AI code editor for pro developers",
+    "desc_ar": "محرر كود مبني على VS Code بذكاء اصطناعي كامل. يكتب ويصحح ويعيد هيكلة مشاريع كاملة. 2 مليار ARR.",
+    "desc_en": "VS Code-based editor with full AI. Writes, debugs, refactors complete projects. $2B ARR.",
+    "long_desc_ar": "Cursor هو محرر الكود الأسرع نمواً. Cursor 3 أضاف Agents Window يشغّل عدة وكلاء AI بالتوازي. وصل 2 مليار ARR وتبنّاه 90% من Fortune 100.",
+    "long_desc_en": "Cursor is the fastest-growing code editor. Cursor 3 added Agents Window running multiple AI agents in parallel. Reached $2B ARR adopted by 90% of Fortune 100.",
+    "category": "coding",
+    "tags_ar": [
+      "VS Code",
+      "برمجة",
+      "وكلاء",
+      "إنتاجية"
+    ],
+    "tags_en": [
+      "VS Code",
+      "coding",
+      "agents",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop",
+      "vscode"
+    ],
+    "website": "https://cursor.com",
+    "monthly_visits": "15M+",
+    "trending_score": 97,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "windsurf",
+      "github-copilot",
+      "lovable"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab"
+    ],
+    "use_cases_ar": [
+      "تطوير مشاريع كاملة",
+      "إصلاح الأخطاء",
+      "Refactoring",
+      "تعلم البرمجة"
+    ],
+    "use_cases_en": [
+      "Full project development",
+      "Debugging",
+      "Refactoring",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64"
+  },
+  {
+    "id": "cursor-3",
+    "name_ar": "كيرسور 3",
+    "name_en": "Cursor 3 Agents",
+    "slug": "cursor-3",
+    "tagline_ar": "عدة وكلاء AI تعمل بالتوازي في الكود",
+    "tagline_en": "Multiple AI agents working in parallel on code",
+    "desc_ar": "Cursor 3 أطلق Agents Window: عدة وكلاء AI بالتوازي. يغيّر فلسفة التطوير كلياً.",
+    "desc_en": "Cursor 3 launched Agents Window: multiple AI agents in parallel. Completely changes development philosophy.",
+    "long_desc_ar": "Cursor 3 أطلق Agents Window: عدة وكلاء AI بالتوازي. يغيّر فلسفة التطوير كلياً.",
+    "long_desc_en": "Cursor 3 launched Agents Window: multiple AI agents in parallel. Completely changes development philosophy.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://cursor.com",
+    "monthly_visits": "15M+",
+    "trending_score": 97,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64"
+  },
+  {
+    "id": "opencode",
+    "name_ar": "OpenCode",
+    "name_en": "OpenCode",
+    "slug": "opencode",
+    "tagline_ar": "#1 Coding Agent مفتوح المصدر — يونيو 2026",
+    "tagline_en": "#1 open-source coding agent — June 2026",
+    "desc_ar": "OpenCode وصل لـ 160K+ نجمة GitHub و7.5M مستخدم شهري. يدعم 75+ مزوداً بما فيه Ollama المحلي.",
+    "desc_en": "OpenCode reached 160K+ GitHub stars and 7.5M MAU. Supports 75+ providers including local Ollama.",
+    "long_desc_ar": "OpenCode Go-based CLI agent يدعم 75+ مزود. تصدّر تصنيفات أدوات الكود يونيو 2026. مجاني ومفتوح المصدر بالكامل.",
+    "long_desc_en": "OpenCode Go-based CLI agent supporting 75+ providers. Ranked #1 in coding tools June 2026. Completely free and open source.",
+    "category": "coding",
+    "tags_ar": [
+      "OpenCode",
+      "مفتوح المصدر",
+      "CLI",
+      "Coding Agent"
+    ],
+    "tags_en": [
+      "OpenCode",
+      "open source",
+      "CLI",
+      "coding agent"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "CLI",
+      "Linux",
+      "Mac",
+      "Windows"
+    ],
+    "website": "https://opencode.ai",
+    "monthly_visits": "10M+",
+    "trending_score": 97,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "cursor",
+      "claude-code",
+      "windsurf"
+    ],
+    "integrations": [
+      "Ollama",
+      "Claude",
+      "GPT",
+      "Gemini",
+      "75+ providers"
+    ],
+    "use_cases_ar": [
+      "تطوير مستقل",
+      "Agentic coding",
+      "مشاريع مفتوحة",
+      "تطوير محلي"
+    ],
+    "use_cases_en": [
+      "Autonomous dev",
+      "Agentic coding",
+      "Open source",
+      "Local dev"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=opencode.ai&sz=64"
+  },
+  {
+    "id": "claude-code",
+    "name_ar": "كلود كود",
+    "name_en": "Claude Code",
+    "slug": "claude-code",
+    "tagline_ar": "وكيل برمجة بلغ مليار دولار ARR في 6 أشهر",
+    "tagline_en": "Coding agent that hit $1B ARR in 6 months",
+    "desc_ar": "وكيل برمجة من Anthropic في سطر الأوامر. أعلى نتيجة على SWE-bench 80.8%.",
+    "desc_en": "Anthropic's command-line coding agent. Highest SWE-bench score 80.8%.",
+    "long_desc_ar": "Claude Code حقق مليار دولار ARR في 6 أشهر فقط. يفهم قواعد الكود الكاملة وينفذ مهام معقدة. 80.8% على SWE-bench أعلى من أي وكيل تجاري.",
+    "long_desc_en": "Claude Code reached $1B ARR in just 6 months. Understands full codebases and executes complex tasks. 80.8% on SWE-bench - highest of any commercial agent.",
+    "category": "coding",
+    "tags_ar": [
+      "وكيل",
+      "سطر أوامر",
+      "Anthropic",
+      "مليار دولار"
+    ],
+    "tags_en": [
+      "agent",
+      "CLI",
+      "Anthropic",
+      "$1B ARR"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$100/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "desktop",
+      "api"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 96,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "cursor",
+      "devin",
+      "github-copilot"
+    ],
+    "integrations": [
+      "GitHub",
+      "Terminal",
+      "VS Code"
+    ],
+    "use_cases_ar": [
+      "مشاريع برمجية كاملة",
+      "Refactoring ضخم",
+      "مراجعة الكود",
+      "تطوير مستقل"
+    ],
+    "use_cases_en": [
+      "Complete coding projects",
+      "Large refactoring",
+      "Code review",
+      "Autonomous development"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "github-copilot",
+    "name_ar": "جيتهاب كوبايلوت",
+    "name_en": "GitHub Copilot",
+    "slug": "github-copilot",
+    "tagline_ar": "مساعد البرمجة الأشهر بـ 20 مليون مستخدم",
+    "tagline_en": "Most popular coding assistant with 20M users",
+    "desc_ar": "مساعد البرمجة الأشهر مدمج في VS Code وJetBrains. يُكمل الأكواد تلقائياً ويولّد 46% من كود مستخدميه.",
+    "desc_en": "Most popular coding assistant in VS Code and JetBrains. Auto-completes code and generates 46% of users' code.",
+    "long_desc_ar": "GitHub Copilot وصل 20 مليون مستخدم في يوليو 2025 وتبنّاه 90% من Fortune 100. يعمل داخل VS Code وJetBrains. يولد 46% من الكود. الخطة المجانية 2000 اقتراح شهرياً.",
+    "long_desc_en": "GitHub Copilot reached 20M users in July 2025 adopted by 90% Fortune 100. Works in VS Code and JetBrains. Generates 46% of code. Free plan: 2000 suggestions monthly.",
+    "category": "coding",
+    "tags_ar": [
+      "GitHub",
+      "إكمال كود",
+      "VS Code",
+      "JetBrains"
+    ],
+    "tags_en": [
+      "GitHub",
+      "code completion",
+      "VS Code",
+      "JetBrains"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "vscode",
+      "desktop"
+    ],
+    "website": "https://github.com/features/copilot",
+    "monthly_visits": "100M+",
+    "trending_score": 95,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "cursor",
+      "windsurf",
+      "codeium"
+    ],
+    "integrations": [
+      "VS Code",
+      "JetBrains",
+      "GitHub"
+    ],
+    "use_cases_ar": [
+      "إكمال الكود",
+      "اقتراح الدوال",
+      "كتابة Tests",
+      "توثيق الكود"
+    ],
+    "use_cases_en": [
+      "Code completion",
+      "Function suggestions",
+      "Writing tests",
+      "Documentation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "id": "cursor-ai-agent",
+    "name_ar": "كيرسور وكيل",
+    "name_en": "Cursor Agents",
+    "slug": "cursor-agents",
+    "tagline_ar": "عدة وكلاء AI تعمل بالتوازي في الكود",
+    "tagline_en": "Multiple AI agents working in parallel on code",
+    "desc_ar": "Cursor Agents Window يشغّل عدة وكلاء AI في نفس الوقت على الكود. إنتاجية 10x.",
+    "desc_en": "Cursor Agents Window runs multiple AI agents simultaneously on code. 10x productivity.",
+    "long_desc_ar": "Cursor 3 أضاف Agents Window الذي يتيح تشغيل عدة وكلاء AI بالتوازي على قواعد كود مختلفة في نفس الوقت. يغيّر فلسفة التطوير - المطور المهندس والوكلاء البنّاؤون.",
+    "long_desc_en": "Cursor 3 added Agents Window enabling multiple AI agents running in parallel on different codebases simultaneously. Changes development philosophy - developer as architect, agents as builders.",
+    "category": "coding",
+    "tags_ar": [
+      "وكلاء",
+      "توازي",
+      "إنتاجية",
+      "Cursor 3"
+    ],
+    "tags_en": [
+      "agents",
+      "parallel",
+      "productivity",
+      "Cursor 3"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop"
+    ],
+    "website": "https://cursor.com",
+    "monthly_visits": "15M+",
+    "trending_score": 94,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "windsurf",
+      "github-copilot",
+      "claude-code"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab",
+      "Terminal"
+    ],
+    "use_cases_ar": [
+      "تطوير متوازي",
+      "مشاريع ضخمة",
+      "تسريع التطوير",
+      "فرق تطوير"
+    ],
+    "use_cases_en": [
+      "Parallel development",
+      "Large projects",
+      "Dev acceleration",
+      "Dev teams"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64"
+  },
+  {
+    "id": "windsurf",
+    "name_ar": "ويندسيرف",
+    "name_en": "Windsurf",
+    "slug": "windsurf",
+    "tagline_ar": "محرر كود AI المنافس الأقوى لكيرسور",
+    "tagline_en": "Cursor's strongest AI code editor rival",
+    "desc_ar": "محرر كود من Codeium صنّفه LogRocket الأول في أبريل 2026. الأفضل للمشاريع الكبيرة.",
+    "desc_en": "Codeium's editor ranked #1 by LogRocket April 2026. Best for large codebases.",
+    "long_desc_ar": "Windsurf من Codeium صنّفه LogRocket المرتبة الأولى أبريل 2026 متقدماً على Cursor. يتميز بالمشاريع الكبيرة والامتثال الأمني. $20/شهر.",
+    "long_desc_en": "Windsurf from Codeium ranked #1 by LogRocket April 2026 ahead of Cursor. Excels with large codebases and enterprise security. $20/month.",
+    "category": "coding",
+    "tags_ar": [
+      "محرر كود",
+      "مشاريع كبيرة",
+      "Codeium",
+      "مؤسسات"
+    ],
+    "tags_en": [
+      "code editor",
+      "large codebases",
+      "Codeium",
+      "enterprise"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop",
+      "vscode"
+    ],
+    "website": "https://windsurf.com",
+    "monthly_visits": "5M+",
+    "trending_score": 93,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "cursor",
+      "github-copilot"
+    ],
+    "integrations": [
+      "GitHub",
+      "GitLab"
+    ],
+    "use_cases_ar": [
+      "مشاريع enterprise",
+      "قواعد كود كبيرة",
+      "فرق تطوير",
+      "امتثال أمني"
+    ],
+    "use_cases_en": [
+      "Enterprise projects",
+      "Large codebases",
+      "Dev teams",
+      "Security compliance"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=windsurf.com&sz=64"
+  },
+  {
+    "id": "bolt-new",
+    "name_ar": "Bolt.new",
+    "name_en": "Bolt.new",
+    "slug": "bolt-new",
+    "tagline_ar": "بناء تطبيقات كاملة في المتصفح بدون بيئة",
+    "tagline_en": "Build full apps in browser without environment",
+    "desc_ar": "Bolt.new يبني تطبيقات Next.js وReact كاملة في المتصفح مباشرة مع نشر فوري. بدون إعداد.",
+    "desc_en": "Bolt.new builds complete Next.js and React apps in the browser with instant deployment. No setup.",
+    "long_desc_ar": "Bolt.new يبني تطبيقات Next.js وReact كاملة في المتصفح مباشرة مع نشر فوري. بدون إعداد.",
+    "long_desc_en": "Bolt.new builds complete Next.js and React apps in the browser with instant deployment. No setup.",
+    "category": "coding",
+    "tags_ar": [
+      "Bolt",
+      "No-code",
+      "تطبيقات",
+      "متصفح"
+    ],
+    "tags_en": [
+      "Bolt",
+      "no-code",
+      "apps",
+      "browser"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://bolt.new",
+    "monthly_visits": "8M+",
+    "trending_score": 93,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "lovable",
+      "v0",
+      "google-stitch"
+    ],
+    "integrations": [
+      "Netlify",
+      "GitHub",
+      "Supabase"
+    ],
+    "use_cases_ar": [
+      "تطبيقات ويب",
+      "Startups",
+      "MVP",
+      "نماذج أولية"
+    ],
+    "use_cases_en": [
+      "Web apps",
+      "Startups",
+      "MVP",
+      "Prototypes"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bolt.new&sz=64"
+  },
+  {
+    "id": "github",
+    "name_ar": "جيتهاب",
+    "name_en": "GitHub",
+    "slug": "github",
+    "tagline_ar": "المنصة الأولى لاستضافة الكود",
+    "tagline_en": "#1 code hosting platform",
+    "desc_ar": "أكبر منصة لاستضافة الكود. مليار+ مستودع وCopilot AI.",
+    "desc_en": "Largest code hosting platform. 1B+ repositories and Copilot AI.",
+    "long_desc_ar": "أكبر منصة لاستضافة الكود. مليار+ مستودع وCopilot AI.",
+    "long_desc_en": "Largest code hosting platform. 1B+ repositories and Copilot AI.",
+    "category": "coding",
+    "tags_ar": [
+      "كود",
+      "مستودعات",
+      "open source",
+      "CI/CD"
+    ],
+    "tags_en": [
+      "code",
+      "repositories",
+      "open source",
+      "CI/CD"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$4/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://github.com",
+    "monthly_visits": "100M+",
+    "trending_score": 92,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [
+      "gitlab",
+      "bitbucket",
+      "gitea"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "id": "lovable-2",
+    "name_ar": "لوفابل 2.0",
+    "name_en": "Lovable 2.0",
+    "slug": "lovable-2",
+    "tagline_ar": "ملكة vibe coding بالتاج الجديد",
+    "tagline_en": "The new vibe coding queen",
+    "desc_ar": "Lovable أخذت عرش vibe coding في 2026. نمو ضخم بعد ما انسحبت Replit من قائمة الويب.",
+    "desc_en": "Lovable took the vibe coding crown in 2026. Massive growth after Replit dropped from web ranking.",
+    "long_desc_ar": "Lovable أخذت عرش vibe coding في 2026. نمو ضخم بعد ما انسحبت Replit من قائمة الويب.",
+    "long_desc_en": "Lovable took the vibe coding crown in 2026. Massive growth after Replit dropped from web ranking.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://lovable.dev",
+    "monthly_visits": "5M+",
+    "trending_score": 92,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lovable.dev&sz=64"
+  },
+  {
+    "id": "anthropic-claude-api",
+    "name_ar": "Anthropic Claude API",
+    "name_en": "Claude API 2026",
+    "slug": "anthropic-claude-api",
+    "tagline_ar": "أقوى API للمطورين من Anthropic",
+    "tagline_en": "Most powerful developer API from Anthropic",
+    "desc_ar": "Claude API يوفر أقوى نماذج Anthropic للمطورين. Claude Sonnet 4 وOpus 4 وHaiku 4.5.",
+    "desc_en": "Claude API يوفر أقوى نماذج Anthropic للمطورين. Claude Sonnet 4 وOpus 4 وHaiku 4.5.",
+    "long_desc_ar": "Claude API يوفر أقوى نماذج Anthropic للمطورين. Claude Sonnet 4 وOpus 4 وHaiku 4.5.",
+    "long_desc_en": "Claude API يوفر أقوى نماذج Anthropic للمطورين. Claude Sonnet 4 وOpus 4 وHaiku 4.5.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "Pay-per-use",
+    "price_pro": "Pay-per-use",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://anthropic.com",
+    "monthly_visits": "3M+",
+    "trending_score": 92,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
+  },
+  {
+    "id": "windsurf-ai",
+    "name_ar": "Windsurf",
+    "name_en": "Windsurf",
+    "slug": "windsurf-ai",
+    "tagline_ar": "بيئة تطوير AI من Codeium مجاناً",
+    "tagline_en": "Free AI development environment from Codeium",
+    "desc_ar": "Windsurf من Codeium يقدم Flows للتعاون بين المطور والـ AI. نسخة مجانية سخية مع 200 استخدام/شهر.",
+    "desc_en": "Windsurf by Codeium offers Flows for developer-AI collaboration. Generous free tier with 200 uses/month.",
+    "long_desc_ar": "Windsurf من Codeium يقدم Flows للتعاون بين المطور والـ AI. نسخة مجانية سخية مع 200 استخدام/شهر.",
+    "long_desc_en": "Windsurf by Codeium offers Flows for developer-AI collaboration. Generous free tier with 200 uses/month.",
+    "category": "coding",
+    "tags_ar": [
+      "Windsurf",
+      "Codeium",
+      "AI IDE",
+      "مجاني"
+    ],
+    "tags_en": [
+      "Windsurf",
+      "Codeium",
+      "AI IDE",
+      "free"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15",
+    "has_free_trial": true,
+    "platforms": [
+      "Mac",
+      "Windows",
+      "Linux"
+    ],
+    "website": "https://codeium.com/windsurf",
+    "monthly_visits": "5M+",
+    "trending_score": 92,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "cursor-3",
+      "opencode",
+      "claude-code"
+    ],
+    "integrations": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "GitHub"
+    ],
+    "use_cases_ar": [
+      "تطوير",
+      "Agents",
+      "مشاريع",
+      "Code review"
+    ],
+    "use_cases_en": [
+      "Development",
+      "Agents",
+      "Projects",
+      "Code review"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=codeium.com&sz=64"
+  },
+  {
+    "id": "lovable",
+    "name_ar": "لوفابل",
+    "name_en": "Lovable",
+    "slug": "lovable",
+    "tagline_ar": "ابنِ تطبيقات كاملة بالكلام فقط",
+    "tagline_en": "Build complete apps with just words",
+    "desc_ar": "منصة vibe coding تبني تطبيقات ويب كاملة من وصف نصي. ظهرت في a16z 2026 مرتين.",
+    "desc_en": "Vibe coding platform building complete web apps from text. Appeared on a16z 2026 twice.",
+    "long_desc_ar": "Lovable هي أبرز منصات vibe coding 2025. تبني تطبيقات ويب كاملة بدون كود. ظهرت في a16z مرتين دليل على الاحتفاظ بالمستخدمين. تدعم النشر الفوري.",
+    "long_desc_en": "Lovable is the standout vibe coding platform of 2025. Builds complete web apps without code. Appeared on a16z twice indicating strong retention.",
+    "category": "coding",
+    "tags_ar": [
+      "vibe coding",
+      "بدون كود",
+      "تطبيقات",
+      "نشر سريع"
+    ],
+    "tags_en": [
+      "vibe coding",
+      "no-code",
+      "apps",
+      "fast deploy"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://lovable.dev",
+    "monthly_visits": "3M+",
+    "trending_score": 91,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "bolt",
+      "replit",
+      "cursor"
+    ],
+    "integrations": [
+      "GitHub",
+      "Supabase",
+      "Vercel"
+    ],
+    "use_cases_ar": [
+      "نماذج أولية",
+      "تطبيقات SaaS",
+      "مواقع ويب",
+      "MVPs"
+    ],
+    "use_cases_en": [
+      "Prototyping",
+      "SaaS apps",
+      "Websites",
+      "MVPs"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lovable.dev&sz=64"
+  },
+  {
+    "id": "windsurf-2",
+    "name_ar": "ويندسيرف كاسكيد",
+    "name_en": "Windsurf Cascade",
+    "slug": "windsurf-2",
+    "tagline_ar": "محرر كود بوكيل AI متقدم",
+    "tagline_en": "Code editor with advanced AI agent",
+    "desc_ar": "Windsurf Cascade هو الوكيل AI المدمج في Windsurf. يفهم السياق الكامل للمشروع.",
+    "desc_en": "Windsurf Cascade is the AI agent built into Windsurf. Understands full project context.",
+    "long_desc_ar": "Windsurf Cascade هو الوكيل AI المدمج في Windsurf. يفهم السياق الكامل للمشروع.",
+    "long_desc_en": "Windsurf Cascade is the AI agent built into Windsurf. Understands full project context.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://windsurf.com",
+    "monthly_visits": "5M+",
+    "trending_score": 91,
+    "rating": 4.8,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=windsurf.com&sz=64"
+  },
+  {
+    "id": "v0",
+    "name_ar": "V0 من فيرسل",
+    "name_en": "v0 by Vercel",
+    "slug": "v0",
+    "tagline_ar": "ولّد مكونات React باحترافية بالكلام",
+    "tagline_en": "Generate professional React components with words",
+    "desc_ar": "أداة Vercel لتوليد مكونات UI بـ React وTailwind. صف التصميم واحصل على كود جاهز.",
+    "desc_en": "Vercel's tool for generating React UI components with Tailwind. Describe design and get ready code.",
+    "long_desc_ar": "v0 من Vercel تولد مكونات UI من وصف أو صورة. كود React كامل مع Tailwind وshadcn/ui. مثالي لمطوري Frontend. مجاني بشكل سخي.",
+    "long_desc_en": "v0 from Vercel generates UI components from text or image. Complete React code with Tailwind and shadcn/ui. Perfect for Frontend developers. Very generous free tier.",
+    "category": "coding",
+    "tags_ar": [
+      "React",
+      "UI",
+      "Tailwind",
+      "Vercel"
+    ],
+    "tags_en": [
+      "React",
+      "UI",
+      "Tailwind",
+      "Vercel"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://v0.dev",
+    "monthly_visits": "3M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "cursor",
+      "bolt",
+      "lovable"
+    ],
+    "integrations": [
+      "Vercel",
+      "GitHub",
+      "shadcn"
+    ],
+    "use_cases_ar": [
+      "مكونات React",
+      "تصميم UI",
+      "نماذج أولية",
+      "تطوير Frontend"
+    ],
+    "use_cases_en": [
+      "React components",
+      "UI design",
+      "Prototyping",
+      "Frontend dev"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=v0.dev&sz=64"
+  },
+  {
+    "id": "huggingface",
+    "name_ar": "هاجينج فيس",
+    "name_en": "Hugging Face",
+    "slug": "huggingface",
+    "tagline_ar": "GitHub الذكاء الاصطناعي ومنصة النماذج",
+    "tagline_en": "The GitHub of AI and model hub",
+    "desc_ar": "أكبر منصة مفتوحة المصدر لنماذج AI. أكثر من 500,000 نموذج ومجتمع ضخم من الباحثين.",
+    "desc_en": "Largest open-source AI models platform. Over 500,000 models and huge researcher community.",
+    "long_desc_ar": "أكبر منصة مفتوحة المصدر لنماذج AI. أكثر من 500,000 نموذج ومجتمع ضخم من الباحثين.",
+    "long_desc_en": "Largest open-source AI models platform. Over 500,000 models and huge researcher community.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://huggingface.co",
+    "monthly_visits": "50M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+  },
+  {
+    "id": "openai-codex",
+    "name_ar": "OpenAI Codex",
+    "name_en": "OpenAI Codex",
+    "slug": "openai-codex",
+    "tagline_ar": "وكيل الكود من OpenAI - 2M مستخدم أسبوعي",
+    "tagline_en": "OpenAI coding agent - 2M weekly users",
+    "desc_ar": "Codex من OpenAI بلغ 2 مليون مستخدم أسبوعي في مارس 2026. يكتب كوداً كاملاً بشكل مستقل.",
+    "desc_en": "OpenAI Codex reached 2M weekly users in March 2026. Writes complete code autonomously.",
+    "long_desc_ar": "Codex من OpenAI بلغ 2 مليون مستخدم أسبوعي في مارس 2026. يكتب كوداً كاملاً بشكل مستقل.",
+    "long_desc_en": "OpenAI Codex reached 2M weekly users in March 2026. Writes complete code autonomously.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "hugging-face",
+    "name_ar": "HuggingFace",
+    "name_en": "HuggingFace",
+    "slug": "hugging-face",
+    "tagline_ar": "GitHub للنماذج AI",
+    "tagline_en": "GitHub for AI models",
+    "desc_ar": "HuggingFace المنصة الأولى لمشاركة نماذج AI. 800K+ نموذج و200K+ مجموعة بيانات مجانية.",
+    "desc_en": "HuggingFace is the #1 platform for sharing AI models. 800K+ models and 200K+ free datasets.",
+    "long_desc_ar": "HuggingFace المنصة الأولى لمشاركة نماذج AI. 800K+ نموذج و200K+ مجموعة بيانات مجانية.",
+    "long_desc_en": "HuggingFace is the #1 platform for sharing AI models. 800K+ models and 200K+ free datasets.",
+    "category": "coding",
+    "tags_ar": [
+      "HuggingFace",
+      "coding"
+    ],
+    "tags_en": [
+      "HuggingFace",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://huggingface.co",
+    "monthly_visits": "2M+",
+    "trending_score": 90,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+  },
+  {
+    "id": "bolt",
+    "name_ar": "بولت",
+    "name_en": "Bolt.new",
+    "slug": "bolt",
+    "tagline_ar": "تطبيقات ويب كاملة في ثوانٍ",
+    "tagline_en": "Complete web apps in seconds",
+    "desc_ar": "منصة StackBlitz لبناء تطبيقات ويب بالذكاء الاصطناعي. بيئة تطوير كاملة في المتصفح.",
+    "desc_en": "StackBlitz platform for complete AI web apps. Full development environment in browser.",
+    "long_desc_ar": "Bolt.new تجمع VS Code وطرفية وخادم مباشر كلها في المتصفح. صف تطبيقك وسيبنيه AI. شائعة للنماذج الأولية السريعة.",
+    "long_desc_en": "Bolt.new combines VS Code, terminal, and live server all in browser. Describe your app and AI builds it. Popular for rapid prototyping.",
+    "category": "coding",
+    "tags_ar": [
+      "تطبيقات",
+      "متصفح",
+      "بدون إعداد",
+      "سريع"
+    ],
+    "tags_en": [
+      "apps",
+      "browser",
+      "no-setup",
+      "fast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://bolt.new",
+    "monthly_visits": "5M+",
+    "trending_score": 89,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "lovable",
+      "replit",
+      "cursor"
+    ],
+    "integrations": [
+      "GitHub",
+      "Supabase",
+      "Netlify"
+    ],
+    "use_cases_ar": [
+      "نماذج أولية",
+      "تعلم البرمجة",
+      "تطبيقات سريعة",
+      "اختبار أفكار"
+    ],
+    "use_cases_en": [
+      "Prototyping",
+      "Learning coding",
+      "Quick apps",
+      "Idea testing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bolt.new&sz=64"
+  },
+  {
+    "id": "replit",
+    "name_ar": "ريبليت",
+    "name_en": "Replit",
+    "slug": "replit",
+    "tagline_ar": "بيئة تطوير كاملة في المتصفح مع AI",
+    "tagline_en": "Full dev environment in browser with AI",
+    "desc_ar": "منصة تطوير سحابية بذكاء اصطناعي. كتابة وتشغيل ونشر الكود كله من المتصفح. 30 مليون مستخدم.",
+    "desc_en": "Cloud dev platform with AI. Write, run, deploy code from browser. 30 million users.",
+    "long_desc_ar": "Replit في قائمة a16z Top 100 AI Apps 2026. بيئة تطوير كاملة في المتصفح. Replit Agent يبني تطبيقات كاملة. شائعة في التعليم. 30 مليون مستخدم.",
+    "long_desc_en": "Replit on a16z Top 100 AI Apps 2026. Complete browser development environment. Replit Agent builds complete apps. Very popular in education. 30M users.",
+    "category": "coding",
+    "tags_ar": [
+      "تعليم",
+      "سحابي",
+      "متصفح",
+      "نشر"
+    ],
+    "tags_en": [
+      "education",
+      "cloud",
+      "browser",
+      "deployment"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://replit.com",
+    "monthly_visits": "20M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "bolt",
+      "lovable",
+      "cursor"
+    ],
+    "integrations": [
+      "GitHub",
+      "PostgreSQL"
+    ],
+    "use_cases_ar": [
+      "تعلم البرمجة",
+      "مشاريع تعاونية",
+      "نماذج أولية",
+      "تدريس"
+    ],
+    "use_cases_en": [
+      "Learning coding",
+      "Collaborative projects",
+      "Prototyping",
+      "Teaching"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=replit.com&sz=64"
+  },
+  {
+    "id": "wordpress",
+    "name_ar": "ووردبريس",
+    "name_en": "WordPress",
+    "slug": "wordpress",
+    "tagline_ar": "نظام إدارة المحتوى الأشهر في العالم",
+    "tagline_en": "World's most popular CMS",
+    "desc_ar": "يشغّل 43% من مواقع الإنترنت. مفتوح المصدر مع آلاف الإضافات.",
+    "desc_en": "Powers 43% of websites. Open source with thousands of plugins.",
+    "long_desc_ar": "يشغّل 43% من مواقع الإنترنت. مفتوح المصدر مع آلاف الإضافات.",
+    "long_desc_en": "Powers 43% of websites. Open source with thousands of plugins.",
+    "category": "coding",
+    "tags_ar": [
+      "مواقع",
+      "مدونات",
+      "مفتوح المصدر",
+      "43%"
+    ],
+    "tags_en": [
+      "websites",
+      "blogs",
+      "open-source",
+      "43%"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$4/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "website": "https://wordpress.org",
+    "monthly_visits": "500M+",
+    "trending_score": 88,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2003,
+    "alternatives": [
+      "webflow",
+      "wix",
+      "squarespace"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wordpress.org&sz=64"
+  },
+  {
+    "id": "vercel",
+    "name_ar": "فيرسل",
+    "name_en": "Vercel",
+    "slug": "vercel",
+    "tagline_ar": "نشر تطبيقات Next.js وReact بسرعة",
+    "tagline_en": "Deploy Next.js and React apps fast",
+    "desc_ar": "المنصة الأفضل لنشر Next.js وReact. CI/CD تلقائي وCDN عالمي.",
+    "desc_en": "Best platform for Next.js and React. Automatic CI/CD and global CDN.",
+    "long_desc_ar": "المنصة الأفضل لنشر Next.js وReact. CI/CD تلقائي وCDN عالمي.",
+    "long_desc_en": "Best platform for Next.js and React. Automatic CI/CD and global CDN.",
+    "category": "coding",
+    "tags_ar": [
+      "نشر",
+      "Next.js",
+      "React",
+      "سريع"
+    ],
+    "tags_en": [
+      "deployment",
+      "Next.js",
+      "React",
+      "fast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://vercel.com",
+    "monthly_visits": "2M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [
+      "netlify",
+      "cloudflare",
+      "render"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vercel.com&sz=64"
+  },
+  {
+    "id": "supabase",
+    "name_ar": "سوبابيس",
+    "name_en": "Supabase",
+    "slug": "supabase",
+    "tagline_ar": "بديل Firebase مفتوح المصدر",
+    "tagline_en": "Open-source Firebase alternative",
+    "desc_ar": "قاعدة بيانات وAuth وStorage مفتوحة. الأفضل مع Next.js.",
+    "desc_en": "Open-source database, Auth, Storage. Best with Next.js.",
+    "long_desc_ar": "قاعدة بيانات وAuth وStorage مفتوحة. الأفضل مع Next.js.",
+    "long_desc_en": "Open-source database, Auth, Storage. Best with Next.js.",
+    "category": "coding",
+    "tags_ar": [
+      "قاعدة بيانات",
+      "مفتوح المصدر",
+      "Firebase",
+      "Auth"
+    ],
+    "tags_en": [
+      "database",
+      "open-source",
+      "Firebase",
+      "Auth"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://supabase.com",
+    "monthly_visits": "1M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "firebase",
+      "planetscale",
+      "neon"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=supabase.com&sz=64"
+  },
+  {
+    "id": "cloudflare",
+    "name_ar": "كلاود فلير",
+    "name_en": "Cloudflare",
+    "slug": "cloudflare",
+    "tagline_ar": "CDN وأمان وAI للويب",
+    "tagline_en": "CDN, security, and AI for the web",
+    "desc_ar": "أكبر CDN عالمية. Workers لتشغيل كود في الحافة. AI Gateway.",
+    "desc_en": "World's largest CDN. Workers for edge code. AI Gateway for models.",
+    "long_desc_ar": "أكبر CDN عالمية. Workers لتشغيل كود في الحافة. AI Gateway.",
+    "long_desc_en": "World's largest CDN. Workers for edge code. AI Gateway for models.",
+    "category": "coding",
+    "tags_ar": [
+      "CDN",
+      "أمان",
+      "حافة",
+      "AI Workers"
+    ],
+    "tags_en": [
+      "CDN",
+      "security",
+      "edge",
+      "AI Workers"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://cloudflare.com",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2009,
+    "alternatives": [
+      "fastly",
+      "aws-cloudfront",
+      "vercel"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=64"
+  },
+  {
+    "id": "bolt-2",
+    "name_ar": "بولت الجديد",
+    "name_en": "Bolt.new 2.0",
+    "slug": "bolt-2",
+    "tagline_ar": "ابنِ تطبيقات حقيقية من الفكرة في ثوانٍ",
+    "tagline_en": "Build real apps from idea in seconds",
+    "desc_ar": "Bolt.new 2.0 أضاف دعم قواعد بيانات حقيقية وAPI كامل. المنافس الأقوى لـ Lovable.",
+    "desc_en": "Bolt.new 2.0 added real database support and full API. Strongest competitor to Lovable.",
+    "long_desc_ar": "Bolt.new 2.0 أضاف دعم قواعد بيانات حقيقية وAPI كامل. المنافس الأقوى لـ Lovable.",
+    "long_desc_en": "Bolt.new 2.0 added real database support and full API. Strongest competitor to Lovable.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://bolt.new",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bolt.new&sz=64"
+  },
+  {
+    "id": "vercel-v0",
+    "name_ar": "Vercel v0",
+    "name_en": "Vercel v0",
+    "slug": "vercel-v0",
+    "tagline_ar": "مولّد UI من النص — Vercel",
+    "tagline_en": "UI generator from text — Vercel",
+    "desc_ar": "Vercel v0 يولّد مكوّنات React/Tailwind من وصف نصي. مجاني ومتكامل مع Vercel.",
+    "desc_en": "Vercel v0 generates React/Tailwind components from text description. Free and integrated with Vercel.",
+    "long_desc_ar": "Vercel v0 يولّد مكوّنات React/Tailwind من وصف نصي. مجاني ومتكامل مع Vercel.",
+    "long_desc_en": "Vercel v0 generates React/Tailwind components from text description. Free and integrated with Vercel.",
+    "category": "coding",
+    "tags_ar": [
+      "Vercel v0",
+      "coding"
+    ],
+    "tags_en": [
+      "Vercel v0",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://v0.dev",
+    "monthly_visits": "2M+",
+    "trending_score": 88,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=v0.dev&sz=64"
+  },
+  {
+    "id": "devin",
+    "name_ar": "ديفن",
+    "name_en": "Devin",
+    "slug": "devin",
+    "tagline_ar": "أول مهندس برمجيات AI مستقل",
+    "tagline_en": "First autonomous AI software engineer",
+    "desc_ar": "مهندس AI يعمل باستقلالية كاملة. يبحث ويكتب الكود ويختبره وينشره وحده.",
+    "desc_en": "AI engineer working completely autonomously. Researches, writes, tests, deploys code alone.",
+    "long_desc_ar": "Devin من Cognition هو أول مهندس AI مستقل يعمل بدون إشراف مستمر. يفتح المتصفح ويبحث ويكتب الكود ويشغّل الاختبارات ويُصلح الأخطاء بشكل ذاتي. نتيجة 13.86% على SWE-bench عند الإطلاق.",
+    "long_desc_en": "Devin from Cognition is the first autonomous AI engineer working without constant supervision. Opens browser, researches, writes code, runs tests, fixes bugs by itself. 13.86% on SWE-bench at launch.",
+    "category": "coding",
+    "tags_ar": [
+      "مستقل",
+      "وكيل",
+      "ذاتي",
+      "مهندس AI"
+    ],
+    "tags_en": [
+      "autonomous",
+      "agent",
+      "self-directed",
+      "AI engineer"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$500/mo",
+    "price_pro": "$500/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://cognition.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 87,
+    "rating": 4.3,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "cursor",
+      "claude-code",
+      "github-copilot"
+    ],
+    "integrations": [
+      "GitHub",
+      "Slack"
+    ],
+    "use_cases_ar": [
+      "مشاريع كاملة",
+      "إصلاح Bugs",
+      "بناء ميزات",
+      "Code Review"
+    ],
+    "use_cases_en": [
+      "Complete projects",
+      "Bug fixing",
+      "Feature building",
+      "Code Review"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cognition.ai&sz=64"
+  },
+  {
+    "id": "google-ai-studio",
+    "name_ar": "جوجل AI Studio",
+    "name_en": "Google AI Studio",
+    "slug": "google-ai-studio",
+    "tagline_ar": "بناء تطبيقات AI بنماذج Google مباشرة",
+    "tagline_en": "Build AI apps with Google models directly",
+    "desc_ar": "منصة المطورين من Google للوصول لنماذج Gemini وبناء التطبيقات. في a16z Top 100 2026.",
+    "desc_en": "Google's developer platform for Gemini model access and app building. On a16z Top 100 2026.",
+    "long_desc_ar": "منصة المطورين من Google للوصول لنماذج Gemini وبناء التطبيقات. في a16z Top 100 2026.",
+    "long_desc_en": "Google's developer platform for Gemini model access and app building. On a16z Top 100 2026.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://aistudio.google.com",
+    "monthly_visits": "10M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64"
+  },
+  {
+    "id": "claude-in-chrome",
+    "name_ar": "كلود في Chrome",
+    "name_en": "Claude in Chrome",
+    "slug": "claude-chrome",
+    "tagline_ar": "كلود مدمج في متصفحك لتشغيل مهام ويب",
+    "tagline_en": "Claude embedded in your browser for web tasks",
+    "desc_ar": "Claude مدمج في Chrome يتصل بجلسة Claude أو Claude Code لتنفيذ مهام على الويب مباشرة.",
+    "desc_en": "Claude embedded in Chrome connecting to Claude or Claude Code session for direct web tasks.",
+    "long_desc_ar": "Claude in Chrome من Anthropic يتيح تشغيل مهام ويب مباشرة من المتصفح. يتصل بجلسة Claude الخاصة بك وينفذ المهام على الصفحات. جزء من منظومة Claude الشاملة التي أطلقتها Anthropic.",
+    "long_desc_en": "Claude in Chrome from Anthropic enables running web tasks directly from browser. Connects to your Claude session and executes tasks on pages. Part of Anthropic's comprehensive Claude ecosystem.",
+    "category": "coding",
+    "tags_ar": [
+      "Chrome",
+      "متصفح",
+      "مهام ويب",
+      "Anthropic"
+    ],
+    "tags_en": [
+      "Chrome",
+      "browser",
+      "web tasks",
+      "Anthropic"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "chrome"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 86,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [
+      "copilot",
+      "chatgpt-atlas",
+      "gemini"
+    ],
+    "integrations": [
+      "Claude",
+      "Chrome",
+      "GitHub"
+    ],
+    "use_cases_ar": [
+      "تشغيل مهام ويب",
+      "أتمتة التصفح",
+      "استخراج البيانات",
+      "ملء النماذج"
+    ],
+    "use_cases_en": [
+      "Running web tasks",
+      "Browser automation",
+      "Data extraction",
+      "Form filling"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "claude-chrome",
+    "name_ar": "كلود في Chrome",
+    "name_en": "Claude in Chrome",
+    "slug": "claude-chrome",
+    "tagline_ar": "تصفح الويب مع Claude مدمجاً",
+    "tagline_en": "Browse the web with Claude embedded",
+    "desc_ar": "Anthropic أطلقت Claude in Chrome. وكيل تصفح يتصل بجلستك وينفذ مهام على الويب مباشرة.",
+    "desc_en": "Anthropic launched Claude in Chrome. Browsing agent connecting to your session for direct web tasks.",
+    "long_desc_ar": "Anthropic أطلقت Claude in Chrome. وكيل تصفح يتصل بجلستك وينفذ مهام على الويب مباشرة.",
+    "long_desc_en": "Anthropic launched Claude in Chrome. Browsing agent connecting to your session for direct web tasks.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 86,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "openrouter",
+    "name_ar": "OpenRouter",
+    "name_en": "OpenRouter",
+    "slug": "openrouter",
+    "tagline_ar": "وصول موحد لكل نماذج AI",
+    "tagline_en": "Unified access to all AI models",
+    "desc_ar": "OpenRouter يوفر وصولاً موحداً لـ 200+ نموذج AI بـ API واحد. يقارن الأسعار تلقائياً.",
+    "desc_en": "OpenRouter provides unified access to 200+ AI models with one API. Automatically compares prices.",
+    "long_desc_ar": "OpenRouter يوفر وصولاً موحداً لـ 200+ نموذج AI بـ API واحد. يقارن الأسعار تلقائياً.",
+    "long_desc_en": "OpenRouter provides unified access to 200+ AI models with one API. Automatically compares prices.",
+    "category": "coding",
+    "tags_ar": [
+      "OpenRouter",
+      "coding"
+    ],
+    "tags_en": [
+      "OpenRouter",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://openrouter.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64"
+  },
+  {
+    "id": "github-copilot-ws",
+    "name_ar": "GitHub Copilot Workspace",
+    "name_en": "GitHub Copilot Workspace",
+    "slug": "github-copilot-ws",
+    "tagline_ar": "بيئة Agentic كاملة من GitHub",
+    "tagline_en": "Complete Agentic environment from GitHub",
+    "desc_ar": "GitHub Copilot Workspace يُنشئ خطة وينفّذها من Issue. Agentic coding كامل.",
+    "desc_en": "GitHub Copilot Workspace creates and executes a plan from an issue. Full agentic coding.",
+    "long_desc_ar": "GitHub Copilot Workspace يُنشئ خطة وينفّذها من Issue. Agentic coding كامل.",
+    "long_desc_en": "GitHub Copilot Workspace creates and executes a plan from an issue. Full agentic coding.",
+    "category": "coding",
+    "tags_ar": [
+      "GitHub Copilot Workspace",
+      "coding"
+    ],
+    "tags_en": [
+      "GitHub Copilot Workspace",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$10",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://github.com/features/copilot",
+    "monthly_visits": "2M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "id": "codeium",
+    "name_ar": "كوديوم",
+    "name_en": "Codeium",
+    "slug": "codeium",
+    "tagline_ar": "إكمال كود AI مجاني للأبد",
+    "tagline_en": "Free forever AI code completion",
+    "desc_ar": "مساعد برمجة مجاني يعمل مع 70+ لغة. بديل مجاني قوي لـ GitHub Copilot.",
+    "desc_en": "Free coding assistant for 70+ languages. Strong free alternative to GitHub Copilot.",
+    "long_desc_ar": "Codeium هو أقوى مساعد برمجة مجاني في السوق. 70+ لغة. VS Code وJetBrains وNeovim. إكمال غير محدود للفرد. الشركة وراء Windsurf.",
+    "long_desc_en": "Codeium is the most powerful free coding assistant. 70+ languages. Works with VS Code, JetBrains, Neovim. Unlimited for individuals. Company behind Windsurf.",
+    "category": "coding",
+    "tags_ar": [
+      "مجاني",
+      "70 لغة",
+      "إكمال كود",
+      "بديل Copilot"
+    ],
+    "tags_en": [
+      "free",
+      "70 languages",
+      "code completion",
+      "Copilot alt"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$12/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "vscode",
+      "desktop",
+      "web"
+    ],
+    "website": "https://codeium.com",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "github-copilot",
+      "cursor",
+      "windsurf"
+    ],
+    "integrations": [
+      "VS Code",
+      "JetBrains",
+      "Neovim"
+    ],
+    "use_cases_ar": [
+      "إكمال الكود",
+      "اقتراحات ذكية",
+      "دردشة مع الكود",
+      "تعلم البرمجة"
+    ],
+    "use_cases_en": [
+      "Code completion",
+      "Smart suggestions",
+      "Code chat",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=codeium.com&sz=64"
+  },
+  {
+    "id": "webflow",
+    "name_ar": "ويب فلو",
+    "name_en": "Webflow",
+    "slug": "webflow",
+    "tagline_ar": "مواقع ويب احترافية بدون كود",
+    "tagline_en": "Professional websites without code",
+    "desc_ar": "تصميم ونشر مواقع احترافية. AI يساعد في التصميم والتطوير.",
+    "desc_en": "Professional website design and publishing. AI helps with design and development.",
+    "long_desc_ar": "تصميم ونشر مواقع احترافية. AI يساعد في التصميم والتطوير.",
+    "long_desc_en": "Professional website design and publishing. AI helps with design and development.",
+    "category": "coding",
+    "tags_ar": [
+      "مواقع",
+      "تصميم",
+      "بدون كود",
+      "احترافي"
+    ],
+    "tags_en": [
+      "websites",
+      "design",
+      "no-code",
+      "professional"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$14/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://webflow.com",
+    "monthly_visits": "3M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "wix",
+      "squarespace",
+      "wordpress"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=webflow.com&sz=64"
+  },
+  {
+    "id": "replit-agent",
+    "name_ar": "ريبليت وكيل",
+    "name_en": "Replit Agent",
+    "slug": "replit-agent",
+    "tagline_ar": "وكيل بناء التطبيقات الكامل من Replit",
+    "tagline_en": "Full app building agent from Replit",
+    "desc_ar": "Replit Agent يبني تطبيقات كاملة من وصف نصي. لا يزال على قائمة الموبايل في a16z 2026.",
+    "desc_en": "Replit Agent builds complete apps from text description. Still on mobile list in a16z 2026.",
+    "long_desc_ar": "Replit Agent يبني تطبيقات كاملة من وصف نصي. لا يزال على قائمة الموبايل في a16z 2026.",
+    "long_desc_en": "Replit Agent builds complete apps from text description. Still on mobile list in a16z 2026.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://replit.com",
+    "monthly_visits": "20M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=replit.com&sz=64"
+  },
+  {
+    "id": "meta-llama-api",
+    "name_ar": "Meta Llama API",
+    "name_en": "Meta Llama API",
+    "slug": "meta-llama-api",
+    "tagline_ar": "API النماذج المفتوحة من Meta",
+    "tagline_en": "Meta open models API",
+    "desc_ar": "Meta يوفر API مجاني لنماذج Llama. الأسرع والأرخص للتطبيقات.",
+    "desc_en": "Meta يوفر API مجاني لنماذج Llama. الأسرع والأرخص للتطبيقات.",
+    "long_desc_ar": "Meta يوفر API مجاني لنماذج Llama. الأسرع والأرخص للتطبيقات.",
+    "long_desc_en": "Meta يوفر API مجاني لنماذج Llama. الأسرع والأرخص للتطبيقات.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://llama.meta.com",
+    "monthly_visits": "50M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=llama.meta.com&sz=64"
+  },
+  {
+    "id": "replit-ai",
+    "name_ar": "Replit AI",
+    "name_en": "Replit AI",
+    "slug": "replit-ai",
+    "tagline_ar": "برمجة في المتصفح مع AI",
+    "tagline_en": "Browser coding with AI",
+    "desc_ar": "Replit AI يدمج Coding Agent في بيئة تطوير كاملة في المتصفح. مثالي للمبتدئين والتعليم.",
+    "desc_en": "Replit AI integrates Coding Agent in a full development environment in the browser. Ideal for beginners.",
+    "long_desc_ar": "Replit AI يدمج Coding Agent في بيئة تطوير كاملة في المتصفح. مثالي للمبتدئين والتعليم.",
+    "long_desc_en": "Replit AI integrates Coding Agent in a full development environment in the browser. Ideal for beginners.",
+    "category": "coding",
+    "tags_ar": [
+      "Replit AI",
+      "coding"
+    ],
+    "tags_en": [
+      "Replit AI",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://replit.com",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=replit.com&sz=64"
+  },
+  {
+    "id": "langchain",
+    "name_ar": "LangChain",
+    "name_en": "LangChain",
+    "slug": "langchain",
+    "tagline_ar": "إطار بناء تطبيقات AI",
+    "tagline_en": "Framework for building AI applications",
+    "desc_ar": "LangChain يُسهّل بناء تطبيقات AI المعقدة مع Agents والـ RAG وسلاسل المعالجة.",
+    "desc_en": "LangChain simplifies building complex AI applications with Agents, RAG, and processing chains.",
+    "long_desc_ar": "LangChain يُسهّل بناء تطبيقات AI المعقدة مع Agents والـ RAG وسلاسل المعالجة.",
+    "long_desc_en": "LangChain simplifies building complex AI applications with Agents, RAG, and processing chains.",
+    "category": "coding",
+    "tags_ar": [
+      "LangChain",
+      "coding"
+    ],
+    "tags_en": [
+      "LangChain",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://langchain.com",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=langchain.com&sz=64"
+  },
+  {
+    "id": "groq",
+    "name_ar": "Groq",
+    "name_en": "Groq",
+    "slug": "groq",
+    "tagline_ar": "أسرع Inference API — 500 توكن/ثانية",
+    "tagline_en": "Fastest inference API — 500 tokens/second",
+    "desc_ar": "Groq يُقدم أسرع Inference في العالم بـ 500 توكن/ثانية. مجاني للمطورين. LLama وMistral.",
+    "desc_en": "Groq provides the world's fastest inference at 500 tokens/second. Free for developers. Llama and Mistral.",
+    "long_desc_ar": "Groq يُقدم أسرع Inference في العالم بـ 500 توكن/ثانية. مجاني للمطورين. LLama وMistral.",
+    "long_desc_en": "Groq provides the world's fastest inference at 500 tokens/second. Free for developers. Llama and Mistral.",
+    "category": "coding",
+    "tags_ar": [
+      "Groq",
+      "coding"
+    ],
+    "tags_en": [
+      "Groq",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://groq.com",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=groq.com&sz=64"
+  },
+  {
+    "id": "devin-ai",
+    "name_ar": "Devin AI",
+    "name_en": "Devin AI",
+    "slug": "devin-ai",
+    "tagline_ar": "أول مهندس برمجيات AI مستقل",
+    "tagline_en": "First autonomous AI software engineer",
+    "desc_ar": "Devin من Cognition يعمل باستقلالية كاملة على المهام البرمجية المعقدة. يُشغّل بيئة كاملة.",
+    "desc_en": "Devin from Cognition works with full autonomy on complex programming tasks. Runs a complete environment.",
+    "long_desc_ar": "Devin من Cognition يعمل باستقلالية كاملة على المهام البرمجية المعقدة. يُشغّل بيئة كاملة.",
+    "long_desc_en": "Devin from Cognition works with full autonomy on complex programming tasks. Runs a complete environment.",
+    "category": "coding",
+    "tags_ar": [
+      "Devin AI",
+      "coding"
+    ],
+    "tags_en": [
+      "Devin AI",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://cognition.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cognition.ai&sz=64"
+  },
+  {
+    "id": "langchain-ai",
+    "name_ar": "لانج تشين",
+    "name_en": "LangChain",
+    "slug": "langchain-ai",
+    "tagline_ar": "Framework لبناء تطبيقات AI",
+    "tagline_en": "Framework for building AI applications",
+    "desc_ar": "LangChain الأشهر لبناء تطبيقات AI. يربط النماذج بالأدوات والبيانات.",
+    "desc_en": "LangChain الأشهر لبناء تطبيقات AI. يربط النماذج بالأدوات والبيانات.",
+    "long_desc_ar": "LangChain الأشهر لبناء تطبيقات AI. يربط النماذج بالأدوات والبيانات.",
+    "long_desc_en": "LangChain الأشهر لبناء تطبيقات AI. يربط النماذج بالأدوات والبيانات.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://langchain.com",
+    "monthly_visits": "10M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=langchain.com&sz=64"
+  },
+  {
+    "id": "copilot-workspace",
+    "name_ar": "GitHub Copilot Workspace",
+    "name_en": "Copilot Workspace",
+    "slug": "copilot-workspace",
+    "tagline_ar": "بيئة تطوير AI كاملة من GitHub",
+    "tagline_en": "Full AI development environment from GitHub",
+    "desc_ar": "Copilot Workspace يبني تطبيقات كاملة من Issue. من الفكرة للكود في خطوات.",
+    "desc_en": "Copilot Workspace يبني تطبيقات كاملة من Issue. من الفكرة للكود في خطوات.",
+    "long_desc_ar": "Copilot Workspace يبني تطبيقات كاملة من Issue. من الفكرة للكود في خطوات.",
+    "long_desc_en": "Copilot Workspace يبني تطبيقات كاملة من Issue. من الفكرة للكود في خطوات.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://githubnext.com",
+    "monthly_visits": "100M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=githubnext.com&sz=64"
+  },
+  {
+    "id": "antigravity",
+    "name_ar": "أنتي جرافيتي",
+    "name_en": "Antigravity",
+    "slug": "antigravity",
+    "tagline_ar": "محرر كود AI مجاني يشغّل البرامج في المتصفح",
+    "tagline_en": "Free AI code editor running programs in browser",
+    "desc_ar": "محرر كود AI مجاني في المعاينة العامة. وكلاء AI يخططون ويكتبون ويشغّلون الكود.",
+    "desc_en": "Free AI code editor in public preview. AI agents plan, write, and run code.",
+    "long_desc_ar": "Antigravity في معاينة عامة مجانية. وكلاء AI يخططون ويكتبون وينفذون الكود بما فيه تثبيت الحزم والاختبار في المتصفح. أفضل خيار مجاني للـ vibe coding حالياً.",
+    "long_desc_en": "Antigravity in free public preview. AI agents plan, write, execute code including package installation and browser testing. Best free vibe coding option currently.",
+    "category": "coding",
+    "tags_ar": [
+      "مجاني",
+      "معاينة",
+      "وكلاء",
+      "متصفح"
+    ],
+    "tags_en": [
+      "free",
+      "preview",
+      "agents",
+      "browser"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://antigravity.dev",
+    "monthly_visits": "500K+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [
+      "lovable",
+      "bolt",
+      "replit"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "use_cases_ar": [
+      "تعلم البرمجة",
+      "نماذج أولية",
+      "مشاريع صغيرة",
+      "تجربة الأفكار"
+    ],
+    "use_cases_en": [
+      "Learning coding",
+      "Prototyping",
+      "Small projects",
+      "Idea testing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=antigravity.dev&sz=64"
+  },
+  {
+    "id": "wix",
+    "name_ar": "ويكس",
+    "name_en": "Wix",
+    "slug": "wix",
+    "tagline_ar": "موقع ويب بذكاء اصطناعي في دقائق",
+    "tagline_en": "AI website in minutes",
+    "desc_ar": "Wix ADI يبني موقعك الكامل من وصف نصي بسيط. مجاني للبداية.",
+    "desc_en": "Wix ADI builds complete site from simple description. Free to start.",
+    "long_desc_ar": "Wix ADI يبني موقعك الكامل من وصف نصي بسيط. مجاني للبداية.",
+    "long_desc_en": "Wix ADI builds complete site from simple description. Free to start.",
+    "category": "coding",
+    "tags_ar": [
+      "موقع ويب",
+      "AI builder",
+      "سهل",
+      "سريع"
+    ],
+    "tags_en": [
+      "website",
+      "AI builder",
+      "easy",
+      "fast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$17/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://wix.com",
+    "monthly_visits": "50M+",
+    "trending_score": 83,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "webflow",
+      "squarespace",
+      "wordpress"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wix.com&sz=64"
+  },
+  {
+    "id": "replicate",
+    "name_ar": "ريبليكيت",
+    "name_en": "Replicate",
+    "slug": "replicate",
+    "tagline_ar": "تشغيل نماذج AI مفتوحة المصدر بـ API",
+    "tagline_en": "Run open-source AI models via API",
+    "desc_ar": "منصة تشغيل آلاف نماذج AI مفتوحة المصدر بـ API واحد. للمطورين الذين يريدون تجربة كل شيء.",
+    "desc_en": "Platform for running thousands of open-source AI models via one API. For developers wanting to try everything.",
+    "long_desc_ar": "منصة تشغيل آلاف نماذج AI مفتوحة المصدر بـ API واحد. للمطورين الذين يريدون تجربة كل شيء.",
+    "long_desc_en": "Platform for running thousands of open-source AI models via one API. For developers wanting to try everything.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "Pay-per-use",
+    "price_pro": "Pay-per-use",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://replicate.com",
+    "monthly_visits": "3M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=replicate.com&sz=64"
+  },
+  {
+    "id": "github-models",
+    "name_ar": "GitHub Models",
+    "name_en": "GitHub Models",
+    "slug": "github-models",
+    "tagline_ar": "تجربة نماذج AI مباشرة في GitHub",
+    "tagline_en": "Test AI models directly in GitHub",
+    "desc_ar": "GitHub Models يتيح تجربة GPT-4o وClaude وLlama مباشرة في GitHub. مجاني للمطورين.",
+    "desc_en": "GitHub Models يتيح تجربة GPT-4o وClaude وLlama مباشرة في GitHub. مجاني للمطورين.",
+    "long_desc_ar": "GitHub Models يتيح تجربة GPT-4o وClaude وLlama مباشرة في GitHub. مجاني للمطورين.",
+    "long_desc_en": "GitHub Models يتيح تجربة GPT-4o وClaude وLlama مباشرة في GitHub. مجاني للمطورين.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://github.com/marketplace/models",
+    "monthly_visits": "100M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "id": "llamaindex",
+    "name_ar": "LlamaIndex",
+    "name_en": "LlamaIndex",
+    "slug": "llamaindex",
+    "tagline_ar": "ربط بياناتك بنماذج AI",
+    "tagline_en": "Connect your data to AI models",
+    "desc_ar": "LlamaIndex يُسهّل ربط البيانات المخصصة بنماذج AI لبناء تطبيقات RAG.",
+    "desc_en": "LlamaIndex simplifies connecting custom data to AI models for building RAG applications.",
+    "long_desc_ar": "LlamaIndex يُسهّل ربط البيانات المخصصة بنماذج AI لبناء تطبيقات RAG.",
+    "long_desc_en": "LlamaIndex simplifies connecting custom data to AI models for building RAG applications.",
+    "category": "coding",
+    "tags_ar": [
+      "LlamaIndex",
+      "coding"
+    ],
+    "tags_en": [
+      "LlamaIndex",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://llamaindex.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=llamaindex.ai&sz=64"
+  },
+  {
+    "id": "aws-bedrock",
+    "name_ar": "AWS Bedrock",
+    "name_en": "AWS Bedrock",
+    "slug": "aws-bedrock",
+    "tagline_ar": "الوصول لنماذج AI على AWS",
+    "tagline_en": "Access AI models on AWS",
+    "desc_ar": "AWS Bedrock يوفر وصولاً لـ Claude وTitan وStable Diffusion وغيرها على بنية AWS.",
+    "desc_en": "AWS Bedrock provides access to Claude, Titan, Stable Diffusion, and more on AWS infrastructure.",
+    "long_desc_ar": "AWS Bedrock يوفر وصولاً لـ Claude وTitan وStable Diffusion وغيرها على بنية AWS.",
+    "long_desc_en": "AWS Bedrock provides access to Claude, Titan, Stable Diffusion, and more on AWS infrastructure.",
+    "category": "coding",
+    "tags_ar": [
+      "AWS Bedrock",
+      "coding"
+    ],
+    "tags_en": [
+      "AWS Bedrock",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://aws.amazon.com/bedrock",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64"
+  },
+  {
+    "id": "vertex-ai",
+    "name_ar": "Google Vertex AI",
+    "name_en": "Google Vertex AI",
+    "slug": "vertex-ai",
+    "tagline_ar": "منصة AI السحابية من Google",
+    "tagline_en": "Google's cloud AI platform",
+    "desc_ar": "Vertex AI يوفر Gemini وImagen وMedLM وغيرها على بنية Google. للمؤسسات والمطورين.",
+    "desc_en": "Vertex AI provides Gemini, Imagen, MedLM, and more on Google infrastructure. For enterprises and developers.",
+    "long_desc_ar": "Vertex AI يوفر Gemini وImagen وMedLM وغيرها على بنية Google. للمؤسسات والمطورين.",
+    "long_desc_en": "Vertex AI provides Gemini, Imagen, MedLM, and more on Google infrastructure. For enterprises and developers.",
+    "category": "coding",
+    "tags_ar": [
+      "Google Vertex AI",
+      "coding"
+    ],
+    "tags_en": [
+      "Google Vertex AI",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://cloud.google.com/vertex-ai",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cloud.google.com&sz=64"
+  },
+  {
+    "id": "aider-ai",
+    "name_ar": "Aider",
+    "name_en": "Aider",
+    "slug": "aider-ai",
+    "tagline_ar": "Coding Assistant في Terminal مجاني",
+    "tagline_en": "Free Terminal Coding Assistant",
+    "desc_ar": "Aider coding assistant CLI مجاني ومفتوح المصدر. يعمل مع Claude وGPT مباشرة في Terminal.",
+    "desc_en": "Aider is a free open-source CLI coding assistant. Works with Claude and GPT directly in Terminal.",
+    "long_desc_ar": "Aider coding assistant CLI مجاني ومفتوح المصدر. يعمل مع Claude وGPT مباشرة في Terminal.",
+    "long_desc_en": "Aider is a free open-source CLI coding assistant. Works with Claude and GPT directly in Terminal.",
+    "category": "coding",
+    "tags_ar": [
+      "Aider",
+      "coding"
+    ],
+    "tags_en": [
+      "Aider",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://aider.chat",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aider.chat&sz=64"
+  },
+  {
+    "id": "phind",
+    "name_ar": "فايند",
+    "name_en": "Phind",
+    "slug": "phind",
+    "tagline_ar": "محرك بحث AI للمطورين",
+    "tagline_en": "AI search engine for developers",
+    "desc_ar": "محرك بحث AI للمطورين. يجيب على أسئلة البرمجة بكود قابل للتشغيل.",
+    "desc_en": "AI search engine for developers. Answers programming questions with runnable code.",
+    "long_desc_ar": "محرك بحث AI للمطورين. يجيب على أسئلة البرمجة بكود قابل للتشغيل.",
+    "long_desc_en": "AI search engine for developers. Answers programming questions with runnable code.",
+    "category": "coding",
+    "tags_ar": [
+      "بحث",
+      "مطورون",
+      "كود",
+      "سريع"
+    ],
+    "tags_en": [
+      "search",
+      "developers",
+      "code",
+      "fast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$17/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://phind.com",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "chatgpt",
+      "perplexity",
+      "stackoverflow"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=phind.com&sz=64"
+  },
+  {
+    "id": "retool",
+    "name_ar": "ريتول",
+    "name_en": "Retool",
+    "slug": "retool",
+    "tagline_ar": "أدوات داخلية بسرعة فائقة",
+    "tagline_en": "Build internal tools at lightning speed",
+    "desc_ar": "بناء أدوات الشركات الداخلية بسرعة بواجهة مرئية وكود.",
+    "desc_en": "Build internal business tools quickly with visual interface and code.",
+    "long_desc_ar": "بناء أدوات الشركات الداخلية بسرعة بواجهة مرئية وكود.",
+    "long_desc_en": "Build internal business tools quickly with visual interface and code.",
+    "category": "coding",
+    "tags_ar": [
+      "أدوات داخلية",
+      "شركات",
+      "سريع",
+      "مرئي"
+    ],
+    "tags_en": [
+      "internal tools",
+      "companies",
+      "fast",
+      "visual"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "website": "https://retool.com",
+    "monthly_visits": "500K+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "bubble",
+      "appsmith",
+      "tooljet"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=retool.com&sz=64"
+  },
+  {
+    "id": "bubble",
+    "name_ar": "بابل",
+    "name_en": "Bubble",
+    "slug": "bubble",
+    "tagline_ar": "تطبيقات ويب كاملة بدون كود",
+    "tagline_en": "Complete web apps without code",
+    "desc_ar": "no-code لبناء تطبيقات ويب كاملة. SaaS ومنصات وأسواق.",
+    "desc_en": "No-code for building complete web apps. SaaS, platforms, marketplaces.",
+    "long_desc_ar": "no-code لبناء تطبيقات ويب كاملة. SaaS ومنصات وأسواق.",
+    "long_desc_en": "No-code for building complete web apps. SaaS, platforms, marketplaces.",
+    "category": "coding",
+    "tags_ar": [
+      "بدون كود",
+      "تطبيقات",
+      "SaaS",
+      "منصات"
+    ],
+    "tags_en": [
+      "no-code",
+      "apps",
+      "SaaS",
+      "platforms"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$32/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://bubble.io",
+    "monthly_visits": "1M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "webflow",
+      "wix",
+      "retool"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bubble.io&sz=64"
+  },
+  {
+    "id": "warp-terminal",
+    "name_ar": "Warp AI",
+    "name_en": "Warp AI Terminal",
+    "slug": "warp-terminal",
+    "tagline_ar": "طرفية AI ذكية للمطورين",
+    "tagline_en": "Smart AI terminal for developers",
+    "desc_ar": "Warp طرفية حديثة مع AI. يفهم الأوامر ويقترح الحلول ويشرح الأخطاء.",
+    "desc_en": "Warp طرفية حديثة مع AI. يفهم الأوامر ويقترح الحلول ويشرح الأخطاء.",
+    "long_desc_ar": "Warp طرفية حديثة مع AI. يفهم الأوامر ويقترح الحلول ويشرح الأخطاء.",
+    "long_desc_en": "Warp طرفية حديثة مع AI. يفهم الأوامر ويقترح الحلول ويشرح الأخطاء.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://warp.dev",
+    "monthly_visits": "1M+",
+    "trending_score": 82,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=warp.dev&sz=64"
+  },
+  {
+    "id": "pinecone",
+    "name_ar": "Pinecone",
+    "name_en": "Pinecone",
+    "slug": "pinecone",
+    "tagline_ar": "قاعدة بيانات Vector للذكاء الاصطناعي",
+    "tagline_en": "Vector database for AI",
+    "desc_ar": "Pinecone قاعدة بيانات Vector السحابية الأكثر شيوعاً للبحث السيمانتيكي وتطبيقات AI.",
+    "desc_en": "Pinecone is the most popular cloud vector database for semantic search and AI applications.",
+    "long_desc_ar": "Pinecone قاعدة بيانات Vector السحابية الأكثر شيوعاً للبحث السيمانتيكي وتطبيقات AI.",
+    "long_desc_en": "Pinecone is the most popular cloud vector database for semantic search and AI applications.",
+    "category": "coding",
+    "tags_ar": [
+      "Pinecone",
+      "coding"
+    ],
+    "tags_en": [
+      "Pinecone",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://pinecone.io",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pinecone.io&sz=64"
+  },
+  {
+    "id": "azure-openai",
+    "name_ar": "Azure OpenAI",
+    "name_en": "Azure OpenAI",
+    "slug": "azure-openai",
+    "tagline_ar": "GPT وClaude على بنية Microsoft Azure",
+    "tagline_en": "GPT and Claude on Microsoft Azure infrastructure",
+    "desc_ar": "Azure OpenAI يُشغّل نماذج OpenAI وAnthropic على بنية Azure للمؤسسات.",
+    "desc_en": "Azure OpenAI runs OpenAI and Anthropic models on Azure infrastructure for enterprises.",
+    "long_desc_ar": "Azure OpenAI يُشغّل نماذج OpenAI وAnthropic على بنية Azure للمؤسسات.",
+    "long_desc_en": "Azure OpenAI runs OpenAI and Anthropic models on Azure infrastructure for enterprises.",
+    "category": "coding",
+    "tags_ar": [
+      "Azure OpenAI",
+      "coding"
+    ],
+    "tags_en": [
+      "Azure OpenAI",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://azure.microsoft.com/ai",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64"
+  },
+  {
+    "id": "perplexity-api",
+    "name_ar": "Perplexity API",
+    "name_en": "Perplexity API",
+    "slug": "perplexity-api",
+    "tagline_ar": "API بحث AI للمطورين",
+    "tagline_en": "AI search API for developers",
+    "desc_ar": "Perplexity API يُتيح للمطورين بناء تطبيقات بحث AI مع مصادر موثوقة.",
+    "desc_en": "Perplexity API allows developers to build AI search applications with verified sources.",
+    "long_desc_ar": "Perplexity API يُتيح للمطورين بناء تطبيقات بحث AI مع مصادر موثوقة.",
+    "long_desc_en": "Perplexity API allows developers to build AI search applications with verified sources.",
+    "category": "coding",
+    "tags_ar": [
+      "Perplexity API",
+      "coding"
+    ],
+    "tags_en": [
+      "Perplexity API",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$5/M",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "continue-dev",
+    "name_ar": "Continue",
+    "name_en": "Continue",
+    "slug": "continue-dev",
+    "tagline_ar": "امتداد VS Code لـ Coding AI مفتوح المصدر",
+    "tagline_en": "Open-source VS Code extension for AI coding",
+    "desc_ar": "Continue امتداد VS Code مفتوح المصدر لـ Coding AI. يتصل بأي نموذج بما فيه المحلي.",
+    "desc_en": "Continue is an open-source VS Code extension for AI coding. Connects to any model including local ones.",
+    "long_desc_ar": "Continue امتداد VS Code مفتوح المصدر لـ Coding AI. يتصل بأي نموذج بما فيه المحلي.",
+    "long_desc_en": "Continue is an open-source VS Code extension for AI coding. Connects to any model including local ones.",
+    "category": "coding",
+    "tags_ar": [
+      "Continue",
+      "coding"
+    ],
+    "tags_en": [
+      "Continue",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://continue.dev",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=continue.dev&sz=64"
+  },
+  {
+    "id": "dify-ai",
+    "name_ar": "ديفاي AI",
+    "name_en": "Dify AI",
+    "slug": "dify-ai",
+    "tagline_ar": "منصة LLMOps لبناء التطبيقات",
+    "tagline_en": "LLMOps platform for app building",
+    "desc_ar": "Dify يبني تطبيقات AI بواجهة بصرية. Pipeline وRAG وAgent في منصة واحدة.",
+    "desc_en": "Dify يبني تطبيقات AI بواجهة بصرية. Pipeline وRAG وAgent في منصة واحدة.",
+    "long_desc_ar": "Dify يبني تطبيقات AI بواجهة بصرية. Pipeline وRAG وAgent في منصة واحدة.",
+    "long_desc_en": "Dify يبني تطبيقات AI بواجهة بصرية. Pipeline وRAG وAgent في منصة واحدة.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://dify.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=dify.ai&sz=64"
+  },
+  {
+    "id": "openrouter-ai",
+    "name_ar": "أوبن روتر",
+    "name_en": "OpenRouter",
+    "slug": "openrouter-ai",
+    "tagline_ar": "API موحد لكل نماذج AI",
+    "tagline_en": "Unified API for all AI models",
+    "desc_ar": "OpenRouter يوفر API واحد للوصول لأكثر من 200 نموذج AI. مقارنة وتبديل سهل.",
+    "desc_en": "OpenRouter يوفر API واحد للوصول لأكثر من 200 نموذج AI. مقارنة وتبديل سهل.",
+    "long_desc_ar": "OpenRouter يوفر API واحد للوصول لأكثر من 200 نموذج AI. مقارنة وتبديل سهل.",
+    "long_desc_en": "OpenRouter يوفر API واحد للوصول لأكثر من 200 نموذج AI. مقارنة وتبديل سهل.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "Pay-per-use",
+    "price_pro": "Pay-per-use",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://openrouter.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64"
+  },
+  {
+    "id": "jetbrains-ai",
+    "name_ar": "JetBrains AI",
+    "name_en": "JetBrains AI Assistant",
+    "slug": "jetbrains-ai",
+    "tagline_ar": "AI مدمج في كل بيئات JetBrains",
+    "tagline_en": "AI built into all JetBrains IDEs",
+    "desc_ar": "JetBrains AI يضيف ذكاءً اصطناعياً لـ IntelliJ وPyCharm وWebStorm وغيرها.",
+    "desc_en": "JetBrains AI يضيف ذكاءً اصطناعياً لـ IntelliJ وPyCharm وWebStorm وغيرها.",
+    "long_desc_ar": "JetBrains AI يضيف ذكاءً اصطناعياً لـ IntelliJ وPyCharm وWebStorm وغيرها.",
+    "long_desc_en": "JetBrains AI يضيف ذكاءً اصطناعياً لـ IntelliJ وPyCharm وWebStorm وغيرها.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$10/mo",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://jetbrains.com",
+    "monthly_visits": "10M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=jetbrains.com&sz=64"
+  },
+  {
+    "id": "coderabbit-ai",
+    "name_ar": "Code Rabbit AI",
+    "name_en": "CodeRabbit",
+    "slug": "coderabbit-ai",
+    "tagline_ar": "مراجعة كود AI تلقائية على GitHub",
+    "tagline_en": "Automatic AI code review on GitHub",
+    "desc_ar": "CodeRabbit يراجع Pull Requests تلقائياً بالذكاء AI. يكتشف الأخطاء قبل الدمج.",
+    "desc_en": "CodeRabbit يراجع Pull Requests تلقائياً بالذكاء AI. يكتشف الأخطاء قبل الدمج.",
+    "long_desc_ar": "CodeRabbit يراجع Pull Requests تلقائياً بالذكاء AI. يكتشف الأخطاء قبل الدمج.",
+    "long_desc_en": "CodeRabbit يراجع Pull Requests تلقائياً بالذكاء AI. يكتشف الأخطاء قبل الدمج.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://coderabbit.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=coderabbit.ai&sz=64"
+  },
+  {
+    "id": "modal-ai",
+    "name_ar": "Modal",
+    "name_en": "Modal",
+    "slug": "modal-ai",
+    "tagline_ar": "بنية تحتية AI Serverless للمطورين",
+    "tagline_en": "Serverless AI infrastructure for developers",
+    "desc_ar": "Modal يُشغّل كود Python في السحابة بدون إعداد. مثالي لتدريب النماذج وتشغيل Inference.",
+    "desc_en": "Modal runs Python code in the cloud without setup. Ideal for model training and running inference.",
+    "long_desc_ar": "Modal يُشغّل كود Python في السحابة بدون إعداد. مثالي لتدريب النماذج وتشغيل Inference.",
+    "long_desc_en": "Modal runs Python code in the cloud without setup. Ideal for model training and running inference.",
+    "category": "coding",
+    "tags_ar": [
+      "Modal",
+      "coding"
+    ],
+    "tags_en": [
+      "Modal",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://modal.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=modal.com&sz=64"
+  },
+  {
+    "id": "poe-ai",
+    "name_ar": "بو للـ API",
+    "name_en": "Poe for Developers",
+    "slug": "poe-ai",
+    "tagline_ar": "API موحد لكل نماذج AI",
+    "tagline_en": "Unified API for all AI models",
+    "desc_ar": "Poe يوفر API موحداً للوصول لجميع النماذج. للمطورين الذين يريدون بناء تطبيقات متعددة النماذج.",
+    "desc_en": "Poe يوفر API موحداً للوصول لجميع النماذج. للمطورين الذين يريدون بناء تطبيقات متعددة النماذج.",
+    "long_desc_ar": "Poe يوفر API موحداً للوصول لجميع النماذج. للمطورين الذين يريدون بناء تطبيقات متعددة النماذج.",
+    "long_desc_en": "Poe يوفر API موحداً للوصول لجميع النماذج. للمطورين الذين يريدون بناء تطبيقات متعددة النماذج.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://poe.com",
+    "monthly_visits": "10M+",
+    "trending_score": 79,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=poe.com&sz=64"
+  },
+  {
+    "id": "aws-codewhisperer",
+    "name_ar": "AWS CodeWhisperer",
+    "name_en": "Amazon CodeWhisperer",
+    "slug": "aws-codewhisperer",
+    "tagline_ar": "مساعد برمجة AI من Amazon",
+    "tagline_en": "Amazon AI coding assistant",
+    "desc_ar": "CodeWhisperer من Amazon يقترح كوداً وينبّه للثغرات الأمنية. مجاني للأفراد.",
+    "desc_en": "CodeWhisperer من Amazon يقترح كوداً وينبّه للثغرات الأمنية. مجاني للأفراد.",
+    "long_desc_ar": "CodeWhisperer من Amazon يقترح كوداً وينبّه للثغرات الأمنية. مجاني للأفراد.",
+    "long_desc_en": "CodeWhisperer من Amazon يقترح كوداً وينبّه للثغرات الأمنية. مجاني للأفراد.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://aws.amazon.com/codewhisperer",
+    "monthly_visits": "5M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64"
+  },
+  {
+    "id": "blackbox-ai",
+    "name_ar": "بلاك بوكس",
+    "name_en": "Blackbox AI",
+    "slug": "blackbox-ai",
+    "tagline_ar": "مساعد برمجة مجاني في المتصفح",
+    "tagline_en": "Free coding assistant in browser",
+    "desc_ar": "مساعد برمجة AI مجاني في المتصفح وVS Code. إكمال كود وأسئلة فورية.",
+    "desc_en": "Free AI coding assistant in browser and VS Code. Code completion and instant questions.",
+    "long_desc_ar": "مساعد برمجة AI مجاني في المتصفح وVS Code. إكمال كود وأسئلة فورية.",
+    "long_desc_en": "Free AI coding assistant in browser and VS Code. Code completion and instant questions.",
+    "category": "coding",
+    "tags_ar": [
+      "مجاني",
+      "VS Code",
+      "إكمال",
+      "متصفح"
+    ],
+    "tags_en": [
+      "free",
+      "VS Code",
+      "completion",
+      "browser"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "vscode",
+      "chrome"
+    ],
+    "website": "https://blackbox.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "codeium",
+      "github-copilot",
+      "cursor"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=blackbox.ai&sz=64"
+  },
+  {
+    "id": "pieces-ai",
+    "name_ar": "Pieces AI",
+    "name_en": "Pieces for Developers",
+    "slug": "pieces-ai",
+    "tagline_ar": "ذاكرة AI لمطوري البرمجيات",
+    "tagline_en": "AI memory for software developers",
+    "desc_ar": "Pieces يحفظ مقاطع الكود والسياق. AI يقترح الكود المناسب من تاريخك.",
+    "desc_en": "Pieces يحفظ مقاطع الكود والسياق. AI يقترح الكود المناسب من تاريخك.",
+    "long_desc_ar": "Pieces يحفظ مقاطع الكود والسياق. AI يقترح الكود المناسب من تاريخك.",
+    "long_desc_en": "Pieces يحفظ مقاطع الكود والسياق. AI يقترح الكود المناسب من تاريخك.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pieces.app",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pieces.app&sz=64"
+  },
+  {
+    "id": "qodo-ai",
+    "name_ar": "كودو AI",
+    "name_en": "Qodo AI",
+    "slug": "qodo-ai",
+    "tagline_ar": "اختبارات كود AI تلقائية",
+    "tagline_en": "Automatic AI code tests",
+    "desc_ar": "Qodo (كان CodiumAI) يولد اختبارات للكود تلقائياً. يكشف الأخطاء قبل الإنتاج.",
+    "desc_en": "Qodo (كان CodiumAI) يولد اختبارات للكود تلقائياً. يكشف الأخطاء قبل الإنتاج.",
+    "long_desc_ar": "Qodo (كان CodiumAI) يولد اختبارات للكود تلقائياً. يكشف الأخطاء قبل الإنتاج.",
+    "long_desc_en": "Qodo (كان CodiumAI) يولد اختبارات للكود تلقائياً. يكشف الأخطاء قبل الإنتاج.",
+    "category": "coding",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://qodo.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=qodo.ai&sz=64"
+  },
+  {
+    "id": "anyscale",
+    "name_ar": "Anyscale",
+    "name_en": "Anyscale",
+    "slug": "anyscale",
+    "tagline_ar": "منصة Ray AI للمقياس الكبير",
+    "tagline_en": "Ray AI platform for large scale",
+    "desc_ar": "Anyscale يُشغّل تطبيقات AI على نطاق واسع باستخدام Ray. للشركات الكبيرة والبحث.",
+    "desc_en": "Anyscale runs AI applications at large scale using Ray. For large companies and research.",
+    "long_desc_ar": "Anyscale يُشغّل تطبيقات AI على نطاق واسع باستخدام Ray. للشركات الكبيرة والبحث.",
+    "long_desc_en": "Anyscale runs AI applications at large scale using Ray. For large companies and research.",
+    "category": "coding",
+    "tags_ar": [
+      "Anyscale",
+      "coding"
+    ],
+    "tags_en": [
+      "Anyscale",
+      "coding"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://anyscale.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anyscale.com&sz=64"
+  },
+  {
+    "id": "tabnine",
+    "name_ar": "تابناين",
+    "name_en": "Tabnine",
+    "slug": "tabnine",
+    "tagline_ar": "إكمال كود AI بخصوصية عالية",
+    "tagline_en": "AI code completion with high privacy",
+    "desc_ar": "مساعد برمجة يعمل محلياً لضمان الخصوصية. مناسب للشركات الحريصة على أمن الكود.",
+    "desc_en": "Local AI coding assistant ensuring privacy. Suitable for code-security conscious companies.",
+    "long_desc_ar": "مساعد برمجة يعمل محلياً لضمان الخصوصية. مناسب للشركات الحريصة على أمن الكود.",
+    "long_desc_en": "Local AI coding assistant ensuring privacy. Suitable for code-security conscious companies.",
+    "category": "coding",
+    "tags_ar": [
+      "خصوصية",
+      "محلي",
+      "إكمال",
+      "مؤسسي"
+    ],
+    "tags_en": [
+      "privacy",
+      "local",
+      "completion",
+      "enterprise"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "vscode",
+      "desktop"
+    ],
+    "website": "https://tabnine.com",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "codeium",
+      "github-copilot",
+      "cursor"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tabnine.com&sz=64"
+  }
+]

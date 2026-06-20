@@ -1,0 +1,5275 @@
+[
+  {
+    "id": "microsoft-365-copilot",
+    "name_ar": "Microsoft 365 Copilot",
+    "name_en": "Microsoft 365 Copilot",
+    "slug": "microsoft-365-copilot",
+    "tagline_ar": "AI مدمج في Office وTeams",
+    "tagline_en": "AI built into Office and Teams",
+    "desc_ar": "Microsoft 365 Copilot يدمج GPT-5.5 في Word وExcel وPowerPoint وTeams. يُستخدم من شركات Fortune 100.",
+    "desc_en": "Microsoft 365 Copilot integrates GPT-5.5 into Word, Excel, PowerPoint, Teams. Used by Fortune 100 companies.",
+    "long_desc_ar": "Microsoft 365 Copilot يُحوّل Office إلى منصة AI. يُلخّص اجتماعات Teams، يُحلّل بيانات Excel، يكتب في Word. $30/مستخدم/شهر.",
+    "long_desc_en": "Microsoft 365 Copilot transforms Office into an AI platform. Summarizes Teams meetings, analyzes Excel data, writes in Word. $30/user/month.",
+    "category": "productivity",
+    "tags_ar": [
+      "Microsoft",
+      "Copilot",
+      "Office AI",
+      "Teams"
+    ],
+    "tags_en": [
+      "Microsoft",
+      "Copilot",
+      "Office AI",
+      "Teams"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$30",
+    "price_pro": "$30/user",
+    "has_free_trial": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://microsoft.com/copilot",
+    "monthly_visits": "100M+",
+    "trending_score": 94,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "notion-ai-2026",
+      "google-workspace-ai"
+    ],
+    "integrations": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Teams",
+      "Outlook"
+    ],
+    "use_cases_ar": [
+      "تقارير",
+      "Excel",
+      "اجتماعات",
+      "Emails"
+    ],
+    "use_cases_en": [
+      "Reports",
+      "Excel",
+      "Meetings",
+      "Emails"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64"
+  },
+  {
+    "id": "microsoft-365-copilot",
+    "name_ar": "Microsoft 365 Copilot",
+    "name_en": "Microsoft 365 Copilot",
+    "slug": "microsoft-365-copilot",
+    "tagline_ar": "AI مدمج في Office وTeams",
+    "tagline_en": "AI integrated into Office and Teams",
+    "desc_ar": "Microsoft 365 Copilot يدمج GPT-5.5 في Word وExcel وPowerPoint وTeams. يُستخدم عالمياً.",
+    "desc_en": "Microsoft 365 Copilot integrates GPT-5.5 into Word, Excel, PowerPoint, Teams globally.",
+    "long_desc_ar": "Microsoft 365 Copilot يُحوّل Office إلى منصة AI. يُلخّص Teams، يُحلّل Excel، يكتب Word. $30/مستخدم/شهر.",
+    "long_desc_en": "Microsoft 365 Copilot transforms Office into AI platform. Summarizes Teams, analyzes Excel, writes Word. $30/user/month.",
+    "category": "productivity",
+    "tags_ar": [
+      "Microsoft Copilot",
+      "Office AI",
+      "Teams",
+      "إنتاجية"
+    ],
+    "tags_en": [
+      "Microsoft Copilot",
+      "Office AI",
+      "Teams",
+      "productivity"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$30",
+    "price_pro": "$30/user",
+    "has_free_trial": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://microsoft.com/copilot",
+    "monthly_visits": "100M+",
+    "trending_score": 94,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "notion-ai-2026",
+      "google-workspace"
+    ],
+    "integrations": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Teams",
+      "Outlook",
+      "OneDrive"
+    ],
+    "use_cases_ar": [
+      "تقارير",
+      "تحليل",
+      "اجتماعات",
+      "Emails"
+    ],
+    "use_cases_en": [
+      "Reports",
+      "Analysis",
+      "Meetings",
+      "Emails"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64"
+  },
+  {
+    "id": "notion-ai",
+    "name_ar": "نوشن AI",
+    "name_en": "Notion AI",
+    "slug": "notion-ai",
+    "tagline_ar": "مساعد AI داخل أداة الإنتاجية الأشهر",
+    "tagline_en": "AI assistant inside the most popular productivity tool",
+    "desc_ar": "Notion AI يضيف قوة AI لأداة الإنتاجية الأشهر. كتابة وتلخيص وترجمة مباشرة في workspace.",
+    "desc_en": "Notion AI adds AI to the most popular productivity tool. Writing, summarizing, translating in workspace.",
+    "long_desc_ar": "Notion AI رفع معدل الاشتراك المدفوع من 20% إلى 50%+ في سنة. AI يمثل نصف ARR. أُدرجت في a16z Top 100 2026. تكتب وتلخص وتترجم داخل workspace.",
+    "long_desc_en": "Notion AI raised paid attachment from 20% to 50%+ in one year. AI represents half of ARR. Listed on a16z Top 100 2026. Writes, summarizes, translates in workspace.",
+    "category": "productivity",
+    "tags_ar": [
+      "إنتاجية",
+      "ملاحظات",
+      "تلخيص",
+      "workspace"
+    ],
+    "tags_en": [
+      "productivity",
+      "notes",
+      "summarization",
+      "workspace"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://notion.so",
+    "monthly_visits": "100M+",
+    "trending_score": 91,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "obsidian",
+      "coda",
+      "roam"
+    ],
+    "integrations": [
+      "Slack",
+      "GitHub",
+      "Figma",
+      "Google Drive"
+    ],
+    "use_cases_ar": [
+      "إدارة المشاريع",
+      "قواعد المعرفة",
+      "تلخيص المستندات",
+      "كتابة المحتوى"
+    ],
+    "use_cases_en": [
+      "Project management",
+      "Knowledge bases",
+      "Document summarization",
+      "Content writing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notion.so&sz=64"
+  },
+  {
+    "id": "notion-ai-2026",
+    "name_ar": "Notion AI 2026",
+    "name_en": "Notion AI 2026",
+    "slug": "notion-ai-2026",
+    "tagline_ar": "إدارة المعرفة AI مع 100M+ مستخدم",
+    "tagline_en": "AI knowledge management with 100M+ users",
+    "desc_ar": "Notion AI في 2026 يُقدم Agents تنظّم المعرفة تلقائياً. يدمج الكتابة والبحث وإدارة المشاريع.",
+    "desc_en": "Notion AI in 2026 offers Agents that automatically organize knowledge. Integrates writing, research, project management.",
+    "long_desc_ar": "Notion AI 2026 يقدم Agents تعمل تلقائياً على تنظيم المعرفة. 100M+ مستخدم. يدمج الكل في مكان واحد.",
+    "long_desc_en": "Notion AI 2026 offers automatically organizing knowledge Agents. 100M+ users. Integrates everything in one place.",
+    "category": "productivity",
+    "tags_ar": [
+      "Notion",
+      "معرفة",
+      "Agents",
+      "إنتاجية"
+    ],
+    "tags_en": [
+      "Notion",
+      "knowledge",
+      "agents",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Mac",
+      "Windows",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://notion.so",
+    "monthly_visits": "100M+",
+    "trending_score": 91,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "microsoft-365-copilot",
+      "obsidian",
+      "coda"
+    ],
+    "integrations": [
+      "Slack",
+      "GitHub",
+      "Zapier",
+      "Google Drive"
+    ],
+    "use_cases_ar": [
+      "مشاريع",
+      "ملاحظات",
+      "قاعدة معرفة",
+      "فريق"
+    ],
+    "use_cases_en": [
+      "Projects",
+      "Notes",
+      "Knowledge base",
+      "Team"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notion.so&sz=64"
+  },
+  {
+    "id": "notebooklm",
+    "name_ar": "نوتبوك LM",
+    "name_en": "NotebookLM",
+    "slug": "notebooklm",
+    "tagline_ar": "اسأل أسئلتك من مستنداتك الخاصة",
+    "tagline_en": "Ask questions from your own documents",
+    "desc_ar": "أداة Google لتحليل مستنداتك والإجابة منها. يحول ملفاتك إلى بودكاست صوتي تلقائياً.",
+    "desc_en": "Google tool for analyzing your documents. Converts files to audio podcast automatically.",
+    "long_desc_ar": "NotebookLM يتيح رفع مستنداتك والدردشة معها. إجابات مستندة لمحتواك فقط بدون هلوسة. Audio Overview تحول مستنداتك لحوار بودكاست بصوتين - انتشرت فيروسياً.",
+    "long_desc_en": "NotebookLM lets you upload documents and chat with them. Answers based only on your content without hallucination. Audio Overview converts documents to two-voice podcast - went viral.",
+    "category": "productivity",
+    "tags_ar": [
+      "مستندات",
+      "PDF",
+      "ملخص",
+      "بودكاست"
+    ],
+    "tags_en": [
+      "documents",
+      "PDF",
+      "summary",
+      "podcast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://notebooklm.google.com",
+    "monthly_visits": "30M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "perplexity",
+      "claude"
+    ],
+    "integrations": [
+      "Google Drive",
+      "YouTube"
+    ],
+    "use_cases_ar": [
+      "دراسة الكتب",
+      "تحليل التقارير",
+      "إنشاء بودكاست",
+      "مراجعة الأبحاث"
+    ],
+    "use_cases_en": [
+      "Book study",
+      "Report analysis",
+      "Podcast creation",
+      "Research review"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64"
+  },
+  {
+    "id": "gemini-personal",
+    "name_ar": "Gemini Personal Intelligence",
+    "name_en": "Gemini Personal Intelligence",
+    "slug": "gemini-personal",
+    "tagline_ar": "Gemini يتصل بـ Gmail وصورك وYouTube",
+    "tagline_en": "Gemini connects to your Gmail, photos and YouTube",
+    "desc_ar": "Google Personal Intelligence يناير 2026: Gemini يصل لـ Gmail وGoogle Photos وYouTube وSearch الشخصية.",
+    "desc_en": "Google Personal Intelligence Jan 2026: Gemini accesses Gmail, Google Photos, YouTube and personal Search.",
+    "long_desc_ar": "Google Personal Intelligence يناير 2026: Gemini يصل لـ Gmail وGoogle Photos وYouTube وSearch الشخصية.",
+    "long_desc_en": "Google Personal Intelligence Jan 2026: Gemini accesses Gmail, Google Photos, YouTube and personal Search.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://gemini.google.com",
+    "monthly_visits": "139M+",
+    "trending_score": 90,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
+  },
+  {
+    "id": "claude-projects",
+    "name_ar": "Claude Projects",
+    "name_en": "Claude Projects",
+    "slug": "claude-projects",
+    "tagline_ar": "مشاريع AI منظمة مع ذاكرة دائمة",
+    "tagline_en": "Organized AI projects with persistent memory",
+    "desc_ar": "Claude Projects يحفظ السياق والتعليمات لكل مشروع. ذاكرة دائمة عبر المحادثات.",
+    "desc_en": "Claude Projects يحفظ السياق والتعليمات لكل مشروع. ذاكرة دائمة عبر المحادثات.",
+    "long_desc_ar": "Claude Projects يحفظ السياق والتعليمات لكل مشروع. ذاكرة دائمة عبر المحادثات.",
+    "long_desc_en": "Claude Projects يحفظ السياق والتعليمات لكل مشروع. ذاكرة دائمة عبر المحادثات.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "fathom-ai",
+    "name_ar": "Fathom AI",
+    "name_en": "Fathom AI",
+    "slug": "fathom-ai",
+    "tagline_ar": "مساعد اجتماعات AI — 5/5 على G2",
+    "tagline_en": "AI meeting assistant — 5/5 on G2",
+    "desc_ar": "Fathom يسجّل ويلخّص ويستخرج Action items من اجتماعاتك تلقائياً. مجاني للأفراد.",
+    "desc_en": "Fathom automatically records, summarizes, and extracts action items from meetings. Free for individuals.",
+    "long_desc_ar": "Fathom AI حصل على 5/5 على G2 بـ 5K+ تقييم. يسجّل Zoom وTeams وMeet ويلخّصها ويستخرج المهام. مجاني كلياً للأفراد.",
+    "long_desc_en": "Fathom AI achieved 5/5 on G2 with 5K+ reviews. Records Zoom, Teams, Meet and automatically summarizes and extracts tasks. Completely free for individuals.",
+    "category": "productivity",
+    "tags_ar": [
+      "Fathom",
+      "اجتماعات",
+      "تلخيص",
+      "G2 5 نجوم"
+    ],
+    "tags_en": [
+      "Fathom",
+      "meetings",
+      "summary",
+      "G2 5-star"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Mac",
+      "Windows"
+    ],
+    "website": "https://fathom.video",
+    "monthly_visits": "5M+",
+    "trending_score": 90,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "fireflies-ai",
+      "otter-ai",
+      "avoma"
+    ],
+    "integrations": [
+      "Zoom",
+      "Teams",
+      "Google Meet",
+      "HubSpot",
+      "Salesforce"
+    ],
+    "use_cases_ar": [
+      "اجتماعات",
+      "CRM",
+      "فريق",
+      "مبيعات"
+    ],
+    "use_cases_en": [
+      "Meetings",
+      "CRM",
+      "Team",
+      "Sales"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fathom.video&sz=64"
+  },
+  {
+    "id": "gamma-ai",
+    "name_ar": "Gamma",
+    "name_en": "Gamma",
+    "slug": "gamma-ai",
+    "tagline_ar": "عروض تقديمية AI في ثوانٍ",
+    "tagline_en": "AI presentations in seconds",
+    "desc_ar": "Gamma يبني عروض تقديمية احترافية من نص بضغطة واحدة. لا تصميم مطلوب. 10M+ مستخدم.",
+    "desc_en": "Gamma builds professional presentations from text in one click. No design required. 10M+ users.",
+    "long_desc_ar": "Gamma يبني عروض تقديمية احترافية من نص بضغطة واحدة. لا تصميم مطلوب. 10M+ مستخدم.",
+    "long_desc_en": "Gamma builds professional presentations from text in one click. No design required. 10M+ users.",
+    "category": "productivity",
+    "tags_ar": [
+      "Gamma",
+      "عروض تقديمية",
+      "Slides AI",
+      "سهل"
+    ],
+    "tags_en": [
+      "Gamma",
+      "presentations",
+      "AI slides",
+      "easy"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://gamma.app",
+    "monthly_visits": "10M+",
+    "trending_score": 89,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "beautiful-ai",
+      "tome",
+      "canva-ai-2026"
+    ],
+    "integrations": [
+      "API",
+      "Slack",
+      "Notion"
+    ],
+    "use_cases_ar": [
+      "عروض تقديمية",
+      "تسويق",
+      "تعليم",
+      "اجتماعات"
+    ],
+    "use_cases_en": [
+      "Presentations",
+      "Marketing",
+      "Education",
+      "Meetings"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gamma.app&sz=64"
+  },
+  {
+    "id": "gamma-app",
+    "name_ar": "Gamma App",
+    "name_en": "Gamma App",
+    "slug": "gamma-app",
+    "tagline_ar": "عروض تقديمية AI في ثوانٍ",
+    "tagline_en": "AI presentations in seconds",
+    "desc_ar": "Gamma يبني عروض تقديمية احترافية في ثوانٍ من نص. 10M+ مستخدم. أسرع من PowerPoint.",
+    "desc_en": "Gamma builds professional presentations in seconds from text. 10M+ users. Faster than PowerPoint.",
+    "long_desc_ar": "Gamma يبني عروض تقديمية احترافية في ثوانٍ من نص. 10M+ مستخدم. أسرع من PowerPoint.",
+    "long_desc_en": "Gamma builds professional presentations in seconds from text. 10M+ users. Faster than PowerPoint.",
+    "category": "productivity",
+    "tags_ar": [
+      "Gamma App",
+      "productivity"
+    ],
+    "tags_en": [
+      "Gamma App",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://gamma.app",
+    "monthly_visits": "2M+",
+    "trending_score": 89,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gamma.app&sz=64"
+  },
+  {
+    "id": "fathom",
+    "name_ar": "فاثوم",
+    "name_en": "Fathom",
+    "slug": "fathom",
+    "tagline_ar": "سجّل اجتماعاتك وخلّص وقتك",
+    "tagline_en": "Record your meetings and save your time",
+    "desc_ar": "أداة تسجيل وتلخيص الاجتماعات الأكثر تقييماً. مجانية تماماً للاستخدام الفردي.",
+    "desc_en": "Highest-rated meeting recording tool. Completely free for individual use.",
+    "long_desc_ar": "Fathom الأكثر تقييماً على G2 وProductHunt. تنضم تلقائياً لـ Zoom وTeams وMeet. مجانية تماماً للفرد. تدعم العربية في التلخيص.",
+    "long_desc_en": "Fathom highest-rated on G2 and ProductHunt. Auto-joins Zoom, Teams, Meet. Completely free for individuals. Supports Arabic summarization.",
+    "category": "productivity",
+    "tags_ar": [
+      "اجتماعات",
+      "مجاني",
+      "ملخص فوري",
+      "Zoom"
+    ],
+    "tags_en": [
+      "meetings",
+      "free",
+      "instant summary",
+      "Zoom"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "website": "https://fathom.video",
+    "monthly_visits": "3M+",
+    "trending_score": 88,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "otter-ai",
+      "fireflies",
+      "tldv"
+    ],
+    "integrations": [
+      "Zoom",
+      "Teams",
+      "Google Meet",
+      "HubSpot"
+    ],
+    "use_cases_ar": [
+      "تسجيل الاجتماعات",
+      "ملاحظات المبيعات",
+      "متابعة المهام",
+      "توثيق القرارات"
+    ],
+    "use_cases_en": [
+      "Meeting recording",
+      "Sales notes",
+      "Task tracking",
+      "Decision docs"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fathom.video&sz=64"
+  },
+  {
+    "id": "google-translate",
+    "name_ar": "ترجمة جوجل",
+    "name_en": "Google Translate",
+    "slug": "google-translate",
+    "tagline_ar": "الترجمة الفورية الأشهر في العالم",
+    "tagline_en": "World's most popular instant translation",
+    "desc_ar": "محرك الترجمة الأكثر استخداماً. يترجم 133 لغة بما فيها العربية مع تعرف بصري وصوتي.",
+    "desc_en": "Most used translation engine. 133 languages including Arabic with visual and voice recognition.",
+    "long_desc_ar": "Google Translate بـ 623 مليون زيارة شهرية. 133+ لغة بجودة عالية. ترجمة صوتية وبصرية وبدون اتصال. مجاني تماماً.",
+    "long_desc_en": "Google Translate with 623M monthly visits. 133+ languages high quality. Voice, visual, offline translation. Completely free.",
+    "category": "productivity",
+    "tags_ar": [
+      "ترجمة",
+      "عربي",
+      "133 لغة",
+      "مجاني"
+    ],
+    "tags_en": [
+      "translation",
+      "arabic",
+      "133 languages",
+      "free"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://translate.google.com",
+    "monthly_visits": "623M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "deepl",
+      "microsoft-translator"
+    ],
+    "integrations": [
+      "Chrome",
+      "Google Docs"
+    ],
+    "use_cases_ar": [
+      "ترجمة نصوص",
+      "ترجمة مواقع",
+      "ترجمة مستندات",
+      "تعلم لغات"
+    ],
+    "use_cases_en": [
+      "Text translation",
+      "Website translation",
+      "Document translation",
+      "Language learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=translate.google.com&sz=64"
+  },
+  {
+    "id": "claude-excel",
+    "name_ar": "كلود في Excel",
+    "name_en": "Claude in Excel",
+    "slug": "claude-excel",
+    "tagline_ar": "Claude مدمج مباشرة في Excel",
+    "tagline_en": "Claude embedded directly in Excel",
+    "desc_ar": "Anthropic دمجت Claude مباشرة في Microsoft Excel. تحليل بيانات وكتابة صيغ بالعربية والإنجليزية.",
+    "desc_en": "Anthropic embedded Claude directly in Microsoft Excel. Data analysis and formula writing in Arabic and English.",
+    "long_desc_ar": "Anthropic دمجت Claude مباشرة في Microsoft Excel. تحليل بيانات وكتابة صيغ بالعربية والإنجليزية.",
+    "long_desc_en": "Anthropic embedded Claude directly in Microsoft Excel. Data analysis and formula writing in Arabic and English.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "notebooklm-plus",
+    "name_ar": "نوتبوك LM بلاس",
+    "name_en": "NotebookLM Plus",
+    "slug": "notebooklm-plus",
+    "tagline_ar": "نوتبوك LM للمؤسسات مع ميزات إضافية",
+    "tagline_en": "NotebookLM for enterprises with extra features",
+    "desc_ar": "NotebookLM Plus للشركات والمؤسسات. ميزات إضافية وحدود أعلى وتكامل مع Google Workspace.",
+    "desc_en": "NotebookLM Plus for businesses. Extra features, higher limits and Google Workspace integration.",
+    "long_desc_ar": "NotebookLM Plus للشركات والمؤسسات. ميزات إضافية وحدود أعلى وتكامل مع Google Workspace.",
+    "long_desc_en": "NotebookLM Plus for businesses. Extra features, higher limits and Google Workspace integration.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$19.99/mo",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://notebooklm.google.com",
+    "monthly_visits": "30M+",
+    "trending_score": 88,
+    "rating": 4.8,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64"
+  },
+  {
+    "id": "deepl",
+    "name_ar": "ديب إل",
+    "name_en": "DeepL",
+    "slug": "deepl",
+    "tagline_ar": "أدق محرك ترجمة في العالم",
+    "tagline_en": "Most accurate translation engine in the world",
+    "desc_ar": "محرك ترجمة ألماني يتفوق على Google Translate في الدقة والطبيعية للغات الأوروبية.",
+    "desc_en": "German engine outperforming Google Translate in accuracy and naturalness for European languages.",
+    "long_desc_ar": "DeepL أدق محرك ترجمة للغات الأوروبية. يتفوق على Google في طبيعية الترجمة. DeepL Write يصحح الأسلوب. 500,000 حرف مجاني شهرياً.",
+    "long_desc_en": "DeepL most accurate translation engine for European languages. Outperforms Google in naturalness. DeepL Write corrects style. 500K free chars monthly.",
+    "category": "productivity",
+    "tags_ar": [
+      "ترجمة دقيقة",
+      "أوروبي",
+      "طبيعي",
+      "عربي"
+    ],
+    "tags_en": [
+      "accurate translation",
+      "european",
+      "natural",
+      "arabic"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8.74/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "desktop",
+      "ios",
+      "android",
+      "api"
+    ],
+    "website": "https://deepl.com",
+    "monthly_visits": "50M+",
+    "trending_score": 87,
+    "rating": 4.8,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "google-translate",
+      "microsoft-translator"
+    ],
+    "integrations": [
+      "Word",
+      "PowerPoint",
+      "Chrome"
+    ],
+    "use_cases_ar": [
+      "ترجمة احترافية",
+      "وثائق عمل",
+      "كتابة مقالات",
+      "ترجمة مستندات"
+    ],
+    "use_cases_en": [
+      "Professional translation",
+      "Work documents",
+      "Article writing",
+      "Document translation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepl.com&sz=64"
+  },
+  {
+    "id": "claude-powerpoint",
+    "name_ar": "كلود في PowerPoint",
+    "name_en": "Claude in PowerPoint",
+    "slug": "claude-powerpoint",
+    "tagline_ar": "Claude يبني عروضك التقديمية تلقائياً",
+    "tagline_en": "Claude builds your presentations automatically",
+    "desc_ar": "Anthropic دمجت Claude في Microsoft PowerPoint. يبني العروض من وصف نصي بسيط بالعربية والإنجليزية.",
+    "desc_en": "Anthropic embedded Claude in Microsoft PowerPoint. Builds presentations from simple text description.",
+    "long_desc_ar": "Anthropic دمجت Claude في Microsoft PowerPoint. يبني العروض من وصف نصي بسيط بالعربية والإنجليزية.",
+    "long_desc_en": "Anthropic embedded Claude in Microsoft PowerPoint. Builds presentations from simple text description.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "google-workspace-ai",
+    "name_ar": "Google Workspace AI",
+    "name_en": "Google Workspace AI Features",
+    "slug": "google-workspace-ai",
+    "tagline_ar": "Gemini في Gmail وDocs وMeet",
+    "tagline_en": "Gemini in Gmail, Docs and Meet",
+    "desc_ar": "Google Workspace AI يضيف Gemini لكتابة الإيميلات وتلخيص المستندات وMeet.",
+    "desc_en": "Google Workspace AI يضيف Gemini لكتابة الإيميلات وتلخيص المستندات وMeet.",
+    "long_desc_ar": "Google Workspace AI يضيف Gemini لكتابة الإيميلات وتلخيص المستندات وMeet.",
+    "long_desc_en": "Google Workspace AI يضيف Gemini لكتابة الإيميلات وتلخيص المستندات وMeet.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$6/mo",
+    "price_pro": "$6/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://workspace.google.com",
+    "monthly_visits": "300M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64"
+  },
+  {
+    "id": "fireflies-ai",
+    "name_ar": "Fireflies AI",
+    "name_en": "Fireflies AI",
+    "slug": "fireflies-ai",
+    "tagline_ar": "تسجيل وتلخيص الاجتماعات تلقائياً",
+    "tagline_en": "Automatically record and summarize meetings",
+    "desc_ar": "Fireflies يسجّل كل اجتماعاتك ويلخّصها ويبحث فيها. يتكامل مع Zoom وTeams وSlack.",
+    "desc_en": "Fireflies records all your meetings, summarizes them, and searches through them. Integrates with Zoom, Teams, Slack.",
+    "long_desc_ar": "Fireflies AI هو المنافس الرئيسي لـ Fathom. يسجّل الاجتماعات تلقائياً ويُنشئ ملخصات قابلة للبحث. يتكامل مع CRM وSlack وNotion.",
+    "long_desc_en": "Fireflies AI is Fathom's main competitor. Automatically records meetings and creates searchable summaries. Integrates with CRM, Slack, and Notion.",
+    "category": "productivity",
+    "tags_ar": [
+      "Fireflies",
+      "اجتماعات",
+      "تسجيل",
+      "تلخيص"
+    ],
+    "tags_en": [
+      "Fireflies",
+      "meetings",
+      "recording",
+      "summary"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Chrome",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://fireflies.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "fathom-ai",
+      "otter-ai",
+      "avoma"
+    ],
+    "integrations": [
+      "Zoom",
+      "Teams",
+      "Google Meet",
+      "Slack",
+      "HubSpot",
+      "Salesforce"
+    ],
+    "use_cases_ar": [
+      "اجتماعات",
+      "CRM",
+      "فريق",
+      "بيع"
+    ],
+    "use_cases_en": [
+      "Meetings",
+      "CRM",
+      "Team",
+      "Sales"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fireflies.ai&sz=64"
+  },
+  {
+    "id": "deepl-ai",
+    "name_ar": "DeepL AI",
+    "name_en": "DeepL AI",
+    "slug": "deepl-ai",
+    "tagline_ar": "أفضل مترجم AI في العالم",
+    "tagline_en": "World's best AI translator",
+    "desc_ar": "DeepL يُقدم ترجمة AI بجودة احترافية أفضل من Google Translate. يدعم 33 لغة مع سياق.",
+    "desc_en": "DeepL provides AI translation with professional quality better than Google Translate. Supports 33 languages with context.",
+    "long_desc_ar": "DeepL يُقدم ترجمة AI بجودة احترافية أفضل من Google Translate. يدعم 33 لغة مع سياق.",
+    "long_desc_en": "DeepL provides AI translation with professional quality better than Google Translate. Supports 33 languages with context.",
+    "category": "productivity",
+    "tags_ar": [
+      "DeepL",
+      "ترجمة AI",
+      "جودة",
+      "احترافي"
+    ],
+    "tags_en": [
+      "DeepL",
+      "AI translation",
+      "quality",
+      "professional"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "Windows",
+      "Mac"
+    ],
+    "website": "https://deepl.com",
+    "monthly_visits": "20M+",
+    "trending_score": 87,
+    "rating": 4.8,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "google-translate"
+    ],
+    "integrations": [
+      "API",
+      "Word",
+      "PowerPoint",
+      "Chrome"
+    ],
+    "use_cases_ar": [
+      "ترجمة احترافية",
+      "وثائق",
+      "عمل",
+      "لغات"
+    ],
+    "use_cases_en": [
+      "Professional translation",
+      "Documents",
+      "Business",
+      "Languages"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepl.com&sz=64"
+  },
+  {
+    "id": "gamma",
+    "name_ar": "جاما AI",
+    "name_en": "Gamma",
+    "slug": "gamma",
+    "tagline_ar": "عروض تقديمية ومستندات بالذكاء الاصطناعي",
+    "tagline_en": "AI-powered presentations and documents",
+    "desc_ar": "يحوّل أفكارك لعروض تقديمية ومستندات جميلة في ثوانٍ. بديل PowerPoint ذكي.",
+    "desc_en": "Converts ideas to beautiful presentations and documents in seconds. Smart PowerPoint alternative.",
+    "long_desc_ar": "Gamma تحوّل أي موضوع لعرض احترافي في أقل من دقيقة. تفوقت على PowerPoint في السهولة. مجانية للأساسيات.",
+    "long_desc_en": "Gamma converts any topic to professional presentation in under a minute. Outperformed PowerPoint in ease. Free for basics.",
+    "category": "productivity",
+    "tags_ar": [
+      "عروض تقديمية",
+      "PowerPoint",
+      "مستندات",
+      "سريع"
+    ],
+    "tags_en": [
+      "presentations",
+      "PowerPoint",
+      "documents",
+      "fast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://gamma.app",
+    "monthly_visits": "10M+",
+    "trending_score": 86,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "tome",
+      "beautiful-ai",
+      "powerpoint"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Figma"
+    ],
+    "use_cases_ar": [
+      "عروض تقديمية",
+      "مستندات فريق",
+      "موقع ويب",
+      "تقارير"
+    ],
+    "use_cases_en": [
+      "Presentations",
+      "Team docs",
+      "Website",
+      "Reports"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gamma.app&sz=64"
+  },
+  {
+    "id": "google-translate-ar",
+    "name_ar": "ترجمة جوجل عربي",
+    "name_en": "Google Translate Arabic",
+    "slug": "google-translate-ar",
+    "tagline_ar": "الترجمة العربية الأدق والأسرع",
+    "tagline_en": "Most accurate and fastest Arabic translation",
+    "desc_ar": "ترجمة جوجل المتخصصة للمحتوى العربي. الأفضل لترجمة اللهجات والفصحى.",
+    "desc_en": "Google Translate for Arabic content. Best for translating dialects and Modern Standard Arabic.",
+    "long_desc_ar": "Google Translate تحسّن كثيراً في الترجمة العربية. الآن الأفضل لترجمة اللهجات العربية المختلفة من مصري وخليجي وشامي. يدعم الترجمة الصوتية للعربية.",
+    "long_desc_en": "Google Translate improved greatly in Arabic translation. Now best for different Arabic dialects like Egyptian, Gulf, and Levantine. Supports Arabic voice translation.",
+    "category": "productivity",
+    "tags_ar": [
+      "عربي",
+      "ترجمة",
+      "لهجات",
+      "فصحى"
+    ],
+    "tags_en": [
+      "arabic",
+      "translation",
+      "dialects",
+      "MSA"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://translate.google.com",
+    "monthly_visits": "623M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "deepl",
+      "microsoft-translator"
+    ],
+    "integrations": [
+      "Chrome",
+      "Android"
+    ],
+    "use_cases_ar": [
+      "ترجمة عربي إنجليزي",
+      "ترجمة لهجات",
+      "مستندات عربية",
+      "تعلم عربي"
+    ],
+    "use_cases_en": [
+      "Arabic-English translation",
+      "Dialect translation",
+      "Arabic documents",
+      "Arabic learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=translate.google.com&sz=64"
+  },
+  {
+    "id": "microsoft-365",
+    "name_ar": "مايكروسوفت 365",
+    "name_en": "Microsoft 365",
+    "slug": "microsoft-365",
+    "tagline_ar": "مجموعة أدوات الإنتاجية الأشهر",
+    "tagline_en": "Most popular productivity suite",
+    "desc_ar": "Word وExcel وPowerPoint وTeams وOutlook مع Copilot AI.",
+    "desc_en": "Word, Excel, PowerPoint, Teams, Outlook with Copilot AI.",
+    "long_desc_ar": "Word وExcel وPowerPoint وTeams وOutlook مع Copilot AI.",
+    "long_desc_en": "Word, Excel, PowerPoint, Teams, Outlook with Copilot AI.",
+    "category": "productivity",
+    "tags_ar": [
+      "Office",
+      "Word",
+      "Excel",
+      "Copilot"
+    ],
+    "tags_en": [
+      "Office",
+      "Word",
+      "Excel",
+      "Copilot"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$6/mo",
+    "price_pro": "$22/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://microsoft.com/microsoft-365",
+    "monthly_visits": "300M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "google-workspace",
+      "copilot",
+      "notion-ai"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64"
+  },
+  {
+    "id": "google-workspace",
+    "name_ar": "جوجل وورك سبيس",
+    "name_en": "Google Workspace",
+    "slug": "google-workspace",
+    "tagline_ar": "Gmail وDocs وDrive مع Gemini AI",
+    "tagline_en": "Gmail, Docs, Drive with Gemini AI",
+    "desc_ar": "Gmail وDocs وSheets وDrive مع Gemini AI.",
+    "desc_en": "Gmail, Docs, Sheets, Drive with Gemini AI.",
+    "long_desc_ar": "Gmail وDocs وSheets وDrive مع Gemini AI.",
+    "long_desc_en": "Gmail, Docs, Sheets, Drive with Gemini AI.",
+    "category": "productivity",
+    "tags_ar": [
+      "Gmail",
+      "Docs",
+      "Drive",
+      "Gemini"
+    ],
+    "tags_en": [
+      "Gmail",
+      "Docs",
+      "Drive",
+      "Gemini"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$6/mo",
+    "price_pro": "$18/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://workspace.google.com",
+    "monthly_visits": "300M+",
+    "trending_score": 86,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "microsoft-365",
+      "notion-ai",
+      "slack"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64"
+  },
+  {
+    "id": "chatgpt-excel",
+    "name_ar": "ChatGPT for Excel",
+    "name_en": "ChatGPT for Excel",
+    "slug": "chatgpt-excel",
+    "tagline_ar": "OpenAI في Excel لتحليل البيانات",
+    "tagline_en": "OpenAI in Excel for data analysis",
+    "desc_ar": "OpenAI أطلقت ChatGPT مدمجاً في Excel. تحليل بيانات وصيغ ومخططات بالذكاء الاصطناعي.",
+    "desc_en": "OpenAI launched ChatGPT embedded in Excel. Data analysis, formulas and charts with AI.",
+    "long_desc_ar": "OpenAI أطلقت ChatGPT مدمجاً في Excel. تحليل بيانات وصيغ ومخططات بالذكاء الاصطناعي.",
+    "long_desc_en": "OpenAI launched ChatGPT embedded in Excel. Data analysis, formulas and charts with AI.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 86,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "googledocs-ai",
+    "name_ar": "Google Docs AI",
+    "name_en": "Google Docs with Gemini",
+    "slug": "googledocs-ai",
+    "tagline_ar": "كتابة ومراجعة وتلخيص AI في Docs",
+    "tagline_en": "AI writing, review and summary in Docs",
+    "desc_ar": "Google Docs مع Gemini AI يكتب ويراجع ويلخص ويترجم مباشرة في مستنداتك.",
+    "desc_en": "Google Docs مع Gemini AI يكتب ويراجع ويلخص ويترجم مباشرة في مستنداتك.",
+    "long_desc_ar": "Google Docs مع Gemini AI يكتب ويراجع ويلخص ويترجم مباشرة في مستنداتك.",
+    "long_desc_en": "Google Docs مع Gemini AI يكتب ويراجع ويلخص ويترجم مباشرة في مستنداتك.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://docs.google.com",
+    "monthly_visits": "300M+",
+    "trending_score": 86,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=docs.google.com&sz=64"
+  },
+  {
+    "id": "loom-ai",
+    "name_ar": "Loom AI",
+    "name_en": "Loom AI",
+    "slug": "loom-ai",
+    "tagline_ar": "تسجيل شاشة AI مع تلخيص تلقائي",
+    "tagline_en": "AI screen recording with auto summary",
+    "desc_ar": "Loom AI يُسجّل الشاشة ويُضيف تعليقاً ويُلخّص المقطع تلقائياً. مثالي للفرق البعيدة.",
+    "desc_en": "Loom AI records screen and automatically adds commentary and summarizes the clip. Ideal for remote teams.",
+    "long_desc_ar": "Loom AI يُسجّل الشاشة ويُضيف تعليقاً ويُلخّص المقطع تلقائياً. مثالي للفرق البعيدة.",
+    "long_desc_en": "Loom AI records screen and automatically adds commentary and summarizes the clip. Ideal for remote teams.",
+    "category": "productivity",
+    "tags_ar": [
+      "Loom AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Loom AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://loom.com",
+    "monthly_visits": "2M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=loom.com&sz=64"
+  },
+  {
+    "id": "otter-ai",
+    "name_ar": "أوتر AI",
+    "name_en": "Otter.ai",
+    "slug": "otter-ai",
+    "tagline_ar": "تفريغ الاجتماعات وملاحظاتها تلقائياً",
+    "tagline_en": "Automatic meeting transcription and notes",
+    "desc_ar": "تسجيل وتفريغ الاجتماعات تلقائياً مع ملخص ذكي. يعمل مع Zoom وTeams وMeet.",
+    "desc_en": "Automatically records and transcribes meetings with smart summary. Works with Zoom, Teams, Meet.",
+    "long_desc_ar": "Otter.ai تنضم لاجتماعاتك تلقائياً وتُفرّغ كل ما يقال وتلخص النقاط وتتبع المهام. من فئة أدوات تدوين الملاحظات بـ 20 مليون زيارة مشتركة.",
+    "long_desc_en": "Otter.ai automatically joins meetings, transcribes everything, summarizes key points, tracks tasks. Part of note-taking category with 20M combined visits.",
+    "category": "productivity",
+    "tags_ar": [
+      "اجتماعات",
+      "تفريغ",
+      "ملخصات",
+      "Zoom"
+    ],
+    "tags_en": [
+      "meetings",
+      "transcription",
+      "summaries",
+      "Zoom"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$16.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome"
+    ],
+    "website": "https://otter.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "fireflies",
+      "fathom",
+      "tldv"
+    ],
+    "integrations": [
+      "Zoom",
+      "Teams",
+      "Google Meet",
+      "Slack"
+    ],
+    "use_cases_ar": [
+      "تفريغ الاجتماعات",
+      "ملاحظات تلقائية",
+      "متابعة القرارات",
+      "الفرق التجارية"
+    ],
+    "use_cases_en": [
+      "Meeting transcription",
+      "Auto notes",
+      "Decision tracking",
+      "Business teams"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=otter.ai&sz=64"
+  },
+  {
+    "id": "linear",
+    "name_ar": "لينيار",
+    "name_en": "Linear",
+    "slug": "linear",
+    "tagline_ar": "إدارة المشاريع التقنية الأسرع",
+    "tagline_en": "Fastest technical project management",
+    "desc_ar": "أداة إدارة المشاريع التقنية المفضلة لدى فرق التطوير. AI يقترح الأولويات ويكتب تذاكر تلقائياً.",
+    "desc_en": "Preferred technical project management for dev teams. AI suggests priorities and writes tickets automatically.",
+    "long_desc_ar": "Linear هي أداة إدارة المشاريع التقنية الأسرع والأنظف في السوق. تستخدمها أفضل فرق التطوير في السيليكون فالي. AI يقترح الأولويات ويكتب تذاكر من commits. مدمجة مع GitHub وSlack وFigma.",
+    "long_desc_en": "Linear is the fastest and cleanest technical project management tool. Used by top dev teams in Silicon Valley. AI suggests priorities and writes tickets from commits. Integrated with GitHub, Slack, Figma.",
+    "category": "productivity",
+    "tags_ar": [
+      "مشاريع تقنية",
+      "تذاكر",
+      "سريع",
+      "مطورون"
+    ],
+    "tags_en": [
+      "technical projects",
+      "tickets",
+      "fast",
+      "developers"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://linear.app",
+    "monthly_visits": "3M+",
+    "trending_score": 85,
+    "rating": 4.8,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "jira",
+      "asana",
+      "clickup"
+    ],
+    "integrations": [
+      "GitHub",
+      "Slack",
+      "Figma",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "إدارة التطوير",
+      "تتبع الأخطاء",
+      "تخطيط Sprint",
+      "إدارة الفرق"
+    ],
+    "use_cases_en": [
+      "Development management",
+      "Bug tracking",
+      "Sprint planning",
+      "Team management"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=linear.app&sz=64"
+  },
+  {
+    "id": "slack",
+    "name_ar": "سلاك",
+    "name_en": "Slack",
+    "slug": "slack",
+    "tagline_ar": "تواصل الفرق مع AI مدمج",
+    "tagline_en": "Team communication with embedded AI",
+    "desc_ar": "المنصة الأكثر استخداماً في الشركات. Slack AI يلخص المحادثات تلقائياً.",
+    "desc_en": "Most used team communication. Slack AI auto-summarizes conversations.",
+    "long_desc_ar": "المنصة الأكثر استخداماً في الشركات. Slack AI يلخص المحادثات تلقائياً.",
+    "long_desc_en": "Most used team communication. Slack AI auto-summarizes conversations.",
+    "category": "productivity",
+    "tags_ar": [
+      "تواصل",
+      "فرق",
+      "شركات",
+      "Slack AI"
+    ],
+    "tags_en": [
+      "communication",
+      "teams",
+      "companies",
+      "Slack AI"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$7.25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://slack.com",
+    "monthly_visits": "20M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "teams",
+      "discord",
+      "zoom"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64"
+  },
+  {
+    "id": "chatpdf",
+    "name_ar": "شات PDF",
+    "name_en": "ChatPDF",
+    "slug": "chatpdf",
+    "tagline_ar": "تحدث مع ملفات PDF الخاصة بك",
+    "tagline_en": "Chat with your PDF files",
+    "desc_ar": "أشهر أداة للمحادثة مع ملفات PDF. اسأل أسئلتك وتحصل على إجابات من داخل الملف.",
+    "desc_en": "Most popular tool for chatting with PDFs. Ask questions and get answers from within the file.",
+    "long_desc_ar": "أشهر أداة للمحادثة مع ملفات PDF. اسأل أسئلتك وتحصل على إجابات من داخل الملف.",
+    "long_desc_en": "Most popular tool for chatting with PDFs. Ask questions and get answers from within the file.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://chatpdf.com",
+    "monthly_visits": "20M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatpdf.com&sz=64"
+  },
+  {
+    "id": "microsoft-copilot-pro",
+    "name_ar": "مايكروسوفت كوبايلوت برو",
+    "name_en": "Microsoft Copilot Pro",
+    "slug": "microsoft-copilot-pro",
+    "tagline_ar": "AI في كل تطبيقات Office والويندوز",
+    "tagline_en": "AI in all Office apps and Windows",
+    "desc_ar": "Copilot Pro يضيف AI لـ Word وExcel وPowerPoint وOutlook. الأشمل للمؤسسات.",
+    "desc_en": "Copilot Pro يضيف AI لـ Word وExcel وPowerPoint وOutlook. الأشمل للمؤسسات.",
+    "long_desc_ar": "Copilot Pro يضيف AI لـ Word وExcel وPowerPoint وOutlook. الأشمل للمؤسسات.",
+    "long_desc_en": "Copilot Pro يضيف AI لـ Word وExcel وPowerPoint وOutlook. الأشمل للمؤسسات.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$30/mo",
+    "price_pro": "$30/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://copilot.microsoft.com",
+    "monthly_visits": "300M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=64"
+  },
+  {
+    "id": "excel-copilot",
+    "name_ar": "Excel Copilot",
+    "name_en": "Excel with Copilot AI",
+    "slug": "excel-copilot",
+    "tagline_ar": "تحليل بيانات AI مباشرة في Excel",
+    "tagline_en": "Direct AI data analysis in Excel",
+    "desc_ar": "Excel مع Copilot يحلل البيانات ويبني مخططات ويكتب صيغ بالذكاء الاصطناعي.",
+    "desc_en": "Excel مع Copilot يحلل البيانات ويبني مخططات ويكتب صيغ بالذكاء الاصطناعي.",
+    "long_desc_ar": "Excel مع Copilot يحلل البيانات ويبني مخططات ويكتب صيغ بالذكاء الاصطناعي.",
+    "long_desc_en": "Excel مع Copilot يحلل البيانات ويبني مخططات ويكتب صيغ بالذكاء الاصطناعي.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$30/mo",
+    "price_pro": "$30/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://microsoft.com",
+    "monthly_visits": "300M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64"
+  },
+  {
+    "id": "miro-ai",
+    "name_ar": "Miro AI",
+    "name_en": "Miro AI",
+    "slug": "miro-ai",
+    "tagline_ar": "لوحة بيضاء AI للتعاون البصري",
+    "tagline_en": "AI whiteboard for visual collaboration",
+    "desc_ar": "Miro AI يُولّد Mind Maps وDiagrams ويُنظّم الأفكار تلقائياً. الأول في التعاون البصري.",
+    "desc_en": "Miro AI generates Mind Maps and Diagrams and organizes ideas automatically. #1 in visual collaboration.",
+    "long_desc_ar": "Miro AI يُولّد Mind Maps وDiagrams ويُنظّم الأفكار تلقائياً. الأول في التعاون البصري.",
+    "long_desc_en": "Miro AI generates Mind Maps and Diagrams and organizes ideas automatically. #1 in visual collaboration.",
+    "category": "productivity",
+    "tags_ar": [
+      "Miro AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Miro AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://miro.com",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=miro.com&sz=64"
+  },
+  {
+    "id": "airtable",
+    "name_ar": "إير تيبل",
+    "name_en": "Airtable",
+    "slug": "airtable",
+    "tagline_ar": "قاعدة بيانات بقوة Excel وسحر AI",
+    "tagline_en": "Database with Excel power and AI magic",
+    "desc_ar": "منصة قواعد البيانات البصرية. AI يبني قواعد البيانات ويولد المحتوى تلقائياً.",
+    "desc_en": "Visual database platform. AI builds databases and generates content automatically.",
+    "long_desc_ar": "Airtable تجمع سهولة Excel بقوة قاعدة بيانات حقيقية. Airtable AI يبني من وصف نصي. الفرق الإبداعية ومديرو المشاريع وفرق التسويق. مجانية للفرق الصغيرة.",
+    "long_desc_en": "Airtable combines Excel simplicity with real database power. Airtable AI builds from text. Creative teams, project managers, marketing. Free for small teams.",
+    "category": "productivity",
+    "tags_ar": [
+      "قاعدة بيانات",
+      "Excel",
+      "بصري",
+      "فرق"
+    ],
+    "tags_en": [
+      "database",
+      "Excel",
+      "visual",
+      "teams"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://airtable.com",
+    "monthly_visits": "20M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "notion",
+      "smartsheet",
+      "coda"
+    ],
+    "integrations": [
+      "Slack",
+      "GitHub",
+      "Zapier",
+      "Google Workspace"
+    ],
+    "use_cases_ar": [
+      "إدارة المشاريع",
+      "قواعد بيانات",
+      "تتبع المحتوى",
+      "إدارة الأصول"
+    ],
+    "use_cases_en": [
+      "Project management",
+      "Databases",
+      "Content tracking",
+      "Asset management"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=airtable.com&sz=64"
+  },
+  {
+    "id": "fireflies",
+    "name_ar": "فايرفلاي",
+    "name_en": "Fireflies.ai",
+    "slug": "fireflies",
+    "tagline_ar": "تسجيل وتحليل اجتماعاتك بذكاء",
+    "tagline_en": "Smart recording and analysis of your meetings",
+    "desc_ar": "أداة تسجيل الاجتماعات الأكثر شعبية في الشركات. تفرّغ وتلخص وتبحث في اجتماعاتك.",
+    "desc_en": "Most popular meeting recorder in companies. Transcribes, summarizes, searches your meetings.",
+    "long_desc_ar": "Fireflies.ai من أشهر أدوات تسجيل الاجتماعات في بيئات الأعمال. تنضم تلقائياً لـ Zoom وTeams وMeet وتفرّغ وتلخص وتتيح البحث في الاجتماعات. تتكامل مع HubSpot وSalesforce.",
+    "long_desc_en": "Fireflies.ai is one of the most popular meeting recording tools in business environments. Auto-joins Zoom, Teams, Meet, transcribes, summarizes, and enables search through meetings. Integrates with HubSpot and Salesforce.",
+    "category": "productivity",
+    "tags_ar": [
+      "اجتماعات",
+      "تفريغ",
+      "بحث",
+      "أعمال"
+    ],
+    "tags_en": [
+      "meetings",
+      "transcription",
+      "search",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$18/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://fireflies.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "otter-ai",
+      "fathom",
+      "tldv"
+    ],
+    "integrations": [
+      "Zoom",
+      "Teams",
+      "HubSpot",
+      "Salesforce"
+    ],
+    "use_cases_ar": [
+      "تسجيل الاجتماعات",
+      "بحث في المحادثات",
+      "متابعة العملاء",
+      "ذاكرة الفريق"
+    ],
+    "use_cases_en": [
+      "Meeting recording",
+      "Conversation search",
+      "Client follow-up",
+      "Team memory"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fireflies.ai&sz=64"
+  },
+  {
+    "id": "clickup",
+    "name_ar": "كليك أب",
+    "name_en": "ClickUp",
+    "slug": "clickup",
+    "tagline_ar": "إدارة مشاريع AI شاملة",
+    "tagline_en": "Comprehensive AI project management",
+    "desc_ar": "إدارة مشاريع تستبدل Asana وJira وNotion. AI يلخص ويكتب ويتتبع.",
+    "desc_en": "Project management replacing Asana, Jira, Notion. AI summarizes, writes, tracks.",
+    "long_desc_ar": "إدارة مشاريع تستبدل Asana وJira وNotion. AI يلخص ويكتب ويتتبع.",
+    "long_desc_en": "Project management replacing Asana, Jira, Notion. AI summarizes, writes, tracks.",
+    "category": "productivity",
+    "tags_ar": [
+      "إدارة مشاريع",
+      "شامل",
+      "AI",
+      "فرق"
+    ],
+    "tags_en": [
+      "project management",
+      "comprehensive",
+      "AI",
+      "teams"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$7/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://clickup.com",
+    "monthly_visits": "10M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "asana",
+      "jira",
+      "notion-ai"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64"
+  },
+  {
+    "id": "obsidian",
+    "name_ar": "أوبسيديان",
+    "name_en": "Obsidian",
+    "slug": "obsidian",
+    "tagline_ar": "قاعدة معرفة بروابط ثنائية الاتجاه",
+    "tagline_en": "Knowledge base with bidirectional links",
+    "desc_ar": "قاعدة معرفة شخصية مترابطة. AI يولد الروابط ويقترح الاتصالات.",
+    "desc_en": "Interconnected personal knowledge base. AI generates links and suggests connections.",
+    "long_desc_ar": "قاعدة معرفة شخصية مترابطة. AI يولد الروابط ويقترح الاتصالات.",
+    "long_desc_en": "Interconnected personal knowledge base. AI generates links and suggests connections.",
+    "category": "productivity",
+    "tags_ar": [
+      "قاعدة معرفة",
+      "روابط",
+      "محلي",
+      "مجاني"
+    ],
+    "tags_en": [
+      "knowledge base",
+      "links",
+      "local",
+      "free"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "website": "https://obsidian.md",
+    "monthly_visits": "3M+",
+    "trending_score": 84,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "notion-ai",
+      "roam",
+      "logseq"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=64"
+  },
+  {
+    "id": "zoom",
+    "name_ar": "زوم",
+    "name_en": "Zoom",
+    "slug": "zoom",
+    "tagline_ar": "اجتماعات فيديو مع AI شامل",
+    "tagline_en": "Video meetings with comprehensive AI",
+    "desc_ar": "منصة الاجتماعات الأشهر. Zoom AI يلخص ويتتبع المهام ويولد المحتوى.",
+    "desc_en": "Most popular meetings. Zoom AI summarizes, tracks tasks, generates content.",
+    "long_desc_ar": "منصة الاجتماعات الأشهر. Zoom AI يلخص ويتتبع المهام ويولد المحتوى.",
+    "long_desc_en": "Most popular meetings. Zoom AI summarizes, tracks tasks, generates content.",
+    "category": "productivity",
+    "tags_ar": [
+      "اجتماعات",
+      "فيديو",
+      "Zoom AI",
+      "ملخصات"
+    ],
+    "tags_en": [
+      "meetings",
+      "video",
+      "Zoom AI",
+      "summaries"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://zoom.us",
+    "monthly_visits": "20M+",
+    "trending_score": 84,
+    "rating": 4.3,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "teams",
+      "google-meet",
+      "webex"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64"
+  },
+  {
+    "id": "calendly",
+    "name_ar": "كالندلي",
+    "name_en": "Calendly",
+    "slug": "calendly",
+    "tagline_ar": "جدولة الاجتماعات تلقائياً",
+    "tagline_en": "Auto-schedule meetings",
+    "desc_ar": "الجدولة التلقائية للاجتماعات. شارك رابطك والتقويم يملأ نفسه.",
+    "desc_en": "Automatic meeting scheduling. Share your link and calendar fills itself.",
+    "long_desc_ar": "الجدولة التلقائية للاجتماعات. شارك رابطك والتقويم يملأ نفسه.",
+    "long_desc_en": "Automatic meeting scheduling. Share your link and calendar fills itself.",
+    "category": "productivity",
+    "tags_ar": [
+      "جدولة",
+      "اجتماعات",
+      "تلقائي",
+      "رابط"
+    ],
+    "tags_en": [
+      "scheduling",
+      "meetings",
+      "automatic",
+      "link"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome"
+    ],
+    "website": "https://calendly.com",
+    "monthly_visits": "10M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "cal-com",
+      "doodle",
+      "acuity"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=calendly.com&sz=64"
+  },
+  {
+    "id": "otter-ai-meeting",
+    "name_ar": "أوتر اجتماعات",
+    "name_en": "Otter.ai Meeting Assistant",
+    "slug": "otter-ai-meeting",
+    "tagline_ar": "مساعد الاجتماعات الأشهر",
+    "tagline_en": "Most popular meeting assistant",
+    "desc_ar": "Otter في a16z Top 100. يتفرّغ ويلخص ويتابع المهام من اجتماعاتك تلقائياً.",
+    "desc_en": "Otter في a16z Top 100. يتفرّغ ويلخص ويتابع المهام من اجتماعاتك تلقائياً.",
+    "long_desc_ar": "Otter في a16z Top 100. يتفرّغ ويلخص ويتابع المهام من اجتماعاتك تلقائياً.",
+    "long_desc_en": "Otter في a16z Top 100. يتفرّغ ويلخص ويتابع المهام من اجتماعاتك تلقائياً.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://otter.ai",
+    "monthly_visits": "10M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=otter.ai&sz=64"
+  },
+  {
+    "id": "julius-ai",
+    "name_ar": "Julius AI",
+    "name_en": "Julius AI",
+    "slug": "julius-ai",
+    "tagline_ar": "تحليل بيانات AI من ملفاتك مباشرة",
+    "tagline_en": "AI data analysis directly from your files",
+    "desc_ar": "Julius AI يُحلّل ملفات CSV وExcel والبيانات بسؤال بالعربية أو الإنجليزية. يُنشئ رسوماً بيانية فورياً.",
+    "desc_en": "Julius AI analyzes CSV, Excel files, and data with a question in Arabic or English. Creates charts instantly.",
+    "long_desc_ar": "Julius AI يُحلّل ملفات CSV وExcel والبيانات بسؤال بالعربية أو الإنجليزية. يُنشئ رسوماً بيانية فورياً.",
+    "long_desc_en": "Julius AI analyzes CSV, Excel files, and data with a question in Arabic or English. Creates charts instantly.",
+    "category": "productivity",
+    "tags_ar": [
+      "Julius",
+      "تحليل بيانات",
+      "CSV",
+      "رسوم بيانية"
+    ],
+    "tags_en": [
+      "Julius",
+      "data analysis",
+      "CSV",
+      "charts"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://julius.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "notebooklm"
+    ],
+    "integrations": [
+      "CSV",
+      "Excel",
+      "PDF",
+      "API"
+    ],
+    "use_cases_ar": [
+      "تحليل بيانات",
+      "رسوم بيانية",
+      "تقارير",
+      "CSV"
+    ],
+    "use_cases_en": [
+      "Data analysis",
+      "Charts",
+      "Reports",
+      "CSV"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=julius.ai&sz=64"
+  },
+  {
+    "id": "asana-ai",
+    "name_ar": "Asana AI",
+    "name_en": "Asana AI",
+    "slug": "asana-ai",
+    "tagline_ar": "إدارة مشاريع AI للفرق",
+    "tagline_en": "AI project management for teams",
+    "desc_ar": "Asana AI يُضيف ذكاءً اصطناعياً لأشهر أداة إدارة مشاريع. يُولّد خطط مشاريع ويُتابع التقدم.",
+    "desc_en": "Asana AI adds artificial intelligence to the most popular project management tool. Generates project plans.",
+    "long_desc_ar": "Asana AI يُضيف ذكاءً اصطناعياً لأشهر أداة إدارة مشاريع. يُولّد خطط مشاريع ويُتابع التقدم.",
+    "long_desc_en": "Asana AI adds artificial intelligence to the most popular project management tool. Generates project plans.",
+    "category": "productivity",
+    "tags_ar": [
+      "Asana AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Asana AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://asana.com",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=asana.com&sz=64"
+  },
+  {
+    "id": "clickup-ai",
+    "name_ar": "ClickUp AI",
+    "name_en": "ClickUp AI",
+    "slug": "clickup-ai",
+    "tagline_ar": "كل شيء في مكان واحد مع AI",
+    "tagline_en": "Everything in one place with AI",
+    "desc_ar": "ClickUp AI يجمع إدارة المهام والوثائق والأهداف والـ Chat في منصة واحدة مع AI مدمج.",
+    "desc_en": "ClickUp AI combines task management, docs, goals, and chat in one platform with built-in AI.",
+    "long_desc_ar": "ClickUp AI يجمع إدارة المهام والوثائق والأهداف والـ Chat في منصة واحدة مع AI مدمج.",
+    "long_desc_en": "ClickUp AI combines task management, docs, goals, and chat in one platform with built-in AI.",
+    "category": "productivity",
+    "tags_ar": [
+      "ClickUp AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "ClickUp AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://clickup.com",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64"
+  },
+  {
+    "id": "calendly-ai",
+    "name_ar": "Calendly AI",
+    "name_en": "Calendly AI",
+    "slug": "calendly-ai",
+    "tagline_ar": "جدولة اجتماعات AI تلقائية",
+    "tagline_en": "Automatic AI meeting scheduling",
+    "desc_ar": "Calendly AI يُجدوّل الاجتماعات تلقائياً مع اقتراحات الوقت الأفضل. 20M+ مستخدم.",
+    "desc_en": "Calendly AI automatically schedules meetings with best time suggestions. 20M+ users.",
+    "long_desc_ar": "Calendly AI يُجدوّل الاجتماعات تلقائياً مع اقتراحات الوقت الأفضل. 20M+ مستخدم.",
+    "long_desc_en": "Calendly AI automatically schedules meetings with best time suggestions. 20M+ users.",
+    "category": "productivity",
+    "tags_ar": [
+      "Calendly AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Calendly AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://calendly.com",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=calendly.com&sz=64"
+  },
+  {
+    "id": "miro",
+    "name_ar": "ميرو",
+    "name_en": "Miro",
+    "slug": "miro",
+    "tagline_ar": "لوحة بيضاء ذكية للتعاون الجماعي",
+    "tagline_en": "Smart whiteboard for team collaboration",
+    "desc_ar": "منصة التعاون البصري الأولى. AI يولد المخططات وخرائط التفكير تلقائياً.",
+    "desc_en": "#1 visual collaboration platform. AI generates diagrams and mind maps automatically.",
+    "long_desc_ar": "Miro يستخدمها 60 مليون شخص في الشركات الكبرى. Miro AI يولد خرائط التفكير والمخططات. مثالية للفرق الموزعة لتصميم المنتجات.",
+    "long_desc_en": "Miro used by 60M people at major companies. Miro AI generates mind maps and diagrams. Perfect for distributed teams for product design.",
+    "category": "productivity",
+    "tags_ar": [
+      "لوحة بيضاء",
+      "تعاون",
+      "خرائط تفكير",
+      "فرق موزعة"
+    ],
+    "tags_en": [
+      "whiteboard",
+      "collaboration",
+      "mind maps",
+      "distributed teams"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://miro.com",
+    "monthly_visits": "30M+",
+    "trending_score": 83,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "mural",
+      "figma",
+      "lucidchart"
+    ],
+    "integrations": [
+      "Slack",
+      "Jira",
+      "Zoom",
+      "Notion"
+    ],
+    "use_cases_ar": [
+      "تصميم المنتجات",
+      "تخطيط المشاريع",
+      "ورش إبداعية",
+      "خرائط تفكير"
+    ],
+    "use_cases_en": [
+      "Product design",
+      "Project planning",
+      "Creative workshops",
+      "Mind mapping"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=miro.com&sz=64"
+  },
+  {
+    "id": "asana",
+    "name_ar": "أسانا",
+    "name_en": "Asana",
+    "slug": "asana",
+    "tagline_ar": "إدارة مشاريع وفرق العمل",
+    "tagline_en": "Project and team management",
+    "desc_ar": "إدارة المشاريع والمهام للفرق. AI يخصص المهام ويتتبع التقدم.",
+    "desc_en": "Team project management. AI assigns tasks and tracks progress automatically.",
+    "long_desc_ar": "إدارة المشاريع والمهام للفرق. AI يخصص المهام ويتتبع التقدم.",
+    "long_desc_en": "Team project management. AI assigns tasks and tracks progress automatically.",
+    "category": "productivity",
+    "tags_ar": [
+      "إدارة مشاريع",
+      "فرق",
+      "مهام",
+      "تتبع"
+    ],
+    "tags_en": [
+      "project management",
+      "teams",
+      "tasks",
+      "tracking"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://asana.com",
+    "monthly_visits": "5M+",
+    "trending_score": 83,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [
+      "clickup",
+      "jira",
+      "monday"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=asana.com&sz=64"
+  },
+  {
+    "id": "monday",
+    "name_ar": "موندي",
+    "name_en": "Monday.com",
+    "slug": "monday",
+    "tagline_ar": "منصة عمل بصرية لإدارة المشاريع",
+    "tagline_en": "Visual work platform for projects",
+    "desc_ar": "منصة إدارة عمل بصرية مرنة. AI يبني لوحات العمل ويحلل التقدم.",
+    "desc_en": "Flexible visual work platform. AI builds boards and analyzes progress.",
+    "long_desc_ar": "منصة إدارة عمل بصرية مرنة. AI يبني لوحات العمل ويحلل التقدم.",
+    "long_desc_en": "Flexible visual work platform. AI builds boards and analyzes progress.",
+    "category": "productivity",
+    "tags_ar": [
+      "بصري",
+      "مرن",
+      "مشاريع",
+      "فرق"
+    ],
+    "tags_en": [
+      "visual",
+      "flexible",
+      "projects",
+      "teams"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://monday.com",
+    "monthly_visits": "5M+",
+    "trending_score": 83,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "asana",
+      "clickup",
+      "jira"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=monday.com&sz=64"
+  },
+  {
+    "id": "tldv",
+    "name_ar": "تي إل دي في",
+    "name_en": "tl;dv",
+    "slug": "tldv",
+    "tagline_ar": "تسجيل الاجتماعات مع ذكاء اصطناعي عميق",
+    "tagline_en": "Meeting recording with deep AI intelligence",
+    "desc_ar": "تسجيل وتلخيص الاجتماعات AI بعمق استثنائي. ترجمة فورية وبحث ذكي في محتوى الاجتماعات.",
+    "desc_en": "Deep AI meeting recording and summarization. Instant translation and smart search through meeting content.",
+    "long_desc_ar": "تسجيل وتلخيص الاجتماعات AI بعمق استثنائي. ترجمة فورية وبحث ذكي في محتوى الاجتماعات.",
+    "long_desc_en": "Deep AI meeting recording and summarization. Instant translation and smart search through meeting content.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://tldv.io",
+    "monthly_visits": "3M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tldv.io&sz=64"
+  },
+  {
+    "id": "notetaker-ai",
+    "name_ar": "نوت تيكر AI",
+    "name_en": "AI Notetaker",
+    "slug": "notetaker-ai",
+    "tagline_ar": "تفريغ وتلخيص الاجتماعات بالذكاء AI",
+    "tagline_en": "AI meeting transcription and summarization",
+    "desc_ar": "جيل جديد من تطبيقات تدوين الملاحظات. في a16z: Fathom وFireflies وGranola وOtter.",
+    "desc_en": "جيل جديد من تطبيقات تدوين الملاحظات. في a16z: Fathom وFireflies وGranola وOtter.",
+    "long_desc_ar": "جيل جديد من تطبيقات تدوين الملاحظات. في a16z: Fathom وFireflies وGranola وOtter.",
+    "long_desc_en": "جيل جديد من تطبيقات تدوين الملاحظات. في a16z: Fathom وFireflies وGranola وOtter.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://fathom.video",
+    "monthly_visits": "5M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fathom.video&sz=64"
+  },
+  {
+    "id": "raycast-ai",
+    "name_ar": "ريكاست AI",
+    "name_en": "Raycast AI",
+    "slug": "raycast-ai",
+    "tagline_ar": "Spotlight للمطورين مع AI قوي",
+    "tagline_en": "Spotlight for developers with powerful AI",
+    "desc_ar": "Raycast على macOS مع AI. البحث السريع وتشغيل الأوامر والتواصل مع AI.",
+    "desc_en": "Raycast على macOS مع AI. البحث السريع وتشغيل الأوامر والتواصل مع AI.",
+    "long_desc_ar": "Raycast على macOS مع AI. البحث السريع وتشغيل الأوامر والتواصل مع AI.",
+    "long_desc_en": "Raycast على macOS مع AI. البحث السريع وتشغيل الأوامر والتواصل مع AI.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://raycast.com",
+    "monthly_visits": "500K+",
+    "trending_score": 83,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=raycast.com&sz=64"
+  },
+  {
+    "id": "linear-ai",
+    "name_ar": "Linear AI",
+    "name_en": "Linear AI",
+    "slug": "linear-ai",
+    "tagline_ar": "إدارة مشاريع AI للفرق التقنية",
+    "tagline_en": "AI project management for tech teams",
+    "desc_ar": "Linear AI يُنظّم المهام والـ Issues بالذكاء الاصطناعي. المعيار الجديد لفرق التطوير.",
+    "desc_en": "Linear AI organizes tasks and issues with artificial intelligence. The new standard for development teams.",
+    "long_desc_ar": "Linear AI يُنظّم المهام والـ Issues بالذكاء الاصطناعي. المعيار الجديد لفرق التطوير.",
+    "long_desc_en": "Linear AI organizes tasks and issues with artificial intelligence. The new standard for development teams.",
+    "category": "productivity",
+    "tags_ar": [
+      "Linear AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Linear AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://linear.app",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=linear.app&sz=64"
+  },
+  {
+    "id": "glean",
+    "name_ar": "Glean",
+    "name_en": "Glean",
+    "slug": "glean",
+    "tagline_ar": "بحث AI في كل تطبيقات عملك",
+    "tagline_en": "AI search across all your work apps",
+    "desc_ar": "Glean يبحث في Slack وGmail وDrive وNotion وكل تطبيقاتك بذكاء. المعيار للشركات الكبيرة.",
+    "desc_en": "Glean searches Slack, Gmail, Drive, Notion, and all your apps intelligently. Standard for large companies.",
+    "long_desc_ar": "Glean يبحث في Slack وGmail وDrive وNotion وكل تطبيقاتك بذكاء. المعيار للشركات الكبيرة.",
+    "long_desc_en": "Glean searches Slack, Gmail, Drive, Notion, and all your apps intelligently. Standard for large companies.",
+    "category": "productivity",
+    "tags_ar": [
+      "Glean",
+      "productivity"
+    ],
+    "tags_en": [
+      "Glean",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "Custom",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://glean.com",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=glean.com&sz=64"
+  },
+  {
+    "id": "adobe-acrobat-ai",
+    "name_ar": "Adobe Acrobat AI",
+    "name_en": "Adobe Acrobat AI",
+    "slug": "adobe-acrobat-ai",
+    "tagline_ar": "محادثة مع PDF بالذكاء الاصطناعي",
+    "tagline_en": "Chat with PDF using AI",
+    "desc_ar": "Adobe Acrobat AI يُتيح محادثة مع أي PDF بالأسئلة والملخصات. مدمج في Acrobat.",
+    "desc_en": "Adobe Acrobat AI allows chatting with any PDF using questions and summaries. Built into Acrobat.",
+    "long_desc_ar": "Adobe Acrobat AI يُتيح محادثة مع أي PDF بالأسئلة والملخصات. مدمج في Acrobat.",
+    "long_desc_en": "Adobe Acrobat AI allows chatting with any PDF using questions and summaries. Built into Acrobat.",
+    "category": "productivity",
+    "tags_ar": [
+      "Adobe Acrobat AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Adobe Acrobat AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$15",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://adobe.com/acrobat",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=adobe.com&sz=64"
+  },
+  {
+    "id": "notion-calendar",
+    "name_ar": "نوشن تقويم",
+    "name_en": "Notion Calendar",
+    "slug": "notion-calendar",
+    "tagline_ar": "تقويم ذكي يتكامل مع Notion",
+    "tagline_en": "Smart calendar integrating with Notion",
+    "desc_ar": "تقويم AI من Notion يربط اجتماعاتك بمستنداتك تلقائياً. مجاني كامل.",
+    "desc_en": "AI calendar from Notion connecting meetings to documents automatically. Completely free.",
+    "long_desc_ar": "Notion Calendar يربط اجتماعاتك تلقائياً بمستندات Notion ذات الصلة. AI يلخص الاجتماعات السابقة ويحضّر للقادمة. مجاني تماماً ويعمل مع Google Calendar.",
+    "long_desc_en": "Notion Calendar automatically connects meetings to relevant Notion documents. AI summarizes past meetings and prepares for upcoming ones. Completely free and works with Google Calendar.",
+    "category": "productivity",
+    "tags_ar": [
+      "تقويم",
+      "اجتماعات",
+      "Notion",
+      "مجاني"
+    ],
+    "tags_en": [
+      "calendar",
+      "meetings",
+      "Notion",
+      "free"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://notion.so/product/calendar",
+    "monthly_visits": "10M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "google-calendar",
+      "fantastical",
+      "notion-ai"
+    ],
+    "integrations": [
+      "Notion",
+      "Google Calendar",
+      "Zoom"
+    ],
+    "use_cases_ar": [
+      "إدارة الاجتماعات",
+      "ربط الوثائق",
+      "جدولة أحداث",
+      "تنظيم اليوم"
+    ],
+    "use_cases_en": [
+      "Meeting management",
+      "Document linking",
+      "Event scheduling",
+      "Day organization"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notion.so&sz=64"
+  },
+  {
+    "id": "wispr",
+    "name_ar": "ويسبر",
+    "name_en": "Wispr Flow",
+    "slug": "wispr",
+    "tagline_ar": "إملاء AI يكتب بأسلوبك تماماً",
+    "tagline_en": "AI dictation that writes exactly like you",
+    "desc_ar": "أداة إملاء AI تتعلم أسلوب كتابتك وتكتب عنك بصوتك. من أسرع الأدوات نمواً في 2026.",
+    "desc_en": "AI dictation tool that learns your writing style and writes for you by voice. One of fastest growing in 2026.",
+    "long_desc_ar": "أداة إملاء AI تتعلم أسلوب كتابتك وتكتب عنك بصوتك. من أسرع الأدوات نمواً في 2026.",
+    "long_desc_en": "AI dictation tool that learns your writing style and writes for you by voice. One of fastest growing in 2026.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$12/mo",
+    "price_pro": "$12/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://wisprflow.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wisprflow.com&sz=64"
+  },
+  {
+    "id": "eightify",
+    "name_ar": "إيتيفاي",
+    "name_en": "Eightify",
+    "slug": "eightify",
+    "tagline_ar": "ملخصات يوتيوب AI في ثوانٍ",
+    "tagline_en": "YouTube AI summaries in seconds",
+    "desc_ar": "يلخص فيديوهات يوتيوب في نقاط رئيسية بالذكاء الاصطناعي. الامتداد الأشهر لملخصات يوتيوب.",
+    "desc_en": "Summarizes YouTube videos into key points with AI. Most popular YouTube summary extension.",
+    "long_desc_ar": "يلخص فيديوهات يوتيوب في نقاط رئيسية بالذكاء الاصطناعي. الامتداد الأشهر لملخصات يوتيوب.",
+    "long_desc_en": "Summarizes YouTube videos into key points with AI. Most popular YouTube summary extension.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://eightify.app",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=eightify.app&sz=64"
+  },
+  {
+    "id": "granola",
+    "name_ar": "جرانولا",
+    "name_en": "Granola",
+    "slug": "granola",
+    "tagline_ar": "ملاحظات اجتماعات AI بدون بوت",
+    "tagline_en": "AI meeting notes without a bot",
+    "desc_ar": "يسجل اجتماعاتك دون أي بوت مرئي. ملاحظات AI ذكية وخاصة. في a16z Top 100 2026.",
+    "desc_en": "Records your meetings without any visible bot. Smart private AI notes. On a16z Top 100 2026.",
+    "long_desc_ar": "يسجل اجتماعاتك دون أي بوت مرئي. ملاحظات AI ذكية وخاصة. في a16z Top 100 2026.",
+    "long_desc_en": "Records your meetings without any visible bot. Smart private AI notes. On a16z Top 100 2026.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://granola.so",
+    "monthly_visits": "1M+",
+    "trending_score": 82,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=granola.so&sz=64"
+  },
+  {
+    "id": "superhuman-ai",
+    "name_ar": "سوبر هيومن",
+    "name_en": "Superhuman",
+    "slug": "superhuman-ai",
+    "tagline_ar": "بريد إلكتروني AI للمحترفين",
+    "tagline_en": "AI email for professionals",
+    "desc_ar": "Superhuman أسرع بريد إلكتروني مع AI. يلخص ويرد ويرتب بريدك تلقائياً.",
+    "desc_en": "Superhuman أسرع بريد إلكتروني مع AI. يلخص ويرد ويرتب بريدك تلقائياً.",
+    "long_desc_ar": "Superhuman أسرع بريد إلكتروني مع AI. يلخص ويرد ويرتب بريدك تلقائياً.",
+    "long_desc_en": "Superhuman أسرع بريد إلكتروني مع AI. يلخص ويرد ويرتب بريدك تلقائياً.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$30/mo",
+    "price_pro": "$30/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://superhuman.com",
+    "monthly_visits": "1M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=superhuman.com&sz=64"
+  },
+  {
+    "id": "perplexity-pages",
+    "name_ar": "Perplexity Pages",
+    "name_en": "Perplexity Pages",
+    "slug": "perplexity-pages",
+    "tagline_ar": "أنشئ صفحات بحثية منسقة",
+    "tagline_en": "Create curated research pages",
+    "desc_ar": "Perplexity Pages تحوّل بحثك لصفحات منسقة جاهزة للنشر. مشاركة المعرفة بسهولة.",
+    "desc_en": "Perplexity Pages تحوّل بحثك لصفحات منسقة جاهزة للنشر. مشاركة المعرفة بسهولة.",
+    "long_desc_ar": "Perplexity Pages تحوّل بحثك لصفحات منسقة جاهزة للنشر. مشاركة المعرفة بسهولة.",
+    "long_desc_en": "Perplexity Pages تحوّل بحثك لصفحات منسقة جاهزة للنشر. مشاركة المعرفة بسهولة.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "165M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "notion-ai-connectors",
+    "name_ar": "Notion AI Connectors",
+    "name_en": "Notion AI Connectors",
+    "slug": "notion-ai-connectors",
+    "tagline_ar": "Notion يتصل بـ Slack وGitHub بالذكاء AI",
+    "tagline_en": "Notion connects to Slack and GitHub with AI",
+    "desc_ar": "Notion AI Connectors يربط مساحتك مع Slack وGitHub وJira بالذكاء الاصطناعي.",
+    "desc_en": "Notion AI Connectors يربط مساحتك مع Slack وGitHub وJira بالذكاء الاصطناعي.",
+    "long_desc_ar": "Notion AI Connectors يربط مساحتك مع Slack وGitHub وJira بالذكاء الاصطناعي.",
+    "long_desc_en": "Notion AI Connectors يربط مساحتك مع Slack وGitHub وJira بالذكاء الاصطناعي.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://notion.so",
+    "monthly_visits": "100M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notion.so&sz=64"
+  },
+  {
+    "id": "tome-ai",
+    "name_ar": "Tome",
+    "name_en": "Tome",
+    "slug": "tome-ai",
+    "tagline_ar": "قصص مرئية تفاعلية بالذكاء الاصطناعي",
+    "tagline_en": "Interactive visual stories with AI",
+    "desc_ar": "Tome يبني قصصاً تفاعلية تجمع بين النصوص والصور ومقاطع الفيديو والبيانات بشكل منسجم.",
+    "desc_en": "Tome builds interactive stories combining text, images, videos, and data cohesively.",
+    "long_desc_ar": "Tome يبني قصصاً تفاعلية تجمع بين النصوص والصور ومقاطع الفيديو والبيانات بشكل منسجم.",
+    "long_desc_en": "Tome builds interactive stories combining text, images, videos, and data cohesively.",
+    "category": "productivity",
+    "tags_ar": [
+      "Tome",
+      "قصص مرئية",
+      "تفاعلية",
+      "عروض"
+    ],
+    "tags_en": [
+      "Tome",
+      "visual stories",
+      "interactive",
+      "presentations"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$16",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://tome.app",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "gamma-ai",
+      "beautiful-ai",
+      "canva-ai-2026"
+    ],
+    "integrations": [
+      "Figma",
+      "Google Docs",
+      "Notion"
+    ],
+    "use_cases_ar": [
+      "قصص إبداعية",
+      "عروض",
+      "بيانات",
+      "تسويق"
+    ],
+    "use_cases_en": [
+      "Creative stories",
+      "Presentations",
+      "Data",
+      "Marketing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tome.app&sz=64"
+  },
+  {
+    "id": "motion-ai",
+    "name_ar": "Motion AI",
+    "name_en": "Motion AI",
+    "slug": "motion-ai",
+    "tagline_ar": "تنظيم يومك AI تلقائياً",
+    "tagline_en": "Automatically organize your day with AI",
+    "desc_ar": "Motion AI يُنظّم تقويمك ومهامك تلقائياً بالذكاء الاصطناعي. يُحسّن جدولك كل يوم.",
+    "desc_en": "Motion AI automatically organizes your calendar and tasks with AI. Improves your schedule every day.",
+    "long_desc_ar": "Motion AI يُنظّم تقويمك ومهامك تلقائياً بالذكاء الاصطناعي. يُحسّن جدولك كل يوم.",
+    "long_desc_en": "Motion AI automatically organizes your calendar and tasks with AI. Improves your schedule every day.",
+    "category": "productivity",
+    "tags_ar": [
+      "Motion AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Motion AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$19",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://usemotion.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=usemotion.com&sz=64"
+  },
+  {
+    "id": "obsidian-ai",
+    "name_ar": "Obsidian",
+    "name_en": "Obsidian",
+    "slug": "obsidian-ai",
+    "tagline_ar": "مخزن معرفة محلي مع AI Plugins",
+    "tagline_en": "Local knowledge vault with AI plugins",
+    "desc_ar": "Obsidian يُخزّن المعرفة محلياً مع روابط ثنائية الاتجاه. AI Plugins تُضيف قدرات ذكاء اصطناعي.",
+    "desc_en": "Obsidian stores knowledge locally with bidirectional links. AI plugins add artificial intelligence capabilities.",
+    "long_desc_ar": "Obsidian يُخزّن المعرفة محلياً مع روابط ثنائية الاتجاه. AI Plugins تُضيف قدرات ذكاء اصطناعي.",
+    "long_desc_en": "Obsidian stores knowledge locally with bidirectional links. AI plugins add artificial intelligence capabilities.",
+    "category": "productivity",
+    "tags_ar": [
+      "Obsidian",
+      "productivity"
+    ],
+    "tags_en": [
+      "Obsidian",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://obsidian.md",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=64"
+  },
+  {
+    "id": "motion-product",
+    "name_ar": "Motion",
+    "name_en": "Motion",
+    "slug": "motion-product",
+    "tagline_ar": "تخطيط يومي AI ذكي",
+    "tagline_en": "Smart AI daily planning",
+    "desc_ar": "Motion يُخطّط يومك تلقائياً بالذكاء الاصطناعي. يُحسّن جدولك ليزيد إنتاجيتك.",
+    "desc_en": "Motion automatically plans your day with AI. Optimizes your schedule to increase productivity.",
+    "long_desc_ar": "Motion يُخطّط يومك تلقائياً بالذكاء الاصطناعي. يُحسّن جدولك ليزيد إنتاجيتك.",
+    "long_desc_en": "Motion automatically plans your day with AI. Optimizes your schedule to increase productivity.",
+    "category": "productivity",
+    "tags_ar": [
+      "Motion",
+      "productivity"
+    ],
+    "tags_en": [
+      "Motion",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$19",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://usemotion.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=usemotion.com&sz=64"
+  },
+  {
+    "id": "todoist",
+    "name_ar": "تودويست",
+    "name_en": "Todoist",
+    "slug": "todoist",
+    "tagline_ar": "مدير مهام ذكي بالذكاء AI",
+    "tagline_en": "Smart AI task manager",
+    "desc_ar": "أشهر تطبيق إدارة المهام الشخصية. AI يقترح الأولويات وينظم القائمة.",
+    "desc_en": "Most popular personal task manager. AI suggests priorities and organizes list.",
+    "long_desc_ar": "أشهر تطبيق إدارة المهام الشخصية. AI يقترح الأولويات وينظم القائمة.",
+    "long_desc_en": "Most popular personal task manager. AI suggests priorities and organizes list.",
+    "category": "productivity",
+    "tags_ar": [
+      "مهام شخصية",
+      "أولويات",
+      "بسيط",
+      "ذكي"
+    ],
+    "tags_en": [
+      "personal tasks",
+      "priorities",
+      "simple",
+      "smart"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$4/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://todoist.com",
+    "monthly_visits": "5M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2007,
+    "alternatives": [
+      "things",
+      "microsoft-todo",
+      "notion-ai"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=todoist.com&sz=64"
+  },
+  {
+    "id": "maxai",
+    "name_ar": "ماكس AI",
+    "name_en": "MaxAI",
+    "slug": "maxai",
+    "tagline_ar": "مساعد AI في كل مكان بالمتصفح",
+    "tagline_en": "AI assistant everywhere in browser",
+    "desc_ar": "امتداد Chrome يضيف AI في كل مكان. قراءة وكتابة وترجمة في أي موقع بضغطة واحدة.",
+    "desc_en": "Chrome extension adding AI everywhere. Reading, writing, and translation on any website with one click.",
+    "long_desc_ar": "امتداد Chrome يضيف AI في كل مكان. قراءة وكتابة وترجمة في أي موقع بضغطة واحدة.",
+    "long_desc_en": "Chrome extension adding AI everywhere. Reading, writing, and translation on any website with one click.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://maxai.me",
+    "monthly_visits": "10M+",
+    "trending_score": 81,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=maxai.me&sz=64"
+  },
+  {
+    "id": "tableau-ai",
+    "name_ar": "Tableau AI",
+    "name_en": "Tableau AI",
+    "slug": "tableau-ai",
+    "tagline_ar": "تحليل بيانات AI للمؤسسات من Salesforce",
+    "tagline_en": "Enterprise AI data analytics from Salesforce",
+    "desc_ar": "Tableau AI يُدمج ذكاءً اصطناعياً في أقوى أداة لتحليل البيانات المرئي. الأول في المؤسسات.",
+    "desc_en": "Tableau AI integrates AI into the most powerful visual data analytics tool. #1 in enterprise.",
+    "long_desc_ar": "Tableau AI يُدمج ذكاءً اصطناعياً في أقوى أداة لتحليل البيانات المرئي. الأول في المؤسسات.",
+    "long_desc_en": "Tableau AI integrates AI into the most powerful visual data analytics tool. #1 in enterprise.",
+    "category": "productivity",
+    "tags_ar": [
+      "Tableau",
+      "تحليل بيانات",
+      "BI",
+      "مؤسسات"
+    ],
+    "tags_en": [
+      "Tableau",
+      "data analysis",
+      "BI",
+      "enterprise"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$70",
+    "price_pro": "$150",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Windows",
+      "Mac"
+    ],
+    "website": "https://tableau.com",
+    "monthly_visits": "5M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2003,
+    "alternatives": [
+      "power-bi",
+      "julius-ai",
+      "looker"
+    ],
+    "integrations": [
+      "Salesforce",
+      "SQL",
+      "API",
+      "Excel"
+    ],
+    "use_cases_ar": [
+      "تحليل بيانات",
+      "Dashboard",
+      "BI",
+      "مؤسسات"
+    ],
+    "use_cases_en": [
+      "Data analysis",
+      "Dashboard",
+      "BI",
+      "Enterprise"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tableau.com&sz=64"
+  },
+  {
+    "id": "things-3",
+    "name_ar": "Things 3",
+    "name_en": "Things 3",
+    "slug": "things-3",
+    "tagline_ar": "مدير مهام أنيق لنظام Apple",
+    "tagline_en": "Elegant task manager for Apple systems",
+    "desc_ar": "Things 3 — مدير مهام أنيق لنظام Apple",
+    "desc_en": "Things 3 — Elegant task manager for Apple systems",
+    "long_desc_ar": "Things 3 — مدير مهام أنيق لنظام Apple",
+    "long_desc_en": "Things 3 — Elegant task manager for Apple systems",
+    "category": "productivity",
+    "tags_ar": [
+      "Things 3",
+      "productivity"
+    ],
+    "tags_en": [
+      "Things 3",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$50",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://culturedcode.com",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=culturedcode.com&sz=64"
+  },
+  {
+    "id": "motion-app",
+    "name_ar": "موشن",
+    "name_en": "Motion",
+    "slug": "motion-app",
+    "tagline_ar": "جدولة وإدارة مهام AI ذاتية",
+    "tagline_en": "Autonomous AI task and scheduling management",
+    "desc_ar": "Motion يبني جدول يومك تلقائياً بناءً على أولوياتك ومواعيدك.",
+    "desc_en": "Motion يبني جدول يومك تلقائياً بناءً على أولوياتك ومواعيدك.",
+    "long_desc_ar": "Motion يبني جدول يومك تلقائياً بناءً على أولوياتك ومواعيدك.",
+    "long_desc_en": "Motion يبني جدول يومك تلقائياً بناءً على أولوياتك ومواعيدك.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$34/mo",
+    "price_pro": "$34/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://usemotion.com",
+    "monthly_visits": "1M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=usemotion.com&sz=64"
+  },
+  {
+    "id": "notion-sites",
+    "name_ar": "نوشن مواقع",
+    "name_en": "Notion Sites",
+    "slug": "notion-sites",
+    "tagline_ar": "مواقع ويب من مستنداتك مباشرة",
+    "tagline_en": "Websites directly from your documents",
+    "desc_ar": "Notion Sites يحوّل مستنداتك لمواقع ويب جميلة. بدون كود وبدون نشر.",
+    "desc_en": "Notion Sites يحوّل مستنداتك لمواقع ويب جميلة. بدون كود وبدون نشر.",
+    "long_desc_ar": "Notion Sites يحوّل مستنداتك لمواقع ويب جميلة. بدون كود وبدون نشر.",
+    "long_desc_en": "Notion Sites يحوّل مستنداتك لمواقع ويب جميلة. بدون كود وبدون نشر.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://notion.so",
+    "monthly_visits": "100M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notion.so&sz=64"
+  },
+  {
+    "id": "superwhisper",
+    "name_ar": "سوبر ويسبر",
+    "name_en": "SuperWhisper",
+    "slug": "superwhisper",
+    "tagline_ar": "إملاء AI فائق الدقة للـ Mac",
+    "tagline_en": "Ultra-accurate AI dictation for Mac",
+    "desc_ar": "SuperWhisper يُمليّ بدقة استثنائية على macOS. يُدمج مع كل التطبيقات.",
+    "desc_en": "SuperWhisper يُمليّ بدقة استثنائية على macOS. يُدمج مع كل التطبيقات.",
+    "long_desc_ar": "SuperWhisper يُمليّ بدقة استثنائية على macOS. يُدمج مع كل التطبيقات.",
+    "long_desc_en": "SuperWhisper يُمليّ بدقة استثنائية على macOS. يُدمج مع كل التطبيقات.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "$9/mo",
+    "price_pro": "$9/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://superwhisper.com",
+    "monthly_visits": "500K+",
+    "trending_score": 80,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=superwhisper.com&sz=64"
+  },
+  {
+    "id": "microsoft-loop-ai",
+    "name_ar": "مايكروسوفت لوب",
+    "name_en": "Microsoft Loop AI",
+    "slug": "microsoft-loop-ai",
+    "tagline_ar": "تعاون AI في الوقت الحقيقي",
+    "tagline_en": "Real-time AI collaboration",
+    "desc_ar": "Microsoft Loop يضيف Copilot AI لمساحات العمل التعاونية. منافس Notion المباشر.",
+    "desc_en": "Microsoft Loop يضيف Copilot AI لمساحات العمل التعاونية. منافس Notion المباشر.",
+    "long_desc_ar": "Microsoft Loop يضيف Copilot AI لمساحات العمل التعاونية. منافس Notion المباشر.",
+    "long_desc_en": "Microsoft Loop يضيف Copilot AI لمساحات العمل التعاونية. منافس Notion المباشر.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://loop.microsoft.com",
+    "monthly_visits": "50M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=loop.microsoft.com&sz=64"
+  },
+  {
+    "id": "beautiful-ai",
+    "name_ar": "Beautiful.ai",
+    "name_en": "Beautiful.ai",
+    "slug": "beautiful-ai",
+    "tagline_ar": "عروض تقديمية تُصمّم نفسها",
+    "tagline_en": "Presentations that design themselves",
+    "desc_ar": "Beautiful.ai تُصمّم شرائح احترافية تلقائياً. الشرائح تُعيد ترتيب نفسها عند إضافة المحتوى.",
+    "desc_en": "Beautiful.ai automatically designs professional slides. Slides rearrange themselves when content is added.",
+    "long_desc_ar": "Beautiful.ai تُصمّم شرائح احترافية تلقائياً. الشرائح تُعيد ترتيب نفسها عند إضافة المحتوى.",
+    "long_desc_en": "Beautiful.ai automatically designs professional slides. Slides rearrange themselves when content is added.",
+    "category": "productivity",
+    "tags_ar": [
+      "Beautiful.ai",
+      "Slides",
+      "تصميم تلقائي",
+      "عروض"
+    ],
+    "tags_en": [
+      "Beautiful.ai",
+      "Slides",
+      "auto-design",
+      "presentations"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$12",
+    "price_pro": "$40",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://beautiful.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "gamma-ai",
+      "canva-ai-2026",
+      "tome"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack",
+      "Teams"
+    ],
+    "use_cases_ar": [
+      "عروض تقديمية",
+      "تصميم تلقائي",
+      "فرق",
+      "تسويق"
+    ],
+    "use_cases_en": [
+      "Presentations",
+      "Auto-design",
+      "Teams",
+      "Marketing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=beautiful.ai&sz=64"
+  },
+  {
+    "id": "coda-ai",
+    "name_ar": "Coda AI",
+    "name_en": "Coda AI",
+    "slug": "coda-ai",
+    "tagline_ar": "وثائق وجداول ومشاريع مع AI",
+    "tagline_en": "Documents, spreadsheets, and projects with AI",
+    "desc_ar": "Coda AI يجمع الوثائق والجداول وإدارة المشاريع مع AI مدمج. بديل Notion مع قدرات أقوى.",
+    "desc_en": "Coda AI combines documents, spreadsheets, and project management with built-in AI. Notion alternative with more powerful capabilities.",
+    "long_desc_ar": "Coda AI يجمع الوثائق والجداول وإدارة المشاريع مع AI مدمج. بديل Notion مع قدرات أقوى.",
+    "long_desc_en": "Coda AI combines documents, spreadsheets, and project management with built-in AI. Notion alternative with more powerful capabilities.",
+    "category": "productivity",
+    "tags_ar": [
+      "Coda AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Coda AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://coda.io",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=coda.io&sz=64"
+  },
+  {
+    "id": "ticktick-ai",
+    "name_ar": "TickTick AI",
+    "name_en": "TickTick AI",
+    "slug": "ticktick-ai",
+    "tagline_ar": "مهام وتقويم AI في مكان واحد",
+    "tagline_en": "Tasks and calendar AI in one place",
+    "desc_ar": "TickTick AI — مهام وتقويم AI في مكان واحد",
+    "desc_en": "TickTick AI — Tasks and calendar AI in one place",
+    "long_desc_ar": "TickTick AI — مهام وتقويم AI في مكان واحد",
+    "long_desc_en": "TickTick AI — Tasks and calendar AI in one place",
+    "category": "productivity",
+    "tags_ar": [
+      "TickTick AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "TickTick AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://ticktick.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ticktick.com&sz=64"
+  },
+  {
+    "id": "liner",
+    "name_ar": "لاينر",
+    "name_en": "Liner",
+    "slug": "liner",
+    "tagline_ar": "تمييز وبحث AI على الإنترنت",
+    "tagline_en": "AI highlighting and search on the internet",
+    "desc_ar": "أداة تمييز النصوص المهمة وبحث AI في صفحات الويب والـ PDF. لازالت تشهد نمواً ضخماً.",
+    "desc_en": "Tool for highlighting important text and AI search in web pages and PDFs. Still seeing massive growth.",
+    "long_desc_ar": "أداة تمييز النصوص المهمة وبحث AI في صفحات الويب والـ PDF. لازالت تشهد نمواً ضخماً.",
+    "long_desc_en": "Tool for highlighting important text and AI search in web pages and PDFs. Still seeing massive growth.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://getliner.com",
+    "monthly_visits": "5M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=getliner.com&sz=64"
+  },
+  {
+    "id": "reclaim-ai",
+    "name_ar": "ريكليم AI",
+    "name_en": "Reclaim AI",
+    "slug": "reclaim-ai",
+    "tagline_ar": "جدولة AI ذاتية لتقويمك",
+    "tagline_en": "AI self-scheduling for your calendar",
+    "desc_ar": "Reclaim AI يحجز وقتاً للمهام والعادات في تقويمك تلقائياً. يحسّن إنتاجيتك.",
+    "desc_en": "Reclaim AI يحجز وقتاً للمهام والعادات في تقويمك تلقائياً. يحسّن إنتاجيتك.",
+    "long_desc_ar": "Reclaim AI يحجز وقتاً للمهام والعادات في تقويمك تلقائياً. يحسّن إنتاجيتك.",
+    "long_desc_en": "Reclaim AI يحجز وقتاً للمهام والعادات في تقويمك تلقائياً. يحسّن إنتاجيتك.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://reclaim.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=reclaim.ai&sz=64"
+  },
+  {
+    "id": "todoist-ai",
+    "name_ar": "Todoist AI",
+    "name_en": "Todoist AI",
+    "slug": "todoist-ai",
+    "tagline_ar": "مدير مهام AI الأبسط",
+    "tagline_en": "Simplest AI task manager",
+    "desc_ar": "Todoist AI يُضيف اقتراحات AI لتنظيم مهامك وتحديد الأولويات. واجهة نظيفة وبسيطة.",
+    "desc_en": "Todoist AI adds AI suggestions to organize your tasks and set priorities. Clean and simple interface.",
+    "long_desc_ar": "Todoist AI يُضيف اقتراحات AI لتنظيم مهامك وتحديد الأولويات. واجهة نظيفة وبسيطة.",
+    "long_desc_en": "Todoist AI adds AI suggestions to organize your tasks and set priorities. Clean and simple interface.",
+    "category": "productivity",
+    "tags_ar": [
+      "Todoist AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Todoist AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://todoist.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2007,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=todoist.com&sz=64"
+  },
+  {
+    "id": "slides-ai",
+    "name_ar": "Slides AI",
+    "name_en": "Slides AI",
+    "slug": "slides-ai",
+    "tagline_ar": "عروض Google Slides بالذكاء الاصطناعي",
+    "tagline_en": "Google Slides presentations with AI",
+    "desc_ar": "Slides AI يُولّد عروض Google Slides من نص مباشرة. مدمج في Google Workspace.",
+    "desc_en": "Slides AI generates Google Slides presentations from text directly. Integrated with Google Workspace.",
+    "long_desc_ar": "Slides AI يُولّد عروض Google Slides من نص مباشرة. مدمج في Google Workspace.",
+    "long_desc_en": "Slides AI generates Google Slides presentations from text directly. Integrated with Google Workspace.",
+    "category": "productivity",
+    "tags_ar": [
+      "Slides AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Slides AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$10",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://slidesai.io",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=slidesai.io&sz=64"
+  },
+  {
+    "id": "storydoc",
+    "name_ar": "Storydoc",
+    "name_en": "Storydoc",
+    "slug": "storydoc",
+    "tagline_ar": "عروض تقديمية تفاعلية لـ B2B",
+    "tagline_en": "Interactive presentations for B2B",
+    "desc_ar": "Storydoc يُنشئ عروضاً تقديمية تفاعلية مع Analytics. مثالي لـ Sales decks وProposals.",
+    "desc_en": "Storydoc creates interactive presentations with analytics. Ideal for sales decks and proposals.",
+    "long_desc_ar": "Storydoc يُنشئ عروضاً تقديمية تفاعلية مع Analytics. مثالي لـ Sales decks وProposals.",
+    "long_desc_en": "Storydoc creates interactive presentations with analytics. Ideal for sales decks and proposals.",
+    "category": "productivity",
+    "tags_ar": [
+      "Storydoc",
+      "productivity"
+    ],
+    "tags_en": [
+      "Storydoc",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$40",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://storydoc.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=storydoc.com&sz=64"
+  },
+  {
+    "id": "avoma",
+    "name_ar": "Avoma",
+    "name_en": "Avoma",
+    "slug": "avoma",
+    "tagline_ar": "intelligence اجتماعات AI للمبيعات",
+    "tagline_en": "AI meeting intelligence for sales",
+    "desc_ar": "Avoma يُسجّل ويُحلّل الاجتماعات ويُحسّن أداء فريق المبيعات بالذكاء الاصطناعي.",
+    "desc_en": "Avoma records and analyzes meetings and improves sales team performance with AI.",
+    "long_desc_ar": "Avoma يُسجّل ويُحلّل الاجتماعات ويُحسّن أداء فريق المبيعات بالذكاء الاصطناعي.",
+    "long_desc_en": "Avoma records and analyzes meetings and improves sales team performance with AI.",
+    "category": "productivity",
+    "tags_ar": [
+      "Avoma",
+      "productivity"
+    ],
+    "tags_en": [
+      "Avoma",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$19",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://avoma.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=avoma.com&sz=64"
+  },
+  {
+    "id": "whimsical-ai",
+    "name_ar": "Whimsical AI",
+    "name_en": "Whimsical AI",
+    "slug": "whimsical-ai",
+    "tagline_ar": "خرائط ذهنية وFlowcharts بـ AI",
+    "tagline_en": "AI Mind Maps and Flowcharts",
+    "desc_ar": "Whimsical AI — خرائط ذهنية وFlowcharts بـ AI",
+    "desc_en": "Whimsical AI — AI Mind Maps and Flowcharts",
+    "long_desc_ar": "Whimsical AI — خرائط ذهنية وFlowcharts بـ AI",
+    "long_desc_en": "Whimsical AI — AI Mind Maps and Flowcharts",
+    "category": "productivity",
+    "tags_ar": [
+      "Whimsical AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Whimsical AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://whimsical.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=whimsical.com&sz=64"
+  },
+  {
+    "id": "trello",
+    "name_ar": "تريلو",
+    "name_en": "Trello",
+    "slug": "trello",
+    "tagline_ar": "إدارة المهام بنظام الكانبان",
+    "tagline_en": "Task management with Kanban",
+    "desc_ar": "لوحات Kanban للمهام. بسيط وفعال للفرق الصغيرة.",
+    "desc_en": "Kanban boards for tasks. Simple and effective for small teams.",
+    "long_desc_ar": "لوحات Kanban للمهام. بسيط وفعال للفرق الصغيرة.",
+    "long_desc_en": "Kanban boards for tasks. Simple and effective for small teams.",
+    "category": "productivity",
+    "tags_ar": [
+      "كانبان",
+      "مرئي",
+      "بسيط",
+      "فرق صغيرة"
+    ],
+    "tags_en": [
+      "Kanban",
+      "visual",
+      "simple",
+      "small teams"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$5/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://trello.com",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "asana",
+      "clickup",
+      "monday"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=trello.com&sz=64"
+  },
+  {
+    "id": "mem-ai",
+    "name_ar": "ميم AI",
+    "name_en": "Mem AI",
+    "slug": "mem-ai",
+    "tagline_ar": "ذاكرة AI تتعلم من عملك",
+    "tagline_en": "AI memory that learns from your work",
+    "desc_ar": "Mem AI يبني ذاكرة ذكية من كل ملاحظاتك. يقترح الاتصالات ويبني المعرفة تلقائياً.",
+    "desc_en": "Mem AI يبني ذاكرة ذكية من كل ملاحظاتك. يقترح الاتصالات ويبني المعرفة تلقائياً.",
+    "long_desc_ar": "Mem AI يبني ذاكرة ذكية من كل ملاحظاتك. يقترح الاتصالات ويبني المعرفة تلقائياً.",
+    "long_desc_en": "Mem AI يبني ذاكرة ذكية من كل ملاحظاتك. يقترح الاتصالات ويبني المعرفة تلقائياً.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://mem.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mem.ai&sz=64"
+  },
+  {
+    "id": "taskade-ai",
+    "name_ar": "تاسكيد AI",
+    "name_en": "Taskade AI",
+    "slug": "taskade-ai",
+    "tagline_ar": "فرق عمل AI تنجز المهام بالنيابة عنك",
+    "tagline_en": "AI teams that complete tasks for you",
+    "desc_ar": "Taskade AI يبني فرق وكلاء AI لإنجاز المشاريع. إدارة مشاريع + AI agents.",
+    "desc_en": "Taskade AI يبني فرق وكلاء AI لإنجاز المشاريع. إدارة مشاريع + AI agents.",
+    "long_desc_ar": "Taskade AI يبني فرق وكلاء AI لإنجاز المشاريع. إدارة مشاريع + AI agents.",
+    "long_desc_en": "Taskade AI يبني فرق وكلاء AI لإنجاز المشاريع. إدارة مشاريع + AI agents.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://taskade.com",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=taskade.com&sz=64"
+  },
+  {
+    "id": "shortwave-ai",
+    "name_ar": "شورت ويف",
+    "name_en": "Shortwave",
+    "slug": "shortwave-ai",
+    "tagline_ar": "Gmail مع AI عميق",
+    "tagline_en": "Gmail with deep AI",
+    "desc_ar": "Shortwave يحوّل Gmail لمساعد ذكي. AI يلخص ويرتب ويرد على البريد.",
+    "desc_en": "Shortwave يحوّل Gmail لمساعد ذكي. AI يلخص ويرتب ويرد على البريد.",
+    "long_desc_ar": "Shortwave يحوّل Gmail لمساعد ذكي. AI يلخص ويرتب ويرد على البريد.",
+    "long_desc_en": "Shortwave يحوّل Gmail لمساعد ذكي. AI يلخص ويرتب ويرد على البريد.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://shortwave.com",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=shortwave.com&sz=64"
+  },
+  {
+    "id": "tome-ai-pro",
+    "name_ar": "توم AI برو",
+    "name_en": "Tome Pro",
+    "slug": "tome-ai-pro",
+    "tagline_ar": "عروض تقديمية AI للمبيعات",
+    "tagline_en": "AI sales presentations",
+    "desc_ar": "Tome Pro للفرق المبيعاتية. عروض AI مخصصة لكل عميل تلقائياً.",
+    "desc_en": "Tome Pro للفرق المبيعاتية. عروض AI مخصصة لكل عميل تلقائياً.",
+    "long_desc_ar": "Tome Pro للفرق المبيعاتية. عروض AI مخصصة لكل عميل تلقائياً.",
+    "long_desc_en": "Tome Pro للفرق المبيعاتية. عروض AI مخصصة لكل عميل تلقائياً.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://tome.app",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tome.app&sz=64"
+  },
+  {
+    "id": "presentations-ai",
+    "name_ar": "Presentations.AI",
+    "name_en": "Presentations.AI",
+    "slug": "presentations-ai",
+    "tagline_ar": "عروض تقديمية AI بتصاميم متميزة",
+    "tagline_en": "AI presentations with distinctive designs",
+    "desc_ar": "Presentations.AI يُولّد عروض تقديمية بتصاميم متميزة من وصف نصي بسيط.",
+    "desc_en": "Presentations.AI generates presentations with distinctive designs from simple text description.",
+    "long_desc_ar": "Presentations.AI يُولّد عروض تقديمية بتصاميم متميزة من وصف نصي بسيط.",
+    "long_desc_en": "Presentations.AI generates presentations with distinctive designs from simple text description.",
+    "category": "productivity",
+    "tags_ar": [
+      "Presentations.AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Presentations.AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://presentations.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=presentations.ai&sz=64"
+  },
+  {
+    "id": "savvy-cal",
+    "name_ar": "SavvyCal",
+    "name_en": "SavvyCal",
+    "slug": "savvy-cal",
+    "tagline_ar": "جدولة اجتماعات أذكى من Calendly",
+    "tagline_en": "Smarter meeting scheduling than Calendly",
+    "desc_ar": "SavvyCal يُقدم جدولة أكثر ذكاءً مع تداخل التوافر والاقتراحات AI. تجربة مستخدم أفضل.",
+    "desc_en": "SavvyCal provides smarter scheduling with availability overlap and AI suggestions. Better user experience.",
+    "long_desc_ar": "SavvyCal يُقدم جدولة أكثر ذكاءً مع تداخل التوافر والاقتراحات AI. تجربة مستخدم أفضل.",
+    "long_desc_en": "SavvyCal provides smarter scheduling with availability overlap and AI suggestions. Better user experience.",
+    "category": "productivity",
+    "tags_ar": [
+      "SavvyCal",
+      "productivity"
+    ],
+    "tags_en": [
+      "SavvyCal",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$12",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://savvycal.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=savvycal.com&sz=64"
+  },
+  {
+    "id": "logseq",
+    "name_ar": "Logseq",
+    "name_en": "Logseq",
+    "slug": "logseq",
+    "tagline_ar": "ملاحظات مفتوحة المصدر مع AI",
+    "tagline_en": "Open-source notes with AI",
+    "desc_ar": "Logseq بديل Roam مفتوح المصدر. يدعم AI Plugins ويُخزّن المحلياً.",
+    "desc_en": "Logseq is an open-source Roam alternative. Supports AI plugins and stores locally.",
+    "long_desc_ar": "Logseq بديل Roam مفتوح المصدر. يدعم AI Plugins ويُخزّن المحلياً.",
+    "long_desc_en": "Logseq is an open-source Roam alternative. Supports AI plugins and stores locally.",
+    "category": "productivity",
+    "tags_ar": [
+      "Logseq",
+      "productivity"
+    ],
+    "tags_en": [
+      "Logseq",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://logseq.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=logseq.com&sz=64"
+  },
+  {
+    "id": "capacities",
+    "name_ar": "Capacities",
+    "name_en": "Capacities",
+    "slug": "capacities",
+    "tagline_ar": "مدير معرفة شخصي بالذكاء الاصطناعي",
+    "tagline_en": "Personal knowledge manager with AI",
+    "desc_ar": "Capacities يُدير معرفتك الشخصية بشكل بصري ومترابط. AI يقترح الروابط تلقائياً.",
+    "desc_en": "Capacities manages your personal knowledge visually and interconnectedly. AI suggests links automatically.",
+    "long_desc_ar": "Capacities يُدير معرفتك الشخصية بشكل بصري ومترابط. AI يقترح الروابط تلقائياً.",
+    "long_desc_en": "Capacities manages your personal knowledge visually and interconnectedly. AI suggests links automatically.",
+    "category": "productivity",
+    "tags_ar": [
+      "Capacities",
+      "productivity"
+    ],
+    "tags_en": [
+      "Capacities",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://capacities.io",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=capacities.io&sz=64"
+  },
+  {
+    "id": "craft-docs",
+    "name_ar": "Craft Docs AI",
+    "name_en": "Craft Docs AI",
+    "slug": "craft-docs",
+    "tagline_ar": "وثائق جميلة مع AI على Apple",
+    "tagline_en": "Beautiful documents with AI on Apple",
+    "desc_ar": "Craft Docs AI يُنشئ وثائق جميلة مع AI. الأفضل على Mac وiPhone وiPad.",
+    "desc_en": "Craft Docs AI creates beautiful documents with AI. Best on Mac, iPhone, and iPad.",
+    "long_desc_ar": "Craft Docs AI يُنشئ وثائق جميلة مع AI. الأفضل على Mac وiPhone وiPad.",
+    "long_desc_en": "Craft Docs AI creates beautiful documents with AI. Best on Mac, iPhone, and iPad.",
+    "category": "productivity",
+    "tags_ar": [
+      "Craft Docs AI",
+      "productivity"
+    ],
+    "tags_en": [
+      "Craft Docs AI",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://craft.do",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=craft.do&sz=64"
+  },
+  {
+    "id": "popai-pro",
+    "name_ar": "PopAI Pro",
+    "name_en": "PopAI Pro",
+    "slug": "popai-pro",
+    "tagline_ar": "مساعد AI شامل للإنتاجية",
+    "tagline_en": "Comprehensive AI assistant for productivity",
+    "desc_ar": "PopAI Pro — مساعد AI شامل للإنتاجية",
+    "desc_en": "PopAI Pro — Comprehensive AI assistant for productivity",
+    "long_desc_ar": "PopAI Pro — مساعد AI شامل للإنتاجية",
+    "long_desc_en": "PopAI Pro — Comprehensive AI assistant for productivity",
+    "category": "productivity",
+    "tags_ar": [
+      "PopAI Pro",
+      "productivity"
+    ],
+    "tags_en": [
+      "PopAI Pro",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://popai.pro",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=popai.pro&sz=64"
+  },
+  {
+    "id": "reflect-ai",
+    "name_ar": "ريفليكت AI",
+    "name_en": "Reflect AI",
+    "slug": "reflect-ai",
+    "tagline_ar": "ملاحظات AI بروابط ذاتية التولد",
+    "tagline_en": "AI notes with self-generating links",
+    "desc_ar": "Reflect يستخدم AI لبناء روابط بين ملاحظاتك تلقائياً. أفضل Obsidian للـ AI.",
+    "desc_en": "Reflect يستخدم AI لبناء روابط بين ملاحظاتك تلقائياً. أفضل Obsidian للـ AI.",
+    "long_desc_ar": "Reflect يستخدم AI لبناء روابط بين ملاحظاتك تلقائياً. أفضل Obsidian للـ AI.",
+    "long_desc_en": "Reflect يستخدم AI لبناء روابط بين ملاحظاتك تلقائياً. أفضل Obsidian للـ AI.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$10/mo",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://reflect.app",
+    "monthly_visits": "500K+",
+    "trending_score": 77,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=reflect.app&sz=64"
+  },
+  {
+    "id": "beautiful-ai-pro",
+    "name_ar": "بيوتيفول AI برو",
+    "name_en": "Beautiful.ai Pro",
+    "slug": "beautiful-ai-pro",
+    "tagline_ar": "عروض تقديمية AI للفرق",
+    "tagline_en": "AI presentations for teams",
+    "desc_ar": "Beautiful.ai Pro يبني عروض تقديمية ذكية تتكيف تلقائياً مع المحتوى.",
+    "desc_en": "Beautiful.ai Pro يبني عروض تقديمية ذكية تتكيف تلقائياً مع المحتوى.",
+    "long_desc_ar": "Beautiful.ai Pro يبني عروض تقديمية ذكية تتكيف تلقائياً مع المحتوى.",
+    "long_desc_en": "Beautiful.ai Pro يبني عروض تقديمية ذكية تتكيف تلقائياً مع المحتوى.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$40/mo",
+    "price_pro": "$40/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://beautiful.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 77,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=beautiful.ai&sz=64"
+  },
+  {
+    "id": "roam-research",
+    "name_ar": "Roam Research",
+    "name_en": "Roam Research",
+    "slug": "roam-research",
+    "tagline_ar": "تفكير شبكي بدلاً من التسلسل الهرمي",
+    "tagline_en": "Network thinking instead of hierarchy",
+    "desc_ar": "Roam Research يُنظّم الأفكار في شبكة مترابطة. المفضل لدى المفكرين والكتّاب الجادين.",
+    "desc_en": "Roam Research organizes ideas in an interconnected network. Favorite for serious thinkers and writers.",
+    "long_desc_ar": "Roam Research يُنظّم الأفكار في شبكة مترابطة. المفضل لدى المفكرين والكتّاب الجادين.",
+    "long_desc_en": "Roam Research organizes ideas in an interconnected network. Favorite for serious thinkers and writers.",
+    "category": "productivity",
+    "tags_ar": [
+      "Roam Research",
+      "productivity"
+    ],
+    "tags_en": [
+      "Roam Research",
+      "productivity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$15",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://roamresearch.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=roamresearch.com&sz=64"
+  },
+  {
+    "id": "sanebox-ai",
+    "name_ar": "سين بوكس",
+    "name_en": "SaneBox AI",
+    "slug": "sanebox-ai",
+    "tagline_ar": "فلترة البريد الإلكتروني بالذكاء AI",
+    "tagline_en": "AI email filtering",
+    "desc_ar": "SaneBox يفلتر بريدك ويضع المهم في الأمام. يتعلم من عاداتك.",
+    "desc_en": "SaneBox يفلتر بريدك ويضع المهم في الأمام. يتعلم من عاداتك.",
+    "long_desc_ar": "SaneBox يفلتر بريدك ويضع المهم في الأمام. يتعلم من عاداتك.",
+    "long_desc_en": "SaneBox يفلتر بريدك ويضع المهم في الأمام. يتعلم من عاداتك.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$7/mo",
+    "price_pro": "$7/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://sanebox.com",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sanebox.com&sz=64"
+  },
+  {
+    "id": "fibery-ai",
+    "name_ar": "فيبيري AI",
+    "name_en": "Fibery AI",
+    "slug": "fibery-ai",
+    "tagline_ar": "مساحة عمل AI للفرق التقنية",
+    "tagline_en": "AI workspace for tech teams",
+    "desc_ar": "Fibery يدمج إدارة المنتج والأبحاث والتطوير في مساحة واحدة مع AI.",
+    "desc_en": "Fibery يدمج إدارة المنتج والأبحاث والتطوير في مساحة واحدة مع AI.",
+    "long_desc_ar": "Fibery يدمج إدارة المنتج والأبحاث والتطوير في مساحة واحدة مع AI.",
+    "long_desc_en": "Fibery يدمج إدارة المنتج والأبحاث والتطوير في مساحة واحدة مع AI.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://fibery.io",
+    "monthly_visits": "200K+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fibery.io&sz=64"
+  },
+  {
+    "id": "airchat-ai",
+    "name_ar": "إير شات",
+    "name_en": "Airchat",
+    "slug": "airchat-ai",
+    "tagline_ar": "تواصل صوتي AI للفرق",
+    "tagline_en": "AI voice communication for teams",
+    "desc_ar": "Airchat يدمج الرسائل الصوتية مع AI للتواصل الفريق. بديل Slack بالصوت.",
+    "desc_en": "Airchat يدمج الرسائل الصوتية مع AI للتواصل الفريق. بديل Slack بالصوت.",
+    "long_desc_ar": "Airchat يدمج الرسائل الصوتية مع AI للتواصل الفريق. بديل Slack بالصوت.",
+    "long_desc_en": "Airchat يدمج الرسائل الصوتية مع AI للتواصل الفريق. بديل Slack بالصوت.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://airchat.us",
+    "monthly_visits": "500K+",
+    "trending_score": 75,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=airchat.us&sz=64"
+  },
+  {
+    "id": "height-app",
+    "name_ar": "هايت",
+    "name_en": "Height AI",
+    "slug": "height-app",
+    "tagline_ar": "إدارة مشاريع AI للفرق الصغيرة",
+    "tagline_en": "AI project management for small teams",
+    "desc_ar": "Height يجمع المهام والمستندات والمحادثات في مكان واحد مع AI.",
+    "desc_en": "Height يجمع المهام والمستندات والمحادثات في مكان واحد مع AI.",
+    "long_desc_ar": "Height يجمع المهام والمستندات والمحادثات في مكان واحد مع AI.",
+    "long_desc_en": "Height يجمع المهام والمستندات والمحادثات في مكان واحد مع AI.",
+    "category": "productivity",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://height.app",
+    "monthly_visits": "200K+",
+    "trending_score": 75,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=height.app&sz=64"
+  }
+]

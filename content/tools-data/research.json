@@ -1,0 +1,1949 @@
+[
+  {
+    "id": "perplexity",
+    "name_ar": "بيربلكسيتي",
+    "name_en": "Perplexity",
+    "slug": "perplexity",
+    "tagline_ar": "محرك البحث الذكي بمصادر موثقة",
+    "tagline_en": "Smart search engine with verified sources",
+    "desc_ar": "محرك بحث AI يقدم إجابات مباشرة مع مصادر موثقة. الأفضل للبحث الأكاديمي والتحقق من المعلومات.",
+    "desc_en": "AI search engine with direct answers and verified sources. Best for academic research and fact-checking.",
+    "long_desc_ar": "Perplexity يعيد تعريف البحث بتقديم إجابات شاملة بدلاً من قائمة روابط. يستشهد بمصادر موثوقة. وصل 165 مليون زيارة. أطلق متصفح Comet في 2025. الخطة المجانية ممتازة.",
+    "long_desc_en": "Perplexity redefines search with comprehensive direct answers instead of link lists. Cites reliable sources. 165M monthly visits. Launched Comet browser in 2025.",
+    "category": "research",
+    "tags_ar": [
+      "بحث",
+      "مصادر",
+      "أكاديمي",
+      "حقائق"
+    ],
+    "tags_en": [
+      "search",
+      "sources",
+      "academic",
+      "facts"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "165M+",
+    "trending_score": 96,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "chatgpt",
+      "gemini",
+      "you-com"
+    ],
+    "integrations": [
+      "Wolfram Alpha",
+      "Bing"
+    ],
+    "use_cases_ar": [
+      "بحث سريع",
+      "كتابة أبحاث",
+      "التحقق من المعلومات",
+      "تحليل المنافسين"
+    ],
+    "use_cases_en": [
+      "Quick research",
+      "Writing papers",
+      "Fact verification",
+      "Competitor analysis"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "perplexity-pro",
+    "name_ar": "Perplexity Pro",
+    "name_en": "Perplexity Pro",
+    "slug": "perplexity-pro",
+    "tagline_ar": "محرك البحث AI الذي يتحدى Google",
+    "tagline_en": "The AI search engine challenging Google",
+    "desc_ar": "Perplexity Pro يقدم بحثاً عميقاً مع مصادر موثوقة. 50M+ مستخدم شهري.",
+    "desc_en": "Perplexity Pro delivers deep research with verified sources. 50M+ monthly users.",
+    "long_desc_ar": "Perplexity Pro أصبح المعيار للبحث الاحترافي. يدمج LLM مع بحث فوري لإجابات بمصادر. يدعم البحث في الملفات والصور.",
+    "long_desc_en": "Perplexity Pro became the professional research standard. Integrates LLM with real-time search for sourced answers. Supports file and image search.",
+    "category": "research",
+    "tags_ar": [
+      "Perplexity",
+      "بحث AI",
+      "مصادر",
+      "بديل Google"
+    ],
+    "tags_en": [
+      "Perplexity",
+      "AI search",
+      "sources",
+      "Google alternative"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "API"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "50M+",
+    "trending_score": 95,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "notebooklm",
+      "chatgpt",
+      "claude"
+    ],
+    "integrations": [
+      "API",
+      "Zapier",
+      "Slack"
+    ],
+    "use_cases_ar": [
+      "بحث أكاديمي",
+      "تحقق",
+      "سوقي",
+      "صحافة"
+    ],
+    "use_cases_en": [
+      "Academic research",
+      "Fact-check",
+      "Market research",
+      "Journalism"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "gemini-notebook",
+    "name_ar": "Google NotebookLM",
+    "name_en": "Google NotebookLM",
+    "slug": "gemini-notebook",
+    "tagline_ar": "بحث AI في وثائقك — مجاني من Google",
+    "tagline_en": "AI research in your documents — free from Google",
+    "desc_ar": "Google NotebookLM يُحوّل وثائقك لخبير AI. مجاني مع دعم 50 وثيقة/مشروع وبودكاست.",
+    "desc_en": "Google NotebookLM turns your documents into an AI expert. Free with 50 documents/project and podcast.",
+    "long_desc_ar": "Google NotebookLM يُحوّل وثائقك لخبير AI. مجاني مع دعم 50 وثيقة/مشروع وبودكاست.",
+    "long_desc_en": "Google NotebookLM turns your documents into an AI expert. Free with 50 documents/project and podcast.",
+    "category": "research",
+    "tags_ar": [
+      "Google NotebookLM",
+      "research"
+    ],
+    "tags_en": [
+      "Google NotebookLM",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://notebooklm.google.com",
+    "monthly_visits": "2M+",
+    "trending_score": 93,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64"
+  },
+  {
+    "id": "chatgpt-deep-research",
+    "name_ar": "ChatGPT ديب ريسيرش",
+    "name_en": "ChatGPT Deep Research",
+    "slug": "chatgpt-deep-research",
+    "tagline_ar": "بحث عميق من OpenAI يكتب تقارير",
+    "tagline_en": "OpenAI deep research writing reports",
+    "desc_ar": "Deep Research من OpenAI يبحث في الإنترنت لساعات ويكتب تقارير احترافية شاملة.",
+    "desc_en": "OpenAI Deep Research searches the internet for hours and writes comprehensive professional reports.",
+    "long_desc_ar": "Deep Research من OpenAI يبحث في الإنترنت لساعات ويكتب تقارير احترافية شاملة.",
+    "long_desc_en": "OpenAI Deep Research searches the internet for hours and writes comprehensive professional reports.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://chatgpt.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 92,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64"
+  },
+  {
+    "id": "perplexity-pro-search",
+    "name_ar": "بيربلكسيتي برو",
+    "name_en": "Perplexity Pro Search",
+    "slug": "perplexity-pro-search",
+    "tagline_ar": "البحث العميق مع Claude وGPT-4o",
+    "tagline_en": "Deep search with Claude and GPT-4o",
+    "desc_ar": "Perplexity Pro يتيح البحث بنماذج Claude وGPT-4o. تقارير بحثية عميقة في دقائق.",
+    "desc_en": "Perplexity Pro يتيح البحث بنماذج Claude وGPT-4o. تقارير بحثية عميقة في دقائق.",
+    "long_desc_ar": "Perplexity Pro يتيح البحث بنماذج Claude وGPT-4o. تقارير بحثية عميقة في دقائق.",
+    "long_desc_en": "Perplexity Pro يتيح البحث بنماذج Claude وGPT-4o. تقارير بحثية عميقة في دقائق.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "165M+",
+    "trending_score": 92,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "claude-research",
+    "name_ar": "كلود ريسيرش",
+    "name_en": "Claude Research Mode",
+    "slug": "claude-research",
+    "tagline_ar": "بحث AI عميق من Anthropic",
+    "tagline_en": "Deep AI research from Anthropic",
+    "desc_ar": "وضع البحث العميق في Claude. يبحث في عشرات المصادر ويولّد تقارير احترافية شاملة.",
+    "desc_en": "Deep research mode in Claude. Searches dozens of sources and generates comprehensive professional reports.",
+    "long_desc_ar": "وضع البحث العميق في Claude. يبحث في عشرات المصادر ويولّد تقارير احترافية شاملة.",
+    "long_desc_en": "Deep research mode in Claude. Searches dozens of sources and generates comprehensive professional reports.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 91,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "perplexity-assistant",
+    "name_ar": "بيربلكسيتي أسيستنت",
+    "name_en": "Perplexity Assistant",
+    "slug": "perplexity-assistant",
+    "tagline_ar": "مساعد AI شامل لجميع مهامك",
+    "tagline_en": "Comprehensive AI assistant for all tasks",
+    "desc_ar": "Perplexity تطور من محرك بحث لمساعد AI شامل. Comet المتصفح يُكمل المنظومة.",
+    "desc_en": "Perplexity evolved from search engine to comprehensive AI assistant. Comet browser completes the ecosystem.",
+    "long_desc_ar": "Perplexity تطور من محرك بحث لمساعد AI شامل. Comet المتصفح يُكمل المنظومة.",
+    "long_desc_en": "Perplexity evolved from search engine to comprehensive AI assistant. Comet browser completes the ecosystem.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "165M+",
+    "trending_score": 91,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "claude-academic",
+    "name_ar": "كلود أكاديمي",
+    "name_en": "Claude for Research",
+    "slug": "claude-academic",
+    "tagline_ar": "تحليل أبحاث عميق بـ Claude",
+    "tagline_en": "Deep research analysis with Claude",
+    "desc_ar": "Claude مع نافذة سياق 1M رمز يحلل مئات الأبحاث دفعة واحدة.",
+    "desc_en": "Claude مع نافذة سياق 1M رمز يحلل مئات الأبحاث دفعة واحدة.",
+    "long_desc_ar": "Claude مع نافذة سياق 1M رمز يحلل مئات الأبحاث دفعة واحدة.",
+    "long_desc_en": "Claude مع نافذة سياق 1M رمز يحلل مئات الأبحاث دفعة واحدة.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 91,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "perplexity-deep",
+    "name_ar": "Perplexity Deep Research",
+    "name_en": "Perplexity Deep Research",
+    "slug": "perplexity-deep",
+    "tagline_ar": "بحث عميق AI لـ 30 دقيقة من البحث في دقائق",
+    "tagline_en": "Deep AI research for 30-min research in minutes",
+    "desc_ar": "Perplexity Deep Research يُجري بحثاً عميقاً معادلاً لـ 30 دقيقة من البحث البشري في دقائق فقط.",
+    "desc_en": "Perplexity Deep Research conducts deep research equivalent to 30 minutes of human research in just minutes.",
+    "long_desc_ar": "Perplexity Deep Research يُجري بحثاً عميقاً معادلاً لـ 30 دقيقة من البحث البشري في دقائق فقط.",
+    "long_desc_en": "Perplexity Deep Research conducts deep research equivalent to 30 minutes of human research in just minutes.",
+    "category": "research",
+    "tags_ar": [
+      "Perplexity Deep",
+      "بحث عميق",
+      "تقارير",
+      "AI"
+    ],
+    "tags_en": [
+      "Perplexity Deep",
+      "deep research",
+      "reports",
+      "AI"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$20",
+    "price_pro": "$20",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "50M+",
+    "trending_score": 91,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2025,
+    "alternatives": [
+      "notebooklm",
+      "elicit-ai",
+      "chatgpt"
+    ],
+    "integrations": [
+      "API",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "بحث معمّق",
+      "تقارير",
+      "تحليل",
+      "صحافة"
+    ],
+    "use_cases_en": [
+      "Deep research",
+      "Reports",
+      "Analysis",
+      "Journalism"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "perplexity-deep-research",
+    "name_ar": "بيربلكسيتي ديب ريسيرش",
+    "name_en": "Perplexity Deep Research",
+    "slug": "perplexity-deep-research",
+    "tagline_ar": "بحث عميق AI يكتب تقارير كاملة",
+    "tagline_en": "Deep AI research that writes complete reports",
+    "desc_ar": "Deep Research من Perplexity يبحث في عشرات المصادر ويكتب تقريراً شاملاً في دقائق.",
+    "desc_en": "Perplexity Deep Research searches dozens of sources and writes a comprehensive report in minutes.",
+    "long_desc_ar": "Deep Research من Perplexity يبحث في عشرات المصادر ويكتب تقريراً شاملاً في دقائق.",
+    "long_desc_en": "Perplexity Deep Research searches dozens of sources and writes a comprehensive report in minutes.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "165M+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "perplexity-comet",
+    "name_ar": "بيربلكسيتي كوميت",
+    "name_en": "Perplexity Comet",
+    "slug": "perplexity-comet",
+    "tagline_ar": "متصفح AI يبحث بينما تتصفح",
+    "tagline_en": "AI browser that searches as you browse",
+    "desc_ar": "متصفح Perplexity الذكي يدمج البحث الفوري في التصفح. الأكثر تحميلاً بين متصفحات AI.",
+    "desc_en": "Perplexity's smart browser integrating instant search into browsing. Most downloaded AI browser.",
+    "long_desc_ar": "Perplexity Comet أطلق في 2025 ويدمج قدرات البحث AI في تجربة التصفح. الأكثر تحميلاً بين متصفحات AI حسب Yipit Data.",
+    "long_desc_en": "Perplexity Comet launched 2025 integrating AI search into browsing experience. Most downloaded among AI browsers per Yipit Data.",
+    "category": "research",
+    "tags_ar": [
+      "متصفح",
+      "بحث ذكي",
+      "تصفح",
+      "Perplexity"
+    ],
+    "tags_en": [
+      "browser",
+      "smart search",
+      "browsing",
+      "Perplexity"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "25M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [
+      "chatgpt-atlas",
+      "dia",
+      "arc"
+    ],
+    "integrations": [
+      "Perplexity AI"
+    ],
+    "use_cases_ar": [
+      "بحث متواصل",
+      "تتبع خيوط البحث",
+      "قراءة الأخبار",
+      "دراسة مواضيع"
+    ],
+    "use_cases_en": [
+      "Continuous research",
+      "Research threading",
+      "News reading",
+      "Topic study"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "google-labs",
+    "name_ar": "جوجل لابس",
+    "name_en": "Google Labs",
+    "slug": "google-labs",
+    "tagline_ar": "تجربة أحدث تقنيات Google AI",
+    "tagline_en": "Try Google's latest AI technologies",
+    "desc_ar": "منصة Google لتجربة أحدث الميزات AI قبل إطلاقها. Veo 3 رفعها من المرتبة 36 إلى 25 في a16z.",
+    "desc_en": "Google's platform for trying latest AI features before release. Veo 3 raised it from rank 36 to 25 in a16z.",
+    "long_desc_ar": "منصة Google لتجربة أحدث الميزات AI قبل إطلاقها. Veo 3 رفعها من المرتبة 36 إلى 25 في a16z.",
+    "long_desc_en": "Google's platform for trying latest AI features before release. Veo 3 raised it from rank 36 to 25 in a16z.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://labs.google",
+    "monthly_visits": "30M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=labs.google&sz=64"
+  },
+  {
+    "id": "google-ai-overviews",
+    "name_ar": "Google AI Overviews",
+    "name_en": "Google AI Overviews",
+    "slug": "google-ai-overviews",
+    "tagline_ar": "AI مدمج في نتائج البحث من Google",
+    "tagline_en": "AI embedded in Google search results",
+    "desc_ar": "Google AI Overviews دمج الذكاء الاصطناعي مباشرة في نتائج البحث. مليارات المستخدمين يومياً.",
+    "desc_en": "Google AI Overviews دمج الذكاء الاصطناعي مباشرة في نتائج البحث. مليارات المستخدمين يومياً.",
+    "long_desc_ar": "Google AI Overviews دمج الذكاء الاصطناعي مباشرة في نتائج البحث. مليارات المستخدمين يومياً.",
+    "long_desc_en": "Google AI Overviews دمج الذكاء الاصطناعي مباشرة في نتائج البحث. مليارات المستخدمين يومياً.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://google.com",
+    "monthly_visits": "8.5B+",
+    "trending_score": 88,
+    "rating": 4.3,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
+  },
+  {
+    "id": "perplexity-comet-browser",
+    "name_ar": "متصفح كوميت",
+    "name_en": "Perplexity Comet Browser",
+    "slug": "perplexity-comet-browser",
+    "tagline_ar": "أذكى متصفح AI في 2026",
+    "tagline_en": "Smartest AI browser in 2026",
+    "desc_ar": "Comet من Perplexity يدمج البحث AI في التصفح. الأكثر تحميلاً بين متصفحات AI حسب Yipit Data.",
+    "desc_en": "Comet من Perplexity يدمج البحث AI في التصفح. الأكثر تحميلاً بين متصفحات AI حسب Yipit Data.",
+    "long_desc_ar": "Comet من Perplexity يدمج البحث AI في التصفح. الأكثر تحميلاً بين متصفحات AI حسب Yipit Data.",
+    "long_desc_en": "Comet من Perplexity يدمج البحث AI في التصفح. الأكثر تحميلاً بين متصفحات AI حسب Yipit Data.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "165M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "consensus-ai",
+    "name_ar": "Consensus AI",
+    "name_en": "Consensus AI",
+    "slug": "consensus-ai",
+    "tagline_ar": "ما تقوله الأبحاث العلمية فعلاً",
+    "tagline_en": "What scientific research actually says",
+    "desc_ar": "Consensus يبحث في 200M+ ورقة علمية ويُظهر نسبة الإجماع. الأفضل للبحث الأكاديمي الموثوق.",
+    "desc_en": "Consensus searches 200M+ scientific papers and shows consensus percentage. Best for trusted academic research.",
+    "long_desc_ar": "Consensus يُحدث ثورة في البحث الأكاديمي. يبحث في 200 مليون ورقة علمية ويُظهر Consensus Meter لمعرفة إجماع العلماء على أي موضوع.",
+    "long_desc_en": "Consensus revolutionizes academic research. Searches 200 million scientific papers and shows Consensus Meter for scientific agreement on any topic.",
+    "category": "research",
+    "tags_ar": [
+      "Consensus",
+      "بحث علمي",
+      "أوراق بحثية",
+      "أكاديمي"
+    ],
+    "tags_en": [
+      "Consensus",
+      "scientific research",
+      "papers",
+      "academic"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://consensus.app",
+    "monthly_visits": "4M+",
+    "trending_score": 86,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "elicit",
+      "notebooklm",
+      "semantic-scholar"
+    ],
+    "integrations": [
+      "API",
+      "Zotero"
+    ],
+    "use_cases_ar": [
+      "بحث طبي",
+      "علوم",
+      "أكاديمي",
+      "تحقق من ادعاءات"
+    ],
+    "use_cases_en": [
+      "Medical research",
+      "Science",
+      "Academic",
+      "Claim verification"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=consensus.app&sz=64"
+  },
+  {
+    "id": "perplexity-spaces",
+    "name_ar": "Perplexity Spaces",
+    "name_en": "Perplexity Spaces",
+    "slug": "perplexity-spaces",
+    "tagline_ar": "مساحات بحث AI مشتركة للفرق",
+    "tagline_en": "Shared AI research spaces for teams",
+    "desc_ar": "Perplexity Spaces يُتيح بناء مساحات بحث مشتركة مع وثائق مرفقة. للفرق والباحثين.",
+    "desc_en": "Perplexity Spaces allows building shared research spaces with attached documents. For teams and researchers.",
+    "long_desc_ar": "Perplexity Spaces يُتيح بناء مساحات بحث مشتركة مع وثائق مرفقة. للفرق والباحثين.",
+    "long_desc_en": "Perplexity Spaces allows building shared research spaces with attached documents. For teams and researchers.",
+    "category": "research",
+    "tags_ar": [
+      "Perplexity Spaces",
+      "research"
+    ],
+    "tags_en": [
+      "Perplexity Spaces",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$20",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://perplexity.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
+  },
+  {
+    "id": "consensus-app",
+    "name_ar": "Consensus",
+    "name_en": "Consensus",
+    "slug": "consensus-app",
+    "tagline_ar": "بحث علمي موثوق في 200M ورقة",
+    "tagline_en": "Trusted scientific research in 200M papers",
+    "desc_ar": "Consensus يبحث في 200M+ ورقة علمية ويُظهر نسبة الإجماع. الأفضل للبحث الطبي.",
+    "desc_en": "Consensus searches 200M+ scientific papers and shows consensus rate. Best for medical research.",
+    "long_desc_ar": "Consensus يبحث في 200M+ ورقة علمية ويُظهر نسبة الإجماع. الأفضل للبحث الطبي.",
+    "long_desc_en": "Consensus searches 200M+ scientific papers and shows consensus rate. Best for medical research.",
+    "category": "research",
+    "tags_ar": [
+      "Consensus",
+      "research"
+    ],
+    "tags_en": [
+      "Consensus",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://consensus.app",
+    "monthly_visits": "2M+",
+    "trending_score": 86,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=consensus.app&sz=64"
+  },
+  {
+    "id": "wolfram-alpha",
+    "name_ar": "وولفرام ألفا",
+    "name_en": "Wolfram Alpha",
+    "slug": "wolfram-alpha",
+    "tagline_ar": "محرك المعرفة الحسابية الأقوى",
+    "tagline_en": "Most powerful computational knowledge engine",
+    "desc_ar": "يجيب على الأسئلة الرياضية والعلمية والإحصائية بدقة استثنائية.",
+    "desc_en": "Answers math, science, statistics questions with exceptional accuracy.",
+    "long_desc_ar": "يجيب على الأسئلة الرياضية والعلمية والإحصائية بدقة استثنائية.",
+    "long_desc_en": "Answers math, science, statistics questions with exceptional accuracy.",
+    "category": "research",
+    "tags_ar": [
+      "رياضيات",
+      "علوم",
+      "حسابات",
+      "دقيق"
+    ],
+    "tags_en": [
+      "math",
+      "science",
+      "calculations",
+      "accurate"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$7.25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://wolframalpha.com",
+    "monthly_visits": "20M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2009,
+    "alternatives": [
+      "chatgpt",
+      "perplexity",
+      "openai-o3"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wolframalpha.com&sz=64"
+  },
+  {
+    "id": "consensus",
+    "name_ar": "كونسنسس",
+    "name_en": "Consensus",
+    "slug": "consensus",
+    "tagline_ar": "محرك بحث علمي مدعوم بالذكاء الاصطناعي",
+    "tagline_en": "Scientific search engine powered by AI",
+    "desc_ar": "محرك بحث للأبحاث العلمية المحكّمة. يجيب على أسئلتك من ملايين الدراسات مع مصادر.",
+    "desc_en": "Search engine for peer-reviewed scientific research. Answers questions from millions of studies.",
+    "long_desc_ar": "Consensus يجيب على أسئلتك البحثية من ملايين الأبحاث المحكّمة. بدلاً من روابط يقدم إجابة موجزة بالمصادر. مثالي للطلاب والباحثين.",
+    "long_desc_en": "Consensus answers research questions from millions of peer-reviewed studies. Instead of links it provides concise answers with sources. Perfect for students and researchers.",
+    "category": "research",
+    "tags_ar": [
+      "بحث علمي",
+      "دراسات محكّمة",
+      "طلاب",
+      "صحة"
+    ],
+    "tags_en": [
+      "scientific research",
+      "peer-reviewed",
+      "students",
+      "health"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://consensus.app",
+    "monthly_visits": "3M+",
+    "trending_score": 83,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "perplexity",
+      "elicit",
+      "research-rabbit"
+    ],
+    "integrations": [
+      "Chrome",
+      "Zotero"
+    ],
+    "use_cases_ar": [
+      "بحث طبي",
+      "أبحاث جامعية",
+      "تحقق من حقائق علمية",
+      "دراسة"
+    ],
+    "use_cases_en": [
+      "Medical research",
+      "University research",
+      "Scientific fact-checking",
+      "Study"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=consensus.app&sz=64"
+  },
+  {
+    "id": "google-scholar-ai",
+    "name_ar": "Google Scholar AI",
+    "name_en": "Google Scholar AI",
+    "slug": "google-scholar-ai",
+    "tagline_ar": "بحث أكاديمي من Google مع AI",
+    "tagline_en": "Academic research from Google with AI",
+    "desc_ar": "Google Scholar يضيف AI لاستخلاص الاتجاهات والملخصات من الأبحاث.",
+    "desc_en": "Google Scholar يضيف AI لاستخلاص الاتجاهات والملخصات من الأبحاث.",
+    "long_desc_ar": "Google Scholar يضيف AI لاستخلاص الاتجاهات والملخصات من الأبحاث.",
+    "long_desc_en": "Google Scholar يضيف AI لاستخلاص الاتجاهات والملخصات من الأبحاث.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://scholar.google.com",
+    "monthly_visits": "100M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2004,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=scholar.google.com&sz=64"
+  },
+  {
+    "id": "elicit-ai",
+    "name_ar": "Elicit AI",
+    "name_en": "Elicit AI",
+    "slug": "elicit-ai",
+    "tagline_ar": "مساعد البحث الأكاديمي AI",
+    "tagline_en": "AI academic research assistant",
+    "desc_ar": "Elicit يستخرج البيانات من الأوراق البحثية تلقائياً ويُنشئ مراجعات أدبية. للباحثين الجادين.",
+    "desc_en": "Elicit automatically extracts data from research papers and creates literature reviews. For serious researchers.",
+    "long_desc_ar": "Elicit يتميز في Literature Review. يستخرج بيانات الدراسات تلقائياً من PDF ويُنظّمها في جداول. الخيار الأول للباحثين الأكاديميين.",
+    "long_desc_en": "Elicit excels at literature review. Automatically extracts study data from PDFs and organizes in tables. First choice for academic researchers.",
+    "category": "research",
+    "tags_ar": [
+      "Elicit",
+      "بحث أكاديمي",
+      "literature review",
+      "استخراج بيانات"
+    ],
+    "tags_en": [
+      "Elicit",
+      "academic research",
+      "literature review",
+      "data extraction"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://elicit.com",
+    "monthly_visits": "3M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "consensus-ai",
+      "notebooklm",
+      "semantic-scholar"
+    ],
+    "integrations": [
+      "Zotero",
+      "API"
+    ],
+    "use_cases_ar": [
+      "مراجعة أدبية",
+      "بحث طبي",
+      "تحليل دراسات",
+      "كتابة أكاديمية"
+    ],
+    "use_cases_en": [
+      "Literature review",
+      "Medical research",
+      "Study analysis",
+      "Academic writing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=elicit.com&sz=64"
+  },
+  {
+    "id": "research-rabbit",
+    "name_ar": "Research Rabbit",
+    "name_en": "Research Rabbit",
+    "slug": "research-rabbit",
+    "tagline_ar": "خريطة بصرية للأوراق البحثية المترابطة",
+    "tagline_en": "Visual map of interconnected research papers",
+    "desc_ar": "Research Rabbit يُنشئ خرائط بصرية للأوراق البحثية المترابطة. مجاني بالكامل. الأداة المفضلة للباحثين.",
+    "desc_en": "Research Rabbit creates visual maps of interconnected research papers. Completely free. Researchers' favorite tool.",
+    "long_desc_ar": "Research Rabbit يُنشئ خرائط بصرية للأوراق البحثية المترابطة. مجاني بالكامل. الأداة المفضلة للباحثين.",
+    "long_desc_en": "Research Rabbit creates visual maps of interconnected research papers. Completely free. Researchers' favorite tool.",
+    "category": "research",
+    "tags_ar": [
+      "Research Rabbit",
+      "خريطة بحثية",
+      "أوراق علمية",
+      "مجاني"
+    ],
+    "tags_en": [
+      "Research Rabbit",
+      "research map",
+      "papers",
+      "free"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://researchrabbit.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "elicit-ai",
+      "consensus-ai",
+      "notebooklm"
+    ],
+    "integrations": [
+      "Zotero",
+      "Mendeley"
+    ],
+    "use_cases_ar": [
+      "بحث أكاديمي",
+      "اكتشاف أوراق",
+      "خرائط بصرية",
+      "مراجعة أدبية"
+    ],
+    "use_cases_en": [
+      "Academic research",
+      "Paper discovery",
+      "Visual maps",
+      "Literature review"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=researchrabbit.ai&sz=64"
+  },
+  {
+    "id": "you-com",
+    "name_ar": "يو.كوم",
+    "name_en": "You.com",
+    "slug": "you-com",
+    "tagline_ar": "محرك بحث AI شخصي قابل للتخصيص",
+    "tagline_en": "Personalized customizable AI search engine",
+    "desc_ar": "محرك بحث AI يمكن تخصيصه. يدمج نتائج الويب مع AI ويتيح اختيار النموذج المفضل.",
+    "desc_en": "Customizable AI search engine. Combines web results with AI and lets you choose preferred model.",
+    "long_desc_ar": "You.com يدمج البحث التقليدي مع AI بطريقة قابلة للتخصيص. يمكن تشغيل ChatGPT أو Claude أو Gemini أو DeepSeek كل منهم في نفس الواجهة. مثالي للمستخدمين الذين يريدون مرونة.",
+    "long_desc_en": "You.com integrates traditional search with AI in customizable way. Can run ChatGPT, Claude, Gemini, or DeepSeek all in same interface. Perfect for users wanting flexibility.",
+    "category": "research",
+    "tags_ar": [
+      "بحث",
+      "تخصيص",
+      "نماذج متعددة",
+      "مرونة"
+    ],
+    "tags_en": [
+      "search",
+      "customizable",
+      "multiple models",
+      "flexibility"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://you.com",
+    "monthly_visits": "10M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "perplexity",
+      "chatgpt",
+      "google"
+    ],
+    "integrations": [
+      "Chrome",
+      "API"
+    ],
+    "use_cases_ar": [
+      "بحث شخصي",
+      "مقارنة النماذج",
+      "بحث أكاديمي",
+      "تصفح ذكي"
+    ],
+    "use_cases_en": [
+      "Personal search",
+      "Model comparison",
+      "Academic research",
+      "Smart browsing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=you.com&sz=64"
+  },
+  {
+    "id": "elicit",
+    "name_ar": "إليسيت",
+    "name_en": "Elicit",
+    "slug": "elicit",
+    "tagline_ar": "مساعد بحث علمي بالذكاء AI",
+    "tagline_en": "Scientific research assistant with AI",
+    "desc_ar": "يبحث في الأوراق العلمية ويستخرج المعلومات ويلخص الأبحاث.",
+    "desc_en": "Searches scientific papers, extracts information, summarizes research.",
+    "long_desc_ar": "يبحث في الأوراق العلمية ويستخرج المعلومات ويلخص الأبحاث.",
+    "long_desc_en": "Searches scientific papers, extracts information, summarizes research.",
+    "category": "research",
+    "tags_ar": [
+      "بحث علمي",
+      "أوراق بحثية",
+      "استخراج",
+      "ملخص"
+    ],
+    "tags_en": [
+      "scientific research",
+      "papers",
+      "extraction",
+      "summary"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://elicit.org",
+    "monthly_visits": "1M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "consensus",
+      "perplexity",
+      "research-rabbit"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=elicit.org&sz=64"
+  },
+  {
+    "id": "consensus-pro",
+    "name_ar": "كونسنسس برو",
+    "name_en": "Consensus Pro",
+    "slug": "consensus-pro",
+    "tagline_ar": "بحث علمي AI للمتخصصين",
+    "tagline_en": "AI scientific research for professionals",
+    "desc_ar": "Consensus Pro يوفر بحثاً علمياً عميقاً. تقارير شاملة من ملايين الأبحاث.",
+    "desc_en": "Consensus Pro يوفر بحثاً علمياً عميقاً. تقارير شاملة من ملايين الأبحاث.",
+    "long_desc_ar": "Consensus Pro يوفر بحثاً علمياً عميقاً. تقارير شاملة من ملايين الأبحاث.",
+    "long_desc_en": "Consensus Pro يوفر بحثاً علمياً عميقاً. تقارير شاملة من ملايين الأبحاث.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$9.99/mo",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://consensus.app",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=consensus.app&sz=64"
+  },
+  {
+    "id": "quark",
+    "name_ar": "كوارك",
+    "name_en": "Quark",
+    "slug": "quark",
+    "tagline_ar": "محرك بحث ومساعد AI من Alibaba",
+    "tagline_en": "AI search engine and assistant from Alibaba",
+    "desc_ar": "محرك بحث وAI assistant من Alibaba شائع جداً في الصين. في قائمة a16z 2026.",
+    "desc_en": "Search engine and AI assistant from Alibaba very popular in China. On a16z 2026 list.",
+    "long_desc_ar": "محرك بحث وAI assistant من Alibaba شائع جداً في الصين. في قائمة a16z 2026.",
+    "long_desc_en": "Search engine and AI assistant from Alibaba very popular in China. On a16z 2026 list.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://quark.cn",
+    "monthly_visits": "50M+",
+    "trending_score": 80,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=quark.cn&sz=64"
+  },
+  {
+    "id": "you-com-research",
+    "name_ar": "You.com Research Mode",
+    "name_en": "You.com Research",
+    "slug": "you-com-research",
+    "tagline_ar": "بحث عميق مع نماذج متعددة",
+    "tagline_en": "Deep research with multiple models",
+    "desc_ar": "You.com أضاف وضع البحث العميق بنماذج متعددة. يجمع ChatGPT وClaude وGemini في البحث.",
+    "desc_en": "You.com أضاف وضع البحث العميق بنماذج متعددة. يجمع ChatGPT وClaude وGemini في البحث.",
+    "long_desc_ar": "You.com أضاف وضع البحث العميق بنماذج متعددة. يجمع ChatGPT وClaude وGemini في البحث.",
+    "long_desc_en": "You.com أضاف وضع البحث العميق بنماذج متعددة. يجمع ChatGPT وClaude وGemini في البحث.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://you.com",
+    "monthly_visits": "10M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=you.com&sz=64"
+  },
+  {
+    "id": "semantic-scholar",
+    "name_ar": "سيمانتك سكولر",
+    "name_en": "Semantic Scholar",
+    "slug": "semantic-scholar",
+    "tagline_ar": "بحث أكاديمي AI مجاني",
+    "tagline_en": "Free academic AI research",
+    "desc_ar": "Semantic Scholar من Allen Institute. 200 مليون ورقة بحثية مع AI مجاناً.",
+    "desc_en": "Semantic Scholar من Allen Institute. 200 مليون ورقة بحثية مع AI مجاناً.",
+    "long_desc_ar": "Semantic Scholar من Allen Institute. 200 مليون ورقة بحثية مع AI مجاناً.",
+    "long_desc_en": "Semantic Scholar من Allen Institute. 200 مليون ورقة بحثية مع AI مجاناً.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://semanticscholar.org",
+    "monthly_visits": "20M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=semanticscholar.org&sz=64"
+  },
+  {
+    "id": "research-rabbit-pro",
+    "name_ar": "ريسيرش رابيت برو",
+    "name_en": "ResearchRabbit Pro",
+    "slug": "research-rabbit-pro",
+    "tagline_ar": "استكشاف الأبحاث العلمية بصرياً",
+    "tagline_en": "Visual scientific research exploration",
+    "desc_ar": "ResearchRabbit يبني خريطة بصرية للأبحاث ذات الصلة. مجاني للباحثين.",
+    "desc_en": "ResearchRabbit يبني خريطة بصرية للأبحاث ذات الصلة. مجاني للباحثين.",
+    "long_desc_ar": "ResearchRabbit يبني خريطة بصرية للأبحاث ذات الصلة. مجاني للباحثين.",
+    "long_desc_en": "ResearchRabbit يبني خريطة بصرية للأبحاث ذات الصلة. مجاني للباحثين.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://researchrabbit.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 79,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=researchrabbit.ai&sz=64"
+  },
+  {
+    "id": "scite-ai",
+    "name_ar": "سايت AI",
+    "name_en": "Scite AI",
+    "slug": "scite-ai",
+    "tagline_ar": "تحقق من الاقتباسات العلمية",
+    "tagline_en": "Verify scientific citations",
+    "desc_ar": "Scite يتحقق من الاقتباسات العلمية ويكشف الأبحاث الداعمة والمعارضة.",
+    "desc_en": "Scite يتحقق من الاقتباسات العلمية ويكشف الأبحاث الداعمة والمعارضة.",
+    "long_desc_ar": "Scite يتحقق من الاقتباسات العلمية ويكشف الأبحاث الداعمة والمعارضة.",
+    "long_desc_en": "Scite يتحقق من الاقتباسات العلمية ويكشف الأبحاث الداعمة والمعارضة.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://scite.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=scite.ai&sz=64"
+  },
+  {
+    "id": "undermind",
+    "name_ar": "Undermind",
+    "name_en": "Undermind",
+    "slug": "undermind",
+    "tagline_ar": "أعمق بحث أكاديمي بالـ Multi-Agent AI",
+    "tagline_en": "Deepest academic research with multi-agent AI",
+    "desc_ar": "Undermind يستخدم Multi-Agent AI لأعمق وأدق بحث في الأدبيات الأكاديمية.",
+    "desc_en": "Undermind uses multi-agent AI for the deepest and most accurate search in academic literature.",
+    "long_desc_ar": "Undermind يستخدم Multi-Agent AI لأعمق وأدق بحث في الأدبيات الأكاديمية.",
+    "long_desc_en": "Undermind uses multi-agent AI for the deepest and most accurate search in academic literature.",
+    "category": "research",
+    "tags_ar": [
+      "Undermind",
+      "research"
+    ],
+    "tags_en": [
+      "Undermind",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$29",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://undermind.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=undermind.ai&sz=64"
+  },
+  {
+    "id": "scispace",
+    "name_ar": "SciSpace",
+    "name_en": "SciSpace",
+    "slug": "scispace",
+    "tagline_ar": "اقرأ وافهم الأوراق العلمية مع AI",
+    "tagline_en": "Read and understand scientific papers with AI",
+    "desc_ar": "SciSpace يُساعدك على قراءة وفهم الأوراق العلمية مع شرح AI فوري لكل مصطلح.",
+    "desc_en": "SciSpace helps you read and understand scientific papers with instant AI explanation for every term.",
+    "long_desc_ar": "SciSpace يُساعدك على قراءة وفهم الأوراق العلمية مع شرح AI فوري لكل مصطلح.",
+    "long_desc_en": "SciSpace helps you read and understand scientific papers with instant AI explanation for every term.",
+    "category": "research",
+    "tags_ar": [
+      "SciSpace",
+      "research"
+    ],
+    "tags_en": [
+      "SciSpace",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://scispace.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=scispace.com&sz=64"
+  },
+  {
+    "id": "zotero",
+    "name_ar": "Zotero AI",
+    "name_en": "Zotero AI",
+    "slug": "zotero",
+    "tagline_ar": "إدارة مراجع مفتوحة المصدر وأبحاث",
+    "tagline_en": "Open-source reference management and research",
+    "desc_ar": "Zotero يُدير المراجع والمقتطفات مفتوح المصدر. يُضيف AI للتصنيف والاستخراج.",
+    "desc_en": "Zotero manages references and excerpts open source. Adds AI for classification and extraction.",
+    "long_desc_ar": "Zotero يُدير المراجع والمقتطفات مفتوح المصدر. يُضيف AI للتصنيف والاستخراج.",
+    "long_desc_en": "Zotero manages references and excerpts open source. Adds AI for classification and extraction.",
+    "category": "research",
+    "tags_ar": [
+      "Zotero AI",
+      "research"
+    ],
+    "tags_en": [
+      "Zotero AI",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://zotero.org",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zotero.org&sz=64"
+  },
+  {
+    "id": "mendeley-ai",
+    "name_ar": "Mendeley AI",
+    "name_en": "Mendeley AI",
+    "slug": "mendeley-ai",
+    "tagline_ar": "إدارة المراجع AI من Elsevier",
+    "tagline_en": "AI reference management from Elsevier",
+    "desc_ar": "Mendeley يُدير مكتبة مراجعك ويُنشئ التوثيق تلقائياً. مجاني ومدمج مع Elsevier.",
+    "desc_en": "Mendeley manages your reference library and automatically creates citations. Free and integrated with Elsevier.",
+    "long_desc_ar": "Mendeley يُدير مكتبة مراجعك ويُنشئ التوثيق تلقائياً. مجاني ومدمج مع Elsevier.",
+    "long_desc_en": "Mendeley manages your reference library and automatically creates citations. Free and integrated with Elsevier.",
+    "category": "research",
+    "tags_ar": [
+      "Mendeley AI",
+      "research"
+    ],
+    "tags_en": [
+      "Mendeley AI",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://mendeley.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mendeley.com&sz=64"
+  },
+  {
+    "id": "humata-ai",
+    "name_ar": "Humata AI",
+    "name_en": "Humata AI",
+    "slug": "humata-ai",
+    "tagline_ar": "ملخصات PDF فورية بالذكاء الاصطناعي",
+    "tagline_en": "Instant PDF summaries with AI",
+    "desc_ar": "Humata AI — ملخصات PDF فورية بالذكاء الاصطناعي",
+    "desc_en": "Humata AI — Instant PDF summaries with AI",
+    "long_desc_ar": "Humata AI — ملخصات PDF فورية بالذكاء الاصطناعي",
+    "long_desc_en": "Humata AI — Instant PDF summaries with AI",
+    "category": "research",
+    "tags_ar": [
+      "Humata AI",
+      "research"
+    ],
+    "tags_en": [
+      "Humata AI",
+      "research"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://humata.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=humata.ai&sz=64"
+  },
+  {
+    "id": "adot-ai",
+    "name_ar": "أدوت AI",
+    "name_en": "Adot AI",
+    "slug": "adot-ai",
+    "tagline_ar": "محرك بحث AI شخصي متكامل",
+    "tagline_en": "Integrated personal AI search engine",
+    "desc_ar": "محرك بحث AI شخصي ظهر في a16z Top 100 2026. يخصص نتائج البحث لكل مستخدم بذكاء.",
+    "desc_en": "Personal AI search engine on a16z Top 100 2026. Personalizes search results for each user intelligently.",
+    "long_desc_ar": "محرك بحث AI شخصي ظهر في a16z Top 100 2026. يخصص نتائج البحث لكل مستخدم بذكاء.",
+    "long_desc_en": "Personal AI search engine on a16z Top 100 2026. Personalizes search results for each user intelligently.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://adot.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 76,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=adot.ai&sz=64"
+  },
+  {
+    "id": "iris-ai",
+    "name_ar": "إيريس AI",
+    "name_en": "Iris.ai",
+    "slug": "iris-ai",
+    "tagline_ar": "مساعد بحث AI للعلماء",
+    "tagline_en": "AI research assistant for scientists",
+    "desc_ar": "Iris.ai متخصص في البحث العلمي. يقرأ الأوراق البحثية ويستخرج المعلومات.",
+    "desc_en": "Iris.ai متخصص في البحث العلمي. يقرأ الأوراق البحثية ويستخرج المعلومات.",
+    "long_desc_ar": "Iris.ai متخصص في البحث العلمي. يقرأ الأوراق البحثية ويستخرج المعلومات.",
+    "long_desc_en": "Iris.ai متخصص في البحث العلمي. يقرأ الأوراق البحثية ويستخرج المعلومات.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://iris.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 75,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=iris.ai&sz=64"
+  },
+  {
+    "id": "lateral-ai",
+    "name_ar": "لاترال AI",
+    "name_en": "Lateral AI",
+    "slug": "lateral-ai",
+    "tagline_ar": "ربط المستندات ببعضها بالذكاء AI",
+    "tagline_en": "Connect documents with AI intelligence",
+    "desc_ar": "Lateral يربط مستنداتك البحثية تلقائياً. يجد الروابط والاتصالات الخفية.",
+    "desc_en": "Lateral يربط مستنداتك البحثية تلقائياً. يجد الروابط والاتصالات الخفية.",
+    "long_desc_ar": "Lateral يربط مستنداتك البحثية تلقائياً. يجد الروابط والاتصالات الخفية.",
+    "long_desc_en": "Lateral يربط مستنداتك البحثية تلقائياً. يجد الروابط والاتصالات الخفية.",
+    "category": "research",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://lateral.io",
+    "monthly_visits": "200K+",
+    "trending_score": 74,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lateral.io&sz=64"
+  }
+]

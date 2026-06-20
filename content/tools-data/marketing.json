@@ -1,0 +1,1964 @@
+[
+  {
+    "id": "gohighlevel",
+    "name_ar": "جو هاي ليفل",
+    "name_en": "GoHighLevel",
+    "slug": "gohighlevel",
+    "tagline_ar": "المنصة الشاملة لوكالات التسويق الرقمي",
+    "tagline_en": "Comprehensive platform for digital marketing agencies",
+    "desc_ar": "CRM + فانلز + SMS + بريد + حجوزات كلها في منصة واحدة. الأفضل للوكالات والـ SaaS.",
+    "desc_en": "CRM + funnels + SMS + email + bookings in one. Best for agencies and SaaS.",
+    "long_desc_ar": "GoHighLevel الحل الشامل للوكالات. CRM وصفحات هبوط وفانلز وSMS وبريد وحجوزات وعضويات ودورات. يُباع كـ SaaS للعملاء. 14 يوم مجاني.",
+    "long_desc_en": "GoHighLevel comprehensive solution for agencies. CRM, landing pages, funnels, SMS, email, bookings, memberships, courses. Resellable as SaaS. 14-day free trial.",
+    "category": "marketing",
+    "tags_ar": [
+      "وكالات",
+      "CRM",
+      "فانلز",
+      "SaaS"
+    ],
+    "tags_en": [
+      "agencies",
+      "CRM",
+      "funnels",
+      "SaaS"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$97/mo",
+    "price_pro": "$297/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://www.gohighlevel.com",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [
+      "hubspot",
+      "clickfunnels",
+      "active-campaign"
+    ],
+    "integrations": [
+      "Stripe",
+      "Twilio",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "وكالات التسويق",
+      "إدارة العملاء",
+      "حملات SMS",
+      "بناء الفانلز"
+    ],
+    "use_cases_en": [
+      "Marketing agencies",
+      "Client management",
+      "SMS campaigns",
+      "Funnel building"
+    ],
+    "affiliate_url": "https://www.gohighlevel.com/?fp_ref=ahmdai",
+    "coupon_code": "",
+    "coupon_discount": "14 يوم مجاني",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gohighlevel.com&sz=64"
+  },
+  {
+    "id": "getresponse",
+    "name_ar": "جيت ريسبونس",
+    "name_en": "GetResponse",
+    "slug": "getresponse",
+    "tagline_ar": "منصة التسويق بالبريد الإلكتروني مع AI",
+    "tagline_en": "Email marketing platform with AI",
+    "desc_ar": "منصة تسويق بالإيميل مع AI وأتمتة وصفحات هبوط. 30 يوم مجاني كامل.",
+    "desc_en": "Email marketing platform with AI, automation, landing pages. Full 30-day free trial.",
+    "long_desc_ar": "GetResponse تجمع البريد الإلكتروني والأتمتة وصفحات الهبوط والندوات. AI يكتب الإيميلات تلقائياً. 100,000+ عمل تجاري. 30 يوم تجريبي مجاني.",
+    "long_desc_en": "GetResponse combines email, automation, landing pages, webinars. AI writes emails automatically. 100K+ businesses. Full 30-day free trial.",
+    "category": "marketing",
+    "tags_ar": [
+      "بريد إلكتروني",
+      "أتمتة",
+      "صفحات هبوط",
+      "ندوات"
+    ],
+    "tags_en": [
+      "email marketing",
+      "automation",
+      "landing pages",
+      "webinars"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://www.getresponse.com",
+    "monthly_visits": "10M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 1998,
+    "alternatives": [
+      "mailchimp",
+      "activecampaign",
+      "convertkit"
+    ],
+    "integrations": [
+      "WordPress",
+      "Shopify",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "حملات إيميل",
+      "نشرات بريدية",
+      "أتمتة التسويق",
+      "صفحات هبوط"
+    ],
+    "use_cases_en": [
+      "Email campaigns",
+      "Newsletters",
+      "Marketing automation",
+      "Landing pages"
+    ],
+    "affiliate_url": "https://www.getresponse.com?a=Cnp6DJnVFP",
+    "coupon_code": "",
+    "coupon_discount": "30 يوم مجاني",
+    "logo_url": "https://www.google.com/s2/favicons?domain=getresponse.com&sz=64"
+  },
+  {
+    "id": "snov-io",
+    "name_ar": "سنوف.آي أو",
+    "name_en": "Snov.io",
+    "slug": "snov-io",
+    "tagline_ar": "إيجاد الإيميلات والتواصل مع العملاء",
+    "tagline_en": "Find emails and reach out to prospects",
+    "desc_ar": "أداة إيجاد إيميلات العملاء المحتملين والتواصل بالبريد الآلي. 50 رصيد مجاني عند التسجيل.",
+    "desc_en": "Tool for finding prospect emails and automated cold email outreach. 50 free credits on signup.",
+    "long_desc_ar": "Snov.io متخصصة في إيجاد إيميلات العملاء والتحقق منها وإرسال حملات آلية. CRM مدمج. مثالية للـ B2B.",
+    "long_desc_en": "Snov.io specialized in finding and verifying prospect emails and automated campaigns. Built-in CRM. Perfect for B2B.",
+    "category": "marketing",
+    "tags_ar": [
+      "إيميلات",
+      "عملاء محتملون",
+      "بريد بارد",
+      "B2B"
+    ],
+    "tags_en": [
+      "emails",
+      "leads",
+      "cold email",
+      "B2B"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$39/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://snov.io",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "hunter-io",
+      "apollo",
+      "lemlist"
+    ],
+    "integrations": [
+      "HubSpot",
+      "Pipedrive",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "إيجاد إيميلات",
+      "حملات بريد بارد",
+      "توليد عملاء",
+      "B2B مبيعات"
+    ],
+    "use_cases_en": [
+      "Finding emails",
+      "Cold email",
+      "Lead generation",
+      "B2B sales"
+    ],
+    "affiliate_url": "https://snov.io?fp_ref=ahmed-abdallh16",
+    "coupon_code": "",
+    "coupon_discount": "50 رصيد مجاني",
+    "logo_url": "https://www.google.com/s2/favicons?domain=snov.io&sz=64"
+  },
+  {
+    "id": "mailchimp",
+    "name_ar": "ميل شيمب",
+    "name_en": "Mailchimp",
+    "slug": "mailchimp",
+    "tagline_ar": "منصة التسويق بالبريد الأشهر",
+    "tagline_en": "Most popular email marketing platform",
+    "desc_ar": "المنصة الأشهر للتسويق بالبريد. مجانية لـ 500 مشترك مع AI لتحسين الحملات.",
+    "desc_en": "Most popular email marketing. Free for 500 subscribers with AI campaign optimization.",
+    "long_desc_ar": "المنصة الأشهر للتسويق بالبريد. مجانية لـ 500 مشترك مع AI لتحسين الحملات.",
+    "long_desc_en": "Most popular email marketing. Free for 500 subscribers with AI campaign optimization.",
+    "category": "marketing",
+    "tags_ar": [
+      "بريد إلكتروني",
+      "مجاني 500",
+      "حملات",
+      "تسويق"
+    ],
+    "tags_en": [
+      "email marketing",
+      "free 500",
+      "campaigns",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$13/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://mailchimp.com",
+    "monthly_visits": "10M+",
+    "trending_score": 85,
+    "rating": 4.3,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2001,
+    "alternatives": [
+      "getresponse",
+      "activecampaign",
+      "convertkit"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mailchimp.com&sz=64"
+  },
+  {
+    "id": "apollo-io",
+    "name_ar": "أبولو",
+    "name_en": "Apollo.io",
+    "slug": "apollo-io",
+    "tagline_ar": "منصة B2B Sales الأشمل",
+    "tagline_en": "Most comprehensive B2B sales platform",
+    "desc_ar": "265 مليون جهة اتصال وتواصل آلي. المنصة الأشمل لمبيعات B2B.",
+    "desc_en": "265M contact database and automated outreach. Most comprehensive B2B sales platform.",
+    "long_desc_ar": "265 مليون جهة اتصال وتواصل آلي. المنصة الأشمل لمبيعات B2B.",
+    "long_desc_en": "265M contact database and automated outreach. Most comprehensive B2B sales platform.",
+    "category": "marketing",
+    "tags_ar": [
+      "B2B",
+      "مبيعات",
+      "قاعدة بيانات",
+      "تواصل"
+    ],
+    "tags_en": [
+      "B2B",
+      "sales",
+      "database",
+      "outreach"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$59/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://apollo.io",
+    "monthly_visits": "3M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [
+      "snov-io",
+      "hunter-io",
+      "lemlist"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=apollo.io&sz=64"
+  },
+  {
+    "id": "jasper-ai-2026",
+    "name_ar": "Jasper AI",
+    "name_en": "Jasper AI",
+    "slug": "jasper-ai-2026",
+    "tagline_ar": "أداة المحتوى التسويقي #1",
+    "tagline_en": "#1 marketing content tool",
+    "desc_ar": "Jasper AI يُقدم 50+ قالب تسويقي مع Brand Voice للحفاظ على هوية علامتك. يدمج SEO وAEO.",
+    "desc_en": "Jasper AI offers 50+ marketing templates with Brand Voice. Integrates SEO and AEO.",
+    "long_desc_ar": "Jasper AI الأداة الأولى للمحتوى التسويقي. يدمج توليد المحتوى مع SEO وBrand Voice. يُستخدم من وكالات التسويق الكبرى.",
+    "long_desc_en": "Jasper AI is the #1 marketing content tool. Integrates content generation with SEO and Brand Voice. Used by major marketing agencies.",
+    "category": "marketing",
+    "tags_ar": [
+      "Jasper",
+      "محتوى تسويقي",
+      "Brand Voice",
+      "SEO"
+    ],
+    "tags_en": [
+      "Jasper",
+      "marketing content",
+      "brand voice",
+      "SEO"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$39",
+    "price_pro": "$99",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Chrome"
+    ],
+    "website": "https://jasper.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "copy-ai",
+      "grammarly-go",
+      "writesonic"
+    ],
+    "integrations": [
+      "Surfer SEO",
+      "HubSpot",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "إعلانات",
+      "أوصاف",
+      "مقالات",
+      "Emails"
+    ],
+    "use_cases_en": [
+      "Ads",
+      "Descriptions",
+      "Articles",
+      "Emails"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=64"
+  },
+  {
+    "id": "klaviyo-ai",
+    "name_ar": "Klaviyo AI",
+    "name_en": "Klaviyo AI",
+    "slug": "klaviyo-ai",
+    "tagline_ar": "تسويق Ecommerce AI بالبريد والرسائل",
+    "tagline_en": "AI ecommerce marketing via email and SMS",
+    "desc_ar": "Klaviyo AI يُخصّص حملات البريد والرسائل لكل عميل. الأكثر استخداماً في Ecommerce مع Shopify.",
+    "desc_en": "Klaviyo AI personalizes email and SMS campaigns for each customer. Most widely used in Ecommerce with Shopify.",
+    "long_desc_ar": "Klaviyo AI يُخصّص حملات البريد والرسائل لكل عميل. الأكثر استخداماً في Ecommerce مع Shopify.",
+    "long_desc_en": "Klaviyo AI personalizes email and SMS campaigns for each customer. Most widely used in Ecommerce with Shopify.",
+    "category": "marketing",
+    "tags_ar": [
+      "Klaviyo",
+      "Email Marketing",
+      "Ecommerce",
+      "AI"
+    ],
+    "tags_en": [
+      "Klaviyo",
+      "email marketing",
+      "ecommerce",
+      "AI"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$45",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://klaviyo.com",
+    "monthly_visits": "10M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "mailchimp",
+      "activecampaign",
+      "hubspot-ai"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce",
+      "Magento",
+      "API"
+    ],
+    "use_cases_ar": [
+      "Email Ecommerce",
+      "SMS",
+      "تخصيص",
+      "تجزئة"
+    ],
+    "use_cases_en": [
+      "Ecommerce email",
+      "SMS",
+      "Personalization",
+      "Segmentation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=klaviyo.com&sz=64"
+  },
+  {
+    "id": "activecampaign",
+    "name_ar": "أكتيف كامبين",
+    "name_en": "ActiveCampaign",
+    "slug": "activecampaign",
+    "tagline_ar": "أتمتة تسويقية متقدمة وCRM",
+    "tagline_en": "Advanced marketing automation and CRM",
+    "desc_ar": "أتمتة تسويقية متقدمة مع CRM. AI يتوقع أفضل وقت للإرسال ويخصص المحتوى.",
+    "desc_en": "Advanced marketing automation with CRM. AI predicts best send time and personalizes.",
+    "long_desc_ar": "أتمتة تسويقية متقدمة مع CRM. AI يتوقع أفضل وقت للإرسال ويخصص المحتوى.",
+    "long_desc_en": "Advanced marketing automation with CRM. AI predicts best send time and personalizes.",
+    "category": "marketing",
+    "tags_ar": [
+      "أتمتة",
+      "CRM",
+      "بريد",
+      "تخصيص"
+    ],
+    "tags_en": [
+      "automation",
+      "CRM",
+      "email",
+      "personalization"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$29/mo",
+    "price_pro": "$149/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://activecampaign.com",
+    "monthly_visits": "3M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2003,
+    "alternatives": [
+      "mailchimp",
+      "hubspot",
+      "getresponse"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=activecampaign.com&sz=64"
+  },
+  {
+    "id": "instantly-ai",
+    "name_ar": "إنستنتلي",
+    "name_en": "Instantly AI",
+    "slug": "instantly-ai",
+    "tagline_ar": "حملات بريد بارد على نطاق واسع",
+    "tagline_en": "Large-scale cold email campaigns",
+    "desc_ar": "حملات بريد بارد بنطاق واسع مع إحماء تلقائي وتسليم ممتاز.",
+    "desc_en": "Large-scale cold email with auto warmup and excellent deliverability.",
+    "long_desc_ar": "حملات بريد بارد بنطاق واسع مع إحماء تلقائي وتسليم ممتاز.",
+    "long_desc_en": "Large-scale cold email with auto warmup and excellent deliverability.",
+    "category": "marketing",
+    "tags_ar": [
+      "بريد بارد",
+      "نطاق واسع",
+      "إحماء",
+      "تسليم"
+    ],
+    "tags_en": [
+      "cold email",
+      "large scale",
+      "warmup",
+      "deliverability"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$37/mo",
+    "price_pro": "$97/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://instantly.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 83,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2022,
+    "alternatives": [
+      "lemlist",
+      "snov-io",
+      "apollo-io"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=instantly.ai&sz=64"
+  },
+  {
+    "id": "klaviyo",
+    "name_ar": "كلافيو",
+    "name_en": "Klaviyo",
+    "slug": "klaviyo",
+    "tagline_ar": "أتمتة تسويقية للتجارة الإلكترونية",
+    "tagline_en": "E-commerce marketing automation",
+    "desc_ar": "أفضل منصة تسويق للتجارة الإلكترونية. AI يخصص الرسائل ويتوقع سلوك المشترين.",
+    "desc_en": "Best e-commerce marketing platform. AI personalizes messages and predicts buyer behavior.",
+    "long_desc_ar": "أفضل منصة تسويق للتجارة الإلكترونية. AI يخصص الرسائل ويتوقع سلوك المشترين.",
+    "long_desc_en": "Best e-commerce marketing platform. AI personalizes messages and predicts buyer behavior.",
+    "category": "marketing",
+    "tags_ar": [
+      "تجارة إلكترونية",
+      "تخصيص",
+      "أتمتة",
+      "Shopify"
+    ],
+    "tags_en": [
+      "e-commerce",
+      "personalization",
+      "automation",
+      "Shopify"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$45/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://klaviyo.com",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "mailchimp",
+      "activecampaign",
+      "getresponse"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=klaviyo.com&sz=64"
+  },
+  {
+    "id": "hubspot-ai-tools",
+    "name_ar": "HubSpot AI Tools",
+    "name_en": "HubSpot AI",
+    "slug": "hubspot-ai-tools",
+    "tagline_ar": "AI في كل أدوات HubSpot",
+    "tagline_en": "AI across all HubSpot tools",
+    "desc_ar": "HubSpot AI يكتب محتوى ويحلل البيانات ويتوقع نتائج الحملات. مدمج في CRM.",
+    "desc_en": "HubSpot AI يكتب محتوى ويحلل البيانات ويتوقع نتائج الحملات. مدمج في CRM.",
+    "long_desc_ar": "HubSpot AI يكتب محتوى ويحلل البيانات ويتوقع نتائج الحملات. مدمج في CRM.",
+    "long_desc_en": "HubSpot AI يكتب محتوى ويحلل البيانات ويتوقع نتائج الحملات. مدمج في CRM.",
+    "category": "marketing",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://hubspot.com",
+    "monthly_visits": "50M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hubspot.com&sz=64"
+  },
+  {
+    "id": "ads-ai-google",
+    "name_ar": "Google Ads AI",
+    "name_en": "Google Performance Max",
+    "slug": "ads-ai-google",
+    "tagline_ar": "حملات إعلانية AI من Google",
+    "tagline_en": "AI advertising campaigns from Google",
+    "desc_ar": "Performance Max يستخدم AI لتشغيل حملات إعلانية على كل منصات Google تلقائياً.",
+    "desc_en": "Performance Max يستخدم AI لتشغيل حملات إعلانية على كل منصات Google تلقائياً.",
+    "long_desc_ar": "Performance Max يستخدم AI لتشغيل حملات إعلانية على كل منصات Google تلقائياً.",
+    "long_desc_en": "Performance Max يستخدم AI لتشغيل حملات إعلانية على كل منصات Google تلقائياً.",
+    "category": "marketing",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "Pay-per-click",
+    "price_pro": "Pay-per-click",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ads.google.com",
+    "monthly_visits": "10M+",
+    "trending_score": 83,
+    "rating": 4.3,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ads.google.com&sz=64"
+  },
+  {
+    "id": "hootsuite",
+    "name_ar": "هوت سويت",
+    "name_en": "Hootsuite",
+    "slug": "hootsuite",
+    "tagline_ar": "إدارة سوشيال ميديا للشركات",
+    "tagline_en": "Enterprise social media management",
+    "desc_ar": "المنصة الأشهر لإدارة سوشيال ميديا للشركات الكبيرة مع AI.",
+    "desc_en": "Most popular enterprise social media management with AI.",
+    "long_desc_ar": "المنصة الأشهر لإدارة سوشيال ميديا للشركات الكبيرة مع AI.",
+    "long_desc_en": "Most popular enterprise social media management with AI.",
+    "category": "marketing",
+    "tags_ar": [
+      "سوشيال ميديا",
+      "مؤسسي",
+      "تحليل",
+      "جدولة"
+    ],
+    "tags_en": [
+      "social media",
+      "enterprise",
+      "analysis",
+      "scheduling"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://hootsuite.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [
+      "buffer",
+      "sprout-social",
+      "later"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hootsuite.com&sz=64"
+  },
+  {
+    "id": "typeform",
+    "name_ar": "تايب فورم",
+    "name_en": "Typeform",
+    "slug": "typeform",
+    "tagline_ar": "استبيانات وفورمات AI جذابة",
+    "tagline_en": "Attractive AI surveys and forms",
+    "desc_ar": "منصة الاستبيانات والفورمات الأجمل. AI يبني الاستبيانات ويحلل الردود.",
+    "desc_en": "Most attractive survey platform. AI builds surveys and analyzes responses.",
+    "long_desc_ar": "منصة الاستبيانات والفورمات الأجمل. AI يبني الاستبيانات ويحلل الردود.",
+    "long_desc_en": "Most attractive survey platform. AI builds surveys and analyzes responses.",
+    "category": "marketing",
+    "tags_ar": [
+      "استبيانات",
+      "فورمات",
+      "جذاب",
+      "تحليل"
+    ],
+    "tags_en": [
+      "surveys",
+      "forms",
+      "attractive",
+      "analysis"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://typeform.com",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "google-forms",
+      "surveymonkey",
+      "jotform"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=typeform.com&sz=64"
+  },
+  {
+    "id": "meta-advantage-ai",
+    "name_ar": "Meta Advantage AI",
+    "name_en": "Meta Advantage+",
+    "slug": "meta-advantage-ai",
+    "tagline_ar": "إعلانات فيسبوك وانستجرام AI",
+    "tagline_en": "Facebook and Instagram AI ads",
+    "desc_ar": "Meta Advantage+ يستخدم AI لتحسين الإعلانات وإيجاد الجمهور المثالي تلقائياً.",
+    "desc_en": "Meta Advantage+ يستخدم AI لتحسين الإعلانات وإيجاد الجمهور المثالي تلقائياً.",
+    "long_desc_ar": "Meta Advantage+ يستخدم AI لتحسين الإعلانات وإيجاد الجمهور المثالي تلقائياً.",
+    "long_desc_en": "Meta Advantage+ يستخدم AI لتحسين الإعلانات وإيجاد الجمهور المثالي تلقائياً.",
+    "category": "marketing",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "Pay-per-click",
+    "price_pro": "Pay-per-click",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://facebook.com/business",
+    "monthly_visits": "3B+",
+    "trending_score": 82,
+    "rating": 4.2,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=facebook.com&sz=64"
+  },
+  {
+    "id": "mailchimp-ai",
+    "name_ar": "Mailchimp AI",
+    "name_en": "Mailchimp AI",
+    "slug": "mailchimp-ai",
+    "tagline_ar": "البريد التسويقي AI للمبتدئين",
+    "tagline_en": "AI email marketing for beginners",
+    "desc_ar": "Mailchimp AI يُضيف توليد محتوى AI وتحسين أوقات الإرسال. الأسهل للمبتدئين في Email Marketing.",
+    "desc_en": "Mailchimp AI adds AI content generation and send-time optimization. Easiest for beginners in email marketing.",
+    "long_desc_ar": "Mailchimp AI يُضيف توليد محتوى AI وتحسين أوقات الإرسال. الأسهل للمبتدئين في Email Marketing.",
+    "long_desc_en": "Mailchimp AI adds AI content generation and send-time optimization. Easiest for beginners in email marketing.",
+    "category": "marketing",
+    "tags_ar": [
+      "Mailchimp",
+      "Email Marketing",
+      "مبتدئين",
+      "AI"
+    ],
+    "tags_en": [
+      "Mailchimp",
+      "email marketing",
+      "beginners",
+      "AI"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$13",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://mailchimp.com",
+    "monthly_visits": "20M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2001,
+    "alternatives": [
+      "klaviyo-ai",
+      "activecampaign",
+      "hubspot-ai"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce",
+      "WordPress",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "Email",
+      "Newsletter",
+      "Automations",
+      "Landing Pages"
+    ],
+    "use_cases_en": [
+      "Email",
+      "Newsletter",
+      "Automations",
+      "Landing pages"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mailchimp.com&sz=64"
+  },
+  {
+    "id": "buffer-ai",
+    "name_ar": "Buffer AI",
+    "name_en": "Buffer AI",
+    "slug": "buffer-ai",
+    "tagline_ar": "جدولة سوشيال ميديا مع اقتراحات AI",
+    "tagline_en": "Social media scheduling with AI suggestions",
+    "desc_ar": "Buffer AI يُجدوّل منشورات السوشيال ميديا ويقترح محتوى AI. أبسط أداة في فئتها.",
+    "desc_en": "Buffer AI schedules social media posts and suggests AI content. Simplest tool in its category.",
+    "long_desc_ar": "Buffer AI يُجدوّل منشورات السوشيال ميديا ويقترح محتوى AI. أبسط أداة في فئتها.",
+    "long_desc_en": "Buffer AI schedules social media posts and suggests AI content. Simplest tool in its category.",
+    "category": "marketing",
+    "tags_ar": [
+      "Buffer",
+      "سوشيال",
+      "جدولة",
+      "AI"
+    ],
+    "tags_en": [
+      "Buffer",
+      "social media",
+      "scheduling",
+      "AI"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$6",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "Chrome"
+    ],
+    "website": "https://buffer.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [
+      "hootsuite",
+      "sprout-social",
+      "later"
+    ],
+    "integrations": [
+      "Twitter",
+      "Instagram",
+      "Facebook",
+      "LinkedIn",
+      "TikTok"
+    ],
+    "use_cases_ar": [
+      "جدولة منشورات",
+      "تحليل",
+      "فريق",
+      "تسويق"
+    ],
+    "use_cases_en": [
+      "Post scheduling",
+      "Analytics",
+      "Team",
+      "Marketing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=buffer.com&sz=64"
+  },
+  {
+    "id": "vidiq-ai",
+    "name_ar": "vidIQ AI",
+    "name_en": "vidIQ AI",
+    "slug": "vidiq-ai",
+    "tagline_ar": "تحسين قناة يوتيوب بالذكاء الاصطناعي",
+    "tagline_en": "YouTube channel optimization with AI",
+    "desc_ar": "vidIQ AI يُقترح عناوين وكلمات مفتاحية وأوقات نشر مثالية لزيادة مشاهدات يوتيوب.",
+    "desc_en": "vidIQ AI suggests titles, keywords, and optimal publishing times to increase YouTube views.",
+    "long_desc_ar": "vidIQ AI يُقترح عناوين وكلمات مفتاحية وأوقات نشر مثالية لزيادة مشاهدات يوتيوب.",
+    "long_desc_en": "vidIQ AI suggests titles, keywords, and optimal publishing times to increase YouTube views.",
+    "category": "marketing",
+    "tags_ar": [
+      "vidIQ AI",
+      "marketing"
+    ],
+    "tags_en": [
+      "vidIQ AI",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://vidiq.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vidiq.com&sz=64"
+  },
+  {
+    "id": "buffer",
+    "name_ar": "بافر",
+    "name_en": "Buffer",
+    "slug": "buffer",
+    "tagline_ar": "جدولة سوشيال ميديا بذكاء",
+    "tagline_en": "Smart social media scheduling",
+    "desc_ar": "جدولة ونشر منشورات سوشيال ميديا. AI يقترح أفضل أوقات النشر.",
+    "desc_en": "Social media scheduling and posting. AI suggests best posting times.",
+    "long_desc_ar": "جدولة ونشر منشورات سوشيال ميديا. AI يقترح أفضل أوقات النشر.",
+    "long_desc_en": "Social media scheduling and posting. AI suggests best posting times.",
+    "category": "marketing",
+    "tags_ar": [
+      "سوشيال ميديا",
+      "جدولة",
+      "نشر",
+      "AI"
+    ],
+    "tags_en": [
+      "social media",
+      "scheduling",
+      "posting",
+      "AI"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$6/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome"
+    ],
+    "website": "https://buffer.com",
+    "monthly_visits": "5M+",
+    "trending_score": 81,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [
+      "hootsuite",
+      "later",
+      "sprout-social"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=buffer.com&sz=64"
+  },
+  {
+    "id": "hootsuite-ai",
+    "name_ar": "Hootsuite AI",
+    "name_en": "Hootsuite AI",
+    "slug": "hootsuite-ai",
+    "tagline_ar": "إدارة سوشيال ميديا AI للفرق والشركات",
+    "tagline_en": "AI social media management for teams and companies",
+    "desc_ar": "Hootsuite AI يُدير حسابات سوشيال متعددة ويُنشئ محتوى AI ويُحلّل الأداء. للفرق والشركات.",
+    "desc_en": "Hootsuite AI manages multiple social accounts, creates AI content, and analyzes performance. For teams and companies.",
+    "long_desc_ar": "Hootsuite AI يُدير حسابات سوشيال متعددة ويُنشئ محتوى AI ويُحلّل الأداء. للفرق والشركات.",
+    "long_desc_en": "Hootsuite AI manages multiple social accounts, creates AI content, and analyzes performance. For teams and companies.",
+    "category": "marketing",
+    "tags_ar": [
+      "Hootsuite",
+      "سوشيال",
+      "إدارة",
+      "شركات"
+    ],
+    "tags_en": [
+      "Hootsuite",
+      "social media",
+      "management",
+      "companies"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$99",
+    "price_pro": "$249",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://hootsuite.com",
+    "monthly_visits": "20M+",
+    "trending_score": 81,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [
+      "buffer-ai",
+      "sprout-social",
+      "later"
+    ],
+    "integrations": [
+      "Twitter",
+      "Instagram",
+      "Facebook",
+      "LinkedIn",
+      "TikTok",
+      "YouTube"
+    ],
+    "use_cases_ar": [
+      "سوشيال مؤسسي",
+      "تحليلات",
+      "فريق",
+      "إعلانات"
+    ],
+    "use_cases_en": [
+      "Enterprise social",
+      "Analytics",
+      "Team",
+      "Ads"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hootsuite.com&sz=64"
+  },
+  {
+    "id": "tubeBuddy",
+    "name_ar": "TubeBuddy AI",
+    "name_en": "TubeBuddy AI",
+    "slug": "tubebuddy",
+    "tagline_ar": "أداة يوتيوب AI الأشهر",
+    "tagline_en": "Most popular YouTube AI tool",
+    "desc_ar": "TubeBuddy AI يُحسّن SEO اليوتيوب ويُقترح كلمات مفتاحية وعناوين. Chrome extension شائع.",
+    "desc_en": "TubeBuddy AI optimizes YouTube SEO and suggests keywords and titles. Popular Chrome extension.",
+    "long_desc_ar": "TubeBuddy AI يُحسّن SEO اليوتيوب ويُقترح كلمات مفتاحية وعناوين. Chrome extension شائع.",
+    "long_desc_en": "TubeBuddy AI optimizes YouTube SEO and suggests keywords and titles. Popular Chrome extension.",
+    "category": "marketing",
+    "tags_ar": [
+      "TubeBuddy AI",
+      "marketing"
+    ],
+    "tags_en": [
+      "TubeBuddy AI",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://tubebuddy.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tubebuddy.com&sz=64"
+  },
+  {
+    "id": "sprout-social",
+    "name_ar": "Sprout Social AI",
+    "name_en": "Sprout Social AI",
+    "slug": "sprout-social",
+    "tagline_ar": "إدارة سوشيال للعلامات التجارية الكبيرة",
+    "tagline_en": "Social media management for large brands",
+    "desc_ar": "Sprout Social AI للعلامات التجارية الكبيرة. تحليلات متقدمة وإدارة الردود والـ Listening.",
+    "desc_en": "Sprout Social AI for large brands. Advanced analytics, response management, and social listening.",
+    "long_desc_ar": "Sprout Social AI للعلامات التجارية الكبيرة. تحليلات متقدمة وإدارة الردود والـ Listening.",
+    "long_desc_en": "Sprout Social AI for large brands. Advanced analytics, response management, and social listening.",
+    "category": "marketing",
+    "tags_ar": [
+      "Sprout Social AI",
+      "marketing"
+    ],
+    "tags_en": [
+      "Sprout Social AI",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$249",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://sproutsocial.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sproutsocial.com&sz=64"
+  },
+  {
+    "id": "sendgrid",
+    "name_ar": "Twilio SendGrid",
+    "name_en": "Twilio SendGrid",
+    "slug": "sendgrid",
+    "tagline_ar": "Email API للمطورين والشركات",
+    "tagline_en": "Email API for developers and companies",
+    "desc_ar": "Twilio SendGrid — Email API للمطورين والشركات",
+    "desc_en": "Twilio SendGrid — Email API for developers and companies",
+    "long_desc_ar": "Twilio SendGrid — Email API للمطورين والشركات",
+    "long_desc_en": "Twilio SendGrid — Email API for developers and companies",
+    "category": "marketing",
+    "tags_ar": [
+      "Twilio SendGrid",
+      "marketing"
+    ],
+    "tags_en": [
+      "Twilio SendGrid",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://sendgrid.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2009,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sendgrid.com&sz=64"
+  },
+  {
+    "id": "convertkit",
+    "name_ar": "ConvertKit",
+    "name_en": "ConvertKit",
+    "slug": "convertkit",
+    "tagline_ar": "Email Marketing للمبدعين والكتّاب",
+    "tagline_en": "Email Marketing for creators and writers",
+    "desc_ar": "ConvertKit — Email Marketing للمبدعين والكتّاب",
+    "desc_en": "ConvertKit — Email Marketing for creators and writers",
+    "long_desc_ar": "ConvertKit — Email Marketing للمبدعين والكتّاب",
+    "long_desc_en": "ConvertKit — Email Marketing for creators and writers",
+    "category": "marketing",
+    "tags_ar": [
+      "ConvertKit",
+      "marketing"
+    ],
+    "tags_en": [
+      "ConvertKit",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://convertkit.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=convertkit.com&sz=64"
+  },
+  {
+    "id": "linkedin-ads-ai",
+    "name_ar": "LinkedIn Ads AI",
+    "name_en": "LinkedIn AI Ads",
+    "slug": "linkedin-ads-ai",
+    "tagline_ar": "إعلانات B2B AI على LinkedIn",
+    "tagline_en": "B2B AI ads on LinkedIn",
+    "desc_ar": "LinkedIn AI يحسّن إعلانات B2B ويستهدف المهنيين المناسبين بدقة عالية.",
+    "desc_en": "LinkedIn AI يحسّن إعلانات B2B ويستهدف المهنيين المناسبين بدقة عالية.",
+    "long_desc_ar": "LinkedIn AI يحسّن إعلانات B2B ويستهدف المهنيين المناسبين بدقة عالية.",
+    "long_desc_en": "LinkedIn AI يحسّن إعلانات B2B ويستهدف المهنيين المناسبين بدقة عالية.",
+    "category": "marketing",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "Pay-per-click",
+    "price_pro": "Pay-per-click",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://linkedin.com",
+    "monthly_visits": "1B+",
+    "trending_score": 79,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64"
+  },
+  {
+    "id": "anyword",
+    "name_ar": "Anyword",
+    "name_en": "Anyword",
+    "slug": "anyword",
+    "tagline_ar": "كتابة AI تستهدف الأداء والتحويل",
+    "tagline_en": "AI writing targeting performance and conversion",
+    "desc_ar": "Anyword يكتب نصوصاً تسويقية مُحسّنة للتحويل مع نتيجة أداء لكل نص. فريد في فئته.",
+    "desc_en": "Anyword writes marketing copy optimized for conversion with performance score for each text. Unique in its category.",
+    "long_desc_ar": "Anyword يكتب نصوصاً تسويقية مُحسّنة للتحويل مع نتيجة أداء لكل نص. فريد في فئته.",
+    "long_desc_en": "Anyword writes marketing copy optimized for conversion with performance score for each text. Unique in its category.",
+    "category": "marketing",
+    "tags_ar": [
+      "Anyword",
+      "كتابة تحويل",
+      "CRO",
+      "تسويق"
+    ],
+    "tags_en": [
+      "Anyword",
+      "conversion copy",
+      "CRO",
+      "marketing"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$39",
+    "price_pro": "$99",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Chrome"
+    ],
+    "website": "https://anyword.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "jasper-ai-2026",
+      "copy-ai",
+      "writesonic"
+    ],
+    "integrations": [
+      "HubSpot",
+      "Salesforce",
+      "API"
+    ],
+    "use_cases_ar": [
+      "إعلانات",
+      "Landing Pages",
+      "Emails",
+      "CRO"
+    ],
+    "use_cases_en": [
+      "Ads",
+      "Landing pages",
+      "Emails",
+      "CRO"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anyword.com&sz=64"
+  },
+  {
+    "id": "later-app",
+    "name_ar": "Later",
+    "name_en": "Later",
+    "slug": "later-app",
+    "tagline_ar": "جدولة المرئيات على سوشيال ميديا",
+    "tagline_en": "Schedule visuals on social media",
+    "desc_ar": "Later متخصص في جدولة المحتوى المرئي لـ Instagram وPinterest وTikTok. رابط في السيرة.",
+    "desc_en": "Later specializes in scheduling visual content for Instagram, Pinterest, and TikTok. Link in bio.",
+    "long_desc_ar": "Later متخصص في جدولة المحتوى المرئي لـ Instagram وPinterest وTikTok. رابط في السيرة.",
+    "long_desc_en": "Later specializes in scheduling visual content for Instagram, Pinterest, and TikTok. Link in bio.",
+    "category": "marketing",
+    "tags_ar": [
+      "Later",
+      "marketing"
+    ],
+    "tags_en": [
+      "Later",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://later.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=later.com&sz=64"
+  },
+  {
+    "id": "brevo",
+    "name_ar": "Brevo (Sendinblue)",
+    "name_en": "Brevo (Sendinblue)",
+    "slug": "brevo",
+    "tagline_ar": "Email SMS تسويق بأسعار منافسة",
+    "tagline_en": "Email SMS marketing at competitive prices",
+    "desc_ar": "Brevo (Sendinblue) — Email SMS تسويق بأسعار منافسة",
+    "desc_en": "Brevo (Sendinblue) — Email SMS marketing at competitive prices",
+    "long_desc_ar": "Brevo (Sendinblue) — Email SMS تسويق بأسعار منافسة",
+    "long_desc_en": "Brevo (Sendinblue) — Email SMS marketing at competitive prices",
+    "category": "marketing",
+    "tags_ar": [
+      "Brevo (Sendinblue)",
+      "marketing"
+    ],
+    "tags_en": [
+      "Brevo (Sendinblue)",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://brevo.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=brevo.com&sz=64"
+  },
+  {
+    "id": "taplio",
+    "name_ar": "Taplio",
+    "name_en": "Taplio",
+    "slug": "taplio",
+    "tagline_ar": "نمو LinkedIn بالذكاء الاصطناعي",
+    "tagline_en": "LinkedIn growth with AI",
+    "desc_ar": "Taplio — نمو LinkedIn بالذكاء الاصطناعي",
+    "desc_en": "Taplio — LinkedIn growth with AI",
+    "long_desc_ar": "Taplio — نمو LinkedIn بالذكاء الاصطناعي",
+    "long_desc_en": "Taplio — LinkedIn growth with AI",
+    "category": "marketing",
+    "tags_ar": [
+      "Taplio",
+      "marketing"
+    ],
+    "tags_en": [
+      "Taplio",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$49",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://taplio.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=taplio.com&sz=64"
+  },
+  {
+    "id": "sprout-social-ai",
+    "name_ar": "سبراوت سوشيال",
+    "name_en": "Sprout Social AI",
+    "slug": "sprout-social-ai",
+    "tagline_ar": "إدارة سوشيال ميديا AI للمؤسسات",
+    "tagline_en": "Enterprise AI social media management",
+    "desc_ar": "Sprout Social يحلل البيانات ويقترح المحتوى ويجدول النشر بالذكاء الاصطناعي.",
+    "desc_en": "Sprout Social يحلل البيانات ويقترح المحتوى ويجدول النشر بالذكاء الاصطناعي.",
+    "long_desc_ar": "Sprout Social يحلل البيانات ويقترح المحتوى ويجدول النشر بالذكاء الاصطناعي.",
+    "long_desc_en": "Sprout Social يحلل البيانات ويقترح المحتوى ويجدول النشر بالذكاء الاصطناعي.",
+    "category": "marketing",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$199/mo",
+    "price_pro": "$199/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://sproutsocial.com",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sproutsocial.com&sz=64"
+  },
+  {
+    "id": "lemlist",
+    "name_ar": "Lemlist",
+    "name_en": "Lemlist",
+    "slug": "lemlist",
+    "tagline_ar": "Cold Email AI بتخصيص فائق",
+    "tagline_en": "AI Cold Email with super personalization",
+    "desc_ar": "Lemlist — Cold Email AI بتخصيص فائق",
+    "desc_en": "Lemlist — AI Cold Email with super personalization",
+    "long_desc_ar": "Lemlist — Cold Email AI بتخصيص فائق",
+    "long_desc_en": "Lemlist — AI Cold Email with super personalization",
+    "category": "marketing",
+    "tags_ar": [
+      "Lemlist",
+      "marketing"
+    ],
+    "tags_en": [
+      "Lemlist",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$50",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://lemlist.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lemlist.com&sz=64"
+  },
+  {
+    "id": "hunter-io",
+    "name_ar": "Hunter.io",
+    "name_en": "Hunter.io",
+    "slug": "hunter-io",
+    "tagline_ar": "ابحث عن Emails بالـ AI",
+    "tagline_en": "Find Emails with AI",
+    "desc_ar": "Hunter.io — ابحث عن Emails بالـ AI",
+    "desc_en": "Hunter.io — Find Emails with AI",
+    "long_desc_ar": "Hunter.io — ابحث عن Emails بالـ AI",
+    "long_desc_en": "Hunter.io — Find Emails with AI",
+    "category": "marketing",
+    "tags_ar": [
+      "Hunter.io",
+      "marketing"
+    ],
+    "tags_en": [
+      "Hunter.io",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://hunter.io",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hunter.io&sz=64"
+  },
+  {
+    "id": "expandi",
+    "name_ar": "Expandi",
+    "name_en": "Expandi",
+    "slug": "expandi",
+    "tagline_ar": "LinkedIn أتمتة مبيعات AI",
+    "tagline_en": "AI LinkedIn sales automation",
+    "desc_ar": "Expandi — LinkedIn أتمتة مبيعات AI",
+    "desc_en": "Expandi — AI LinkedIn sales automation",
+    "long_desc_ar": "Expandi — LinkedIn أتمتة مبيعات AI",
+    "long_desc_en": "Expandi — AI LinkedIn sales automation",
+    "category": "marketing",
+    "tags_ar": [
+      "Expandi",
+      "marketing"
+    ],
+    "tags_en": [
+      "Expandi",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$99",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://expandi.io",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=expandi.io&sz=64"
+  },
+  {
+    "id": "drip",
+    "name_ar": "Drip",
+    "name_en": "Drip",
+    "slug": "drip",
+    "tagline_ar": "Email Marketing متخصص لـ Ecommerce",
+    "tagline_en": "Email Marketing specialized for Ecommerce",
+    "desc_ar": "Drip — Email Marketing متخصص لـ Ecommerce",
+    "desc_en": "Drip — Email Marketing specialized for Ecommerce",
+    "long_desc_ar": "Drip — Email Marketing متخصص لـ Ecommerce",
+    "long_desc_en": "Drip — Email Marketing specialized for Ecommerce",
+    "category": "marketing",
+    "tags_ar": [
+      "Drip",
+      "marketing"
+    ],
+    "tags_en": [
+      "Drip",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$39",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://drip.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=drip.com&sz=64"
+  },
+  {
+    "id": "phrasee",
+    "name_ar": "Phrasee",
+    "name_en": "Phrasee",
+    "slug": "phrasee",
+    "tagline_ar": "كتابة Email Subject Lines AI",
+    "tagline_en": "AI Email Subject Line writing",
+    "desc_ar": "Phrasee — كتابة Email Subject Lines AI",
+    "desc_en": "Phrasee — AI Email Subject Line writing",
+    "long_desc_ar": "Phrasee — كتابة Email Subject Lines AI",
+    "long_desc_en": "Phrasee — AI Email Subject Line writing",
+    "category": "marketing",
+    "tags_ar": [
+      "Phrasee",
+      "marketing"
+    ],
+    "tags_en": [
+      "Phrasee",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://phrasee.co",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=phrasee.co&sz=64"
+  },
+  {
+    "id": "unifonic",
+    "name_ar": "يونيفونيك",
+    "name_en": "Unifonic",
+    "slug": "unifonic",
+    "tagline_ar": "تواصل عملاء شامل للخليج",
+    "tagline_en": "Comprehensive customer communication for Gulf",
+    "desc_ar": "CPaaS للشركات في الشرق الأوسط. SMS وواتساب وصوت وبريد.",
+    "desc_en": "CPaaS for Middle East companies. SMS, WhatsApp, voice, email.",
+    "long_desc_ar": "CPaaS للشركات في الشرق الأوسط. SMS وواتساب وصوت وبريد.",
+    "long_desc_en": "CPaaS for Middle East companies. SMS, WhatsApp, voice, email.",
+    "category": "marketing",
+    "tags_ar": [
+      "SMS",
+      "واتساب",
+      "خليج",
+      "شركات"
+    ],
+    "tags_en": [
+      "SMS",
+      "WhatsApp",
+      "gulf",
+      "companies"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "Custom",
+    "price_pro": "Custom",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://unifonic.com",
+    "monthly_visits": "500K+",
+    "trending_score": 75,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "twilio",
+      "vonage",
+      "messagebird"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=unifonic.com&sz=64"
+  }
+]

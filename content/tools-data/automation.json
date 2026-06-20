@@ -1,0 +1,1814 @@
+[
+  {
+    "id": "openclaw",
+    "name_ar": "أوبن كلاو",
+    "name_en": "OpenClaw",
+    "slug": "openclaw",
+    "tagline_ar": "أكثر مشروع GitHub نجوماً في التاريخ — اشترته OpenAI",
+    "tagline_en": "Most starred GitHub project ever — acquired by OpenAI",
+    "desc_ar": "مشروع مفتوح المصدر تجاوز React وLinux في النجوم على GitHub قبل أن تشتريه OpenAI في فبراير 2026.",
+    "desc_en": "Open-source project that surpassed React and Linux in GitHub stars before OpenAI acquisition in Feb 2026.",
+    "long_desc_ar": "مشروع مفتوح المصدر تجاوز React وLinux في النجوم على GitHub قبل أن تشتريه OpenAI في فبراير 2026.",
+    "long_desc_en": "Open-source project that surpassed React and Linux in GitHub stars before OpenAI acquisition in Feb 2026.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "5B+",
+    "trending_score": 94,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "zapier",
+    "name_ar": "زابير",
+    "name_en": "Zapier",
+    "slug": "zapier",
+    "tagline_ar": "ربط آلاف التطبيقات وأتمتة العمل",
+    "tagline_en": "Connect thousands of apps and automate work",
+    "desc_ar": "منصة أتمتة المهام الأشهر. تربط 7000+ تطبيق وتبني سير عمل AI بدون كود.",
+    "desc_en": "Most popular task automation. Connects 7000+ apps and builds AI workflows without code.",
+    "long_desc_ar": "Zapier تربط 7000+ تطبيق. Zapier AI يبني سير عمل من وصف نصي. 100 مهمة مجانية شهرياً. في a16z Top 100 AI Apps 2026.",
+    "long_desc_en": "Zapier connects 7000+ apps. Zapier AI builds workflows from text. 100 free tasks monthly. On a16z Top 100 AI Apps 2026.",
+    "category": "automation",
+    "tags_ar": [
+      "أتمتة",
+      "7000 تطبيق",
+      "سير عمل",
+      "بدون كود"
+    ],
+    "tags_en": [
+      "automation",
+      "7000 apps",
+      "workflows",
+      "no-code"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://zapier.com",
+    "monthly_visits": "25M+",
+    "trending_score": 93,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "make",
+      "n8n",
+      "pipedream"
+    ],
+    "integrations": [
+      "Gmail",
+      "Slack",
+      "Salesforce",
+      "HubSpot"
+    ],
+    "use_cases_ar": [
+      "أتمتة البريد",
+      "ربط الأنظمة",
+      "تنبيهات تلقائية",
+      "إدارة البيانات"
+    ],
+    "use_cases_en": [
+      "Email automation",
+      "System integration",
+      "Auto notifications",
+      "Data management"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zapier.com&sz=64"
+  },
+  {
+    "id": "n8n-ai",
+    "name_ar": "n8n AI",
+    "name_en": "n8n AI",
+    "slug": "n8n-ai",
+    "tagline_ar": "أتمتة مفتوحة المصدر مع AI Agents",
+    "tagline_en": "Open-source automation with AI Agents",
+    "desc_ar": "n8n يدمج الأتمتة مع AI Agents. بديل Zapier مفتوح المصدر بدون قيود. ينمو بشكل هائل في 2026.",
+    "desc_en": "n8n integrates automation with AI Agents. Open-source Zapier alternative without restrictions. Growing massively in 2026.",
+    "long_desc_ar": "n8n نما بشكل هائل في 2026. يدمج AI agents في workflows المعقدة. Self-hosting مجاناً أو Cloud بـ $20.",
+    "long_desc_en": "n8n grew massively in 2026. Integrates AI agents in complex workflows. Self-hosting free or Cloud at $20.",
+    "category": "automation",
+    "tags_ar": [
+      "n8n",
+      "أتمتة",
+      "AI Agents",
+      "مفتوح المصدر"
+    ],
+    "tags_en": [
+      "n8n",
+      "automation",
+      "AI agents",
+      "open source"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "Self-hosted",
+      "Docker"
+    ],
+    "website": "https://n8n.io",
+    "monthly_visits": "5M+",
+    "trending_score": 91,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "zapier",
+      "make-ai",
+      "activepieces"
+    ],
+    "integrations": [
+      "500+ apps",
+      "Claude",
+      "GPT",
+      "Slack",
+      "GitHub"
+    ],
+    "use_cases_ar": [
+      "Agents",
+      "تكامل",
+      "DevOps",
+      "أتمتة"
+    ],
+    "use_cases_en": [
+      "Agents",
+      "Integration",
+      "DevOps",
+      "Automation"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=n8n.io&sz=64"
+  },
+  {
+    "id": "zapier-ai",
+    "name_ar": "Zapier AI",
+    "name_en": "Zapier AI",
+    "slug": "zapier-ai",
+    "tagline_ar": "أتمتة 7000+ تطبيق مع AI Agents",
+    "tagline_en": "Automate 7000+ apps with AI Agents",
+    "desc_ar": "Zapier AI يربط 7000+ تطبيق ويُضيف AI Agents لأتمتة المهام المعقدة. الأكثر استخداماً للأتمتة.",
+    "desc_en": "Zapier AI connects 7000+ apps and adds AI Agents for complex task automation. Most widely used for automation.",
+    "long_desc_ar": "Zapier AI يربط 7000+ تطبيق ويُضيف AI Agents لأتمتة المهام المعقدة. الأكثر استخداماً للأتمتة.",
+    "long_desc_en": "Zapier AI connects 7000+ apps and adds AI Agents for complex task automation. Most widely used for automation.",
+    "category": "automation",
+    "tags_ar": [
+      "Zapier",
+      "أتمتة",
+      "7000 تطبيق",
+      "AI Agents"
+    ],
+    "tags_en": [
+      "Zapier",
+      "automation",
+      "7000 apps",
+      "AI agents"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://zapier.com",
+    "monthly_visits": "10M+",
+    "trending_score": 90,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "make-ai",
+      "n8n-ai",
+      "activepieces"
+    ],
+    "integrations": [
+      "7000+ apps",
+      "Slack",
+      "HubSpot",
+      "Salesforce"
+    ],
+    "use_cases_ar": [
+      "أتمتة",
+      "تكامل",
+      "Agents",
+      "سير عمل"
+    ],
+    "use_cases_en": [
+      "Automation",
+      "Integration",
+      "Agents",
+      "Workflows"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zapier.com&sz=64"
+  },
+  {
+    "id": "genspark",
+    "name_ar": "جين سبارك",
+    "name_en": "Genspark",
+    "slug": "genspark",
+    "tagline_ar": "وكيل AI يكمل مهامك من البداية للنهاية",
+    "tagline_en": "AI agent completing tasks end-to-end",
+    "desc_ar": "وكيل أفقي يتولى مهامك المعقدة كاملة. جمع $300M وحقق $100M ARR.",
+    "desc_en": "Horizontal agent handling complex tasks completely. Raised $300M, reached $100M ARR.",
+    "long_desc_ar": "Genspark وكيل AI أفقي لمهام مفتوحة. في a16z Top 100 AI Apps 2026 لأول مرة. جمع $300M وحقق $100M ARR في 2026.",
+    "long_desc_en": "Genspark horizontal AI agent for open-ended tasks. Debuted on a16z Top 100 AI Apps 2026. Raised $300M and reached $100M ARR in 2026.",
+    "category": "automation",
+    "tags_ar": [
+      "وكيل AI",
+      "مهام كاملة",
+      "أفقي",
+      "$300M"
+    ],
+    "tags_en": [
+      "AI agent",
+      "complete tasks",
+      "horizontal",
+      "$300M"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://genspark.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 89,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [
+      "manus",
+      "chatgpt",
+      "perplexity"
+    ],
+    "integrations": [
+      "Google Sheets",
+      "PowerPoint"
+    ],
+    "use_cases_ar": [
+      "بحث شامل",
+      "تحليل بيانات",
+      "إنشاء تقارير",
+      "مهام معقدة"
+    ],
+    "use_cases_en": [
+      "Comprehensive research",
+      "Data analysis",
+      "Report creation",
+      "Complex tasks"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=genspark.ai&sz=64"
+  },
+  {
+    "id": "make",
+    "name_ar": "ميك",
+    "name_en": "Make",
+    "slug": "make",
+    "tagline_ar": "أتمتة بصرية قوية للمحترفين",
+    "tagline_en": "Powerful visual automation for professionals",
+    "desc_ar": "منصة أتمتة بصرية بسحب وإفلات. أقوى من Zapier للسيناريوهات المعقدة بسعر أقل.",
+    "desc_en": "Visual automation with drag-and-drop. More powerful than Zapier for complex scenarios.",
+    "long_desc_ar": "Make (Integromat سابقاً) واجهة سحب وإفلات لسير عمل معقدة. تتفوق على Zapier في المرونة. 1500 تطبيق. 1000 عملية مجانية شهرياً.",
+    "long_desc_en": "Make (formerly Integromat) drag-and-drop for complex workflows. Outperforms Zapier in flexibility. 1500 apps. 1000 free operations monthly.",
+    "category": "automation",
+    "tags_ar": [
+      "أتمتة بصرية",
+      "سحب وإفلات",
+      "1500 تطبيق",
+      "وكالات"
+    ],
+    "tags_en": [
+      "visual automation",
+      "drag-drop",
+      "1500 apps",
+      "agencies"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://make.com",
+    "monthly_visits": "10M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "zapier",
+      "n8n",
+      "pipedream"
+    ],
+    "integrations": [
+      "Gmail",
+      "Slack",
+      "Airtable",
+      "Google Sheets"
+    ],
+    "use_cases_ar": [
+      "أتمتة معقدة",
+      "ربط APIs",
+      "سير عمل متقدمة",
+      "وكالات"
+    ],
+    "use_cases_en": [
+      "Complex automation",
+      "API integration",
+      "Advanced workflows",
+      "Agencies"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=make.com&sz=64"
+  },
+  {
+    "id": "n8n",
+    "name_ar": "إن 8 إن",
+    "name_en": "n8n",
+    "slug": "n8n",
+    "tagline_ar": "أتمتة مفتوحة المصدر تستضيفها بنفسك",
+    "tagline_en": "Open-source automation you self-host",
+    "desc_ar": "منصة أتمتة مفتوحة المصدر. استضف نفسك بدون قيود ورسوم. مثالية للمطورين.",
+    "desc_en": "Open-source automation platform. Self-host without limits and fees. Perfect for developers.",
+    "long_desc_ar": "n8n مفتوحة المصدر تتيح الاستضافة الذاتية بدون رسوم على العمليات. 400+ تطبيق. JavaScript مخصص. نمت بسرعة في 2025.",
+    "long_desc_en": "n8n open-source enables self-hosting without per-operation fees. 400+ apps. Custom JavaScript. Grew rapidly in 2025.",
+    "category": "automation",
+    "tags_ar": [
+      "مفتوح المصدر",
+      "استضافة ذاتية",
+      "مطورون",
+      "بدون قيود"
+    ],
+    "tags_en": [
+      "open-source",
+      "self-hosted",
+      "developers",
+      "no limits"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "website": "https://n8n.io",
+    "monthly_visits": "5M+",
+    "trending_score": 87,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "zapier",
+      "make",
+      "pipedream"
+    ],
+    "integrations": [
+      "400+ apps",
+      "API",
+      "Webhooks"
+    ],
+    "use_cases_ar": [
+      "أتمتة ذاتية الاستضافة",
+      "سير عمل معقدة",
+      "خصوصية البيانات",
+      "مطورون"
+    ],
+    "use_cases_en": [
+      "Self-hosted automation",
+      "Complex workflows",
+      "Data privacy",
+      "Developers"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=n8n.io&sz=64"
+  },
+  {
+    "id": "manus",
+    "name_ar": "مانوس AI",
+    "name_en": "Manus AI",
+    "slug": "manus",
+    "tagline_ar": "وكيل AI اشترته Meta بـ $2 مليار",
+    "tagline_en": "AI agent acquired by Meta for $2 billion",
+    "desc_ar": "وكيل AI أفقي اشترته Meta في ديسمبر 2025 بـ $2 مليار. يكمل مهاماً معقدة بشكل كامل.",
+    "desc_en": "Horizontal AI agent acquired by Meta December 2025 for $2B. Completes complex tasks fully.",
+    "long_desc_ar": "Manus AI ظهر في a16z مرتين. استُحوذ عليه من Meta بـ $2 مليار في ديسمبر 2025. يمثل الجيل الجديد من وكلاء AI المتكاملة.",
+    "long_desc_en": "Manus AI appeared on a16z twice. Acquired by Meta for $2B in December 2025. Represents new generation of integrated AI agents.",
+    "category": "automation",
+    "tags_ar": [
+      "وكيل AI",
+      "Meta",
+      "$2 مليار",
+      "مهام معقدة"
+    ],
+    "tags_en": [
+      "AI agent",
+      "Meta",
+      "$2B",
+      "complex tasks"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$39/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://manus.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "genspark",
+      "chatgpt",
+      "perplexity"
+    ],
+    "integrations": [
+      "Web browsing",
+      "Document creation"
+    ],
+    "use_cases_ar": [
+      "بحث متقدم",
+      "تحليل تنافسي",
+      "إنشاء تقارير",
+      "تخطيط"
+    ],
+    "use_cases_en": [
+      "Advanced research",
+      "Competitive analysis",
+      "Report creation",
+      "Planning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=manus.ai&sz=64"
+  },
+  {
+    "id": "make-ai",
+    "name_ar": "Make",
+    "name_en": "Make",
+    "slug": "make-ai",
+    "tagline_ar": "أتمتة بصرية بدون كود مع AI",
+    "tagline_en": "Visual automation without code with AI",
+    "desc_ar": "Make يقدم أتمتة بصرية قوية مع دعم AI. 1500+ تطبيق. الخيار المفضل للمسوّقين.",
+    "desc_en": "Make offers powerful visual automation with AI support. 1500+ apps. Marketers' preferred choice.",
+    "long_desc_ar": "Make (Integromat سابقاً) طوّر دعماً AI قوياً في 2025-2026 مع 1500+ تطبيق متكامل. واجهة بصرية سهلة بدون كود.",
+    "long_desc_en": "Make (formerly Integromat) developed strong AI support in 2025-2026 with 1500+ integrated apps. Easy visual interface without code.",
+    "category": "automation",
+    "tags_ar": [
+      "Make",
+      "أتمتة",
+      "No-code",
+      "تسويق"
+    ],
+    "tags_en": [
+      "Make",
+      "automation",
+      "no-code",
+      "marketing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://make.com",
+    "monthly_visits": "8M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "zapier",
+      "n8n-ai",
+      "activepieces"
+    ],
+    "integrations": [
+      "1500+ apps",
+      "Claude",
+      "GPT",
+      "Airtable"
+    ],
+    "use_cases_ar": [
+      "تسويق",
+      "CRM",
+      "Ecommerce",
+      "تقارير"
+    ],
+    "use_cases_en": [
+      "Marketing",
+      "CRM",
+      "Ecommerce",
+      "Reporting"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=make.com&sz=64"
+  },
+  {
+    "id": "lindy-ai",
+    "name_ar": "Lindy AI",
+    "name_en": "Lindy AI",
+    "slug": "lindy-ai",
+    "tagline_ar": "وكيل AI شخصي يتعلم عاداتك",
+    "tagline_en": "Personal AI agent that learns your habits",
+    "desc_ar": "Lindy AI يبني وكيلاً AI شخصياً يتعلم سير عملك ويُنجز المهام تلقائياً. يربط كل تطبيقاتك.",
+    "desc_en": "Lindy AI builds a personal AI agent that learns your workflow and completes tasks automatically. Connects all your apps.",
+    "long_desc_ar": "Lindy AI يبني وكيلاً AI شخصياً يتعلم سير عملك ويُنجز المهام تلقائياً. يربط كل تطبيقاتك.",
+    "long_desc_en": "Lindy AI builds a personal AI agent that learns your workflow and completes tasks automatically. Connects all your apps.",
+    "category": "automation",
+    "tags_ar": [
+      "Lindy",
+      "AI Agent",
+      "شخصي",
+      "أتمتة"
+    ],
+    "tags_en": [
+      "Lindy",
+      "AI agent",
+      "personal",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$49",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://lindy.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "zapier-ai",
+      "n8n-ai",
+      "make-ai"
+    ],
+    "integrations": [
+      "Gmail",
+      "Calendar",
+      "Slack",
+      "HubSpot",
+      "Notion"
+    ],
+    "use_cases_ar": [
+      "Agents",
+      "أتمتة",
+      "إدارة وقت",
+      "مهام"
+    ],
+    "use_cases_en": [
+      "Agents",
+      "Automation",
+      "Time management",
+      "Tasks"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lindy.ai&sz=64"
+  },
+  {
+    "id": "claude-cowork",
+    "name_ar": "Claude Cowork",
+    "name_en": "Cowork by Anthropic",
+    "slug": "claude-cowork",
+    "tagline_ar": "أتمتة ملفات ومهام سطح المكتب",
+    "tagline_en": "Desktop file and task automation",
+    "desc_ar": "Cowork من Anthropic أداة سطح مكتب لأتمتة الملفات والمهام. بدون خبرة تقنية.",
+    "desc_en": "Cowork من Anthropic أداة سطح مكتب لأتمتة الملفات والمهام. بدون خبرة تقنية.",
+    "long_desc_ar": "Cowork من Anthropic أداة سطح مكتب لأتمتة الملفات والمهام. بدون خبرة تقنية.",
+    "long_desc_en": "Cowork من Anthropic أداة سطح مكتب لأتمتة الملفات والمهام. بدون خبرة تقنية.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$20/mo",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "zapier-ai-actions",
+    "name_ar": "Zapier AI Actions",
+    "name_en": "Zapier AI Actions",
+    "slug": "zapier-ai-actions",
+    "tagline_ar": "وكلاء Zapier AI ينجزون مهامك",
+    "tagline_en": "Zapier AI agents completing your tasks",
+    "desc_ar": "Zapier AI Actions تتيح لنماذج AI تنفيذ مهام حقيقية في 7000+ تطبيق.",
+    "desc_en": "Zapier AI Actions تتيح لنماذج AI تنفيذ مهام حقيقية في 7000+ تطبيق.",
+    "long_desc_ar": "Zapier AI Actions تتيح لنماذج AI تنفيذ مهام حقيقية في 7000+ تطبيق.",
+    "long_desc_en": "Zapier AI Actions تتيح لنماذج AI تنفيذ مهام حقيقية في 7000+ تطبيق.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://zapier.com",
+    "monthly_visits": "25M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zapier.com&sz=64"
+  },
+  {
+    "id": "openai-swarm",
+    "name_ar": "أوبن AI سوارم",
+    "name_en": "OpenAI Swarm",
+    "slug": "openai-swarm",
+    "tagline_ar": "وكلاء AI تعاونيون من OpenAI",
+    "tagline_en": "Collaborative AI agents from OpenAI",
+    "desc_ar": "Swarm من OpenAI يبني شبكات وكلاء AI تتعاون. الأساس للتطبيقات المعقدة.",
+    "desc_en": "Swarm من OpenAI يبني شبكات وكلاء AI تتعاون. الأساس للتطبيقات المعقدة.",
+    "long_desc_ar": "Swarm من OpenAI يبني شبكات وكلاء AI تتعاون. الأساس للتطبيقات المعقدة.",
+    "long_desc_en": "Swarm من OpenAI يبني شبكات وكلاء AI تتعاون. الأساس للتطبيقات المعقدة.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "dify",
+    "name_ar": "Dify",
+    "name_en": "Dify",
+    "slug": "dify",
+    "tagline_ar": "منصة LLM App مفتوحة المصدر",
+    "tagline_en": "Open-source LLM App platform",
+    "desc_ar": "Dify يُبني تطبيقات AI مع RAG وAgents ومراقبة. مفتوح المصدر ويدعم Self-hosting.",
+    "desc_en": "Dify builds AI applications with RAG, Agents, and monitoring. Open source with self-hosting support.",
+    "long_desc_ar": "Dify يُبني تطبيقات AI مع RAG وAgents ومراقبة. مفتوح المصدر ويدعم Self-hosting.",
+    "long_desc_en": "Dify builds AI applications with RAG, Agents, and monitoring. Open source with self-hosting support.",
+    "category": "automation",
+    "tags_ar": [
+      "Dify",
+      "automation"
+    ],
+    "tags_en": [
+      "Dify",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://dify.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=dify.ai&sz=64"
+  },
+  {
+    "id": "pipedream",
+    "name_ar": "بايب دريم",
+    "name_en": "Pipedream",
+    "slug": "pipedream",
+    "tagline_ar": "أتمتة للمطورين بكود حقيقي",
+    "tagline_en": "Developer automation with real code",
+    "desc_ar": "أتمتة للمطورين بكود JavaScript وPython حقيقي. 1000+ خدمة.",
+    "desc_en": "Developer automation with real JavaScript and Python code. 1000+ services.",
+    "long_desc_ar": "أتمتة للمطورين بكود JavaScript وPython حقيقي. 1000+ خدمة.",
+    "long_desc_en": "Developer automation with real JavaScript and Python code. 1000+ services.",
+    "category": "automation",
+    "tags_ar": [
+      "مطورون",
+      "كود",
+      "JavaScript",
+      "1000 خدمة"
+    ],
+    "tags_en": [
+      "developers",
+      "code",
+      "JavaScript",
+      "1000 services"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pipedream.com",
+    "monthly_visits": "500K+",
+    "trending_score": 81,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "zapier",
+      "n8n",
+      "make"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pipedream.com&sz=64"
+  },
+  {
+    "id": "crew-ai",
+    "name_ar": "كرو AI",
+    "name_en": "CrewAI",
+    "slug": "crew-ai",
+    "tagline_ar": "فرق وكلاء AI تعمل بالتوازي",
+    "tagline_en": "Parallel AI agent teams",
+    "desc_ar": "CrewAI يبني فرق من وكلاء AI تعمل بالتوازي. كل وكيل متخصص بمهمة.",
+    "desc_en": "CrewAI يبني فرق من وكلاء AI تعمل بالتوازي. كل وكيل متخصص بمهمة.",
+    "long_desc_ar": "CrewAI يبني فرق من وكلاء AI تعمل بالتوازي. كل وكيل متخصص بمهمة.",
+    "long_desc_en": "CrewAI يبني فرق من وكلاء AI تعمل بالتوازي. كل وكيل متخصص بمهمة.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://crewai.com",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=crewai.com&sz=64"
+  },
+  {
+    "id": "relay-app",
+    "name_ar": "Relay.app",
+    "name_en": "Relay.app",
+    "slug": "relay-app",
+    "tagline_ar": "أتمتة AI مع Agents قابلة للتوسع",
+    "tagline_en": "AI automation with extensible Agents",
+    "desc_ar": "Relay.app يجمع بين الأتمتة البصرية وقدرات AI Agents. يدعم بناء Agents مخصصة.",
+    "desc_en": "Relay.app combines visual automation with AI Agents capabilities. Supports building custom Agents.",
+    "long_desc_ar": "Relay.app يجمع بين الأتمتة البصرية وقدرات AI Agents. يدعم بناء Agents مخصصة.",
+    "long_desc_en": "Relay.app combines visual automation with AI Agents capabilities. Supports building custom Agents.",
+    "category": "automation",
+    "tags_ar": [
+      "Relay",
+      "AI Agents",
+      "أتمتة",
+      "مخصص"
+    ],
+    "tags_en": [
+      "Relay",
+      "AI agents",
+      "automation",
+      "custom"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://relay.app",
+    "monthly_visits": "1M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "zapier-ai",
+      "make-ai",
+      "n8n-ai"
+    ],
+    "integrations": [
+      "Gmail",
+      "Slack",
+      "HubSpot",
+      "Notion",
+      "API"
+    ],
+    "use_cases_ar": [
+      "Agents",
+      "أتمتة",
+      "سير عمل",
+      "تخصيص"
+    ],
+    "use_cases_en": [
+      "Agents",
+      "Automation",
+      "Workflows",
+      "Customization"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=relay.app&sz=64"
+  },
+  {
+    "id": "gumloop",
+    "name_ar": "Gumloop",
+    "name_en": "Gumloop",
+    "slug": "gumloop",
+    "tagline_ar": "أتمتة AI بصرية بلا كود",
+    "tagline_en": "Visual AI automation without code",
+    "desc_ar": "Gumloop يُبني workflows AI بصرياً بدون كود. يدمج GPT وClaude مع تطبيقاتك.",
+    "desc_en": "Gumloop builds AI workflows visually without code. Integrates GPT and Claude with your apps.",
+    "long_desc_ar": "Gumloop يُبني workflows AI بصرياً بدون كود. يدمج GPT وClaude مع تطبيقاتك.",
+    "long_desc_en": "Gumloop builds AI workflows visually without code. Integrates GPT and Claude with your apps.",
+    "category": "automation",
+    "tags_ar": [
+      "Gumloop",
+      "automation"
+    ],
+    "tags_en": [
+      "Gumloop",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://gumloop.com",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gumloop.com&sz=64"
+  },
+  {
+    "id": "chatbase-ai",
+    "name_ar": "شات بيس",
+    "name_en": "Chatbase",
+    "slug": "chatbase-ai",
+    "tagline_ar": "ابنِ chatbot من مستنداتك",
+    "tagline_en": "Build chatbot from your documents",
+    "desc_ar": "Chatbase يبني chatbot من ملفات PDF والمواقع. مثالي لخدمة العملاء AI.",
+    "desc_en": "Chatbase يبني chatbot من ملفات PDF والمواقع. مثالي لخدمة العملاء AI.",
+    "long_desc_ar": "Chatbase يبني chatbot من ملفات PDF والمواقع. مثالي لخدمة العملاء AI.",
+    "long_desc_en": "Chatbase يبني chatbot من ملفات PDF والمواقع. مثالي لخدمة العملاء AI.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://chatbase.co",
+    "monthly_visits": "1M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chatbase.co&sz=64"
+  },
+  {
+    "id": "flowise-ai",
+    "name_ar": "فلوايز AI",
+    "name_en": "FlowiseAI",
+    "slug": "flowise-ai",
+    "tagline_ar": "بناء وكلاء AI مفتوح المصدر",
+    "tagline_en": "Open-source AI agent building",
+    "desc_ar": "FlowiseAI يبني LLM workflows ووكلاء AI بواجهة بصرية مفتوحة المصدر.",
+    "desc_en": "FlowiseAI يبني LLM workflows ووكلاء AI بواجهة بصرية مفتوحة المصدر.",
+    "long_desc_ar": "FlowiseAI يبني LLM workflows ووكلاء AI بواجهة بصرية مفتوحة المصدر.",
+    "long_desc_en": "FlowiseAI يبني LLM workflows ووكلاء AI بواجهة بصرية مفتوحة المصدر.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://flowiseai.com",
+    "monthly_visits": "1M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=flowiseai.com&sz=64"
+  },
+  {
+    "id": "autogen-ms",
+    "name_ar": "أوتوجين",
+    "name_en": "AutoGen by Microsoft",
+    "slug": "autogen-ms",
+    "tagline_ar": "وكلاء AI تحادثية من Microsoft",
+    "tagline_en": "Conversational AI agents from Microsoft",
+    "desc_ar": "AutoGen من Microsoft يبني وكلاء AI تتحادث مع بعضها. مفتوح المصدر.",
+    "desc_en": "AutoGen من Microsoft يبني وكلاء AI تتحادث مع بعضها. مفتوح المصدر.",
+    "long_desc_ar": "AutoGen من Microsoft يبني وكلاء AI تتحادث مع بعضها. مفتوح المصدر.",
+    "long_desc_en": "AutoGen من Microsoft يبني وكلاء AI تتحادث مع بعضها. مفتوح المصدر.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://microsoft.github.io/autogen",
+    "monthly_visits": "5M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=microsoft.github.io&sz=64"
+  },
+  {
+    "id": "flowise",
+    "name_ar": "Flowise",
+    "name_en": "Flowise",
+    "slug": "flowise",
+    "tagline_ar": "بناء Chatbots AI بصرياً",
+    "tagline_en": "Build AI chatbots visually",
+    "desc_ar": "Flowise يُبني Chatbots AI وسير العمل بصرياً بدون كود. مبني على LangChain.",
+    "desc_en": "Flowise builds AI chatbots and workflows visually without code. Built on LangChain.",
+    "long_desc_ar": "Flowise يُبني Chatbots AI وسير العمل بصرياً بدون كود. مبني على LangChain.",
+    "long_desc_en": "Flowise builds AI chatbots and workflows visually without code. Built on LangChain.",
+    "category": "automation",
+    "tags_ar": [
+      "Flowise",
+      "automation"
+    ],
+    "tags_en": [
+      "Flowise",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://flowiseai.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=flowiseai.com&sz=64"
+  },
+  {
+    "id": "voiceflow",
+    "name_ar": "Voiceflow",
+    "name_en": "Voiceflow",
+    "slug": "voiceflow",
+    "tagline_ar": "بناء Chatbots ومساعدات صوتية",
+    "tagline_en": "Build chatbots and voice assistants",
+    "desc_ar": "Voiceflow يُبني Chatbots ومساعدات صوتية بصرياً بدون كود. يدعم Alexa وGoogle وWeb.",
+    "desc_en": "Voiceflow builds chatbots and voice assistants visually without code. Supports Alexa, Google, and web.",
+    "long_desc_ar": "Voiceflow يُبني Chatbots ومساعدات صوتية بصرياً بدون كود. يدعم Alexa وGoogle وWeb.",
+    "long_desc_en": "Voiceflow builds chatbots and voice assistants visually without code. Supports Alexa, Google, and web.",
+    "category": "automation",
+    "tags_ar": [
+      "Voiceflow",
+      "automation"
+    ],
+    "tags_en": [
+      "Voiceflow",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://voiceflow.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=voiceflow.com&sz=64"
+  },
+  {
+    "id": "bardeen-ai",
+    "name_ar": "Bardeen AI",
+    "name_en": "Bardeen AI",
+    "slug": "bardeen-ai",
+    "tagline_ar": "أتمتة المتصفح بـ AI بدون كود",
+    "tagline_en": "Browser automation with AI without code",
+    "desc_ar": "Bardeen AI — أتمتة المتصفح بـ AI بدون كود",
+    "desc_en": "Bardeen AI — Browser automation with AI without code",
+    "long_desc_ar": "Bardeen AI — أتمتة المتصفح بـ AI بدون كود",
+    "long_desc_en": "Bardeen AI — Browser automation with AI without code",
+    "category": "automation",
+    "tags_ar": [
+      "Bardeen AI",
+      "automation"
+    ],
+    "tags_en": [
+      "Bardeen AI",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://bardeen.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bardeen.ai&sz=64"
+  },
+  {
+    "id": "coze-ai",
+    "name_ar": "كوز AI",
+    "name_en": "Coze AI",
+    "slug": "coze-ai",
+    "tagline_ar": "منصة بناء Bots AI من ByteDance",
+    "tagline_en": "Bot building platform from ByteDance",
+    "desc_ar": "Coze من ByteDance يبني bots AI متقدمة بدون كود. يعمل على Discord وTelegram وSlack.",
+    "desc_en": "Coze من ByteDance يبني bots AI متقدمة بدون كود. يعمل على Discord وTelegram وSlack.",
+    "long_desc_ar": "Coze من ByteDance يبني bots AI متقدمة بدون كود. يعمل على Discord وTelegram وSlack.",
+    "long_desc_en": "Coze من ByteDance يبني bots AI متقدمة بدون كود. يعمل على Discord وTelegram وSlack.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://coze.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=coze.com&sz=64"
+  },
+  {
+    "id": "activepieces",
+    "name_ar": "Activepieces",
+    "name_en": "Activepieces",
+    "slug": "activepieces",
+    "tagline_ar": "أتمتة مفتوحة المصدر بديل Zapier",
+    "tagline_en": "Open-source automation Zapier alternative",
+    "desc_ar": "Activepieces بديل Zapier مفتوح المصدر بـ 100+ أداة. Self-hosting مجاني.",
+    "desc_en": "Activepieces is an open-source Zapier alternative with 100+ tools. Free self-hosting.",
+    "long_desc_ar": "Activepieces بديل Zapier مفتوح المصدر بـ 100+ أداة. Self-hosting مجاني.",
+    "long_desc_en": "Activepieces is an open-source Zapier alternative with 100+ tools. Free self-hosting.",
+    "category": "automation",
+    "tags_ar": [
+      "Activepieces",
+      "automation"
+    ],
+    "tags_en": [
+      "Activepieces",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://activepieces.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=activepieces.com&sz=64"
+  },
+  {
+    "id": "botpress",
+    "name_ar": "Botpress",
+    "name_en": "Botpress",
+    "slug": "botpress",
+    "tagline_ar": "منصة Chatbot AI مفتوحة المصدر",
+    "tagline_en": "Open-source AI chatbot platform",
+    "desc_ar": "Botpress يبني Chatbots AI بالذكاء الاصطناعي. مفتوح المصدر مع Cloud وEnterprise.",
+    "desc_en": "Botpress builds AI chatbots with artificial intelligence. Open source with Cloud and Enterprise.",
+    "long_desc_ar": "Botpress يبني Chatbots AI بالذكاء الاصطناعي. مفتوح المصدر مع Cloud وEnterprise.",
+    "long_desc_en": "Botpress builds AI chatbots with artificial intelligence. Open source with Cloud and Enterprise.",
+    "category": "automation",
+    "tags_ar": [
+      "Botpress",
+      "automation"
+    ],
+    "tags_en": [
+      "Botpress",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://botpress.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=botpress.com&sz=64"
+  },
+  {
+    "id": "botpress-ai",
+    "name_ar": "بوت بريس",
+    "name_en": "Botpress AI",
+    "slug": "botpress-ai",
+    "tagline_ar": "منصة chatbot AI للمطورين",
+    "tagline_en": "AI chatbot platform for developers",
+    "desc_ar": "Botpress يبني chatbot AI متقدم للشركات. تكامل مع كل الأنظمة.",
+    "desc_en": "Botpress يبني chatbot AI متقدم للشركات. تكامل مع كل الأنظمة.",
+    "long_desc_ar": "Botpress يبني chatbot AI متقدم للشركات. تكامل مع كل الأنظمة.",
+    "long_desc_en": "Botpress يبني chatbot AI متقدم للشركات. تكامل مع كل الأنظمة.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://botpress.com",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=botpress.com&sz=64"
+  },
+  {
+    "id": "stack-ai",
+    "name_ar": "ستاك AI",
+    "name_en": "Stack AI",
+    "slug": "stack-ai",
+    "tagline_ar": "بناء workflows AI بدون كود",
+    "tagline_en": "Build AI workflows without code",
+    "desc_ar": "Stack AI يبني workflows ووكلاء AI بواجهة drag-and-drop. للشركات.",
+    "desc_en": "Stack AI يبني workflows ووكلاء AI بواجهة drag-and-drop. للشركات.",
+    "long_desc_ar": "Stack AI يبني workflows ووكلاء AI بواجهة drag-and-drop. للشركات.",
+    "long_desc_en": "Stack AI يبني workflows ووكلاء AI بواجهة drag-and-drop. للشركات.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://stack-ai.com",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=stack-ai.com&sz=64"
+  },
+  {
+    "id": "voiceflow-ai",
+    "name_ar": "فويس فلو",
+    "name_en": "Voiceflow",
+    "slug": "voiceflow-ai",
+    "tagline_ar": "بناء وكلاء AI للمحادثة",
+    "tagline_en": "Build conversational AI agents",
+    "desc_ar": "Voiceflow يبني وكلاء محادثة AI للشركات. بدون كود ومع تكاملات كاملة.",
+    "desc_en": "Voiceflow يبني وكلاء محادثة AI للشركات. بدون كود ومع تكاملات كاملة.",
+    "long_desc_ar": "Voiceflow يبني وكلاء محادثة AI للشركات. بدون كود ومع تكاملات كاملة.",
+    "long_desc_en": "Voiceflow يبني وكلاء محادثة AI للشركات. بدون كود ومع تكاملات كاملة.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://voiceflow.com",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=voiceflow.com&sz=64"
+  },
+  {
+    "id": "relevance-ai",
+    "name_ar": "ريليفانس AI",
+    "name_en": "Relevance AI",
+    "slug": "relevance-ai",
+    "tagline_ar": "بناء وكلاء AI للأعمال بدون كود",
+    "tagline_en": "Build business AI agents without code",
+    "desc_ar": "Relevance AI يبني فرق وكلاء AI للمبيعات والدعم والتسويق. بدون كود.",
+    "desc_en": "Relevance AI يبني فرق وكلاء AI للمبيعات والدعم والتسويق. بدون كود.",
+    "long_desc_ar": "Relevance AI يبني فرق وكلاء AI للمبيعات والدعم والتسويق. بدون كود.",
+    "long_desc_en": "Relevance AI يبني فرق وكلاء AI للمبيعات والدعم والتسويق. بدون كود.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://relevanceai.com",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=relevanceai.com&sz=64"
+  },
+  {
+    "id": "buildship",
+    "name_ar": "BuildShip",
+    "name_en": "BuildShip",
+    "slug": "buildship",
+    "tagline_ar": "بناء APIs AI بصرياً",
+    "tagline_en": "Build AI APIs visually",
+    "desc_ar": "BuildShip يبني APIs وسير العمل AI بصرياً. يدعم Claude وGPT وتكاملات واسعة.",
+    "desc_en": "BuildShip builds AI APIs and workflows visually. Supports Claude, GPT, and wide integrations.",
+    "long_desc_ar": "BuildShip يبني APIs وسير العمل AI بصرياً. يدعم Claude وGPT وتكاملات واسعة.",
+    "long_desc_en": "BuildShip builds AI APIs and workflows visually. Supports Claude, GPT, and wide integrations.",
+    "category": "automation",
+    "tags_ar": [
+      "BuildShip",
+      "automation"
+    ],
+    "tags_en": [
+      "BuildShip",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://buildship.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=buildship.com&sz=64"
+  },
+  {
+    "id": "parabola",
+    "name_ar": "Parabola",
+    "name_en": "Parabola",
+    "slug": "parabola",
+    "tagline_ar": "أتمتة تحويل البيانات بصرياً",
+    "tagline_en": "Visually automate data transformation",
+    "desc_ar": "Parabola — أتمتة تحويل البيانات بصرياً",
+    "desc_en": "Parabola — Visually automate data transformation",
+    "long_desc_ar": "Parabola — أتمتة تحويل البيانات بصرياً",
+    "long_desc_en": "Parabola — Visually automate data transformation",
+    "category": "automation",
+    "tags_ar": [
+      "Parabola",
+      "automation"
+    ],
+    "tags_en": [
+      "Parabola",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://parabola.io",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=parabola.io&sz=64"
+  },
+  {
+    "id": "agent-ai",
+    "name_ar": "Agent.ai",
+    "name_en": "Agent.ai",
+    "slug": "agent-ai",
+    "tagline_ar": "سوق وكلاء AI للمهام التجارية",
+    "tagline_en": "AI agent marketplace for business tasks",
+    "desc_ar": "Agent.ai سوق لوكلاء AI متخصصة. اختر الوكيل المناسب لمهمتك التجارية.",
+    "desc_en": "Agent.ai سوق لوكلاء AI متخصصة. اختر الوكيل المناسب لمهمتك التجارية.",
+    "long_desc_ar": "Agent.ai سوق لوكلاء AI متخصصة. اختر الوكيل المناسب لمهمتك التجارية.",
+    "long_desc_en": "Agent.ai سوق لوكلاء AI متخصصة. اختر الوكيل المناسب لمهمتك التجارية.",
+    "category": "automation",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://agent.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=agent.ai&sz=64"
+  },
+  {
+    "id": "levity-ai",
+    "name_ar": "Levity AI",
+    "name_en": "Levity AI",
+    "slug": "levity-ai",
+    "tagline_ar": "أتمتة تصنيف البيانات بـ AI",
+    "tagline_en": "Automate data classification with AI",
+    "desc_ar": "Levity AI — أتمتة تصنيف البيانات بـ AI",
+    "desc_en": "Levity AI — Automate data classification with AI",
+    "long_desc_ar": "Levity AI — أتمتة تصنيف البيانات بـ AI",
+    "long_desc_en": "Levity AI — Automate data classification with AI",
+    "category": "automation",
+    "tags_ar": [
+      "Levity AI",
+      "automation"
+    ],
+    "tags_en": [
+      "Levity AI",
+      "automation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://levity.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=levity.ai&sz=64"
+  }
+]

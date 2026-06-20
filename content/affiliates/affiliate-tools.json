@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "luminar-neo",
+    "name_ar": "لومينار نيو",
+    "name_en": "Luminar Neo",
+    "slug": "luminar-neo",
+    "tagline_ar": "تحرير صور AI احترافي من Skylum",
+    "tagline_en": "Professional AI photo editing from Skylum",
+    "desc_ar": "محرر صور AI من Skylum. يزيل الخلفية ويعدّل السماء ويحسّن البورتريه تلقائياً.",
+    "desc_en": "AI photo editor from Skylum. Background removal, sky editing, auto portrait enhancement.",
+    "long_desc_ar": "Luminar Neo يجعل التحرير الاحترافي سهلاً. تغيير السماء بنقرة وتحسين البورتريه التلقائي وإزالة الأشياء. Plugin لـ Lightroom وPhotoshop. عندك رابط affiliate خاص.",
+    "long_desc_en": "Luminar Neo makes pro editing easy. One-click sky replacement, auto portrait enhancement, object removal. Plugin for Lightroom and Photoshop.",
+    "category": "image",
+    "tags_ar": [
+      "تحرير صور",
+      "Skylum",
+      "بورتريه",
+      "سماء AI"
+    ],
+    "tags_en": [
+      "photo editing",
+      "Skylum",
+      "portrait",
+      "AI sky"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$9.95/mo",
+    "price_pro": "$119/yr",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop",
+      "ios"
+    ],
+    "website": "https://skylum.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "lightroom",
+      "photoshop",
+      "darktable"
+    ],
+    "integrations": [
+      "Lightroom",
+      "Photoshop"
+    ],
+    "use_cases_ar": [
+      "تحرير صور احترافي",
+      "تحسين البورتريه",
+      "تصوير المناظر",
+      "محتوى سوشيال"
+    ],
+    "use_cases_en": [
+      "Professional editing",
+      "Portrait enhancement",
+      "Landscape photography",
+      "Social content"
+    ],
+    "affiliate_url": "https://skylum.evyy.net/c/4032044/3890235/3255",
+    "coupon_code": "MWLAI20",
+    "coupon_discount": "خصم 20%",
+    "logo_url": "https://skylum.com/favicon.ico"
+  },
+  {
+    "id": "gohighlevel",
+    "name_ar": "جو هاي ليفل",
+    "name_en": "GoHighLevel",
+    "slug": "gohighlevel",
+    "tagline_ar": "المنصة الشاملة لوكالات التسويق الرقمي",
+    "tagline_en": "Comprehensive platform for digital marketing agencies",
+    "desc_ar": "CRM + فانلز + SMS + بريد + حجوزات كلها في منصة واحدة. الأفضل للوكالات والـ SaaS.",
+    "desc_en": "CRM + funnels + SMS + email + bookings in one. Best for agencies and SaaS.",
+    "long_desc_ar": "GoHighLevel الحل الشامل للوكالات. CRM وصفحات هبوط وفانلز وSMS وبريد وحجوزات وعضويات ودورات. يُباع كـ SaaS للعملاء. 14 يوم مجاني.",
+    "long_desc_en": "GoHighLevel comprehensive solution for agencies. CRM, landing pages, funnels, SMS, email, bookings, memberships, courses. Resellable as SaaS. 14-day free trial.",
+    "category": "marketing",
+    "tags_ar": [
+      "وكالات",
+      "CRM",
+      "فانلز",
+      "SaaS"
+    ],
+    "tags_en": [
+      "agencies",
+      "CRM",
+      "funnels",
+      "SaaS"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$97/mo",
+    "price_pro": "$297/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://www.gohighlevel.com",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [
+      "hubspot",
+      "clickfunnels",
+      "active-campaign"
+    ],
+    "integrations": [
+      "Stripe",
+      "Twilio",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "وكالات التسويق",
+      "إدارة العملاء",
+      "حملات SMS",
+      "بناء الفانلز"
+    ],
+    "use_cases_en": [
+      "Marketing agencies",
+      "Client management",
+      "SMS campaigns",
+      "Funnel building"
+    ],
+    "affiliate_url": "https://www.gohighlevel.com/?fp_ref=ahmdai",
+    "coupon_code": "",
+    "coupon_discount": "14 يوم مجاني",
+    "logo_url": "https://www.gohighlevel.com/favicon.ico"
+  },
+  {
+    "id": "getresponse",
+    "name_ar": "جيت ريسبونس",
+    "name_en": "GetResponse",
+    "slug": "getresponse",
+    "tagline_ar": "منصة التسويق بالبريد الإلكتروني مع AI",
+    "tagline_en": "Email marketing platform with AI",
+    "desc_ar": "منصة تسويق بالإيميل مع AI وأتمتة وصفحات هبوط. 30 يوم مجاني كامل.",
+    "desc_en": "Email marketing platform with AI, automation, landing pages. Full 30-day free trial.",
+    "long_desc_ar": "GetResponse تجمع البريد الإلكتروني والأتمتة وصفحات الهبوط والندوات. AI يكتب الإيميلات تلقائياً. 100,000+ عمل تجاري. 30 يوم تجريبي مجاني.",
+    "long_desc_en": "GetResponse combines email, automation, landing pages, webinars. AI writes emails automatically. 100K+ businesses. Full 30-day free trial.",
+    "category": "marketing",
+    "tags_ar": [
+      "بريد إلكتروني",
+      "أتمتة",
+      "صفحات هبوط",
+      "ندوات"
+    ],
+    "tags_en": [
+      "email marketing",
+      "automation",
+      "landing pages",
+      "webinars"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://www.getresponse.com",
+    "monthly_visits": "10M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 1998,
+    "alternatives": [
+      "mailchimp",
+      "activecampaign",
+      "convertkit"
+    ],
+    "integrations": [
+      "WordPress",
+      "Shopify",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "حملات إيميل",
+      "نشرات بريدية",
+      "أتمتة التسويق",
+      "صفحات هبوط"
+    ],
+    "use_cases_en": [
+      "Email campaigns",
+      "Newsletters",
+      "Marketing automation",
+      "Landing pages"
+    ],
+    "affiliate_url": "https://www.getresponse.com?a=Cnp6DJnVFP",
+    "coupon_code": "",
+    "coupon_discount": "30 يوم مجاني",
+    "logo_url": "https://www.getresponse.com/favicon.ico"
+  },
+  {
+    "id": "snov-io",
+    "name_ar": "سنوف.آي أو",
+    "name_en": "Snov.io",
+    "slug": "snov-io",
+    "tagline_ar": "إيجاد الإيميلات والتواصل مع العملاء",
+    "tagline_en": "Find emails and reach out to prospects",
+    "desc_ar": "أداة إيجاد إيميلات العملاء المحتملين والتواصل بالبريد الآلي. 50 رصيد مجاني عند التسجيل.",
+    "desc_en": "Tool for finding prospect emails and automated cold email outreach. 50 free credits on signup.",
+    "long_desc_ar": "Snov.io متخصصة في إيجاد إيميلات العملاء والتحقق منها وإرسال حملات آلية. CRM مدمج. مثالية للـ B2B.",
+    "long_desc_en": "Snov.io specialized in finding and verifying prospect emails and automated campaigns. Built-in CRM. Perfect for B2B.",
+    "category": "marketing",
+    "tags_ar": [
+      "إيميلات",
+      "عملاء محتملون",
+      "بريد بارد",
+      "B2B"
+    ],
+    "tags_en": [
+      "emails",
+      "leads",
+      "cold email",
+      "B2B"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$39/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://snov.io",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "hunter-io",
+      "apollo",
+      "lemlist"
+    ],
+    "integrations": [
+      "HubSpot",
+      "Pipedrive",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "إيجاد إيميلات",
+      "حملات بريد بارد",
+      "توليد عملاء",
+      "B2B مبيعات"
+    ],
+    "use_cases_en": [
+      "Finding emails",
+      "Cold email",
+      "Lead generation",
+      "B2B sales"
+    ],
+    "affiliate_url": "https://snov.io?fp_ref=ahmed-abdallh16",
+    "coupon_code": "",
+    "coupon_discount": "50 رصيد مجاني",
+    "logo_url": "https://snov.io/favicon.ico"
+  },
+  {
+    "id": "hostinger",
+    "name_ar": "هوستينجر",
+    "name_en": "Hostinger",
+    "slug": "hostinger",
+    "tagline_ar": "استضافة مواقع بخصم 75% مع AI",
+    "tagline_en": "Web hosting with 75% discount and AI",
+    "desc_ar": "أشهر استضافة بأسعار منخفضة مع منشئ مواقع AI وSSL مجاني ودومين مجاني. خصم 75% كود MWL.",
+    "desc_en": "Most popular affordable hosting with AI website builder, free SSL, free domain. 75% off code MWL.",
+    "long_desc_ar": "Hostinger من أشهر شركات الاستضافة بمنشئ مواقع AI ودومين وSSL مجاني. أداء ممتاز ونسبة 99.9%. دعم فني 24/7 بالعربية. كود MWL يوفر 75%.",
+    "long_desc_en": "Hostinger is one of the most popular hosting companies with AI website builder, free domain, SSL. Excellent 99.9% uptime. 24/7 Arabic support. Code MWL saves 75%.",
+    "category": "hosting",
+    "tags_ar": [
+      "استضافة",
+      "رخيص",
+      "AI builder",
+      "خصم 75%"
+    ],
+    "tags_en": [
+      "hosting",
+      "affordable",
+      "AI builder",
+      "75% off"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$2.99/mo",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://hostinger.com",
+    "monthly_visits": "50M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2004,
+    "alternatives": [
+      "bluehost",
+      "namecheap",
+      "cloudways"
+    ],
+    "integrations": [
+      "WordPress",
+      "Cloudflare",
+      "Git"
+    ],
+    "use_cases_ar": [
+      "مواقع شخصية",
+      "متاجر إلكترونية",
+      "مدونات WordPress",
+      "مواقع الشركات"
+    ],
+    "use_cases_en": [
+      "Personal websites",
+      "Online stores",
+      "WordPress blogs",
+      "Business websites"
+    ],
+    "affiliate_url": "https://hostinger.com?REFERRALCODE=X95AHMED",
+    "coupon_code": "MWL",
+    "coupon_discount": "خصم 75%",
+    "logo_url": "https://hostinger.com/favicon.ico"
+  },
+  {
+    "id": "namecheap",
+    "name_ar": "نيم تشيب",
+    "name_en": "Namecheap",
+    "slug": "namecheap",
+    "tagline_ar": "دومينات رخيصة وهوستينج موثوق",
+    "tagline_en": "Cheap domains and reliable hosting",
+    "desc_ar": "أرخص مسجّل دومينات موثوق. .com بـ $5.98 مع حماية خصوصية مجانية.",
+    "desc_en": "Most affordable trusted domain registrar. .com for $5.98 with free privacy protection.",
+    "long_desc_ar": "Namecheap أشهر شركات تسجيل الدومينات. مليار+ دومين. WhoisGuard مجاناً. VPS واستضافة وSSL وبريد. دعم فني 24/7.",
+    "long_desc_en": "Namecheap most popular domain registrar. 1B+ domains. Free WhoisGuard. VPS, hosting, SSL, email. 24/7 support.",
+    "category": "hosting",
+    "tags_ar": [
+      "دومينات",
+      "رخيص",
+      "VPS",
+      "خصوصية مجانية"
+    ],
+    "tags_en": [
+      "domains",
+      "cheap",
+      "VPS",
+      "free privacy"
+    ],
+    "pricing_type": "paid",
+    "price_starts": "$5.98/yr",
+    "price_pro": "$8.88/yr",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://namecheap.com",
+    "monthly_visits": "30M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2000,
+    "alternatives": [
+      "godaddy",
+      "cloudflare",
+      "porkbun"
+    ],
+    "integrations": [
+      "WordPress",
+      "Cloudflare",
+      "cPanel"
+    ],
+    "use_cases_ar": [
+      "تسجيل دومينات",
+      "استضافة VPS",
+      "بريد إلكتروني",
+      "شهادات SSL"
+    ],
+    "use_cases_en": [
+      "Domain registration",
+      "VPS hosting",
+      "Email hosting",
+      "SSL certs"
+    ],
+    "affiliate_url": "https://namecheap.pxf.io/0ZZZEV",
+    "coupon_code": "NEWCOM598",
+    "coupon_discount": "$5.98 للـ .com",
+    "logo_url": "https://namecheap.com/favicon.ico"
+  },
+  {
+    "id": "fastcomet",
+    "name_ar": "فاست كوميت",
+    "name_en": "FastComet",
+    "slug": "fastcomet",
+    "tagline_ar": "استضافة SSD سحابية بخصم 70%",
+    "tagline_en": "SSD cloud hosting with 70% discount",
+    "desc_ar": "FastComet SSD Cloud - نقل مجاني ونسخ احتياطي يومي ودعم 24/7. خصم 70%.",
+    "desc_en": "FastComet SSD Cloud - free migration, daily backup, 24/7 support. 70% off.",
+    "long_desc_ar": "FastComet تقدم استضافة SSD سحابية سريعة بنقل مجاني ونسخ احتياطي يومي. دعم 24/7 ممتاز. خصم 70% عبر رابطنا الخاص.",
+    "long_desc_en": "FastComet offers fast SSD cloud hosting with free migration and daily backup. Excellent 24/7 support. 70% off through our special link.",
+    "category": "hosting",
+    "tags_ar": [
+      "SSD",
+      "سحابي",
+      "نقل مجاني",
+      "خصم 70%"
+    ],
+    "tags_en": [
+      "SSD",
+      "cloud",
+      "free migration",
+      "70% off"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$2.99/mo",
+    "price_pro": "$9.95/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://fastcomet.com",
+    "monthly_visits": "3M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "hostinger",
+      "siteground",
+      "cloudways"
+    ],
+    "integrations": [
+      "WordPress",
+      "cPanel",
+      "Cloudflare"
+    ],
+    "use_cases_ar": [
+      "مواقع WordPress",
+      "متاجر إلكترونية",
+      "استضافة أعمال",
+      "نقل مواقع"
+    ],
+    "use_cases_en": [
+      "WordPress sites",
+      "E-commerce",
+      "Business hosting",
+      "Site migration"
+    ],
+    "affiliate_url": "https://affiliate.fastcomet.com/scripts/2wc9ym?a_aid=65bf9fccbd7fc",
+    "coupon_code": "FAST70",
+    "coupon_discount": "خصم 70%",
+    "logo_url": "https://fastcomet.com/favicon.ico"
+  },
+  {
+    "id": "cloudways",
+    "name_ar": "كلاود وايز",
+    "name_en": "Cloudways",
+    "slug": "cloudways",
+    "tagline_ar": "استضافة سحابية مُدارة بدون DevOps",
+    "tagline_en": "Managed cloud hosting without DevOps",
+    "desc_ar": "استضافة سحابية على AWS وGCP وDigitalOcean بدون إدارة خوادم. 3 أشهر مجانية.",
+    "desc_en": "Cloud hosting on AWS, GCP, DigitalOcean without server management. 3 free months.",
+    "long_desc_ar": "Cloudways تتيح الاستضافة على أفضل مزودي السحابة بدون خبرة تقنية. مثالية للمطورين والشركات. 3 أشهر مجانية للمستخدمين الجدد.",
+    "long_desc_en": "Cloudways enables cloud hosting on top providers without technical knowledge. Perfect for developers and companies. 3 free months for new users.",
+    "category": "hosting",
+    "tags_ar": [
+      "سحابي",
+      "AWS",
+      "مُدار",
+      "أداء عالي"
+    ],
+    "tags_en": [
+      "cloud",
+      "AWS",
+      "managed",
+      "high performance"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$14/mo",
+    "price_pro": "$80/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://www.cloudways.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "kinsta",
+      "wpe",
+      "siteground"
+    ],
+    "integrations": [
+      "WordPress",
+      "Magento",
+      "Git"
+    ],
+    "use_cases_ar": [
+      "WordPress سريع",
+      "متاجر WooCommerce",
+      "تطبيقات PHP",
+      "وكالات ويب"
+    ],
+    "use_cases_en": [
+      "Fast WordPress",
+      "WooCommerce stores",
+      "PHP apps",
+      "Web agencies"
+    ],
+    "affiliate_url": "https://www.cloudways.com/en/?id=1255825",
+    "coupon_code": "",
+    "coupon_discount": "3 أشهر مجانية",
+    "logo_url": "https://www.cloudways.com/favicon.ico"
+  },
+  {
+    "id": "interserver",
+    "name_ar": "إنتر سيرفر",
+    "name_en": "InterServer",
+    "slug": "interserver",
+    "tagline_ar": "استضافة بسعر $2.50 مضمون للأبد",
+    "tagline_en": "Hosting at $2.50 guaranteed forever",
+    "desc_ar": "InterServer - ضمان تثبيت السعر $2.50/شهر للأبد. تخزين وعرض نطاق غير محدود.",
+    "desc_en": "InterServer - price lock guarantee $2.50/month forever. Unlimited storage and bandwidth.",
+    "long_desc_ar": "InterServer يضمن عدم رفع السعر أبداً. $2.50/شهر للأبد. تخزين وعرض نطاق غير محدود. مثالي لمن يبحث عن استقرار الأسعار.",
+    "long_desc_en": "InterServer guarantees never raising price. $2.50/month forever. Unlimited storage and bandwidth. Perfect for price stability seekers.",
+    "category": "hosting",
+    "tags_ar": [
+      "سعر ثابت",
+      "رخيص",
+      "غير محدود",
+      "ضمان"
+    ],
+    "tags_en": [
+      "fixed price",
+      "cheap",
+      "unlimited",
+      "guarantee"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$2.50/mo",
+    "price_pro": "$6/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://www.interserver.net",
+    "monthly_visits": "2M+",
+    "trending_score": 74,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 1999,
+    "alternatives": [
+      "hostinger",
+      "namecheap",
+      "bluehost"
+    ],
+    "integrations": [
+      "WordPress",
+      "cPanel"
+    ],
+    "use_cases_ar": [
+      "استضافة رخيصة",
+      "مواقع شخصية",
+      "مدونات",
+      "نماذج أولية"
+    ],
+    "use_cases_en": [
+      "Cheap hosting",
+      "Personal sites",
+      "Blogs",
+      "Prototypes"
+    ],
+    "affiliate_url": "https://www.interserver.net/r/968525",
+    "coupon_code": "MWLAI",
+    "coupon_discount": "",
+    "logo_url": "https://www.interserver.net/favicon.ico"
+  },
+  {
+    "id": "ultahost",
+    "name_ar": "ألتا هوست",
+    "name_en": "UltaHost",
+    "slug": "ultahost",
+    "tagline_ar": "VPS بأقراص NVMe SSD وخصم 20%",
+    "tagline_en": "NVMe SSD VPS with 20% discount",
+    "desc_ar": "UltaHost VPS - أقراص NVMe SSD سريعة جداً، نقل مجاني، حماية DDoS.",
+    "desc_en": "UltaHost VPS - ultra-fast NVMe SSD, free migration, DDoS protection.",
+    "long_desc_ar": "UltaHost تقدم VPS بأقراص NVMe SSD أسرع من SSD العادي بعشر مرات. نقل مجاني وحماية DDoS مدمجة. كود bdraldyn للخصم الإضافي.",
+    "long_desc_en": "UltaHost offers VPS with NVMe SSD 10x faster than regular SSD. Free migration and built-in DDoS protection. Code bdraldyn for extra discount.",
+    "category": "hosting",
+    "tags_ar": [
+      "VPS",
+      "NVMe",
+      "سريع",
+      "DDoS حماية"
+    ],
+    "tags_en": [
+      "VPS",
+      "NVMe",
+      "fast",
+      "DDoS protection"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$5.50/mo",
+    "price_pro": "$15/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ultahost.com",
+    "monthly_visits": "1M+",
+    "trending_score": 70,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "vultr",
+      "linode",
+      "digitalocean"
+    ],
+    "integrations": [
+      "cPanel",
+      "WordPress",
+      "Cloudflare"
+    ],
+    "use_cases_ar": [
+      "VPS احترافي",
+      "مواقع أداء عالي",
+      "تطبيقات",
+      "خوادم مخصصة"
+    ],
+    "use_cases_en": [
+      "Professional VPS",
+      "High-performance sites",
+      "Apps",
+      "Dedicated servers"
+    ],
+    "affiliate_url": "https://ultahost.com/#bdraldyn",
+    "coupon_code": "bdraldyn",
+    "coupon_discount": "خصم 20%",
+    "logo_url": "https://ultahost.com/favicon.ico"
+  },
+  {
+    "id": "milesweb",
+    "name_ar": "مايلز ويب",
+    "name_en": "MilesWeb",
+    "slug": "milesweb",
+    "tagline_ar": "استضافة من $0.83 فقط في الشهر",
+    "tagline_en": "Hosting from just $0.83 per month",
+    "desc_ar": "MilesWeb استضافة بأسعار لا تُصدّق. WordPress وVPS وخوادم مخصصة من $0.83/شهر.",
+    "desc_en": "MilesWeb hosting at unbelievable prices. WordPress, VPS, dedicated from $0.83/month.",
+    "long_desc_ar": "MilesWeb استضافة هندية بأسعار منخفضة جداً. خطط تبدأ من $0.83/شهر. دعم فني 24/7 باللغة الإنجليزية. مثالية للميزانيات المحدودة.",
+    "long_desc_en": "MilesWeb Indian hosting at very low prices. Plans starting at $0.83/month. 24/7 English support. Perfect for limited budgets.",
+    "category": "hosting",
+    "tags_ar": [
+      "رخيص جداً",
+      "هندي",
+      "$0.83",
+      "ميزانية محدودة"
+    ],
+    "tags_en": [
+      "very cheap",
+      "indian",
+      "$0.83",
+      "budget"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$0.83/mo",
+    "price_pro": "$4.99/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://milesweb.com",
+    "monthly_visits": "1M+",
+    "trending_score": 66,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "hostinger",
+      "siteground",
+      "bluehost"
+    ],
+    "integrations": [
+      "WordPress",
+      "cPanel"
+    ],
+    "use_cases_ar": [
+      "استضافة رخيصة",
+      "مدونات",
+      "مواقع صغيرة",
+      "نماذج أولية"
+    ],
+    "use_cases_en": [
+      "Cheap hosting",
+      "Blogs",
+      "Small sites",
+      "Prototypes"
+    ],
+    "affiliate_url": "http://affiliates.milesweb.com/6251.html",
+    "coupon_code": "MILES20",
+    "coupon_discount": "خصم 20%",
+    "logo_url": "https://milesweb.com/favicon.ico"
+  },
+  {
+    "id": "shopify",
+    "name_ar": "شوبيفاي",
+    "name_en": "Shopify",
+    "slug": "shopify",
+    "tagline_ar": "أنشئ متجرك الإلكتروني في دقائق",
+    "tagline_en": "Create your online store in minutes",
+    "desc_ar": "المنصة الأولى للتجارة الإلكترونية. AI لكتابة أوصاف المنتجات والتسويق. $1 لمدة 3 أشهر.",
+    "desc_en": "#1 e-commerce platform. AI for product descriptions and marketing. $1 for 3 months.",
+    "long_desc_ar": "Shopify المنصة الأولى للتجارة الإلكترونية بـ 2 مليون متجر. AI يكتب الأوصاف ويحسّن الحملات. عرض $1 لأول 3 أشهر.",
+    "long_desc_en": "Shopify #1 e-commerce platform with 2M stores. AI writes descriptions and optimizes campaigns. $1 for first 3 months offer.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "متجر إلكتروني",
+      "تجارة",
+      "$1 لـ 3 أشهر",
+      "Dropshipping"
+    ],
+    "tags_en": [
+      "online store",
+      "commerce",
+      "$1 3 months",
+      "Dropshipping"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$1/mo",
+    "price_pro": "$79/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://shopify.com",
+    "monthly_visits": "100M+",
+    "trending_score": 90,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "woocommerce",
+      "bigcommerce",
+      "squarespace"
+    ],
+    "integrations": [
+      "Facebook",
+      "Instagram",
+      "Google",
+      "Stripe"
+    ],
+    "use_cases_ar": [
+      "متجر إلكتروني",
+      "Dropshipping",
+      "بيع منتجات رقمية",
+      "تجارة إلكترونية"
+    ],
+    "use_cases_en": [
+      "Online store",
+      "Dropshipping",
+      "Digital products",
+      "E-commerce"
+    ],
+    "affiliate_url": "https://shopify.pxf.io/offer1doler",
+    "coupon_code": "",
+    "coupon_discount": "$1 لـ 3 أشهر",
+    "logo_url": "https://shopify.com/favicon.ico"
+  },
+  {
+    "id": "helium10",
+    "name_ar": "هيليوم 10",
+    "name_en": "Helium 10",
+    "slug": "helium10",
+    "tagline_ar": "مجموعة أدوات البائعين على أمازون",
+    "tagline_en": "Complete toolkit for Amazon sellers",
+    "desc_ar": "أكبر مجموعة أدوات لبائعي أمازون. 30+ أداة للبحث عن المنتجات والكلمات المفتاحية.",
+    "desc_en": "Largest Amazon seller toolkit. 30+ tools for product research and keyword research.",
+    "long_desc_ar": "Helium 10 أشمل مجموعة أدوات لبائعي Amazon FBA. 30+ أداة لبحث المنتجات والكلمات والمنافسين. كود 20OFF6M يوفر 20% لـ 6 أشهر.",
+    "long_desc_en": "Helium 10 most comprehensive Amazon FBA toolkit. 30+ tools for products, keywords, competitors. Code 20OFF6M saves 20% for 6 months.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "أمازون",
+      "FBA",
+      "بائعون",
+      "كلمات مفتاحية"
+    ],
+    "tags_en": [
+      "Amazon",
+      "FBA",
+      "sellers",
+      "keywords"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$39/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://helium10.com",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [
+      "jungle-scout",
+      "viral-launch"
+    ],
+    "integrations": [
+      "Amazon",
+      "Chrome"
+    ],
+    "use_cases_ar": [
+      "بحث منتجات أمازون",
+      "تحليل المنافسين",
+      "تحسين الليستينج",
+      "تتبع الترتيب"
+    ],
+    "use_cases_en": [
+      "Amazon product research",
+      "Competitor analysis",
+      "Listing optimization",
+      "Rank tracking"
+    ],
+    "affiliate_url": "https://i.helium10.com/c/4032044/3379050/37271",
+    "coupon_code": "20OFF6M",
+    "coupon_discount": "خصم 20% لـ 6 أشهر",
+    "logo_url": "https://helium10.com/favicon.ico"
+  },
+  {
+    "id": "talkpal",
+    "name_ar": "توك بال",
+    "name_en": "TalkPal",
+    "slug": "talkpal",
+    "tagline_ar": "تحدث مع AI لتتعلم أي لغة بسرعة",
+    "tagline_en": "Talk to AI to learn any language fast",
+    "desc_ar": "مدرّس لغات AI يتيح محادثة حقيقية. أسرع طريقة للتحدث بطلاقة. 57+ لغة.",
+    "desc_en": "AI language tutor for real conversation. Fastest way to speak fluently. 57+ languages.",
+    "long_desc_ar": "TalkPal مدرّس لغات AI بمحادثة طبيعية حقيقية. يصحح أخطاءك فوراً. 57+ لغة. شائع جداً في السوق العربي لتعلم الإنجليزية.",
+    "long_desc_en": "TalkPal AI language tutor with natural real conversation. Corrects mistakes instantly. 57+ languages. Very popular in Arab market for learning English.",
+    "category": "education",
+    "tags_ar": [
+      "تعلم لغات",
+      "محادثة",
+      "57 لغة",
+      "عربي"
+    ],
+    "tags_en": [
+      "language learning",
+      "conversation",
+      "57 languages",
+      "arabic"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$6.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://talkpal.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "duolingo",
+      "pimsleur",
+      "babbel"
+    ],
+    "integrations": [
+      ""
+    ],
+    "use_cases_ar": [
+      "تعلم الإنجليزية",
+      "محادثة فورية",
+      "تصحيح النطق",
+      "امتحانات اللغة"
+    ],
+    "use_cases_en": [
+      "Learning English",
+      "Real-time conversation",
+      "Pronunciation correction",
+      "Language exams"
+    ],
+    "affiliate_url": "https://talkpalinc.sjv.io/c/4032044/3899173/30644",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://talkpal.ai/favicon.ico"
+  },
+  {
+    "id": "sentrypc",
+    "name_ar": "سيمتري بي سي",
+    "name_en": "SentryPC",
+    "slug": "sentrypc",
+    "tagline_ar": "مراقبة وحماية الأطفال والموظفين",
+    "tagline_en": "Monitor and protect children and employees",
+    "desc_ar": "برنامج مراقبة الأنشطة الإلكترونية مع تقارير تفصيلية وتصفية محتوى.",
+    "desc_en": "Electronic activity monitoring with detailed reports and content filtering.",
+    "long_desc_ar": "برنامج مراقبة الأنشطة الإلكترونية مع تقارير تفصيلية وتصفية محتوى.",
+    "long_desc_en": "Electronic activity monitoring with detailed reports and content filtering.",
+    "category": "security",
+    "tags_ar": [
+      "مراقبة",
+      "أطفال",
+      "موظفون",
+      "حماية"
+    ],
+    "tags_en": [
+      "monitoring",
+      "children",
+      "employees",
+      "protection"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$99.95/yr",
+    "price_pro": "$249.95/yr",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop"
+    ],
+    "website": "https://sentrypc.com",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [
+      "qustodio",
+      "bark",
+      "circle"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "https://sentrypc.7eer.net/c/4032044/398448/3022",
+    "coupon_code": "SENTRY20",
+    "coupon_discount": "خصم 20%",
+    "logo_url": "https://sentrypc.com/favicon.ico"
+  },
+  {
+    "id": "luminar-neo-2",
+    "name_ar": "لومينار نيو 2",
+    "name_en": "Luminar Neo 2.0",
+    "slug": "luminar-neo-2",
+    "tagline_ar": "تحرير صور AI احترافي 2026",
+    "tagline_en": "Professional AI photo editing 2026",
+    "desc_ar": "Luminar Neo 2.0 أضاف ميزات AI جديدة. تحرير احترافي بأدوات لا مثيل لها.",
+    "desc_en": "Luminar Neo 2.0 أضاف ميزات AI جديدة. تحرير احترافي بأدوات لا مثيل لها.",
+    "long_desc_ar": "Luminar Neo 2.0 أضاف ميزات AI جديدة. تحرير احترافي بأدوات لا مثيل لها.",
+    "long_desc_en": "Luminar Neo 2.0 أضاف ميزات AI جديدة. تحرير احترافي بأدوات لا مثيل لها.",
+    "category": "image",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$9.95/mo",
+    "price_pro": "$9.95/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://skylum.com",
+    "monthly_visits": "5M+",
+    "trending_score": 83,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "https://skylum.evyy.net/c/4032044/3890235/3255",
+    "coupon_code": "MWLAI20",
+    "coupon_discount": "خصم 20%",
+    "logo_url": "https://skylum.com/favicon.ico"
+  }
+]

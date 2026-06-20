@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "hostinger",
+    "name_ar": "هوستينجر",
+    "name_en": "Hostinger",
+    "slug": "hostinger",
+    "tagline_ar": "استضافة مواقع بخصم 75% مع AI",
+    "tagline_en": "Web hosting with 75% discount and AI",
+    "desc_ar": "أشهر استضافة بأسعار منخفضة مع منشئ مواقع AI وSSL مجاني ودومين مجاني. خصم 75% كود MWL.",
+    "desc_en": "Most popular affordable hosting with AI website builder, free SSL, free domain. 75% off code MWL.",
+    "long_desc_ar": "Hostinger من أشهر شركات الاستضافة بمنشئ مواقع AI ودومين وSSL مجاني. أداء ممتاز ونسبة 99.9%. دعم فني 24/7 بالعربية. كود MWL يوفر 75%.",
+    "long_desc_en": "Hostinger is one of the most popular hosting companies with AI website builder, free domain, SSL. Excellent 99.9% uptime. 24/7 Arabic support. Code MWL saves 75%.",
+    "category": "hosting",
+    "tags_ar": [
+      "استضافة",
+      "رخيص",
+      "AI builder",
+      "خصم 75%"
+    ],
+    "tags_en": [
+      "hosting",
+      "affordable",
+      "AI builder",
+      "75% off"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$2.99/mo",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://hostinger.com",
+    "monthly_visits": "50M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2004,
+    "alternatives": [
+      "bluehost",
+      "namecheap",
+      "cloudways"
+    ],
+    "integrations": [
+      "WordPress",
+      "Cloudflare",
+      "Git"
+    ],
+    "use_cases_ar": [
+      "مواقع شخصية",
+      "متاجر إلكترونية",
+      "مدونات WordPress",
+      "مواقع الشركات"
+    ],
+    "use_cases_en": [
+      "Personal websites",
+      "Online stores",
+      "WordPress blogs",
+      "Business websites"
+    ],
+    "affiliate_url": "https://hostinger.com?REFERRALCODE=X95AHMED",
+    "coupon_code": "MWL",
+    "coupon_discount": "خصم 75%",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hostinger.com&sz=64"
+  },
+  {
+    "id": "namecheap",
+    "name_ar": "نيم تشيب",
+    "name_en": "Namecheap",
+    "slug": "namecheap",
+    "tagline_ar": "دومينات رخيصة وهوستينج موثوق",
+    "tagline_en": "Cheap domains and reliable hosting",
+    "desc_ar": "أرخص مسجّل دومينات موثوق. .com بـ $5.98 مع حماية خصوصية مجانية.",
+    "desc_en": "Most affordable trusted domain registrar. .com for $5.98 with free privacy protection.",
+    "long_desc_ar": "Namecheap أشهر شركات تسجيل الدومينات. مليار+ دومين. WhoisGuard مجاناً. VPS واستضافة وSSL وبريد. دعم فني 24/7.",
+    "long_desc_en": "Namecheap most popular domain registrar. 1B+ domains. Free WhoisGuard. VPS, hosting, SSL, email. 24/7 support.",
+    "category": "hosting",
+    "tags_ar": [
+      "دومينات",
+      "رخيص",
+      "VPS",
+      "خصوصية مجانية"
+    ],
+    "tags_en": [
+      "domains",
+      "cheap",
+      "VPS",
+      "free privacy"
+    ],
+    "pricing_type": "paid",
+    "price_starts": "$5.98/yr",
+    "price_pro": "$8.88/yr",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://namecheap.com",
+    "monthly_visits": "30M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2000,
+    "alternatives": [
+      "godaddy",
+      "cloudflare",
+      "porkbun"
+    ],
+    "integrations": [
+      "WordPress",
+      "Cloudflare",
+      "cPanel"
+    ],
+    "use_cases_ar": [
+      "تسجيل دومينات",
+      "استضافة VPS",
+      "بريد إلكتروني",
+      "شهادات SSL"
+    ],
+    "use_cases_en": [
+      "Domain registration",
+      "VPS hosting",
+      "Email hosting",
+      "SSL certs"
+    ],
+    "affiliate_url": "https://namecheap.pxf.io/0ZZZEV",
+    "coupon_code": "NEWCOM598",
+    "coupon_discount": "$5.98 للـ .com",
+    "logo_url": "https://www.google.com/s2/favicons?domain=namecheap.com&sz=64"
+  },
+  {
+    "id": "cloudways",
+    "name_ar": "كلاود وايز",
+    "name_en": "Cloudways",
+    "slug": "cloudways",
+    "tagline_ar": "استضافة سحابية مُدارة بدون DevOps",
+    "tagline_en": "Managed cloud hosting without DevOps",
+    "desc_ar": "استضافة سحابية على AWS وGCP وDigitalOcean بدون إدارة خوادم. 3 أشهر مجانية.",
+    "desc_en": "Cloud hosting on AWS, GCP, DigitalOcean without server management. 3 free months.",
+    "long_desc_ar": "Cloudways تتيح الاستضافة على أفضل مزودي السحابة بدون خبرة تقنية. مثالية للمطورين والشركات. 3 أشهر مجانية للمستخدمين الجدد.",
+    "long_desc_en": "Cloudways enables cloud hosting on top providers without technical knowledge. Perfect for developers and companies. 3 free months for new users.",
+    "category": "hosting",
+    "tags_ar": [
+      "سحابي",
+      "AWS",
+      "مُدار",
+      "أداء عالي"
+    ],
+    "tags_en": [
+      "cloud",
+      "AWS",
+      "managed",
+      "high performance"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$14/mo",
+    "price_pro": "$80/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://www.cloudways.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "kinsta",
+      "wpe",
+      "siteground"
+    ],
+    "integrations": [
+      "WordPress",
+      "Magento",
+      "Git"
+    ],
+    "use_cases_ar": [
+      "WordPress سريع",
+      "متاجر WooCommerce",
+      "تطبيقات PHP",
+      "وكالات ويب"
+    ],
+    "use_cases_en": [
+      "Fast WordPress",
+      "WooCommerce stores",
+      "PHP apps",
+      "Web agencies"
+    ],
+    "affiliate_url": "https://www.cloudways.com/en/?id=1255825",
+    "coupon_code": "",
+    "coupon_discount": "3 أشهر مجانية",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cloudways.com&sz=64"
+  },
+  {
+    "id": "fastcomet",
+    "name_ar": "فاست كوميت",
+    "name_en": "FastComet",
+    "slug": "fastcomet",
+    "tagline_ar": "استضافة SSD سحابية بخصم 70%",
+    "tagline_en": "SSD cloud hosting with 70% discount",
+    "desc_ar": "FastComet SSD Cloud - نقل مجاني ونسخ احتياطي يومي ودعم 24/7. خصم 70%.",
+    "desc_en": "FastComet SSD Cloud - free migration, daily backup, 24/7 support. 70% off.",
+    "long_desc_ar": "FastComet تقدم استضافة SSD سحابية سريعة بنقل مجاني ونسخ احتياطي يومي. دعم 24/7 ممتاز. خصم 70% عبر رابطنا الخاص.",
+    "long_desc_en": "FastComet offers fast SSD cloud hosting with free migration and daily backup. Excellent 24/7 support. 70% off through our special link.",
+    "category": "hosting",
+    "tags_ar": [
+      "SSD",
+      "سحابي",
+      "نقل مجاني",
+      "خصم 70%"
+    ],
+    "tags_en": [
+      "SSD",
+      "cloud",
+      "free migration",
+      "70% off"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$2.99/mo",
+    "price_pro": "$9.95/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://fastcomet.com",
+    "monthly_visits": "3M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [
+      "hostinger",
+      "siteground",
+      "cloudways"
+    ],
+    "integrations": [
+      "WordPress",
+      "cPanel",
+      "Cloudflare"
+    ],
+    "use_cases_ar": [
+      "مواقع WordPress",
+      "متاجر إلكترونية",
+      "استضافة أعمال",
+      "نقل مواقع"
+    ],
+    "use_cases_en": [
+      "WordPress sites",
+      "E-commerce",
+      "Business hosting",
+      "Site migration"
+    ],
+    "affiliate_url": "https://affiliate.fastcomet.com/scripts/2wc9ym?a_aid=65bf9fccbd7fc",
+    "coupon_code": "FAST70",
+    "coupon_discount": "خصم 70%",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fastcomet.com&sz=64"
+  },
+  {
+    "id": "interserver",
+    "name_ar": "إنتر سيرفر",
+    "name_en": "InterServer",
+    "slug": "interserver",
+    "tagline_ar": "استضافة بسعر $2.50 مضمون للأبد",
+    "tagline_en": "Hosting at $2.50 guaranteed forever",
+    "desc_ar": "InterServer - ضمان تثبيت السعر $2.50/شهر للأبد. تخزين وعرض نطاق غير محدود.",
+    "desc_en": "InterServer - price lock guarantee $2.50/month forever. Unlimited storage and bandwidth.",
+    "long_desc_ar": "InterServer يضمن عدم رفع السعر أبداً. $2.50/شهر للأبد. تخزين وعرض نطاق غير محدود. مثالي لمن يبحث عن استقرار الأسعار.",
+    "long_desc_en": "InterServer guarantees never raising price. $2.50/month forever. Unlimited storage and bandwidth. Perfect for price stability seekers.",
+    "category": "hosting",
+    "tags_ar": [
+      "سعر ثابت",
+      "رخيص",
+      "غير محدود",
+      "ضمان"
+    ],
+    "tags_en": [
+      "fixed price",
+      "cheap",
+      "unlimited",
+      "guarantee"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$2.50/mo",
+    "price_pro": "$6/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://www.interserver.net",
+    "monthly_visits": "2M+",
+    "trending_score": 74,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 1999,
+    "alternatives": [
+      "hostinger",
+      "namecheap",
+      "bluehost"
+    ],
+    "integrations": [
+      "WordPress",
+      "cPanel"
+    ],
+    "use_cases_ar": [
+      "استضافة رخيصة",
+      "مواقع شخصية",
+      "مدونات",
+      "نماذج أولية"
+    ],
+    "use_cases_en": [
+      "Cheap hosting",
+      "Personal sites",
+      "Blogs",
+      "Prototypes"
+    ],
+    "affiliate_url": "https://www.interserver.net/r/968525",
+    "coupon_code": "MWLAI",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=interserver.net&sz=64"
+  },
+  {
+    "id": "ultahost",
+    "name_ar": "ألتا هوست",
+    "name_en": "UltaHost",
+    "slug": "ultahost",
+    "tagline_ar": "VPS بأقراص NVMe SSD وخصم 20%",
+    "tagline_en": "NVMe SSD VPS with 20% discount",
+    "desc_ar": "UltaHost VPS - أقراص NVMe SSD سريعة جداً، نقل مجاني، حماية DDoS.",
+    "desc_en": "UltaHost VPS - ultra-fast NVMe SSD, free migration, DDoS protection.",
+    "long_desc_ar": "UltaHost تقدم VPS بأقراص NVMe SSD أسرع من SSD العادي بعشر مرات. نقل مجاني وحماية DDoS مدمجة. كود bdraldyn للخصم الإضافي.",
+    "long_desc_en": "UltaHost offers VPS with NVMe SSD 10x faster than regular SSD. Free migration and built-in DDoS protection. Code bdraldyn for extra discount.",
+    "category": "hosting",
+    "tags_ar": [
+      "VPS",
+      "NVMe",
+      "سريع",
+      "DDoS حماية"
+    ],
+    "tags_en": [
+      "VPS",
+      "NVMe",
+      "fast",
+      "DDoS protection"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$5.50/mo",
+    "price_pro": "$15/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ultahost.com",
+    "monthly_visits": "1M+",
+    "trending_score": 70,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "vultr",
+      "linode",
+      "digitalocean"
+    ],
+    "integrations": [
+      "cPanel",
+      "WordPress",
+      "Cloudflare"
+    ],
+    "use_cases_ar": [
+      "VPS احترافي",
+      "مواقع أداء عالي",
+      "تطبيقات",
+      "خوادم مخصصة"
+    ],
+    "use_cases_en": [
+      "Professional VPS",
+      "High-performance sites",
+      "Apps",
+      "Dedicated servers"
+    ],
+    "affiliate_url": "https://ultahost.com/#bdraldyn",
+    "coupon_code": "bdraldyn",
+    "coupon_discount": "خصم 20%",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ultahost.com&sz=64"
+  },
+  {
+    "id": "milesweb",
+    "name_ar": "مايلز ويب",
+    "name_en": "MilesWeb",
+    "slug": "milesweb",
+    "tagline_ar": "استضافة من $0.83 فقط في الشهر",
+    "tagline_en": "Hosting from just $0.83 per month",
+    "desc_ar": "MilesWeb استضافة بأسعار لا تُصدّق. WordPress وVPS وخوادم مخصصة من $0.83/شهر.",
+    "desc_en": "MilesWeb hosting at unbelievable prices. WordPress, VPS, dedicated from $0.83/month.",
+    "long_desc_ar": "MilesWeb استضافة هندية بأسعار منخفضة جداً. خطط تبدأ من $0.83/شهر. دعم فني 24/7 باللغة الإنجليزية. مثالية للميزانيات المحدودة.",
+    "long_desc_en": "MilesWeb Indian hosting at very low prices. Plans starting at $0.83/month. 24/7 English support. Perfect for limited budgets.",
+    "category": "hosting",
+    "tags_ar": [
+      "رخيص جداً",
+      "هندي",
+      "$0.83",
+      "ميزانية محدودة"
+    ],
+    "tags_en": [
+      "very cheap",
+      "indian",
+      "$0.83",
+      "budget"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$0.83/mo",
+    "price_pro": "$4.99/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://milesweb.com",
+    "monthly_visits": "1M+",
+    "trending_score": 66,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "hostinger",
+      "siteground",
+      "bluehost"
+    ],
+    "integrations": [
+      "WordPress",
+      "cPanel"
+    ],
+    "use_cases_ar": [
+      "استضافة رخيصة",
+      "مدونات",
+      "مواقع صغيرة",
+      "نماذج أولية"
+    ],
+    "use_cases_en": [
+      "Cheap hosting",
+      "Blogs",
+      "Small sites",
+      "Prototypes"
+    ],
+    "affiliate_url": "http://affiliates.milesweb.com/6251.html",
+    "coupon_code": "MILES20",
+    "coupon_discount": "خصم 20%",
+    "logo_url": "https://www.google.com/s2/favicons?domain=milesweb.com&sz=64"
+  },
+  {
+    "id": "vercel-hosting",
+    "name_ar": "Vercel",
+    "name_en": "Vercel",
+    "slug": "vercel-hosting",
+    "tagline_ar": "نشر تطبيقات Next.js فوري",
+    "tagline_en": "Instant Next.js app deployment",
+    "desc_ar": "Vercel — نشر تطبيقات Next.js فوري",
+    "desc_en": "Vercel — Instant Next.js app deployment",
+    "long_desc_ar": "Vercel — نشر تطبيقات Next.js فوري",
+    "long_desc_en": "Vercel — Instant Next.js app deployment",
+    "category": "hosting",
+    "tags_ar": [
+      "Vercel",
+      "hosting"
+    ],
+    "tags_en": [
+      "Vercel",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://vercel.com",
+    "monthly_visits": "2M+",
+    "trending_score": 88,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vercel.com&sz=64"
+  },
+  {
+    "id": "cloudflare-ai",
+    "name_ar": "Cloudflare AI",
+    "name_en": "Cloudflare AI",
+    "slug": "cloudflare-ai",
+    "tagline_ar": "CDN وأمان مع AI Workers",
+    "tagline_en": "CDN and security with AI Workers",
+    "desc_ar": "Cloudflare AI — CDN وأمان مع AI Workers",
+    "desc_en": "Cloudflare AI — CDN and security with AI Workers",
+    "long_desc_ar": "Cloudflare AI — CDN وأمان مع AI Workers",
+    "long_desc_en": "Cloudflare AI — CDN and security with AI Workers",
+    "category": "hosting",
+    "tags_ar": [
+      "Cloudflare AI",
+      "hosting"
+    ],
+    "tags_en": [
+      "Cloudflare AI",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://cloudflare.com",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2009,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=64"
+  },
+  {
+    "id": "netlify-ai",
+    "name_ar": "Netlify",
+    "name_en": "Netlify",
+    "slug": "netlify-ai",
+    "tagline_ar": "نشر مواقع ويب ثابتة بـ CI/CD",
+    "tagline_en": "Static website deployment with CI/CD",
+    "desc_ar": "Netlify — نشر مواقع ويب ثابتة بـ CI/CD",
+    "desc_en": "Netlify — Static website deployment with CI/CD",
+    "long_desc_ar": "Netlify — نشر مواقع ويب ثابتة بـ CI/CD",
+    "long_desc_en": "Netlify — Static website deployment with CI/CD",
+    "category": "hosting",
+    "tags_ar": [
+      "Netlify",
+      "hosting"
+    ],
+    "tags_en": [
+      "Netlify",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://netlify.com",
+    "monthly_visits": "2M+",
+    "trending_score": 85,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=netlify.com&sz=64"
+  },
+  {
+    "id": "kinsta-ai",
+    "name_ar": "كينستا AI",
+    "name_en": "Kinsta AI",
+    "slug": "kinsta-ai",
+    "tagline_ar": "استضافة WordPress مُدارة مع AI",
+    "tagline_en": "Managed WordPress hosting with AI",
+    "desc_ar": "Kinsta أفضل استضافة WordPress مُدارة. AI يحسّن الأداء ويكتشف المشاكل.",
+    "desc_en": "Kinsta أفضل استضافة WordPress مُدارة. AI يحسّن الأداء ويكتشف المشاكل.",
+    "long_desc_ar": "Kinsta أفضل استضافة WordPress مُدارة. AI يحسّن الأداء ويكتشف المشاكل.",
+    "long_desc_en": "Kinsta أفضل استضافة WordPress مُدارة. AI يحسّن الأداء ويكتشف المشاكل.",
+    "category": "hosting",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$35/mo",
+    "price_pro": "$35/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://kinsta.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=kinsta.com&sz=64"
+  },
+  {
+    "id": "railway-app",
+    "name_ar": "Railway",
+    "name_en": "Railway",
+    "slug": "railway-app",
+    "tagline_ar": "نشر تطبيقات في دقيقة واحدة",
+    "tagline_en": "Deploy applications in one minute",
+    "desc_ar": "Railway — نشر تطبيقات في دقيقة واحدة",
+    "desc_en": "Railway — Deploy applications in one minute",
+    "long_desc_ar": "Railway — نشر تطبيقات في دقيقة واحدة",
+    "long_desc_en": "Railway — Deploy applications in one minute",
+    "category": "hosting",
+    "tags_ar": [
+      "Railway",
+      "hosting"
+    ],
+    "tags_en": [
+      "Railway",
+      "hosting"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://railway.app",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=railway.app&sz=64"
+  },
+  {
+    "id": "digital-ocean",
+    "name_ar": "DigitalOcean",
+    "name_en": "DigitalOcean",
+    "slug": "digital-ocean",
+    "tagline_ar": "سحابة بسيطة للمطورين بأسعار منافسة",
+    "tagline_en": "Simple cloud for developers at competitive prices",
+    "desc_ar": "DigitalOcean — سحابة بسيطة للمطورين بأسعار منافسة",
+    "desc_en": "DigitalOcean — Simple cloud for developers at competitive prices",
+    "long_desc_ar": "DigitalOcean — سحابة بسيطة للمطورين بأسعار منافسة",
+    "long_desc_en": "DigitalOcean — Simple cloud for developers at competitive prices",
+    "category": "hosting",
+    "tags_ar": [
+      "DigitalOcean",
+      "hosting"
+    ],
+    "tags_en": [
+      "DigitalOcean",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$4",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://digitalocean.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=digitalocean.com&sz=64"
+  },
+  {
+    "id": "aws-s3",
+    "name_ar": "AWS S3",
+    "name_en": "AWS S3",
+    "slug": "aws-s3",
+    "tagline_ar": "تخزين سحابي موثوق من Amazon",
+    "tagline_en": "Reliable cloud storage from Amazon",
+    "desc_ar": "AWS S3 — تخزين سحابي موثوق من Amazon",
+    "desc_en": "AWS S3 — Reliable cloud storage from Amazon",
+    "long_desc_ar": "AWS S3 — تخزين سحابي موثوق من Amazon",
+    "long_desc_en": "AWS S3 — Reliable cloud storage from Amazon",
+    "category": "hosting",
+    "tags_ar": [
+      "AWS S3",
+      "hosting"
+    ],
+    "tags_en": [
+      "AWS S3",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0.023/GB",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://aws.amazon.com/s3",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64"
+  },
+  {
+    "id": "runpod",
+    "name_ar": "RunPod",
+    "name_en": "RunPod",
+    "slug": "runpod",
+    "tagline_ar": "GPU سحابي رخيص لتدريب النماذج",
+    "tagline_en": "Cheap cloud GPU for model training",
+    "desc_ar": "RunPod — GPU سحابي رخيص لتدريب النماذج",
+    "desc_en": "RunPod — Cheap cloud GPU for model training",
+    "long_desc_ar": "RunPod — GPU سحابي رخيص لتدريب النماذج",
+    "long_desc_en": "RunPod — Cheap cloud GPU for model training",
+    "category": "hosting",
+    "tags_ar": [
+      "RunPod",
+      "hosting"
+    ],
+    "tags_en": [
+      "RunPod",
+      "hosting"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0.2/hr",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://runpod.io",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=runpod.io&sz=64"
+  },
+  {
+    "id": "render-hosting",
+    "name_ar": "Render",
+    "name_en": "Render",
+    "slug": "render-hosting",
+    "tagline_ar": "بديل Heroku المجاني والأسرع",
+    "tagline_en": "Free and faster Heroku alternative",
+    "desc_ar": "Render — بديل Heroku المجاني والأسرع",
+    "desc_en": "Render — Free and faster Heroku alternative",
+    "long_desc_ar": "Render — بديل Heroku المجاني والأسرع",
+    "long_desc_en": "Render — Free and faster Heroku alternative",
+    "category": "hosting",
+    "tags_ar": [
+      "Render",
+      "hosting"
+    ],
+    "tags_en": [
+      "Render",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://render.com",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=render.com&sz=64"
+  },
+  {
+    "id": "hetzner",
+    "name_ar": "Hetzner Cloud",
+    "name_en": "Hetzner Cloud",
+    "slug": "hetzner",
+    "tagline_ar": "خوادم سحابية أوروبية بأسعار ممتازة",
+    "tagline_en": "European cloud servers at great prices",
+    "desc_ar": "Hetzner Cloud — خوادم سحابية أوروبية بأسعار ممتازة",
+    "desc_en": "Hetzner Cloud — European cloud servers at great prices",
+    "long_desc_ar": "Hetzner Cloud — خوادم سحابية أوروبية بأسعار ممتازة",
+    "long_desc_en": "Hetzner Cloud — European cloud servers at great prices",
+    "category": "hosting",
+    "tags_ar": [
+      "Hetzner Cloud",
+      "hosting"
+    ],
+    "tags_en": [
+      "Hetzner Cloud",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "€4",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://hetzner.com",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 1997,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hetzner.com&sz=64"
+  },
+  {
+    "id": "siteground-ai",
+    "name_ar": "سايت جراوند AI",
+    "name_en": "SiteGround AI",
+    "slug": "siteground-ai",
+    "tagline_ar": "استضافة ويب بذكاء اصطناعي",
+    "tagline_en": "Web hosting with artificial intelligence",
+    "desc_ar": "SiteGround يدمج AI لتحسين الأداء وحماية موقعك. خدمة عملاء AI 24/7.",
+    "desc_en": "SiteGround يدمج AI لتحسين الأداء وحماية موقعك. خدمة عملاء AI 24/7.",
+    "long_desc_ar": "SiteGround يدمج AI لتحسين الأداء وحماية موقعك. خدمة عملاء AI 24/7.",
+    "long_desc_en": "SiteGround يدمج AI لتحسين الأداء وحماية موقعك. خدمة عملاء AI 24/7.",
+    "category": "hosting",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$3.99/mo",
+    "price_pro": "$3.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://siteground.com",
+    "monthly_visits": "5M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2004,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=siteground.com&sz=64"
+  },
+  {
+    "id": "railway-ai",
+    "name_ar": "ريلواي AI",
+    "name_en": "Railway",
+    "slug": "railway-ai",
+    "tagline_ar": "نشر التطبيقات بسهولة",
+    "tagline_en": "Easy app deployment",
+    "desc_ar": "Railway يُبسّط نشر التطبيقات. يربط GitHub ويُشغّل تطبيقاتك مباشرة.",
+    "desc_en": "Railway يُبسّط نشر التطبيقات. يربط GitHub ويُشغّل تطبيقاتك مباشرة.",
+    "long_desc_ar": "Railway يُبسّط نشر التطبيقات. يربط GitHub ويُشغّل تطبيقاتك مباشرة.",
+    "long_desc_en": "Railway يُبسّط نشر التطبيقات. يربط GitHub ويُشغّل تطبيقاتك مباشرة.",
+    "category": "hosting",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://railway.app",
+    "monthly_visits": "1M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=railway.app&sz=64"
+  },
+  {
+    "id": "fly-io",
+    "name_ar": "Fly.io",
+    "name_en": "Fly.io",
+    "slug": "fly-io",
+    "tagline_ar": "نشر تطبيقات قريبة من المستخدمين",
+    "tagline_en": "Deploy apps close to users globally",
+    "desc_ar": "Fly.io — نشر تطبيقات قريبة من المستخدمين",
+    "desc_en": "Fly.io — Deploy apps close to users globally",
+    "long_desc_ar": "Fly.io — نشر تطبيقات قريبة من المستخدمين",
+    "long_desc_en": "Fly.io — Deploy apps close to users globally",
+    "category": "hosting",
+    "tags_ar": [
+      "Fly.io",
+      "hosting"
+    ],
+    "tags_en": [
+      "Fly.io",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://fly.io",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fly.io&sz=64"
+  },
+  {
+    "id": "supabase-storage",
+    "name_ar": "Supabase Storage",
+    "name_en": "Supabase Storage",
+    "slug": "supabase-storage",
+    "tagline_ar": "تخزين ملفات AI مفتوح المصدر",
+    "tagline_en": "Open-source AI file storage",
+    "desc_ar": "Supabase Storage — تخزين ملفات AI مفتوح المصدر",
+    "desc_en": "Supabase Storage — Open-source AI file storage",
+    "long_desc_ar": "Supabase Storage — تخزين ملفات AI مفتوح المصدر",
+    "long_desc_en": "Supabase Storage — Open-source AI file storage",
+    "category": "hosting",
+    "tags_ar": [
+      "Supabase Storage",
+      "hosting"
+    ],
+    "tags_en": [
+      "Supabase Storage",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://supabase.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=supabase.com&sz=64"
+  },
+  {
+    "id": "github-pages",
+    "name_ar": "GitHub Pages",
+    "name_en": "GitHub Pages",
+    "slug": "github-pages",
+    "tagline_ar": "استضافة مواقع ثابتة مجانية من GitHub",
+    "tagline_en": "Free static website hosting from GitHub",
+    "desc_ar": "GitHub Pages — استضافة مواقع ثابتة مجانية من GitHub",
+    "desc_en": "GitHub Pages — Free static website hosting from GitHub",
+    "long_desc_ar": "GitHub Pages — استضافة مواقع ثابتة مجانية من GitHub",
+    "long_desc_en": "GitHub Pages — Free static website hosting from GitHub",
+    "category": "hosting",
+    "tags_ar": [
+      "GitHub Pages",
+      "hosting"
+    ],
+    "tags_en": [
+      "GitHub Pages",
+      "hosting"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://pages.github.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2008,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pages.github.com&sz=64"
+  },
+  {
+    "id": "render-ai",
+    "name_ar": "ريندر",
+    "name_en": "Render",
+    "slug": "render-ai",
+    "tagline_ar": "بديل Heroku المجاني للمطورين",
+    "tagline_en": "Free Heroku alternative for developers",
+    "desc_ar": "Render يوفر استضافة سحابية مجانية للـ static sites والتطبيقات الصغيرة.",
+    "desc_en": "Render يوفر استضافة سحابية مجانية للـ static sites والتطبيقات الصغيرة.",
+    "long_desc_ar": "Render يوفر استضافة سحابية مجانية للـ static sites والتطبيقات الصغيرة.",
+    "long_desc_en": "Render يوفر استضافة سحابية مجانية للـ static sites والتطبيقات الصغيرة.",
+    "category": "hosting",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://render.com",
+    "monthly_visits": "1M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=render.com&sz=64"
+  },
+  {
+    "id": "backblaze",
+    "name_ar": "Backblaze B2",
+    "name_en": "Backblaze B2",
+    "slug": "backblaze",
+    "tagline_ar": "تخزين سحابي رخيص للمطورين",
+    "tagline_en": "Cheap cloud storage for developers",
+    "desc_ar": "Backblaze B2 — تخزين سحابي رخيص للمطورين",
+    "desc_en": "Backblaze B2 — Cheap cloud storage for developers",
+    "long_desc_ar": "Backblaze B2 — تخزين سحابي رخيص للمطورين",
+    "long_desc_en": "Backblaze B2 — Cheap cloud storage for developers",
+    "category": "hosting",
+    "tags_ar": [
+      "Backblaze B2",
+      "hosting"
+    ],
+    "tags_en": [
+      "Backblaze B2",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://backblaze.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2007,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=backblaze.com&sz=64"
+  },
+  {
+    "id": "vultr-ai",
+    "name_ar": "فولتر",
+    "name_en": "Vultr AI",
+    "slug": "vultr-ai",
+    "tagline_ar": "خوادم سحابية للمطورين بأسعار مناسبة",
+    "tagline_en": "Developer cloud servers at reasonable prices",
+    "desc_ar": "Vultr يوفر خوادم سحابية عالية الأداء للمطورين بأسعار منافسة.",
+    "desc_en": "Vultr يوفر خوادم سحابية عالية الأداء للمطورين بأسعار منافسة.",
+    "long_desc_ar": "Vultr يوفر خوادم سحابية عالية الأداء للمطورين بأسعار منافسة.",
+    "long_desc_en": "Vultr يوفر خوادم سحابية عالية الأداء للمطورين بأسعار منافسة.",
+    "category": "hosting",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "$6/mo",
+    "price_pro": "$6/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://vultr.com",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vultr.com&sz=64"
+  },
+  {
+    "id": "porkbun",
+    "name_ar": "Porkbun",
+    "name_en": "Porkbun",
+    "slug": "porkbun",
+    "tagline_ar": "نطاقات رخيصة بأسعار شفافة",
+    "tagline_en": "Cheap domains at transparent prices",
+    "desc_ar": "Porkbun — نطاقات رخيصة بأسعار شفافة",
+    "desc_en": "Porkbun — Cheap domains at transparent prices",
+    "long_desc_ar": "Porkbun — نطاقات رخيصة بأسعار شفافة",
+    "long_desc_en": "Porkbun — Cheap domains at transparent prices",
+    "category": "hosting",
+    "tags_ar": [
+      "Porkbun",
+      "hosting"
+    ],
+    "tags_en": [
+      "Porkbun",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$9",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://porkbun.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=porkbun.com&sz=64"
+  },
+  {
+    "id": "wix-hosting",
+    "name_ar": "Wix Hosting",
+    "name_en": "Wix Hosting",
+    "slug": "wix-hosting",
+    "tagline_ar": "استضافة مدمجة في بنّاء مواقع Wix",
+    "tagline_en": "Hosting integrated in Wix website builder",
+    "desc_ar": "Wix Hosting — استضافة مدمجة في بنّاء مواقع Wix",
+    "desc_en": "Wix Hosting — Hosting integrated in Wix website builder",
+    "long_desc_ar": "Wix Hosting — استضافة مدمجة في بنّاء مواقع Wix",
+    "long_desc_en": "Wix Hosting — Hosting integrated in Wix website builder",
+    "category": "hosting",
+    "tags_ar": [
+      "Wix Hosting",
+      "hosting"
+    ],
+    "tags_en": [
+      "Wix Hosting",
+      "hosting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$17",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://wix.com",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wix.com&sz=64"
+  }
+]

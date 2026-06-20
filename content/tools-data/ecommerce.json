@@ -1,0 +1,917 @@
+[
+  {
+    "id": "shopify",
+    "name_ar": "شوبيفاي",
+    "name_en": "Shopify",
+    "slug": "shopify",
+    "tagline_ar": "أنشئ متجرك الإلكتروني في دقائق",
+    "tagline_en": "Create your online store in minutes",
+    "desc_ar": "المنصة الأولى للتجارة الإلكترونية. AI لكتابة أوصاف المنتجات والتسويق. $1 لمدة 3 أشهر.",
+    "desc_en": "#1 e-commerce platform. AI for product descriptions and marketing. $1 for 3 months.",
+    "long_desc_ar": "Shopify المنصة الأولى للتجارة الإلكترونية بـ 2 مليون متجر. AI يكتب الأوصاف ويحسّن الحملات. عرض $1 لأول 3 أشهر.",
+    "long_desc_en": "Shopify #1 e-commerce platform with 2M stores. AI writes descriptions and optimizes campaigns. $1 for first 3 months offer.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "متجر إلكتروني",
+      "تجارة",
+      "$1 لـ 3 أشهر",
+      "Dropshipping"
+    ],
+    "tags_en": [
+      "online store",
+      "commerce",
+      "$1 3 months",
+      "Dropshipping"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$1/mo",
+    "price_pro": "$79/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://shopify.com",
+    "monthly_visits": "100M+",
+    "trending_score": 90,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "woocommerce",
+      "bigcommerce",
+      "squarespace"
+    ],
+    "integrations": [
+      "Facebook",
+      "Instagram",
+      "Google",
+      "Stripe"
+    ],
+    "use_cases_ar": [
+      "متجر إلكتروني",
+      "Dropshipping",
+      "بيع منتجات رقمية",
+      "تجارة إلكترونية"
+    ],
+    "use_cases_en": [
+      "Online store",
+      "Dropshipping",
+      "Digital products",
+      "E-commerce"
+    ],
+    "affiliate_url": "https://shopify.pxf.io/offer1doler",
+    "coupon_code": "",
+    "coupon_discount": "$1 لـ 3 أشهر",
+    "logo_url": "https://www.google.com/s2/favicons?domain=shopify.com&sz=64"
+  },
+  {
+    "id": "helium10",
+    "name_ar": "هيليوم 10",
+    "name_en": "Helium 10",
+    "slug": "helium10",
+    "tagline_ar": "مجموعة أدوات البائعين على أمازون",
+    "tagline_en": "Complete toolkit for Amazon sellers",
+    "desc_ar": "أكبر مجموعة أدوات لبائعي أمازون. 30+ أداة للبحث عن المنتجات والكلمات المفتاحية.",
+    "desc_en": "Largest Amazon seller toolkit. 30+ tools for product research and keyword research.",
+    "long_desc_ar": "Helium 10 أشمل مجموعة أدوات لبائعي Amazon FBA. 30+ أداة لبحث المنتجات والكلمات والمنافسين. كود 20OFF6M يوفر 20% لـ 6 أشهر.",
+    "long_desc_en": "Helium 10 most comprehensive Amazon FBA toolkit. 30+ tools for products, keywords, competitors. Code 20OFF6M saves 20% for 6 months.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "أمازون",
+      "FBA",
+      "بائعون",
+      "كلمات مفتاحية"
+    ],
+    "tags_en": [
+      "Amazon",
+      "FBA",
+      "sellers",
+      "keywords"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$39/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://helium10.com",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [
+      "jungle-scout",
+      "viral-launch"
+    ],
+    "integrations": [
+      "Amazon",
+      "Chrome"
+    ],
+    "use_cases_ar": [
+      "بحث منتجات أمازون",
+      "تحليل المنافسين",
+      "تحسين الليستينج",
+      "تتبع الترتيب"
+    ],
+    "use_cases_en": [
+      "Amazon product research",
+      "Competitor analysis",
+      "Listing optimization",
+      "Rank tracking"
+    ],
+    "affiliate_url": "https://i.helium10.com/c/4032044/3379050/37271",
+    "coupon_code": "20OFF6M",
+    "coupon_discount": "خصم 20% لـ 6 أشهر",
+    "logo_url": "https://www.google.com/s2/favicons?domain=helium10.com&sz=64"
+  },
+  {
+    "id": "shopify-magic",
+    "name_ar": "Shopify Magic",
+    "name_en": "Shopify Magic",
+    "slug": "shopify-magic",
+    "tagline_ar": "AI مدمج في Shopify لزيادة المبيعات",
+    "tagline_en": "AI built into Shopify to boost sales",
+    "desc_ar": "Shopify Magic يكتب أوصاف المنتجات ويحسّن SEO ويجيب على استفسارات العملاء تلقائياً.",
+    "desc_en": "Shopify Magic writes product descriptions, improves SEO, and automatically answers customer inquiries.",
+    "long_desc_ar": "Shopify Magic مدمج بالكامل في Shopify. يكتب أوصاف محسّنة لـ SEO ويجيب على استفسارات العملاء ويُحلّل بيانات المتجر.",
+    "long_desc_en": "Shopify Magic fully integrated into Shopify. Writes SEO-optimized descriptions, answers customer inquiries, analyzes store data.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Shopify",
+      "Ecommerce AI",
+      "تجارة",
+      "مبيعات"
+    ],
+    "tags_en": [
+      "Shopify",
+      "ecommerce AI",
+      "commerce",
+      "sales"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$29",
+    "price_pro": "$299",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://shopify.com",
+    "monthly_visits": "50M+",
+    "trending_score": 89,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "gohighlevel",
+      "woocommerce"
+    ],
+    "integrations": [
+      "PayPal",
+      "Stripe",
+      "Google Ads",
+      "Meta",
+      "Klaviyo"
+    ],
+    "use_cases_ar": [
+      "متاجر",
+      "أوصاف منتجات",
+      "خدمة عملاء",
+      "تسويق"
+    ],
+    "use_cases_en": [
+      "Stores",
+      "Product descriptions",
+      "Customer service",
+      "Marketing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=shopify.com&sz=64"
+  },
+  {
+    "id": "woocommerce",
+    "name_ar": "ووكوميرس",
+    "name_en": "WooCommerce",
+    "slug": "woocommerce",
+    "tagline_ar": "متجر إلكتروني مجاني على WordPress",
+    "tagline_en": "Free online store on WordPress",
+    "desc_ar": "أشهر إضافة تجارة إلكترونية لـ WordPress. مجانية وقابلة للتخصيص.",
+    "desc_en": "Most popular WordPress e-commerce plugin. Free and customizable.",
+    "long_desc_ar": "أشهر إضافة تجارة إلكترونية لـ WordPress. مجانية وقابلة للتخصيص.",
+    "long_desc_en": "Most popular WordPress e-commerce plugin. Free and customizable.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "WordPress",
+      "مجاني",
+      "تخصيص",
+      "متجر"
+    ],
+    "tags_en": [
+      "WordPress",
+      "free",
+      "customizable",
+      "store"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://woocommerce.com",
+    "monthly_visits": "10M+",
+    "trending_score": 83,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "shopify",
+      "salla",
+      "bigcommerce"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=woocommerce.com&sz=64"
+  },
+  {
+    "id": "woocommerce-ai",
+    "name_ar": "WooCommerce AI",
+    "name_en": "WooCommerce AI",
+    "slug": "woocommerce-ai",
+    "tagline_ar": "Ecommerce WordPress مع AI",
+    "tagline_en": "WordPress Ecommerce with AI",
+    "desc_ar": "WooCommerce AI — Ecommerce WordPress مع AI",
+    "desc_en": "WooCommerce AI — WordPress Ecommerce with AI",
+    "long_desc_ar": "WooCommerce AI — Ecommerce WordPress مع AI",
+    "long_desc_en": "WooCommerce AI — WordPress Ecommerce with AI",
+    "category": "ecommerce",
+    "tags_ar": [
+      "WooCommerce AI",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "WooCommerce AI",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://woocommerce.com",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=woocommerce.com&sz=64"
+  },
+  {
+    "id": "gorgias-ai",
+    "name_ar": "Gorgias AI",
+    "name_en": "Gorgias AI",
+    "slug": "gorgias-ai",
+    "tagline_ar": "خدمة عملاء AI لمتاجر Shopify",
+    "tagline_en": "AI customer service for Shopify stores",
+    "desc_ar": "Gorgias AI — خدمة عملاء AI لمتاجر Shopify",
+    "desc_en": "Gorgias AI — AI customer service for Shopify stores",
+    "long_desc_ar": "Gorgias AI — خدمة عملاء AI لمتاجر Shopify",
+    "long_desc_en": "Gorgias AI — AI customer service for Shopify stores",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Gorgias AI",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Gorgias AI",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$10",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://gorgias.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=gorgias.com&sz=64"
+  },
+  {
+    "id": "salla",
+    "name_ar": "سلة",
+    "name_en": "Salla",
+    "slug": "salla",
+    "tagline_ar": "منصة التجارة الإلكترونية العربية الأولى",
+    "tagline_en": "#1 Arabic e-commerce platform",
+    "desc_ar": "أبرز منصات التجارة الإلكترونية العربية. متكاملة مع البيئة السعودية.",
+    "desc_en": "Most prominent Arabic e-commerce platform. Integrated with Saudi business environment.",
+    "long_desc_ar": "أبرز منصات التجارة الإلكترونية العربية. متكاملة مع البيئة السعودية.",
+    "long_desc_en": "Most prominent Arabic e-commerce platform. Integrated with Saudi business environment.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "عربي",
+      "تجارة",
+      "سعودي",
+      "متكامل"
+    ],
+    "tags_en": [
+      "arabic",
+      "commerce",
+      "saudi",
+      "integrated"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$39/mo",
+    "price_pro": "$129/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://salla.com",
+    "monthly_visits": "500K+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "zid",
+      "shopify",
+      "woocommerce"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=salla.com&sz=64"
+  },
+  {
+    "id": "printify",
+    "name_ar": "Printify",
+    "name_en": "Printify",
+    "slug": "printify",
+    "tagline_ar": "Print-on-Demand مع AI Design",
+    "tagline_en": "Print-on-Demand with AI Design",
+    "desc_ar": "Printify — Print-on-Demand مع AI Design",
+    "desc_en": "Printify — Print-on-Demand with AI Design",
+    "long_desc_ar": "Printify — Print-on-Demand مع AI Design",
+    "long_desc_en": "Printify — Print-on-Demand with AI Design",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Printify",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Printify",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://printify.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=printify.com&sz=64"
+  },
+  {
+    "id": "omnisend",
+    "name_ar": "Omnisend",
+    "name_en": "Omnisend",
+    "slug": "omnisend",
+    "tagline_ar": "Email SMS أتمتة لـ Ecommerce",
+    "tagline_en": "Email SMS automation for Ecommerce",
+    "desc_ar": "Omnisend — Email SMS أتمتة لـ Ecommerce",
+    "desc_en": "Omnisend — Email SMS automation for Ecommerce",
+    "long_desc_ar": "Omnisend — Email SMS أتمتة لـ Ecommerce",
+    "long_desc_en": "Omnisend — Email SMS automation for Ecommerce",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Omnisend",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Omnisend",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://omnisend.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=omnisend.com&sz=64"
+  },
+  {
+    "id": "tidio-ai",
+    "name_ar": "Tidio AI",
+    "name_en": "Tidio AI",
+    "slug": "tidio-ai",
+    "tagline_ar": "Chatbot AI لمواقع Ecommerce",
+    "tagline_en": "AI Chatbot for Ecommerce websites",
+    "desc_ar": "Tidio AI — Chatbot AI لمواقع Ecommerce",
+    "desc_en": "Tidio AI — AI Chatbot for Ecommerce websites",
+    "long_desc_ar": "Tidio AI — Chatbot AI لمواقع Ecommerce",
+    "long_desc_en": "Tidio AI — AI Chatbot for Ecommerce websites",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Tidio AI",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Tidio AI",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://tidio.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=tidio.com&sz=64"
+  },
+  {
+    "id": "zid",
+    "name_ar": "زد",
+    "name_en": "Zid",
+    "slug": "zid",
+    "tagline_ar": "منصة التجارة الإلكترونية السعودية",
+    "tagline_en": "Saudi e-commerce platform",
+    "desc_ar": "منصة التجارة الإلكترونية الرائدة في السعودية. AI لتحسين المتاجر.",
+    "desc_en": "Leading Saudi e-commerce platform. AI for store optimization.",
+    "long_desc_ar": "منصة التجارة الإلكترونية الرائدة في السعودية. AI لتحسين المتاجر.",
+    "long_desc_en": "Leading Saudi e-commerce platform. AI for store optimization.",
+    "category": "ecommerce",
+    "tags_ar": [
+      "سعودي",
+      "تجارة إلكترونية",
+      "عربي",
+      "متاجر"
+    ],
+    "tags_en": [
+      "saudi",
+      "e-commerce",
+      "arabic",
+      "stores"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$49/mo",
+    "price_pro": "$149/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://zid.sa",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "salla",
+      "shopify",
+      "woocommerce"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zid.sa&sz=64"
+  },
+  {
+    "id": "bigcommerce-ai",
+    "name_ar": "بيج كوميرس AI",
+    "name_en": "BigCommerce AI",
+    "slug": "bigcommerce-ai",
+    "tagline_ar": "تجارة إلكترونية AI للشركات الكبيرة",
+    "tagline_en": "Enterprise e-commerce with AI",
+    "desc_ar": "BigCommerce للشركات الكبيرة. AI يحسّن الموصيات والتسعير والتجربة.",
+    "desc_en": "BigCommerce للشركات الكبيرة. AI يحسّن الموصيات والتسعير والتجربة.",
+    "long_desc_ar": "BigCommerce للشركات الكبيرة. AI يحسّن الموصيات والتسعير والتجربة.",
+    "long_desc_en": "BigCommerce للشركات الكبيرة. AI يحسّن الموصيات والتسعير والتجربة.",
+    "category": "ecommerce",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$29/mo",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://bigcommerce.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2009,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=bigcommerce.com&sz=64"
+  },
+  {
+    "id": "squarespace-ecom",
+    "name_ar": "سكوير سبيس تجارة",
+    "name_en": "Squarespace Commerce",
+    "slug": "squarespace-ecom",
+    "tagline_ar": "متجر إلكتروني بتصميم استثنائي",
+    "tagline_en": "E-commerce with exceptional design",
+    "desc_ar": "Squarespace Commerce يضيف متجر إلكتروني احترافي لمواقع Squarespace الجميلة.",
+    "desc_en": "Squarespace Commerce يضيف متجر إلكتروني احترافي لمواقع Squarespace الجميلة.",
+    "long_desc_ar": "Squarespace Commerce يضيف متجر إلكتروني احترافي لمواقع Squarespace الجميلة.",
+    "long_desc_en": "Squarespace Commerce يضيف متجر إلكتروني احترافي لمواقع Squarespace الجميلة.",
+    "category": "ecommerce",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$28/mo",
+    "price_pro": "$28/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://squarespace.com",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2013,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=squarespace.com&sz=64"
+  },
+  {
+    "id": "wix-ecommerce",
+    "name_ar": "Wix eCommerce",
+    "name_en": "Wix eCommerce",
+    "slug": "wix-ecommerce",
+    "tagline_ar": "متجر إلكتروني AI بدون كود",
+    "tagline_en": "AI online store without code",
+    "desc_ar": "Wix eCommerce — متجر إلكتروني AI بدون كود",
+    "desc_en": "Wix eCommerce — AI online store without code",
+    "long_desc_ar": "Wix eCommerce — متجر إلكتروني AI بدون كود",
+    "long_desc_en": "Wix eCommerce — AI online store without code",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Wix eCommerce",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Wix eCommerce",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$17",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://wix.com/ecommerce",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wix.com&sz=64"
+  },
+  {
+    "id": "etsy-ai",
+    "name_ar": "إيتسي AI",
+    "name_en": "Etsy AI Tools",
+    "slug": "etsy-ai",
+    "tagline_ar": "أدوات AI لبائعي Etsy",
+    "tagline_en": "AI tools for Etsy sellers",
+    "desc_ar": "Etsy يضيف AI لتحسين الليستينج والتسعير والوصول للمشترين.",
+    "desc_en": "Etsy يضيف AI لتحسين الليستينج والتسعير والوصول للمشترين.",
+    "long_desc_ar": "Etsy يضيف AI لتحسين الليستينج والتسعير والوصول للمشترين.",
+    "long_desc_en": "Etsy يضيف AI لتحسين الليستينج والتسعير والوصول للمشترين.",
+    "category": "ecommerce",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0.20/listing",
+    "price_pro": "$0.20/listing",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://etsy.com",
+    "monthly_visits": "100M+",
+    "trending_score": "77",
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2005,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=etsy.com&sz=64"
+  },
+  {
+    "id": "square-ai",
+    "name_ar": "Square AI",
+    "name_en": "Square AI",
+    "slug": "square-ai",
+    "tagline_ar": "نقطة بيع AI للمتاجر الصغيرة",
+    "tagline_en": "AI point of sale for small stores",
+    "desc_ar": "Square AI — نقطة بيع AI للمتاجر الصغيرة",
+    "desc_en": "Square AI — AI point of sale for small stores",
+    "long_desc_ar": "Square AI — نقطة بيع AI للمتاجر الصغيرة",
+    "long_desc_en": "Square AI — AI point of sale for small stores",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Square AI",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Square AI",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://squareup.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2009,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=squareup.com&sz=64"
+  },
+  {
+    "id": "okendo-ai",
+    "name_ar": "Okendo AI",
+    "name_en": "Okendo AI",
+    "slug": "okendo-ai",
+    "tagline_ar": "مراجعات منتجات AI لـ Shopify",
+    "tagline_en": "AI product reviews for Shopify",
+    "desc_ar": "Okendo AI — مراجعات منتجات AI لـ Shopify",
+    "desc_en": "Okendo AI — AI product reviews for Shopify",
+    "long_desc_ar": "Okendo AI — مراجعات منتجات AI لـ Shopify",
+    "long_desc_en": "Okendo AI — AI product reviews for Shopify",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Okendo AI",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Okendo AI",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://okendo.io",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=okendo.io&sz=64"
+  },
+  {
+    "id": "recart",
+    "name_ar": "Recart",
+    "name_en": "Recart",
+    "slug": "recart",
+    "tagline_ar": "استرداد عربة التسوق بـ AI Messenger",
+    "tagline_en": "AI Messenger shopping cart recovery",
+    "desc_ar": "Recart — استرداد عربة التسوق بـ AI Messenger",
+    "desc_en": "Recart — AI Messenger shopping cart recovery",
+    "long_desc_ar": "Recart — استرداد عربة التسوق بـ AI Messenger",
+    "long_desc_en": "Recart — AI Messenger shopping cart recovery",
+    "category": "ecommerce",
+    "tags_ar": [
+      "Recart",
+      "ecommerce"
+    ],
+    "tags_en": [
+      "Recart",
+      "ecommerce"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$299",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://recart.com",
+    "monthly_visits": "2M+",
+    "trending_score": 75,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=recart.com&sz=64"
+  }
+]

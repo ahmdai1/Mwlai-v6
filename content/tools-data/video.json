@@ -1,0 +1,4003 @@
+[
+  {
+    "id": "seedance-2",
+    "name_ar": "Seedance 2.0",
+    "name_en": "Seedance 2.0",
+    "slug": "seedance-2",
+    "tagline_ar": "#1 فيديو AI في 2026 من ByteDance",
+    "tagline_en": "#1 AI video in 2026 by ByteDance",
+    "desc_ar": "Seedance 2.0 يتصدر Artificial Analysis. 4K مع صوت مزامن ولip-sync متعدد اللغات. $0.022/ثانية.",
+    "desc_en": "Seedance 2.0 tops Artificial Analysis. 4K with synchronized audio and multilingual lip-sync. $0.022/sec.",
+    "long_desc_ar": "Seedance 2.0 صدر فبراير 2026 من ByteDance. يُعد الأكثر حديثاً في توليد الفيديو. يرسخ شخصية موحدة مع مزامنة شفاه بمستوى الفونيم. أرخص سعر في الفئة.",
+    "long_desc_en": "Seedance 2.0 released February 2026 by ByteDance. Maintains consistent character with phoneme-level lip-sync. Lowest cost in class.",
+    "category": "video",
+    "tags_ar": [
+      "Seedance",
+      "ByteDance",
+      "فيديو AI",
+      "ترند 2026"
+    ],
+    "tags_en": [
+      "Seedance",
+      "ByteDance",
+      "AI video",
+      "trending 2026"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0.022/sec",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://seedance.ai",
+    "monthly_visits": "20M+",
+    "trending_score": 97,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "veo-3-1",
+      "kling-3",
+      "runway"
+    ],
+    "integrations": [
+      "API",
+      "fal.ai"
+    ],
+    "use_cases_ar": [
+      "إنتاج فيديو",
+      "سوشيال",
+      "تسويق",
+      "تعليمي"
+    ],
+    "use_cases_en": [
+      "Video production",
+      "Social",
+      "Marketing",
+      "Educational"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=seedance.ai&sz=64"
+  },
+  {
+    "id": "veo-3-1",
+    "name_ar": "Veo 3.1",
+    "name_en": "Google Veo 3.1",
+    "slug": "veo-3-1",
+    "tagline_ar": "أفضل جودة فيديو AI شاملة من Google",
+    "tagline_en": "Best overall AI video quality from Google",
+    "desc_ar": "Veo 3.1 يقدم أفضل تصميم صوتي مع 4K native و 48kHz. الأفضل للمحتوى السينمائي.",
+    "desc_en": "Veo 3.1 delivers best scene-level audio with native 4K and 48kHz. Best for cinematic content.",
+    "long_desc_ar": "Google Veo 3.1 يجمع جودة بصرية رائعة مع تصميم صوتي احترافي. كل صوت في المشهد مقصود وسينمائي. الخيار الأول للمحتوى الاحترافي.",
+    "long_desc_en": "Google Veo 3.1 combines stunning visuals with professional audio design. Every sound feels intentional and cinematic. First choice for professional content.",
+    "category": "video",
+    "tags_ar": [
+      "Veo",
+      "Google",
+      "سينمائي",
+      "4K"
+    ],
+    "tags_en": [
+      "Veo",
+      "Google",
+      "cinematic",
+      "4K"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$20",
+    "price_pro": "$0.035/sec",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API",
+      "Vertex AI"
+    ],
+    "website": "https://deepmind.google/technologies/veo",
+    "monthly_visits": "10M+",
+    "trending_score": 96,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "seedance-2",
+      "kling-3",
+      "runway"
+    ],
+    "integrations": [
+      "Google Cloud",
+      "Vertex AI",
+      "API"
+    ],
+    "use_cases_ar": [
+      "محتوى سينمائي",
+      "تسويق",
+      "إعلاني",
+      "تعليم"
+    ],
+    "use_cases_en": [
+      "Cinematic content",
+      "Marketing",
+      "Ads",
+      "Education"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepmind.google&sz=64"
+  },
+  {
+    "id": "kling-3",
+    "name_ar": "Kling 3.0",
+    "name_en": "Kling 3.0",
+    "slug": "kling-3",
+    "tagline_ar": "أفضل قيمة/تكلفة في فيديو AI",
+    "tagline_en": "Best value-for-cost in AI video",
+    "desc_ar": "Kling 3.0 يحتل 4 مراكز في أعلى 10 نماذج. تسلسلات متعددة اللقطات بـ $0.50/مقطع.",
+    "desc_en": "Kling 3.0 occupies 4 spots in top 10 models. Multi-shot sequences at $0.50/clip.",
+    "long_desc_ar": "Kling 3.0 من Kuaishou يجمع جودة عالية بسعر $0.50/مقطع. يدعم مقاطع 10 ثوانٍ وصوت native بـ 5 لغات. الأفضل للإنتاج بحجم عالٍ.",
+    "long_desc_en": "Kling 3.0 from Kuaishou combines high quality at $0.50/clip. Supports 10-second clips with native audio in 5 languages. Best for high-volume production.",
+    "category": "video",
+    "tags_ar": [
+      "Kling",
+      "Kuaishou",
+      "قيمة",
+      "فيديو"
+    ],
+    "tags_en": [
+      "Kling",
+      "Kuaishou",
+      "value",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$7",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://klingai.com",
+    "monthly_visits": "25M+",
+    "trending_score": 95,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "seedance-2",
+      "veo-3-1",
+      "runway"
+    ],
+    "integrations": [
+      "API",
+      "fal.ai"
+    ],
+    "use_cases_ar": [
+      "B-roll",
+      "سوشيال",
+      "إعلاني",
+      "إبداعي"
+    ],
+    "use_cases_en": [
+      "B-roll",
+      "Social",
+      "Ads",
+      "Creative"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=klingai.com&sz=64"
+  },
+  {
+    "id": "capcut",
+    "name_ar": "كاب كت",
+    "name_en": "CapCut",
+    "slug": "capcut",
+    "tagline_ar": "محرر الفيديو الأشهر بميزات AI مذهلة",
+    "tagline_en": "Most popular video editor with amazing AI",
+    "desc_ar": "أكثر تطبيق تحرير فيديو تحميلاً بـ 736 مليون مستخدم. AI لإزالة الخلفية والترجمة والمؤثرات.",
+    "desc_en": "Most downloaded video editor with 736M users. AI for background removal, captions, effects.",
+    "long_desc_ar": "CapCut هو تطبيق تحرير الفيديو الأكثر تحميلاً بـ 736 مليون MAU وفقاً لـ a16z. إزالة الخلفية التلقائية والترجمة الفورية والمؤثرات وتوليد الفيديو. يستخدمه ملايين صانعي المحتوى. مجاني تقريباً.",
+    "long_desc_en": "CapCut is the most downloaded video editor with 736M MAU per a16z. Auto background removal, real-time captions, effects, text-to-video. Used by millions of creators. Almost entirely free.",
+    "category": "video",
+    "tags_ar": [
+      "تحرير فيديو",
+      "TikTok",
+      "مجاني",
+      "محتوى"
+    ],
+    "tags_en": [
+      "video editing",
+      "TikTok",
+      "free",
+      "content"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$7.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://capcut.com",
+    "monthly_visits": "200M+",
+    "trending_score": 94,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "runway",
+      "kinemaster"
+    ],
+    "integrations": [
+      "TikTok",
+      "YouTube"
+    ],
+    "use_cases_ar": [
+      "ريلز وتيك توك",
+      "محتوى يوتيوب",
+      "إعلانات",
+      "فيديوهات قصيرة"
+    ],
+    "use_cases_en": [
+      "Reels and TikTok",
+      "YouTube content",
+      "Ads",
+      "Short videos"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=capcut.com&sz=64"
+  },
+  {
+    "id": "google-labs-veo",
+    "name_ar": "فيو 3 من جوجل",
+    "name_en": "Veo 3 by Google",
+    "slug": "google-veo",
+    "tagline_ar": "توليد فيديو ثوري من Google مع صوت",
+    "tagline_en": "Revolutionary video generation from Google with audio",
+    "desc_ar": "Veo 3 أول نموذج أمريكي يغلق الفجوة مع النماذج الصينية في جودة الفيديو. يولد الصوت أيضاً.",
+    "desc_en": "Veo 3 first US model closing gap with Chinese video models. Also generates audio.",
+    "long_desc_ar": "Veo 3 من Google هو أول نموذج أمريكي يضاهي جودة النماذج الصينية في توليد الفيديو. يميزه توليد الصوت والموسيقى مع الفيديو في نفس الوقت. أحدث ضجة كبيرة في مجتمع منشئي المحتوى. متاح عبر Google Labs.",
+    "long_desc_en": "Veo 3 from Google is the first US model matching Chinese video model quality. Distinctive audio and music generation with video simultaneously. Caused major sensation in creator community. Available via Google Labs.",
+    "category": "video",
+    "tags_ar": [
+      "جوجل",
+      "فيديو",
+      "صوت",
+      "ثوري"
+    ],
+    "tags_en": [
+      "google",
+      "video",
+      "audio",
+      "revolutionary"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://labs.google",
+    "monthly_visits": "10M+",
+    "trending_score": 93,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [
+      "runway",
+      "kling-ai",
+      "sora"
+    ],
+    "integrations": [
+      "Google Workspace"
+    ],
+    "use_cases_ar": [
+      "توليد فيديو مع صوت",
+      "محتوى إبداعي",
+      "إعلانات",
+      "أفلام قصيرة"
+    ],
+    "use_cases_en": [
+      "Video with audio",
+      "Creative content",
+      "Ads",
+      "Short films"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=labs.google&sz=64"
+  },
+  {
+    "id": "veo3",
+    "name_ar": "فيو 3 من جوجل",
+    "name_en": "Veo 3 by Google",
+    "slug": "veo3",
+    "tagline_ar": "توليد فيديو ثوري مع صوت من Google",
+    "tagline_en": "Revolutionary video with audio from Google",
+    "desc_ar": "Veo 3 أول نموذج أمريكي يضاهي النماذج الصينية. يولد الصوت مع الفيديو.",
+    "desc_en": "Veo 3 first US model matching Chinese quality. Generates audio with video.",
+    "long_desc_ar": "Veo 3 أول نموذج أمريكي يضاهي النماذج الصينية. يولد الصوت مع الفيديو.",
+    "long_desc_en": "Veo 3 first US model matching Chinese quality. Generates audio with video.",
+    "category": "video",
+    "tags_ar": [
+      "جوجل",
+      "فيديو",
+      "صوت",
+      "ثوري"
+    ],
+    "tags_en": [
+      "google",
+      "video",
+      "audio",
+      "revolutionary"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://labs.google",
+    "monthly_visits": "10M+",
+    "trending_score": 93,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [
+      "runway",
+      "kling-ai",
+      "sora"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=labs.google&sz=64"
+  },
+  {
+    "id": "veo-3",
+    "name_ar": "فيو 3",
+    "name_en": "Veo 3 by Google",
+    "slug": "veo-3",
+    "tagline_ar": "أول نموذج أمريكي يضاهي الصيني مع صوت",
+    "tagline_en": "First US model matching Chinese quality with audio",
+    "desc_ar": "Veo 3 يولد فيديو مع صوت. رفع Google Labs من #36 إلى #25 في a16z. صنع ضجة ضخمة.",
+    "desc_en": "Veo 3 generates video with audio. Raised Google Labs from #36 to #25 in a16z. Caused massive sensation.",
+    "long_desc_ar": "Veo 3 يولد فيديو مع صوت. رفع Google Labs من #36 إلى #25 في a16z. صنع ضجة ضخمة.",
+    "long_desc_en": "Veo 3 generates video with audio. Raised Google Labs from #36 to #25 in a16z. Caused massive sensation.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://labs.google",
+    "monthly_visits": "30M+",
+    "trending_score": 93,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=labs.google&sz=64"
+  },
+  {
+    "id": "runway",
+    "name_ar": "رن واي",
+    "name_en": "Runway",
+    "slug": "runway",
+    "tagline_ar": "منصة توليد الفيديو AI الاحترافية",
+    "tagline_en": "Professional AI video generation platform",
+    "desc_ar": "المنصة الرائدة في توليد وتحرير الفيديو AI. تستخدم في هوليوود والإعلانات العالمية.",
+    "desc_en": "Leading AI video generation and editing platform. Used in Hollywood and global advertising.",
+    "long_desc_ar": "Runway رائدة توليد الفيديو AI على مستوى احترافي. استُخدمت في أفلام هوليوود. Gen-3 Alpha أحد أقوى نماذج الفيديو. أدوات تحرير متقدمة لإزالة الخلفية وتتبع الحركة.",
+    "long_desc_en": "Runway leads professional AI video generation. Used in Hollywood films. Gen-3 Alpha is one of the most powerful video models. Advanced editing tools for background removal and motion tracking.",
+    "category": "video",
+    "tags_ar": [
+      "فيديو احترافي",
+      "هوليوود",
+      "إعلانات",
+      "تحرير"
+    ],
+    "tags_en": [
+      "professional video",
+      "Hollywood",
+      "ads",
+      "editing"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$15/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://runwayml.com",
+    "monthly_visits": "8M+",
+    "trending_score": 92,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [
+      "kling-ai",
+      "hailuo",
+      "sora"
+    ],
+    "integrations": [
+      "Adobe Premiere",
+      "API"
+    ],
+    "use_cases_ar": [
+      "توليد فيديو",
+      "تحرير احترافي",
+      "إعلانات",
+      "أفلام قصيرة"
+    ],
+    "use_cases_en": [
+      "Video generation",
+      "Professional editing",
+      "Ads",
+      "Short films"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=64"
+  },
+  {
+    "id": "heygen",
+    "name_ar": "هيي جين",
+    "name_en": "HeyGen",
+    "slug": "heygen",
+    "tagline_ar": "فيديوهات احترافية بأفاتار واقعي ناطق",
+    "tagline_en": "Professional videos with realistic talking avatars",
+    "desc_ar": "ينشئ فيديوهات تسويقية وتعليمية بأفاتار بشري واقعي. يدعم 40+ لغة بما فيها العربية.",
+    "desc_en": "Creates marketing and educational videos with realistic avatars. Supports 40+ languages including Arabic.",
+    "long_desc_ar": "HeyGen ثورة في الفيديو التسويقي. أفاتار بشري واقعي ينطق بأي نص بـ 40+ لغة. Video Translation تترجم فيديوهاتك مع مزامنة الشفاه. 5 مليون زيارة شهرية.",
+    "long_desc_en": "HeyGen revolutionizes marketing video. Realistic human avatars speaking any text in 40+ languages. Video Translation with lip sync. 5M monthly visits.",
+    "category": "video",
+    "tags_ar": [
+      "أفاتار",
+      "عربي",
+      "تسويق",
+      "ترجمة"
+    ],
+    "tags_en": [
+      "avatar",
+      "arabic",
+      "marketing",
+      "translation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://heygen.com",
+    "monthly_visits": "5M+",
+    "trending_score": 92,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "synthesia",
+      "d-id",
+      "colossyan"
+    ],
+    "integrations": [
+      "Canva",
+      "HubSpot"
+    ],
+    "use_cases_ar": [
+      "محتوى تعليمي",
+      "فيديوهات تسويقية",
+      "تدريب الموظفين",
+      "قنوات يوتيوب"
+    ],
+    "use_cases_en": [
+      "Educational content",
+      "Marketing videos",
+      "Training",
+      "YouTube"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=heygen.com&sz=64"
+  },
+  {
+    "id": "kling-2",
+    "name_ar": "كلينج 2.0",
+    "name_en": "Kling AI 2.0",
+    "slug": "kling-2",
+    "tagline_ar": "توليد فيديو صيني يقود السوق في 2026",
+    "tagline_en": "Chinese video generation leading market in 2026",
+    "desc_ar": "Kling 2.0 يقود جودة الفيديو AI في 2026 وفقاً لـ a16z. تحكم احترافي في الكاميرا.",
+    "desc_en": "Kling 2.0 leads AI video quality in 2026 according to a16z. Professional camera control.",
+    "long_desc_ar": "Kling 2.0 يقود جودة الفيديو AI في 2026 وفقاً لـ a16z. تحكم احترافي في الكاميرا.",
+    "long_desc_en": "Kling 2.0 leads AI video quality in 2026 according to a16z. Professional camera control.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://klingai.com",
+    "monthly_visits": "10M+",
+    "trending_score": 92,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=klingai.com&sz=64"
+  },
+  {
+    "id": "sora",
+    "name_ar": "سورا",
+    "name_en": "Sora",
+    "slug": "sora",
+    "tagline_ar": "مولد فيديو OpenAI الأول من نوعه",
+    "tagline_en": "OpenAI's groundbreaking video generator",
+    "desc_ar": "مولد الفيديو من OpenAI. وصل 1 مليون تحميل أسرع من ChatGPT. 3 مليون مستخدم يومي.",
+    "desc_en": "OpenAI's video generator. Reached 1M downloads faster than ChatGPT. 3M daily active users.",
+    "long_desc_ar": "Sora من OpenAI وصل 1 مليون تحميل أسرع من ChatGPT وله 3 مليون مستخدم يومي. يولد فيديو واقعي من نص. نسخة 2.0 صدرت سبتمبر 2025.",
+    "long_desc_en": "Sora from OpenAI reached 1M downloads faster than ChatGPT with 3M daily active users. Generates realistic video from text. Version 2.0 released September 2025.",
+    "category": "video",
+    "tags_ar": [
+      "OpenAI",
+      "فيديو",
+      "نص إلى فيديو",
+      "ثوري"
+    ],
+    "tags_en": [
+      "OpenAI",
+      "video",
+      "text-to-video",
+      "groundbreaking"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$20/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://sora.com",
+    "monthly_visits": "20M+",
+    "trending_score": 91,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "runway",
+      "kling-ai",
+      "hailuo"
+    ],
+    "integrations": [
+      "ChatGPT"
+    ],
+    "use_cases_ar": [
+      "توليد فيديو",
+      "محتوى إبداعي",
+      "أفلام قصيرة",
+      "تأثيرات بصرية"
+    ],
+    "use_cases_en": [
+      "Video generation",
+      "Creative content",
+      "Short films",
+      "Visual effects"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sora.com&sz=64"
+  },
+  {
+    "id": "sora-2",
+    "name_ar": "سورا 2.0",
+    "name_en": "Sora 2.0",
+    "slug": "sora-2",
+    "tagline_ar": "مولد فيديو OpenAI بـ 3M مستخدم يومي",
+    "tagline_en": "OpenAI video generator with 3M daily users",
+    "desc_ar": "Sora 2.0 أُطلق سبتمبر 2025. مليون تحميل أسرع من ChatGPT الأصلي. 3M مستخدم يومي نشط.",
+    "desc_en": "Sora 2.0 launched September 2025. Reached 1M downloads faster than original ChatGPT. 3M daily active users.",
+    "long_desc_ar": "Sora 2.0 أُطلق سبتمبر 2025. مليون تحميل أسرع من ChatGPT الأصلي. 3M مستخدم يومي نشط.",
+    "long_desc_en": "Sora 2.0 launched September 2025. Reached 1M downloads faster than original ChatGPT. 3M daily active users.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://sora.com",
+    "monthly_visits": "20M+",
+    "trending_score": 91,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sora.com&sz=64"
+  },
+  {
+    "id": "runwayml",
+    "name_ar": "Runway Gen-4",
+    "name_en": "Runway Gen-4",
+    "slug": "runwayml",
+    "tagline_ar": "المعيار الاحترافي في فيديو AI",
+    "tagline_en": "Professional standard in AI video",
+    "desc_ar": "Runway Gen-4 — المعيار الاحترافي في فيديو AI",
+    "desc_en": "Runway Gen-4 — Professional standard in AI video",
+    "long_desc_ar": "Runway Gen-4 — المعيار الاحترافي في فيديو AI",
+    "long_desc_en": "Runway Gen-4 — Professional standard in AI video",
+    "category": "video",
+    "tags_ar": [
+      "Runway Gen-4",
+      "video"
+    ],
+    "tags_en": [
+      "Runway Gen-4",
+      "video"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$12",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://runwayml.com",
+    "monthly_visits": "2M+",
+    "trending_score": 91,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=64"
+  },
+  {
+    "id": "kling-ai",
+    "name_ar": "كلينج AI",
+    "name_en": "Kling AI",
+    "slug": "kling-ai",
+    "tagline_ar": "توليد فيديو صيني بجودة استثنائية",
+    "tagline_en": "Chinese AI video with exceptional quality",
+    "desc_ar": "نموذج فيديو صيني من Kuaishou في a16z Top 100 2026. جودة تضاهي Sora.",
+    "desc_en": "Chinese video model from Kuaishou on a16z Top 100 2026. Sora-quality output.",
+    "long_desc_ar": "Kling AI من Kuaishou في a16z Top 100 AI Apps 2026. جودة استثنائية في الحركة الطبيعية. النماذج الصينية تقود السوق في جودة الفيديو وفقاً لـ a16z. مجاني بشكل سخي.",
+    "long_desc_en": "Kling AI from Kuaishou on a16z Top 100. Exceptional natural motion quality. Chinese models lead video quality market according to a16z. Very generous free tier.",
+    "category": "video",
+    "tags_ar": [
+      "صيني",
+      "جودة عالية",
+      "حركة طبيعية",
+      "مجاني"
+    ],
+    "tags_en": [
+      "chinese",
+      "high quality",
+      "natural motion",
+      "free"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://klingai.com",
+    "monthly_visits": "10M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "runway",
+      "sora",
+      "hailuo"
+    ],
+    "integrations": [
+      "API"
+    ],
+    "use_cases_ar": [
+      "توليد فيديو",
+      "محتوى إبداعي",
+      "إعلانات",
+      "أفلام قصيرة"
+    ],
+    "use_cases_en": [
+      "Video generation",
+      "Creative content",
+      "Ads",
+      "Short films"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=klingai.com&sz=64"
+  },
+  {
+    "id": "runway-gen4",
+    "name_ar": "رن واي جن 4",
+    "name_en": "Runway Gen-4",
+    "slug": "runway-gen4",
+    "tagline_ar": "أقوى نموذج فيديو من Runway",
+    "tagline_en": "Runway's most powerful video model",
+    "desc_ar": "Gen-4 من Runway يحقق جودة سينمائية استثنائية. تحكم احترافي في الشخصيات والمشاهد.",
+    "desc_en": "Gen-4 من Runway يحقق جودة سينمائية استثنائية. تحكم احترافي في الشخصيات والمشاهد.",
+    "long_desc_ar": "Gen-4 من Runway يحقق جودة سينمائية استثنائية. تحكم احترافي في الشخصيات والمشاهد.",
+    "long_desc_en": "Gen-4 من Runway يحقق جودة سينمائية استثنائية. تحكم احترافي في الشخصيات والمشاهد.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://runwayml.com",
+    "monthly_visits": "8M+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=64"
+  },
+  {
+    "id": "kling-professional",
+    "name_ar": "كلينج برو",
+    "name_en": "Kling AI Professional",
+    "slug": "kling-professional",
+    "tagline_ar": "توليد فيديو احترافي بتحكم كامل",
+    "tagline_en": "Professional video generation with full control",
+    "desc_ar": "Kling Professional للمحترفين. تحكم في الكاميرا والشخصيات والحركة باحترافية عالية.",
+    "desc_en": "Kling Professional للمحترفين. تحكم في الكاميرا والشخصيات والحركة باحترافية عالية.",
+    "long_desc_ar": "Kling Professional للمحترفين. تحكم في الكاميرا والشخصيات والحركة باحترافية عالية.",
+    "long_desc_en": "Kling Professional للمحترفين. تحكم في الكاميرا والشخصيات والحركة باحترافية عالية.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$28/mo",
+    "price_pro": "$28/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://klingai.com",
+    "monthly_visits": "10M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=klingai.com&sz=64"
+  },
+  {
+    "id": "heygen-2026",
+    "name_ar": "HeyGen",
+    "name_en": "HeyGen",
+    "slug": "heygen-2026",
+    "tagline_ar": "دبلجة فيديو AI بـ 40+ لغة",
+    "tagline_en": "AI video dubbing in 40+ languages",
+    "desc_ar": "HeyGen يترجم ويدبلج الفيديو بصوت وحركة شفاه مطابقة في 40+ لغة. 1100+ Avatar.",
+    "desc_en": "HeyGen translates and dubs video with matching voice and lips in 40+ languages. 1100+ Avatars.",
+    "long_desc_ar": "HeyGen تميّز بقدرة الدبلجة الفورية. يحافظ على صوتك مع ترجمة لـ 40+ لغة وحركة شفاه مطابقة. الرائد في AI Avatar بـ 1100+ avatar.",
+    "long_desc_en": "HeyGen distinguished itself with instant dubbing. Preserves your voice while translating to 40+ languages with matching lip movement. Leader in AI Avatar with 1100+ avatars.",
+    "category": "video",
+    "tags_ar": [
+      "HeyGen",
+      "دبلجة",
+      "Avatar",
+      "ترجمة فيديو"
+    ],
+    "tags_en": [
+      "HeyGen",
+      "dubbing",
+      "avatar",
+      "video translation"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://heygen.com",
+    "monthly_visits": "8M+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "synthesia-2026",
+      "d-id",
+      "runway"
+    ],
+    "integrations": [
+      "API",
+      "Zapier",
+      "HubSpot"
+    ],
+    "use_cases_ar": [
+      "دبلجة يوتيوب",
+      "تسويق دولي",
+      "Talking Head",
+      "تعليمي"
+    ],
+    "use_cases_en": [
+      "YouTube dubbing",
+      "Intl marketing",
+      "Talking head",
+      "Educational"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=heygen.com&sz=64"
+  },
+  {
+    "id": "seedance",
+    "name_ar": "سيدانس",
+    "name_en": "Seedance",
+    "slug": "seedance",
+    "tagline_ar": "توليد فيديو من ByteDance بجودة استثنائية",
+    "tagline_en": "ByteDance video generation with exceptional quality",
+    "desc_ar": "نموذج الفيديو من ByteDance (TikTok). Seedance 2.0 يقود جودة الفيديو AI حسب a16z 2026.",
+    "desc_en": "ByteDance (TikTok) video model. Seedance 2.0 leading AI video quality according to a16z 2026.",
+    "long_desc_ar": "نموذج الفيديو من ByteDance (TikTok). Seedance 2.0 يقود جودة الفيديو AI حسب a16z 2026.",
+    "long_desc_en": "ByteDance (TikTok) video model. Seedance 2.0 leading AI video quality according to a16z 2026.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://seedance.ai",
+    "monthly_visits": "20M+",
+    "trending_score": 89,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=seedance.ai&sz=64"
+  },
+  {
+    "id": "hailuo-2",
+    "name_ar": "هايلو 2",
+    "name_en": "Hailuo AI 2.0",
+    "slug": "hailuo-2",
+    "tagline_ar": "فيديو MiniMax سينمائي بدقة 4K",
+    "tagline_en": "MiniMax cinematic video at 4K resolution",
+    "desc_ar": "Hailuo 2.0 من MiniMax يدعم 4K والتحكم الدقيق في المشاهد. من أقوى نماذج الفيديو في 2026.",
+    "desc_en": "Hailuo 2.0 from MiniMax supports 4K and precise scene control. One of strongest video models in 2026.",
+    "long_desc_ar": "Hailuo 2.0 من MiniMax يدعم 4K والتحكم الدقيق في المشاهد. من أقوى نماذج الفيديو في 2026.",
+    "long_desc_en": "Hailuo 2.0 from MiniMax supports 4K and precise scene control. One of strongest video models in 2026.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://hailuoai.com",
+    "monthly_visits": "5M+",
+    "trending_score": 89,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hailuoai.com&sz=64"
+  },
+  {
+    "id": "captions-ai",
+    "name_ar": "Captions",
+    "name_en": "Captions",
+    "slug": "captions-ai",
+    "tagline_ar": "تعليق تلقائي وتحسين فيديو بالذكاء الاصطناعي",
+    "tagline_en": "Auto captions and AI video enhancement",
+    "desc_ar": "Captions يُضيف تعليقات تلقائية ويُحسّن جودة الصوت والصورة في الفيديو. يستخدمه 10M+ صانع محتوى.",
+    "desc_en": "Captions adds auto captions and enhances audio and video quality. Used by 10M+ content creators.",
+    "long_desc_ar": "Captions يُضيف تعليقات تلقائية ويُحسّن جودة الصوت والصورة في الفيديو. يستخدمه 10M+ صانع محتوى.",
+    "long_desc_en": "Captions adds auto captions and enhances audio and video quality. Used by 10M+ content creators.",
+    "category": "video",
+    "tags_ar": [
+      "Captions",
+      "تعليق",
+      "تحسين فيديو",
+      "سوشيال"
+    ],
+    "tags_en": [
+      "Captions",
+      "subtitles",
+      "video enhancement",
+      "social"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$13",
+    "has_free_trial": true,
+    "platforms": [
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "website": "https://captions.ai",
+    "monthly_visits": "10M+",
+    "trending_score": 89,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "descript",
+      "opus-clip"
+    ],
+    "integrations": [
+      "TikTok",
+      "Instagram",
+      "YouTube"
+    ],
+    "use_cases_ar": [
+      "تعليق تلقائي",
+      "تحسين فيديو",
+      "سوشيال",
+      "يوتيوب"
+    ],
+    "use_cases_en": [
+      "Auto captions",
+      "Video enhancement",
+      "Social",
+      "YouTube"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=captions.ai&sz=64"
+  },
+  {
+    "id": "synthesia",
+    "name_ar": "سينثيسيا",
+    "name_en": "Synthesia",
+    "slug": "synthesia",
+    "tagline_ar": "فيديوهات تدريبية احترافية بدون تصوير",
+    "tagline_en": "Professional training videos without filming",
+    "desc_ar": "منصة الفيديو المؤسسي الأولى. تحول النصوص لفيديوهات تدريبية بأفاتار واقعية وبدون كاميرا.",
+    "desc_en": "#1 enterprise video platform. Text to professional training videos with realistic avatars, no camera.",
+    "long_desc_ar": "Synthesia في قائمة a16z Top 100. تستخدمها أكبر شركات العالم. 120 لغة ومئات الأفاتار. Video Agents لأتمتة إنشاء الفيديو.",
+    "long_desc_en": "Synthesia on a16z Top 100. Used by world's largest companies. 120 languages and hundreds of avatars. Video Agents for automated video creation.",
+    "category": "video",
+    "tags_ar": [
+      "مؤسسي",
+      "تدريب",
+      "120 لغة",
+      "أفاتار"
+    ],
+    "tags_en": [
+      "enterprise",
+      "training",
+      "120 languages",
+      "avatars"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$29/mo",
+    "price_pro": "$89/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://synthesia.io",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "heygen",
+      "d-id",
+      "colossyan"
+    ],
+    "integrations": [
+      "LMS",
+      "API",
+      "Canva"
+    ],
+    "use_cases_ar": [
+      "تدريب الموظفين",
+      "دورات إلكترونية",
+      "محتوى مؤسسي",
+      "تسويق"
+    ],
+    "use_cases_en": [
+      "Employee training",
+      "E-learning",
+      "Corporate content",
+      "Marketing"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=64"
+  },
+  {
+    "id": "hailuo",
+    "name_ar": "هايلو AI",
+    "name_en": "Hailuo AI",
+    "slug": "hailuo",
+    "tagline_ar": "مولد فيديو صيني بمشاهد سينمائية",
+    "tagline_en": "Chinese video generator with cinematic scenes",
+    "desc_ar": "نموذج فيديو صيني بجودة سينمائية استثنائية. في a16z Top 100 AI Apps 2026.",
+    "desc_en": "Chinese video model with exceptional cinematic quality. On a16z Top 100 AI Apps 2026.",
+    "long_desc_ar": "Hailuo AI من MiniMax أحد أفضل نماذج الفيديو الصينية. ظهر في a16z Top 100 مع Kling وPixverse. جودة سينمائية استثنائية في الحركة والإضاءة. مجاني بشكل سخي.",
+    "long_desc_en": "Hailuo AI from MiniMax is one of the best Chinese video models. Appeared on a16z Top 100 with Kling and Pixverse. Exceptional cinematic quality in motion and lighting. Very generous free tier.",
+    "category": "video",
+    "tags_ar": [
+      "صيني",
+      "سينمائي",
+      "جودة عالية",
+      "مجاني"
+    ],
+    "tags_en": [
+      "chinese",
+      "cinematic",
+      "high quality",
+      "free"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://hailuoai.com",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [
+      "runway",
+      "kling-ai",
+      "sora"
+    ],
+    "integrations": [
+      "API"
+    ],
+    "use_cases_ar": [
+      "فيديو سينمائي",
+      "محتوى إبداعي",
+      "إعلانات",
+      "أفلام"
+    ],
+    "use_cases_en": [
+      "Cinematic video",
+      "Creative content",
+      "Ads",
+      "Films"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hailuoai.com&sz=64"
+  },
+  {
+    "id": "pixverse-2",
+    "name_ar": "بيكس فيرس 2",
+    "name_en": "Pixverse 2.0",
+    "slug": "pixverse-2",
+    "tagline_ar": "فيديو أنيمي وواقعي من الصين بجودة 2026",
+    "tagline_en": "Anime and realistic Chinese video at 2026 quality",
+    "desc_ar": "Pixverse 2.0 يرفع سقف جودة الأنيمي والواقعي في الفيديو AI. في a16z Top 100 2026.",
+    "desc_en": "Pixverse 2.0 raises the bar for anime and realistic AI video quality. On a16z Top 100 2026.",
+    "long_desc_ar": "Pixverse 2.0 يرفع سقف جودة الأنيمي والواقعي في الفيديو AI. في a16z Top 100 2026.",
+    "long_desc_en": "Pixverse 2.0 raises the bar for anime and realistic AI video quality. On a16z Top 100 2026.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pixverse.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pixverse.ai&sz=64"
+  },
+  {
+    "id": "eleven-voice-video",
+    "name_ar": "إليفن صوت فيديو",
+    "name_en": "ElevenLabs Voice+Video",
+    "slug": "eleven-voice-video",
+    "tagline_ar": "دمج الصوت مع الفيديو AI بسلاسة",
+    "tagline_en": "Seamless voice and video AI integration",
+    "desc_ar": "ElevenLabs تدمج الصوت مع الفيديو. دبلجة فورية للفيديوهات بـ 29 لغة.",
+    "desc_en": "ElevenLabs تدمج الصوت مع الفيديو. دبلجة فورية للفيديوهات بـ 29 لغة.",
+    "long_desc_ar": "ElevenLabs تدمج الصوت مع الفيديو. دبلجة فورية للفيديوهات بـ 29 لغة.",
+    "long_desc_en": "ElevenLabs تدمج الصوت مع الفيديو. دبلجة فورية للفيديوهات بـ 29 لغة.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://elevenlabs.io",
+    "monthly_visits": "30M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=64"
+  },
+  {
+    "id": "pika-2-5",
+    "name_ar": "Pika 2.5",
+    "name_en": "Pika 2.5",
+    "slug": "pika-2-5",
+    "tagline_ar": "أداة فيديو AI للسوشيال والتجارب الإبداعية",
+    "tagline_en": "AI video tool for social and creative experiments",
+    "desc_ar": "Pika 2.5 متخصص في محتوى التواصل الاجتماعي القصير. Pikaffects وPikaswaps وPikaformance للـ Lip-sync.",
+    "desc_en": "Pika 2.5 specializes in short social content. Pikaffects, Pikaswaps, and Pikaformance for lip-sync.",
+    "long_desc_ar": "Pika 2.5 الأكثر متعة لتجارب الفيديو الإبداعية. يُحوّل الصور إلى فيديو بتأثيرات مبتكرة. مثالي لـ TikTok وReels وShorts.",
+    "long_desc_en": "Pika 2.5 the most fun for creative video experiments. Converts images to video with innovative effects. Ideal for TikTok, Reels, and Shorts.",
+    "category": "video",
+    "tags_ar": [
+      "Pika",
+      "سوشيال",
+      "إبداعي",
+      "Lip-sync"
+    ],
+    "tags_en": [
+      "Pika",
+      "social",
+      "creative",
+      "lip-sync"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://pika.art",
+    "monthly_visits": "10M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [
+      "kling-3",
+      "hailuo-2-3",
+      "heygen-2026"
+    ],
+    "integrations": [
+      "API"
+    ],
+    "use_cases_ar": [
+      "TikTok",
+      "Reels",
+      "تجارب إبداعية",
+      "Talking Head"
+    ],
+    "use_cases_en": [
+      "TikTok",
+      "Reels",
+      "Creative experiments",
+      "Talking head"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pika.art&sz=64"
+  },
+  {
+    "id": "synthesia-2026",
+    "name_ar": "Synthesia",
+    "name_en": "Synthesia",
+    "slug": "synthesia-2026",
+    "tagline_ar": "فيديو Avatar AI للشركات — 60% من Fortune 100",
+    "tagline_en": "Corporate Avatar AI — 60% of Fortune 100",
+    "desc_ar": "Synthesia تُنشئ فيديوهات تدريب احترافية بـ Avatars واقعية في دقائق. 60 لغة. تُستخدم من Fortune 100.",
+    "desc_en": "Synthesia creates professional training videos with realistic Avatars in minutes. 60 languages. Used by Fortune 100.",
+    "long_desc_ar": "Synthesia اختارتها 60% من Fortune 100. تدعم 60 لغة مع lip-sync دقيق وأكثر من 160 Avatar. الخيار الأول للتدريب المؤسسي.",
+    "long_desc_en": "Chosen by 60% of Fortune 100. Supports 60 languages with precise lip-sync and 160+ Avatars. First choice for corporate training.",
+    "category": "video",
+    "tags_ar": [
+      "Synthesia",
+      "Avatar",
+      "تدريب",
+      "شركات"
+    ],
+    "tags_en": [
+      "Synthesia",
+      "avatar",
+      "training",
+      "corporate"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$18",
+    "price_pro": "$64",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://synthesia.io",
+    "monthly_visits": "5M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "heygen-2026",
+      "d-id",
+      "runway"
+    ],
+    "integrations": [
+      "PowerPoint",
+      "LMS",
+      "API"
+    ],
+    "use_cases_ar": [
+      "تدريب",
+      "تسويق دولي",
+      "تعليم",
+      "Onboarding"
+    ],
+    "use_cases_en": [
+      "Training",
+      "Intl marketing",
+      "Education",
+      "Onboarding"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=64"
+  },
+  {
+    "id": "luma-ai",
+    "name_ar": "لوما AI",
+    "name_en": "Luma AI",
+    "slug": "luma-ai",
+    "tagline_ar": "من صور ثلاثية الأبعاد إلى فيديو واقعي",
+    "tagline_en": "From 3D photos to realistic video",
+    "desc_ar": "منصة AI لإنشاء فيديو 3D واقعي ومشاهد ثلاثية الأبعاد من صور عادية.",
+    "desc_en": "AI platform for realistic 3D video and scenes from regular photos.",
+    "long_desc_ar": "Luma AI تحول الصور العادية إلى مشاهد ثلاثية الأبعاد وفيديو واقعي. Dream Machine هو نموذج الفيديو الذي حقق انتشاراً واسعاً. تستخدم في إنتاج الألعاب والمحتوى الإبداعي والإعلانات.",
+    "long_desc_en": "Luma AI converts regular photos to 3D scenes and realistic video. Dream Machine is the video model that achieved wide adoption. Used in game production, creative content, and advertising.",
+    "category": "video",
+    "tags_ar": [
+      "3D",
+      "فيديو واقعي",
+      "صور",
+      "إبداعي"
+    ],
+    "tags_en": [
+      "3D",
+      "realistic video",
+      "photos",
+      "creative"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "api"
+    ],
+    "website": "https://lumalabs.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "runway",
+      "kling-ai",
+      "sora"
+    ],
+    "integrations": [
+      "API"
+    ],
+    "use_cases_ar": [
+      "فيديو 3D",
+      "مشاهد واقعية",
+      "ألعاب",
+      "إعلانات"
+    ],
+    "use_cases_en": [
+      "3D video",
+      "Realistic scenes",
+      "Games",
+      "Ads"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=64"
+  },
+  {
+    "id": "pixverse",
+    "name_ar": "بيكس فيرس",
+    "name_en": "Pixverse",
+    "slug": "pixverse",
+    "tagline_ar": "فيديو AI بأسلوب أنيمي واقعي",
+    "tagline_en": "AI video in anime and realistic style",
+    "desc_ar": "نموذج فيديو صيني يدعم أسلوب الأنيمي والواقعي. في a16z Top 100 AI Apps 2026.",
+    "desc_en": "Chinese video model supporting anime and realistic styles. On a16z Top 100 AI Apps 2026.",
+    "long_desc_ar": "Pixverse ظهر في a16z Top 100 مع Kling وHailuo. يتميز بدعم أسلوب الأنيمي الاحترافي بجانب الواقعي. شائع جداً في مجتمعات المحتوى الياباني والآسيوي.",
+    "long_desc_en": "Pixverse appeared on a16z Top 100 with Kling and Hailuo. Features support for professional anime style alongside realistic. Very popular in Japanese and Asian content communities.",
+    "category": "video",
+    "tags_ar": [
+      "أنيمي",
+      "واقعي",
+      "صيني",
+      "إبداعي"
+    ],
+    "tags_en": [
+      "anime",
+      "realistic",
+      "chinese",
+      "creative"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://pixverse.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [
+      "runway",
+      "kling-ai",
+      "hailuo"
+    ],
+    "integrations": [
+      "API"
+    ],
+    "use_cases_ar": [
+      "فيديو أنيمي",
+      "فيديو واقعي",
+      "محتوى إبداعي",
+      "شخصيات متحركة"
+    ],
+    "use_cases_en": [
+      "Anime video",
+      "Realistic video",
+      "Creative content",
+      "Animated characters"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pixverse.ai&sz=64"
+  },
+  {
+    "id": "minimax-video",
+    "name_ar": "ميني ماكس",
+    "name_en": "MiniMax Video",
+    "slug": "minimax-video",
+    "tagline_ar": "فيديو AI من MiniMax بجودة سينمائية",
+    "tagline_en": "MiniMax AI video with cinematic quality",
+    "desc_ar": "MiniMax صانع Hailuo يطلق نموذج فيديو مستقل. جودة سينمائية استثنائية ومجاني.",
+    "desc_en": "MiniMax maker of Hailuo launches standalone video model. Exceptional cinematic quality and free.",
+    "long_desc_ar": "MiniMax صانع Hailuo يطلق نموذج فيديو مستقل. جودة سينمائية استثنائية ومجاني.",
+    "long_desc_en": "MiniMax maker of Hailuo launches standalone video model. Exceptional cinematic quality and free.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://minimaxi.com",
+    "monthly_visits": "10M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=minimaxi.com&sz=64"
+  },
+  {
+    "id": "sora-turbo",
+    "name_ar": "سورا توربو",
+    "name_en": "Sora Turbo",
+    "slug": "sora-turbo",
+    "tagline_ar": "الإصدار السريع من Sora للمستخدمين",
+    "tagline_en": "Fast Sora version for users",
+    "desc_ar": "Sora Turbo نسخة أسرع وأرخص. مثالية للتجريب السريع وإنتاج المحتوى.",
+    "desc_en": "Sora Turbo نسخة أسرع وأرخص. مثالية للتجريب السريع وإنتاج المحتوى.",
+    "long_desc_ar": "Sora Turbo نسخة أسرع وأرخص. مثالية للتجريب السريع وإنتاج المحتوى.",
+    "long_desc_en": "Sora Turbo نسخة أسرع وأرخص. مثالية للتجريب السريع وإنتاج المحتوى.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://sora.com",
+    "monthly_visits": "20M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=sora.com&sz=64"
+  },
+  {
+    "id": "heygen-interactive",
+    "name_ar": "هيي جين تفاعلي",
+    "name_en": "HeyGen Interactive Avatar",
+    "slug": "heygen-interactive",
+    "tagline_ar": "أفاتار AI تفاعلي في الوقت الحقيقي",
+    "tagline_en": "Real-time interactive AI avatar",
+    "desc_ar": "HeyGen أطلق أفاتار تفاعلية في الوقت الفعلي. للخدمة والتعليم والاجتماعات.",
+    "desc_en": "HeyGen أطلق أفاتار تفاعلية في الوقت الفعلي. للخدمة والتعليم والاجتماعات.",
+    "long_desc_ar": "HeyGen أطلق أفاتار تفاعلية في الوقت الفعلي. للخدمة والتعليم والاجتماعات.",
+    "long_desc_en": "HeyGen أطلق أفاتار تفاعلية في الوقت الفعلي. للخدمة والتعليم والاجتماعات.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$89/mo",
+    "price_pro": "$89/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://heygen.com",
+    "monthly_visits": "5M+",
+    "trending_score": 87,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=heygen.com&sz=64"
+  },
+  {
+    "id": "synthesia-video",
+    "name_ar": "سينثيسيا فيديو",
+    "name_en": "Synthesia 2.0",
+    "slug": "synthesia-video",
+    "tagline_ar": "فيديوهات مؤسسية AI بدون تصوير",
+    "tagline_en": "Enterprise AI videos without filming",
+    "desc_ar": "Synthesia 2.0 أضاف Video Agents لأتمتة إنشاء الفيديو المؤسسي بالكامل.",
+    "desc_en": "Synthesia 2.0 أضاف Video Agents لأتمتة إنشاء الفيديو المؤسسي بالكامل.",
+    "long_desc_ar": "Synthesia 2.0 أضاف Video Agents لأتمتة إنشاء الفيديو المؤسسي بالكامل.",
+    "long_desc_en": "Synthesia 2.0 أضاف Video Agents لأتمتة إنشاء الفيديو المؤسسي بالكامل.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$29/mo",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://synthesia.io",
+    "monthly_visits": "5M+",
+    "trending_score": 87,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=64"
+  },
+  {
+    "id": "wan-2-6",
+    "name_ar": "Wan 2.6",
+    "name_en": "Wan 2.6",
+    "slug": "wan-2-6",
+    "tagline_ar": "أفضل نموذج فيديو مفتوح المصدر",
+    "tagline_en": "Best open-source video model",
+    "desc_ar": "Wan 2.6 يولّد في 20 ثانية بتكلفة $0.05/ثانية. مفتوح المصدر للتخصيص والـ Self-hosting.",
+    "desc_en": "Wan 2.6 generates in 20 seconds at $0.05/sec. Open source for customization and self-hosting.",
+    "long_desc_ar": "Wan 2.6 هو الخيار الرئيسي للمصدر المفتوق في توليد الفيديو. سرعة 20 ثانية للمقطع مع دعم جزئي للصوت. مثالي لمن يريد تخصيماً كاملاً.",
+    "long_desc_en": "Wan 2.6 is the leading open-source video generation choice. 20-second clip generation with partial audio support. Ideal for full customization.",
+    "category": "video",
+    "tags_ar": [
+      "Wan",
+      "مفتوح المصدر",
+      "سريع",
+      "رخيص"
+    ],
+    "tags_en": [
+      "Wan",
+      "open source",
+      "fast",
+      "cheap"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0.05/sec",
+    "has_free_trial": true,
+    "platforms": [
+      "API",
+      "Local",
+      "HuggingFace"
+    ],
+    "website": "https://wanvideo.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 87,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "kling-3",
+      "seedance-2"
+    ],
+    "integrations": [
+      "HuggingFace",
+      "ComfyUI",
+      "API"
+    ],
+    "use_cases_ar": [
+      "تطوير مخصص",
+      "إنتاج رخيص",
+      "R&D"
+    ],
+    "use_cases_en": [
+      "Custom development",
+      "Low-cost production",
+      "R&D"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wanvideo.ai&sz=64"
+  },
+  {
+    "id": "wan-video",
+    "name_ar": "Wan 2.6",
+    "name_en": "Wan 2.6",
+    "slug": "wan-video",
+    "tagline_ar": "فيديو AI مفتوح المصدر في 20 ثانية",
+    "tagline_en": "Open-source AI video in 20 seconds",
+    "desc_ar": "Wan 2.6 — فيديو AI مفتوح المصدر في 20 ثانية",
+    "desc_en": "Wan 2.6 — Open-source AI video in 20 seconds",
+    "long_desc_ar": "Wan 2.6 — فيديو AI مفتوح المصدر في 20 ثانية",
+    "long_desc_en": "Wan 2.6 — Open-source AI video in 20 seconds",
+    "category": "video",
+    "tags_ar": [
+      "Wan 2.6",
+      "video"
+    ],
+    "tags_en": [
+      "Wan 2.6",
+      "video"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://wanvideo.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 87,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2026,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wanvideo.ai&sz=64"
+  },
+  {
+    "id": "hailuo-2-3",
+    "name_ar": "Hailuo 2.3",
+    "name_en": "Hailuo 2.3",
+    "slug": "hailuo-2-3",
+    "tagline_ar": "سرعة توليد مذهلة في 30 ثانية",
+    "tagline_en": "Amazing 30-second generation speed",
+    "desc_ar": "Hailuo 2.3 من MiniMax يولّد في أقل من 30 ثانية. مثالي للنماذج الأولية والمراجعات السريعة.",
+    "desc_en": "Hailuo 2.3 by MiniMax generates in under 30 seconds. Perfect for prototyping and rapid reviews.",
+    "long_desc_ar": "Hailuo 2.3 خيار القيمة في 2026. جودة بين Pika وRunway بتكلفة أقل من النماذج الغربية. يدعم 1080p/24fps بـ 4 مستويات أسعار.",
+    "long_desc_en": "Hailuo 2.3 is the 2026 value pick. Quality between Pika and Runway at lower cost than Western models. Supports 1080p/24fps with 4 pricing tiers.",
+    "category": "video",
+    "tags_ar": [
+      "Hailuo",
+      "MiniMax",
+      "سريع",
+      "قيمة"
+    ],
+    "tags_en": [
+      "Hailuo",
+      "MiniMax",
+      "fast",
+      "value"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://hailuo.ai",
+    "monthly_visits": "8M+",
+    "trending_score": 86,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "kling-3",
+      "seedance-2",
+      "pika"
+    ],
+    "integrations": [
+      "API",
+      "fal.ai"
+    ],
+    "use_cases_ar": [
+      "نماذج أولية",
+      "سوشيال",
+      "إعلانات"
+    ],
+    "use_cases_en": [
+      "Prototyping",
+      "Social",
+      "Ads"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hailuo.ai&sz=64"
+  },
+  {
+    "id": "higgsfield",
+    "name_ar": "هيجسفيلد",
+    "name_en": "Higgsfield AI",
+    "slug": "higgsfield",
+    "tagline_ar": "فيديو AI سينمائي بتحكم احترافي",
+    "tagline_en": "Cinematic AI video with professional control",
+    "desc_ar": "منصة توليد فيديو AI سينمائي بتحكم دقيق في الكاميرا والحركة. ظهرت في a16z Top 100 2026.",
+    "desc_en": "AI cinematic video generation platform with precise camera and motion control. On a16z Top 100 2026.",
+    "long_desc_ar": "منصة توليد فيديو AI سينمائي بتحكم دقيق في الكاميرا والحركة. ظهرت في a16z Top 100 2026.",
+    "long_desc_en": "AI cinematic video generation platform with precise camera and motion control. On a16z Top 100 2026.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://higgsfield.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=64"
+  },
+  {
+    "id": "luma-dream-machine",
+    "name_ar": "لوما دريم ماشين",
+    "name_en": "Luma Dream Machine",
+    "slug": "luma-dream-machine",
+    "tagline_ar": "فيديو AI ناعم وسينمائي",
+    "tagline_en": "Smooth cinematic AI video",
+    "desc_ar": "Dream Machine من Luma يولد فيديو ناعماً وسينمائياً. تحكم دقيق في الحركة.",
+    "desc_en": "Dream Machine من Luma يولد فيديو ناعماً وسينمائياً. تحكم دقيق في الحركة.",
+    "long_desc_ar": "Dream Machine من Luma يولد فيديو ناعماً وسينمائياً. تحكم دقيق في الحركة.",
+    "long_desc_en": "Dream Machine من Luma يولد فيديو ناعماً وسينمائياً. تحكم دقيق في الحركة.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://lumalabs.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=64"
+  },
+  {
+    "id": "adobe-premiere-ai",
+    "name_ar": "أدوبي بريمير AI",
+    "name_en": "Adobe Premiere AI",
+    "slug": "adobe-premiere-ai",
+    "tagline_ar": "تحرير فيديو احترافي بالذكاء AI",
+    "tagline_en": "Professional AI video editing",
+    "desc_ar": "Adobe Premiere مع AI أكثر ذكاءً. تفريغ تلقائي وتحسين صوت وتأثيرات AI.",
+    "desc_en": "Adobe Premiere مع AI أكثر ذكاءً. تفريغ تلقائي وتحسين صوت وتأثيرات AI.",
+    "long_desc_ar": "Adobe Premiere مع AI أكثر ذكاءً. تفريغ تلقائي وتحسين صوت وتأثيرات AI.",
+    "long_desc_en": "Adobe Premiere مع AI أكثر ذكاءً. تفريغ تلقائي وتحسين صوت وتأثيرات AI.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$54.99/mo",
+    "price_pro": "$54.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://adobe.com",
+    "monthly_visits": "50M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=adobe.com&sz=64"
+  },
+  {
+    "id": "luma-dream",
+    "name_ar": "Luma Dream Machine",
+    "name_en": "Luma Dream Machine",
+    "slug": "luma-dream",
+    "tagline_ar": "أفضل واقعية بيئية في فيديو AI",
+    "tagline_en": "Best environmental realism in AI video",
+    "desc_ar": "Luma Dream Machine يتفوق في الإضاءة والمواد والعلاقات المكانية. سريع وسينمائي.",
+    "desc_en": "Luma Dream Machine excels at lighting, materials, and spatial relationships. Fast and cinematic.",
+    "long_desc_ar": "Luma Dream Machine يستخدم تراث 3D capture من Luma لإنتاج فيديو بواقعية بيئية استثنائية. سريع في التوليد مع جودة مقبولة للبشر.",
+    "long_desc_en": "Luma Dream Machine uses Luma's 3D capture heritage to produce video with exceptional environmental realism. Fast generation with good human rendering.",
+    "category": "video",
+    "tags_ar": [
+      "Luma",
+      "Dream Machine",
+      "بيئة واقعية",
+      "سريع"
+    ],
+    "tags_en": [
+      "Luma",
+      "Dream Machine",
+      "environmental",
+      "fast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "website": "https://lumalabs.ai",
+    "monthly_visits": "8M+",
+    "trending_score": 85,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "kling-3",
+      "veo-3-1",
+      "runway"
+    ],
+    "integrations": [
+      "API",
+      "fal.ai"
+    ],
+    "use_cases_ar": [
+      "محتوى بيئي",
+      "إعلانات عقارية",
+      "تسويق المنتجات",
+      "إبداعي"
+    ],
+    "use_cases_en": [
+      "Environmental content",
+      "Real estate ads",
+      "Product marketing",
+      "Creative"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=64"
+  },
+  {
+    "id": "descript",
+    "name_ar": "ديسكريبت",
+    "name_en": "Descript",
+    "slug": "descript",
+    "tagline_ar": "تحرير الفيديو والبودكاست بالنص",
+    "tagline_en": "Edit video and podcast through text",
+    "desc_ar": "محرر يتيح تحرير الفيديو والبودكاست عبر تحرير النص. ثورة في المونتاج.",
+    "desc_en": "Editor enabling video and podcast editing through text. Revolution in editing.",
+    "long_desc_ar": "محرر يتيح تحرير الفيديو والبودكاست عبر تحرير النص. ثورة في المونتاج.",
+    "long_desc_en": "Editor enabling video and podcast editing through text. Revolution in editing.",
+    "category": "video",
+    "tags_ar": [
+      "تحرير بالنص",
+      "بودكاست",
+      "فريد",
+      "ثوري"
+    ],
+    "tags_en": [
+      "text editing",
+      "podcast",
+      "unique",
+      "revolutionary"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$24/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop",
+      "web"
+    ],
+    "website": "https://descript.com",
+    "monthly_visits": "1M+",
+    "trending_score": 84,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "capcut",
+      "veed-io",
+      "otter-ai"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=descript.com&sz=64"
+  },
+  {
+    "id": "opus-clip",
+    "name_ar": "أوبس كليب",
+    "name_en": "Opus Clip",
+    "slug": "opus-clip",
+    "tagline_ar": "كليبات سوشيال ميديا من الفيديو الطويل",
+    "tagline_en": "Social media clips from long videos",
+    "desc_ar": "يحلل الفيديوهات الطويلة ويقتطع أفضل اللحظات لسوشيال ميديا تلقائياً.",
+    "desc_en": "Analyzes long videos and clips best moments for social media automatically.",
+    "long_desc_ar": "يحلل الفيديوهات الطويلة ويقتطع أفضل اللحظات لسوشيال ميديا تلقائياً.",
+    "long_desc_en": "Analyzes long videos and clips best moments for social media automatically.",
+    "category": "video",
+    "tags_ar": [
+      "كليبات",
+      "سوشيال",
+      "تلقائي",
+      "يوتيوب"
+    ],
+    "tags_en": [
+      "clips",
+      "social media",
+      "automatic",
+      "YouTube"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://opus.pro",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "capcut",
+      "veed-io",
+      "klap-app"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=opus.pro&sz=64"
+  },
+  {
+    "id": "pixverse-v5",
+    "name_ar": "PixVerse V5",
+    "name_en": "PixVerse V5",
+    "slug": "pixverse-v5",
+    "tagline_ar": "أفضل فيديو أنيمي وإبداعي بالـ AI",
+    "tagline_en": "Best anime and creative AI video",
+    "desc_ar": "PixVerse V5 متخصص في المحتوى الفني والرسوم المتحركة. يتفوق في الأسلوب غير الواقعي.",
+    "desc_en": "PixVerse V5 specializes in artistic and animated content. Excels in non-photorealistic style.",
+    "long_desc_ar": "PixVerse V5 متخصص في المحتوى الفني والرسوم المتحركة. يتفوق في الأسلوب غير الواقعي.",
+    "long_desc_en": "PixVerse V5 specializes in artistic and animated content. Excels in non-photorealistic style.",
+    "category": "video",
+    "tags_ar": [
+      "PixVerse V5",
+      "video"
+    ],
+    "tags_en": [
+      "PixVerse V5",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://pixverse.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pixverse.ai&sz=64"
+  },
+  {
+    "id": "d-id",
+    "name_ar": "دي آي دي",
+    "name_en": "D-ID",
+    "slug": "d-id",
+    "tagline_ar": "فيديوهات بأفاتار واقعية من صورة واحدة",
+    "tagline_en": "Realistic avatar videos from one photo",
+    "desc_ar": "فيديوهات بأفاتار بشري واقعي من صورة ونص. مستخدم في التعليم والتسويق.",
+    "desc_en": "Realistic human avatar videos from photo and text. Used in education and marketing.",
+    "long_desc_ar": "فيديوهات بأفاتار بشري واقعي من صورة ونص. مستخدم في التعليم والتسويق.",
+    "long_desc_en": "Realistic human avatar videos from photo and text. Used in education and marketing.",
+    "category": "video",
+    "tags_ar": [
+      "أفاتار",
+      "واقعي",
+      "صورة",
+      "فيديو"
+    ],
+    "tags_en": [
+      "avatar",
+      "realistic",
+      "photo",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$5.9/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://d-id.com",
+    "monthly_visits": "3M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "heygen",
+      "synthesia",
+      "colossyan"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=d-id.com&sz=64"
+  },
+  {
+    "id": "pika-effects",
+    "name_ar": "بيكا إيفكتس",
+    "name_en": "Pika Effects",
+    "slug": "pika-effects",
+    "tagline_ar": "مؤثرات فيديو AI إبداعية فريدة",
+    "tagline_en": "Unique creative AI video effects",
+    "desc_ar": "Pika يتميز بمؤثرات إبداعية فريدة. Crush وExplosion وMelt مؤثرات لا مثيل لها.",
+    "desc_en": "Pika يتميز بمؤثرات إبداعية فريدة. Crush وExplosion وMelt مؤثرات لا مثيل لها.",
+    "long_desc_ar": "Pika يتميز بمؤثرات إبداعية فريدة. Crush وExplosion وMelt مؤثرات لا مثيل لها.",
+    "long_desc_en": "Pika يتميز بمؤثرات إبداعية فريدة. Crush وExplosion وMelt مؤثرات لا مثيل لها.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pika.art",
+    "monthly_visits": "5M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pika.art&sz=64"
+  },
+  {
+    "id": "invideo-ai",
+    "name_ar": "إن فيديو AI",
+    "name_en": "InVideo AI",
+    "slug": "invideo-ai",
+    "tagline_ar": "فيديوهات يوتيوب احترافية من النص",
+    "tagline_en": "Professional YouTube videos from text",
+    "desc_ar": "يحوّل النص والمقالات لفيديوهات يوتيوب احترافية مكتملة. لصانعي المحتوى.",
+    "desc_en": "Converts text and articles to complete professional YouTube videos.",
+    "long_desc_ar": "يحوّل النص والمقالات لفيديوهات يوتيوب احترافية مكتملة. لصانعي المحتوى.",
+    "long_desc_en": "Converts text and articles to complete professional YouTube videos.",
+    "category": "video",
+    "tags_ar": [
+      "يوتيوب",
+      "محتوى",
+      "تحويل",
+      "احترافي"
+    ],
+    "tags_en": [
+      "YouTube",
+      "content",
+      "conversion",
+      "professional"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$25/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://invideo.io",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "heygen",
+      "synthesia",
+      "capcut"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=invideo.io&sz=64"
+  },
+  {
+    "id": "veed-io",
+    "name_ar": "فيد",
+    "name_en": "VEED.IO",
+    "slug": "veed-io",
+    "tagline_ar": "تحرير فيديو AI سهل في المتصفح",
+    "tagline_en": "Easy AI video editing in browser",
+    "desc_ar": "محرر فيديو AI سهل في المتصفح. ترجمة تلقائية وإزالة خلفية وتوليد.",
+    "desc_en": "Easy browser AI video editor. Auto captions, background removal, generation.",
+    "long_desc_ar": "محرر فيديو AI سهل في المتصفح. ترجمة تلقائية وإزالة خلفية وتوليد.",
+    "long_desc_en": "Easy browser AI video editor. Auto captions, background removal, generation.",
+    "category": "video",
+    "tags_ar": [
+      "سهل",
+      "متصفح",
+      "ترجمة",
+      "إزالة خلفية"
+    ],
+    "tags_en": [
+      "easy",
+      "browser",
+      "captions",
+      "background removal"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$18/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://veed.io",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [
+      "capcut",
+      "runway",
+      "invideo-ai"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=veed.io&sz=64"
+  },
+  {
+    "id": "klap-app",
+    "name_ar": "كلاب",
+    "name_en": "Klap",
+    "slug": "klap-app",
+    "tagline_ar": "كليبات تيك توك من يوتيوب تلقائياً",
+    "tagline_en": "Automatic TikTok clips from YouTube",
+    "desc_ar": "يحوّل فيديوهات يوتيوب لكليبات تيك توك وريلز بالذكاء الاصطناعي تلقائياً.",
+    "desc_en": "Converts YouTube videos to TikTok clips and Reels automatically with AI.",
+    "long_desc_ar": "يحوّل فيديوهات يوتيوب لكليبات تيك توك وريلز بالذكاء الاصطناعي تلقائياً.",
+    "long_desc_en": "Converts YouTube videos to TikTok clips and Reels automatically with AI.",
+    "category": "video",
+    "tags_ar": [
+      "تيك توك",
+      "ريلز",
+      "يوتيوب",
+      "تلقائي"
+    ],
+    "tags_en": [
+      "TikTok",
+      "Reels",
+      "YouTube",
+      "automatic"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://klap.app",
+    "monthly_visits": "1M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "opus-clip",
+      "capcut",
+      "veed-io"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=klap.app&sz=64"
+  },
+  {
+    "id": "vidiq",
+    "name_ar": "فيد IQ",
+    "name_en": "VidIQ",
+    "slug": "vidiq",
+    "tagline_ar": "نمّي قناة يوتيوب بالذكاء الاصطناعي",
+    "tagline_en": "Grow YouTube channel with AI",
+    "desc_ar": "أداة AI لنمو قنوات يوتيوب. كلمات مفتاحية وتحليل منافسين وأفكار محتوى.",
+    "desc_en": "AI tool for YouTube growth. Keywords, competitor analysis, content ideas.",
+    "long_desc_ar": "أداة AI لنمو قنوات يوتيوب. كلمات مفتاحية وتحليل منافسين وأفكار محتوى.",
+    "long_desc_en": "AI tool for YouTube growth. Keywords, competitor analysis, content ideas.",
+    "category": "video",
+    "tags_ar": [
+      "يوتيوب",
+      "نمو",
+      "كلمات مفتاحية",
+      "محتوى"
+    ],
+    "tags_en": [
+      "YouTube",
+      "growth",
+      "keywords",
+      "content"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$7.5/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "chrome"
+    ],
+    "website": "https://vidiq.com",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [
+      "tubebuddy",
+      "semrush",
+      "ahrefs"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vidiq.com&sz=64"
+  },
+  {
+    "id": "pika",
+    "name_ar": "بيكا",
+    "name_en": "Pika",
+    "slug": "pika",
+    "tagline_ar": "توليد فيديو AI إبداعي بمؤثرات خاصة",
+    "tagline_en": "Creative AI video generation with special effects",
+    "desc_ar": "منصة توليد فيديو AI مع مؤثرات إبداعية فريدة. Pika 2.2 أضاف ميزات جديدة في 2026.",
+    "desc_en": "AI video generation with unique creative effects. Pika 2.2 added new features in 2026.",
+    "long_desc_ar": "منصة توليد فيديو AI مع مؤثرات إبداعية فريدة. Pika 2.2 أضاف ميزات جديدة في 2026.",
+    "long_desc_en": "AI video generation with unique creative effects. Pika 2.2 added new features in 2026.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pika.art",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pika.art&sz=64"
+  },
+  {
+    "id": "invideo-gen2",
+    "name_ar": "إن فيديو AI 2",
+    "name_en": "InVideo AI 2.0",
+    "slug": "invideo-gen2",
+    "tagline_ar": "فيديوهات يوتيوب كاملة بالذكاء AI",
+    "tagline_en": "Complete YouTube videos with AI",
+    "desc_ar": "InVideo AI 2.0 يبني قنوات يوتيوب كاملة بالذكاء الاصطناعي. Script وVoice وVideo.",
+    "desc_en": "InVideo AI 2.0 يبني قنوات يوتيوب كاملة بالذكاء الاصطناعي. Script وVoice وVideo.",
+    "long_desc_ar": "InVideo AI 2.0 يبني قنوات يوتيوب كاملة بالذكاء الاصطناعي. Script وVoice وVideo.",
+    "long_desc_en": "InVideo AI 2.0 يبني قنوات يوتيوب كاملة بالذكاء الاصطناعي. Script وVoice وVideo.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://invideo.io",
+    "monthly_visits": "5M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=invideo.io&sz=64"
+  },
+  {
+    "id": "vidu-ai",
+    "name_ar": "فيدو AI",
+    "name_en": "Vidu AI",
+    "slug": "vidu-ai",
+    "tagline_ar": "مولد فيديو AI صيني متقدم",
+    "tagline_en": "Advanced Chinese AI video generator",
+    "desc_ar": "Vidu AI من Shengshu Technology. جودة فيديو عالية وتحكم متقدم. صاعد بقوة في 2026.",
+    "desc_en": "Vidu AI من Shengshu Technology. جودة فيديو عالية وتحكم متقدم. صاعد بقوة في 2026.",
+    "long_desc_ar": "Vidu AI من Shengshu Technology. جودة فيديو عالية وتحكم متقدم. صاعد بقوة في 2026.",
+    "long_desc_en": "Vidu AI من Shengshu Technology. جودة فيديو عالية وتحكم متقدم. صاعد بقوة في 2026.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://vidu.studio",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vidu.studio&sz=64"
+  },
+  {
+    "id": "vidu-studio",
+    "name_ar": "Vidu Q3",
+    "name_en": "Vidu Q3",
+    "slug": "vidu-studio",
+    "tagline_ar": "توليد فيديو عالي الدقة بسرعة",
+    "tagline_en": "High-resolution video generation at speed",
+    "desc_ar": "Vidu Q3 يجمع بين سرعة التوليد ودقة عالية. خيار قوي للمنتجين.",
+    "desc_en": "Vidu Q3 combines generation speed with high resolution. Strong choice for producers.",
+    "long_desc_ar": "Vidu Q3 يجمع بين سرعة التوليد ودقة عالية. خيار قوي للمنتجين.",
+    "long_desc_en": "Vidu Q3 combines generation speed with high resolution. Strong choice for producers.",
+    "category": "video",
+    "tags_ar": [
+      "Vidu Q3",
+      "video"
+    ],
+    "tags_en": [
+      "Vidu Q3",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://vidu.studio",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vidu.studio&sz=64"
+  },
+  {
+    "id": "viggle-ai",
+    "name_ar": "Viggle AI",
+    "name_en": "Viggle AI",
+    "slug": "viggle-ai",
+    "tagline_ar": "توليد فيديو بشخصية ثابتة",
+    "tagline_en": "Generate video with consistent character",
+    "desc_ar": "Viggle AI يُحرّك الصور ويُضيف حركة للشخصيات مع الحفاظ على الهوية البصرية.",
+    "desc_en": "Viggle AI animates images and adds movement to characters while maintaining visual identity.",
+    "long_desc_ar": "Viggle AI يُحرّك الصور ويُضيف حركة للشخصيات مع الحفاظ على الهوية البصرية.",
+    "long_desc_en": "Viggle AI animates images and adds movement to characters while maintaining visual identity.",
+    "category": "video",
+    "tags_ar": [
+      "Viggle AI",
+      "video"
+    ],
+    "tags_en": [
+      "Viggle AI",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://viggle.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=viggle.ai&sz=64"
+  },
+  {
+    "id": "submagic",
+    "name_ar": "سبماجيك",
+    "name_en": "Submagic",
+    "slug": "submagic",
+    "tagline_ar": "ترجمة فيديو AI بأنماط جذابة",
+    "tagline_en": "Attractive AI video captions",
+    "desc_ar": "Submagic يضيف ترجمات AI جذابة بتأثيرات بصرية رائعة. شائع لمحتوى TikTok وReels.",
+    "desc_en": "Submagic يضيف ترجمات AI جذابة بتأثيرات بصرية رائعة. شائع لمحتوى TikTok وReels.",
+    "long_desc_ar": "Submagic يضيف ترجمات AI جذابة بتأثيرات بصرية رائعة. شائع لمحتوى TikTok وReels.",
+    "long_desc_en": "Submagic يضيف ترجمات AI جذابة بتأثيرات بصرية رائعة. شائع لمحتوى TikTok وReels.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://submagic.co",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=submagic.co&sz=64"
+  },
+  {
+    "id": "captions-app",
+    "name_ar": "كابشنز",
+    "name_en": "Captions App",
+    "slug": "captions-app",
+    "tagline_ar": "محرر فيديو AI للجوال بترجمة تلقائية",
+    "tagline_en": "Mobile AI video editor with auto captions",
+    "desc_ar": "Captions يضيف ترجمات وتأثيرات AI للفيديو على الجوال. ملايين المستخدمين على iOS.",
+    "desc_en": "Captions يضيف ترجمات وتأثيرات AI للفيديو على الجوال. ملايين المستخدمين على iOS.",
+    "long_desc_ar": "Captions يضيف ترجمات وتأثيرات AI للفيديو على الجوال. ملايين المستخدمين على iOS.",
+    "long_desc_en": "Captions يضيف ترجمات وتأثيرات AI للفيديو على الجوال. ملايين المستخدمين على iOS.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://captions.ai",
+    "monthly_visits": "10M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=captions.ai&sz=64"
+  },
+  {
+    "id": "pollo-ai",
+    "name_ar": "Pollo AI",
+    "name_en": "Pollo AI",
+    "slug": "pollo-ai",
+    "tagline_ar": "توليد فيديو AI متعدد النماذج",
+    "tagline_en": "Multi-model AI video generation",
+    "desc_ar": "Pollo AI يجمع نماذج فيديو متعددة في منصة واحدة. يدعم Sora وKling وHailuo.",
+    "desc_en": "Pollo AI combines multiple video models in one platform. Supports Sora, Kling, and Hailuo.",
+    "long_desc_ar": "Pollo AI يجمع نماذج فيديو متعددة في منصة واحدة. يدعم Sora وKling وHailuo.",
+    "long_desc_en": "Pollo AI combines multiple video models in one platform. Supports Sora, Kling, and Hailuo.",
+    "category": "video",
+    "tags_ar": [
+      "Pollo AI",
+      "video"
+    ],
+    "tags_en": [
+      "Pollo AI",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://pollo.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pollo.ai&sz=64"
+  },
+  {
+    "id": "pikaswaps",
+    "name_ar": "Pika Swaps",
+    "name_en": "Pika Swaps",
+    "slug": "pikaswaps",
+    "tagline_ar": "تغيير عناصر الفيديو بالذكاء الاصطناعي",
+    "tagline_en": "Change video elements with AI",
+    "desc_ar": "Pika Swaps يُغيّر عناصر الفيديو مثل الملابس والبيئة. تأثيرات إبداعية لـ TikTok.",
+    "desc_en": "Pika Swaps changes video elements like clothing and environment. Creative effects for TikTok.",
+    "long_desc_ar": "Pika Swaps يُغيّر عناصر الفيديو مثل الملابس والبيئة. تأثيرات إبداعية لـ TikTok.",
+    "long_desc_en": "Pika Swaps changes video elements like clothing and environment. Creative effects for TikTok.",
+    "category": "video",
+    "tags_ar": [
+      "Pika Swaps",
+      "video"
+    ],
+    "tags_en": [
+      "Pika Swaps",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://pika.art",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pika.art&sz=64"
+  },
+  {
+    "id": "fliki",
+    "name_ar": "فليكي",
+    "name_en": "Fliki",
+    "slug": "fliki",
+    "tagline_ar": "فيديوهات من نص بأصوات AI واقعية 75 لغة",
+    "tagline_en": "Text videos with realistic AI voices in 75 languages",
+    "desc_ar": "يحوّل النصوص لفيديوهات قصيرة بأصوات AI واقعية في 75 لغة.",
+    "desc_en": "Converts text to short videos with realistic AI voices in 75 languages.",
+    "long_desc_ar": "يحوّل النصوص لفيديوهات قصيرة بأصوات AI واقعية في 75 لغة.",
+    "long_desc_en": "Converts text to short videos with realistic AI voices in 75 languages.",
+    "category": "video",
+    "tags_ar": [
+      "نص إلى فيديو",
+      "75 لغة",
+      "أصوات",
+      "سهل"
+    ],
+    "tags_en": [
+      "text-to-video",
+      "75 languages",
+      "voices",
+      "easy"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$28/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://fliki.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "invideo-ai",
+      "murf",
+      "lumen5"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fliki.ai&sz=64"
+  },
+  {
+    "id": "phenaki-ai",
+    "name_ar": "فيناكي",
+    "name_en": "Phenaki by Google",
+    "slug": "phenaki-ai",
+    "tagline_ar": "فيديو AI طويل من Google DeepMind",
+    "tagline_en": "Long-form AI video from Google DeepMind",
+    "desc_ar": "Phenaki من Google DeepMind يولد فيديو طويل وقصصياً. مشاهد متسلسلة ومتصلة.",
+    "desc_en": "Phenaki من Google DeepMind يولد فيديو طويل وقصصياً. مشاهد متسلسلة ومتصلة.",
+    "long_desc_ar": "Phenaki من Google DeepMind يولد فيديو طويل وقصصياً. مشاهد متسلسلة ومتصلة.",
+    "long_desc_en": "Phenaki من Google DeepMind يولد فيديو طويل وقصصياً. مشاهد متسلسلة ومتصلة.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://labs.google",
+    "monthly_visits": "30M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=labs.google&sz=64"
+  },
+  {
+    "id": "filmora-ai",
+    "name_ar": "فيلمورا AI",
+    "name_en": "Filmora 14 AI",
+    "slug": "filmora-ai",
+    "tagline_ar": "محرر فيديو AI للمحترفين والمبتدئين",
+    "tagline_en": "AI video editor for pros and beginners",
+    "desc_ar": "Filmora 14 مع AI Scene Detection وAI Portrait وAI Audio Denoise.",
+    "desc_en": "Filmora 14 مع AI Scene Detection وAI Portrait وAI Audio Denoise.",
+    "long_desc_ar": "Filmora 14 مع AI Scene Detection وAI Portrait وAI Audio Denoise.",
+    "long_desc_en": "Filmora 14 مع AI Scene Detection وAI Portrait وAI Audio Denoise.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$49.99/yr",
+    "price_pro": "$49.99/yr",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://filmora.wondershare.com",
+    "monthly_visits": "5M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=filmora.wondershare.com&sz=64"
+  },
+  {
+    "id": "creatomate",
+    "name_ar": "Creatomate",
+    "name_en": "Creatomate",
+    "slug": "creatomate",
+    "tagline_ar": "أتمتة إنتاج الفيديو بـ API",
+    "tagline_en": "Automate video production with API",
+    "desc_ar": "Creatomate يُنتج فيديوهات تسويقية بـ API. مثالي للشركات التي تحتاج مئات الفيديوهات.",
+    "desc_en": "Creatomate produces marketing videos via API. Ideal for companies needing hundreds of videos.",
+    "long_desc_ar": "Creatomate يُنتج فيديوهات تسويقية بـ API. مثالي للشركات التي تحتاج مئات الفيديوهات.",
+    "long_desc_en": "Creatomate produces marketing videos via API. Ideal for companies needing hundreds of videos.",
+    "category": "video",
+    "tags_ar": [
+      "Creatomate",
+      "video"
+    ],
+    "tags_en": [
+      "Creatomate",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$29",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://creatomate.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=creatomate.com&sz=64"
+  },
+  {
+    "id": "supercut-app",
+    "name_ar": "Supercut",
+    "name_en": "Supercut",
+    "slug": "supercut-app",
+    "tagline_ar": "تحرير فيديو AI فائق السرعة",
+    "tagline_en": "Ultra-fast AI video editing",
+    "desc_ar": "Supercut يُحرّر الفيديو بالذكاء الاصطناعي بشكل أسرع بكثير من الطرق التقليدية. رائج على X.",
+    "desc_en": "Supercut edits video with AI much faster than traditional methods. Trending on X.",
+    "long_desc_ar": "Supercut يُحرّر الفيديو بالذكاء الاصطناعي بشكل أسرع بكثير من الطرق التقليدية. رائج على X.",
+    "long_desc_en": "Supercut edits video with AI much faster than traditional methods. Trending on X.",
+    "category": "video",
+    "tags_ar": [
+      "Supercut",
+      "video"
+    ],
+    "tags_en": [
+      "Supercut",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://supercut.video",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=supercut.video&sz=64"
+  },
+  {
+    "id": "vidyo-ai",
+    "name_ar": "Vidyo AI",
+    "name_en": "Vidyo AI",
+    "slug": "vidyo-ai",
+    "tagline_ar": "إعادة توجيه محتوى الفيديو تلقائياً",
+    "tagline_en": "Automatically repurpose video content",
+    "desc_ar": "Vidyo AI — إعادة توجيه محتوى الفيديو تلقائياً",
+    "desc_en": "Vidyo AI — Automatically repurpose video content",
+    "long_desc_ar": "Vidyo AI — إعادة توجيه محتوى الفيديو تلقائياً",
+    "long_desc_en": "Vidyo AI — Automatically repurpose video content",
+    "category": "video",
+    "tags_ar": [
+      "Vidyo AI",
+      "video"
+    ],
+    "tags_en": [
+      "Vidyo AI",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://vidyo.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vidyo.ai&sz=64"
+  },
+  {
+    "id": "pictory-ai",
+    "name_ar": "Pictory AI",
+    "name_en": "Pictory AI",
+    "slug": "pictory-ai",
+    "tagline_ar": "تحويل المقالات لفيديو بالذكاء الاصطناعي",
+    "tagline_en": "Convert articles to video with AI",
+    "desc_ar": "Pictory AI — تحويل المقالات لفيديو بالذكاء الاصطناعي",
+    "desc_en": "Pictory AI — Convert articles to video with AI",
+    "long_desc_ar": "Pictory AI — تحويل المقالات لفيديو بالذكاء الاصطناعي",
+    "long_desc_en": "Pictory AI — Convert articles to video with AI",
+    "category": "video",
+    "tags_ar": [
+      "Pictory AI",
+      "video"
+    ],
+    "tags_en": [
+      "Pictory AI",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$23",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://pictory.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pictory.ai&sz=64"
+  },
+  {
+    "id": "viggle-dance",
+    "name_ar": "Viggle Dance",
+    "name_en": "Viggle Dance",
+    "slug": "viggle-dance",
+    "tagline_ar": "شخصياتك ترقص بالـ AI",
+    "tagline_en": "Make your characters dance with AI",
+    "desc_ar": "Viggle Dance — شخصياتك ترقص بالـ AI",
+    "desc_en": "Viggle Dance — Make your characters dance with AI",
+    "long_desc_ar": "Viggle Dance — شخصياتك ترقص بالـ AI",
+    "long_desc_en": "Viggle Dance — Make your characters dance with AI",
+    "category": "video",
+    "tags_ar": [
+      "Viggle Dance",
+      "video"
+    ],
+    "tags_en": [
+      "Viggle Dance",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://viggle.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=viggle.ai&sz=64"
+  },
+  {
+    "id": "wisecut",
+    "name_ar": "وايز كت",
+    "name_en": "Wisecut",
+    "slug": "wisecut",
+    "tagline_ar": "تحرير فيديو AI يحذف الصمت تلقائياً",
+    "tagline_en": "AI video editor that removes silence automatically",
+    "desc_ar": "يحرر الفيديو بالذكاء الاصطناعي بإزالة الصمت والتعثر تلقائياً. مثالي لصانعي المحتوى.",
+    "desc_en": "Edits video with AI by automatically removing silence and filler words. Perfect for content creators.",
+    "long_desc_ar": "يحرر الفيديو بالذكاء الاصطناعي بإزالة الصمت والتعثر تلقائياً. مثالي لصانعي المحتوى.",
+    "long_desc_en": "Edits video with AI by automatically removing silence and filler words. Perfect for content creators.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://wisecut.video",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wisecut.video&sz=64"
+  },
+  {
+    "id": "mirage-video",
+    "name_ar": "ميراج",
+    "name_en": "Mirage",
+    "slug": "mirage-video",
+    "tagline_ar": "فيديو AI بتحكم نصي دقيق",
+    "tagline_en": "AI video with precise text control",
+    "desc_ar": "منصة فيديو AI جديدة بتحكم نصي دقيق في المشاهد والحركة. نمو سريع في 2026.",
+    "desc_en": "New AI video platform with precise text control over scenes and motion. Fast growth in 2026.",
+    "long_desc_ar": "منصة فيديو AI جديدة بتحكم نصي دقيق في المشاهد والحركة. نمو سريع في 2026.",
+    "long_desc_en": "New AI video platform with precise text control over scenes and motion. Fast growth in 2026.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://mirage.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mirage.ai&sz=64"
+  },
+  {
+    "id": "mootion-ai",
+    "name_ar": "موشن AI",
+    "name_en": "Mootion AI",
+    "slug": "mootion-ai",
+    "tagline_ar": "تحريك الصور الثابتة بالذكاء AI",
+    "tagline_en": "Animate still images with AI",
+    "desc_ar": "Mootion يحرّك الصور الثابتة ويحوّلها لفيديو. مثالي لتحريك الصور الشخصية.",
+    "desc_en": "Mootion يحرّك الصور الثابتة ويحوّلها لفيديو. مثالي لتحريك الصور الشخصية.",
+    "long_desc_ar": "Mootion يحرّك الصور الثابتة ويحوّلها لفيديو. مثالي لتحريك الصور الشخصية.",
+    "long_desc_en": "Mootion يحرّك الصور الثابتة ويحوّلها لفيديو. مثالي لتحريك الصور الشخصية.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://mootion.com",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mootion.com&sz=64"
+  },
+  {
+    "id": "pictory-v2",
+    "name_ar": "بيكتوري 2",
+    "name_en": "Pictory AI 2.0",
+    "slug": "pictory-v2",
+    "tagline_ar": "تحويل محتوى طويل لفيديوهات قصيرة",
+    "tagline_en": "Convert long content to short videos",
+    "desc_ar": "Pictory AI 2.0 يحوّل المقالات والبودكاست لفيديوهات قصيرة بشكل تلقائي.",
+    "desc_en": "Pictory AI 2.0 يحوّل المقالات والبودكاست لفيديوهات قصيرة بشكل تلقائي.",
+    "long_desc_ar": "Pictory AI 2.0 يحوّل المقالات والبودكاست لفيديوهات قصيرة بشكل تلقائي.",
+    "long_desc_en": "Pictory AI 2.0 يحوّل المقالات والبودكاست لفيديوهات قصيرة بشكل تلقائي.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$23/mo",
+    "price_pro": "$23/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://pictory.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=pictory.ai&sz=64"
+  },
+  {
+    "id": "vidnoz",
+    "name_ar": "فيدنوز",
+    "name_en": "Vidnoz",
+    "slug": "vidnoz",
+    "tagline_ar": "فيديوهات AI مجانية بأفاتار واقعية",
+    "tagline_en": "Free AI videos with realistic avatars",
+    "desc_ar": "Vidnoz يقدم فيديوهات AI بأفاتار واقعية مجاناً. 1200+ أفاتار ومولّد رائج.",
+    "desc_en": "Vidnoz يقدم فيديوهات AI بأفاتار واقعية مجاناً. 1200+ أفاتار ومولّد رائج.",
+    "long_desc_ar": "Vidnoz يقدم فيديوهات AI بأفاتار واقعية مجاناً. 1200+ أفاتار ومولّد رائج.",
+    "long_desc_en": "Vidnoz يقدم فيديوهات AI بأفاتار واقعية مجاناً. 1200+ أفاتار ومولّد رائج.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://vidnoz.com",
+    "monthly_visits": "3M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vidnoz.com&sz=64"
+  },
+  {
+    "id": "deepbrain-ai",
+    "name_ar": "ديب برين AI",
+    "name_en": "DeepBrain AI",
+    "slug": "deepbrain-ai",
+    "tagline_ar": "أفاتار AI للتعليم والتدريب",
+    "tagline_en": "AI avatars for education and training",
+    "desc_ar": "DeepBrain AI يبني فيديوهات تعليمية بأفاتار واقعية. يستخدم في 50+ جامعة.",
+    "desc_en": "DeepBrain AI يبني فيديوهات تعليمية بأفاتار واقعية. يستخدم في 50+ جامعة.",
+    "long_desc_ar": "DeepBrain AI يبني فيديوهات تعليمية بأفاتار واقعية. يستخدم في 50+ جامعة.",
+    "long_desc_en": "DeepBrain AI يبني فيديوهات تعليمية بأفاتار واقعية. يستخدم في 50+ جامعة.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$29/mo",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://deepbrain.io",
+    "monthly_visits": "1M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepbrain.io&sz=64"
+  },
+  {
+    "id": "kaiber-ai",
+    "name_ar": "Kaiber AI",
+    "name_en": "Kaiber AI",
+    "slug": "kaiber-ai",
+    "tagline_ar": "فيديو فني إبداعي بالذكاء الاصطناعي",
+    "tagline_en": "Creative artistic video with AI",
+    "desc_ar": "Kaiber AI يُنتج فيديوهات فنية إبداعية. متخصص في المحتوى الموسيقي والفني المميز.",
+    "desc_en": "Kaiber AI produces creative artistic videos. Specializes in music and distinctive artistic content.",
+    "long_desc_ar": "Kaiber AI يُنتج فيديوهات فنية إبداعية. متخصص في المحتوى الموسيقي والفني المميز.",
+    "long_desc_en": "Kaiber AI produces creative artistic videos. Specializes in music and distinctive artistic content.",
+    "category": "video",
+    "tags_ar": [
+      "Kaiber AI",
+      "video"
+    ],
+    "tags_en": [
+      "Kaiber AI",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$10",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://kaiber.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=kaiber.ai&sz=64"
+  },
+  {
+    "id": "fliki-ai",
+    "name_ar": "Fliki AI",
+    "name_en": "Fliki AI",
+    "slug": "fliki-ai",
+    "tagline_ar": "نص إلى فيديو مع أصوات AI واقعية",
+    "tagline_en": "Text to video with realistic AI voices",
+    "desc_ar": "Fliki AI — نص إلى فيديو مع أصوات AI واقعية",
+    "desc_en": "Fliki AI — Text to video with realistic AI voices",
+    "long_desc_ar": "Fliki AI — نص إلى فيديو مع أصوات AI واقعية",
+    "long_desc_en": "Fliki AI — Text to video with realistic AI voices",
+    "category": "video",
+    "tags_ar": [
+      "Fliki AI",
+      "fliki"
+    ],
+    "tags_en": [
+      "Fliki AI",
+      "fliki"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://fliki.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=fliki.ai&sz=64"
+  },
+  {
+    "id": "zeemo",
+    "name_ar": "زيمو",
+    "name_en": "Zeemo",
+    "slug": "zeemo",
+    "tagline_ar": "ترجمة فيديو AI متعددة اللغات",
+    "tagline_en": "AI multilingual video translation",
+    "desc_ar": "أداة إضافة الترجمة التلقائية للفيديو بالذكاء الاصطناعي. 100+ لغة بدقة عالية.",
+    "desc_en": "Automatic subtitle adding tool for videos with AI. 100+ languages with high accuracy.",
+    "long_desc_ar": "أداة إضافة الترجمة التلقائية للفيديو بالذكاء الاصطناعي. 100+ لغة بدقة عالية.",
+    "long_desc_en": "Automatic subtitle adding tool for videos with AI. 100+ languages with high accuracy.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://zeemo.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zeemo.ai&sz=64"
+  },
+  {
+    "id": "mixo-video",
+    "name_ar": "ميكسو فيديو",
+    "name_en": "Mixo Video",
+    "slug": "mixo-video",
+    "tagline_ar": "تحويل فكرتك لفيديو في 60 ثانية",
+    "tagline_en": "Convert your idea to video in 60 seconds",
+    "desc_ar": "Mixo يولد فيديوهات تسويقية من وصف نصي في أقل من دقيقة.",
+    "desc_en": "Mixo يولد فيديوهات تسويقية من وصف نصي في أقل من دقيقة.",
+    "long_desc_ar": "Mixo يولد فيديوهات تسويقية من وصف نصي في أقل من دقيقة.",
+    "long_desc_en": "Mixo يولد فيديوهات تسويقية من وصف نصي في أقل من دقيقة.",
+    "category": "video",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://mixo.io",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mixo.io&sz=64"
+  },
+  {
+    "id": "steve-ai",
+    "name_ar": "Steve AI",
+    "name_en": "Steve AI",
+    "slug": "steve-ai",
+    "tagline_ar": "إنشاء فيديو AI من النص بسرعة",
+    "tagline_en": "Create AI video from text quickly",
+    "desc_ar": "Steve AI — إنشاء فيديو AI من النص بسرعة",
+    "desc_en": "Steve AI — Create AI video from text quickly",
+    "long_desc_ar": "Steve AI — إنشاء فيديو AI من النص بسرعة",
+    "long_desc_en": "Steve AI — Create AI video from text quickly",
+    "category": "video",
+    "tags_ar": [
+      "Steve AI",
+      "video"
+    ],
+    "tags_en": [
+      "Steve AI",
+      "video"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$15",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://steve.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=steve.ai&sz=64"
+  }
+]

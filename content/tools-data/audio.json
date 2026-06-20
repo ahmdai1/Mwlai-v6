@@ -1,0 +1,2662 @@
+[
+  {
+    "id": "elevenlabs-v3",
+    "name_ar": "ElevenLabs V3",
+    "name_en": "ElevenLabs V3",
+    "slug": "elevenlabs-v3",
+    "tagline_ar": "أصوات بشرية لا تُفرّق من الحقيقية",
+    "tagline_en": "Human voices indistinguishable from real",
+    "desc_ar": "ElevenLabs V3 أفضل Dubbing وTTS مع دعم عربي ممتاز. 10,000 حرف مجاناً شهرياً.",
+    "desc_en": "ElevenLabs V3 best dubbing and TTS with excellent Arabic support. 10,000 free characters monthly.",
+    "long_desc_ar": "ElevenLabs V3 وصل لمستوى لا يُميَّز فيه الصوت الاصطناعي من البشري. يدعم العربية بكل اللهجات مع Dubbing احترافي لترجمة الفيديو.",
+    "long_desc_en": "ElevenLabs V3 reached indistinguishable synthetic-from-human voice level. Supports Arabic with all dialects and professional video dubbing.",
+    "category": "audio",
+    "tags_ar": [
+      "ElevenLabs",
+      "TTS",
+      "دبلجة",
+      "عربي"
+    ],
+    "tags_en": [
+      "ElevenLabs",
+      "TTS",
+      "dubbing",
+      "Arabic"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$5",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://elevenlabs.io",
+    "monthly_visits": "30M+",
+    "trending_score": 95,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2026,
+    "alternatives": [
+      "murf-ai",
+      "play-ht"
+    ],
+    "integrations": [
+      "API",
+      "Adobe",
+      "Premiere Pro",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "دبلجة",
+      "بودكاست",
+      "كتب صوتية",
+      "مساعدات"
+    ],
+    "use_cases_en": [
+      "Dubbing",
+      "Podcasting",
+      "Audiobooks",
+      "Assistants"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=64"
+  },
+  {
+    "id": "elevenlabs-3",
+    "name_ar": "إليفن لابس 3",
+    "name_en": "ElevenLabs 3.0",
+    "slug": "elevenlabs-3",
+    "tagline_ar": "أصوات AI بشرية لا تُميّز في 2026",
+    "tagline_en": "Human-indistinguishable AI voices in 2026",
+    "desc_ar": "ElevenLabs في كل إصدار من a16z منذ 2023. الصوت البشري AI لا يُميّز من الحقيقي.",
+    "desc_en": "ElevenLabs on every a16z edition since 2023. AI human voice is indistinguishable from real.",
+    "long_desc_ar": "ElevenLabs في كل إصدار من a16z منذ 2023. الصوت البشري AI لا يُميّز من الحقيقي.",
+    "long_desc_en": "ElevenLabs on every a16z edition since 2023. AI human voice is indistinguishable from real.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://elevenlabs.io",
+    "monthly_visits": "30M+",
+    "trending_score": 94,
+    "rating": 4.9,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=64"
+  },
+  {
+    "id": "elevenlabs",
+    "name_ar": "إليفن لابس",
+    "name_en": "ElevenLabs",
+    "slug": "elevenlabs",
+    "tagline_ar": "الأفضل في استنساخ الأصوات والتحدث بأي صوت",
+    "tagline_en": "Best in voice cloning and any voice synthesis",
+    "desc_ar": "المنصة الرائدة في تحويل النص لكلام واقعي واستنساخ الأصوات. 29 لغة بما فيها العربية.",
+    "desc_en": "Leading platform for realistic TTS and voice cloning. 29 languages including Arabic.",
+    "long_desc_ar": "ElevenLabs في كل إصدار من قائمة a16z Top 100 منذ 2023. استنساخ الأصوات ودبلجة الفيديو وإنتاج الصوت متخصصة لدرجة لم تُستنسخ. 29 لغة. بودكاست وكتب صوتية وإعلانات.",
+    "long_desc_en": "ElevenLabs on every a16z Top 100 edition since 2023. Voice cloning, dubbing, audio production remain specialized. 29 languages. Podcasting, audiobooks, ads.",
+    "category": "audio",
+    "tags_ar": [
+      "صوت",
+      "استنساخ",
+      "عربي",
+      "بودكاست"
+    ],
+    "tags_en": [
+      "voice",
+      "cloning",
+      "arabic",
+      "podcast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$11/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api",
+      "ios",
+      "android"
+    ],
+    "website": "https://elevenlabs.io",
+    "monthly_visits": "30M+",
+    "trending_score": 93,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "murf",
+      "play-ht",
+      "speechify"
+    ],
+    "integrations": [
+      "API",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "بودكاست",
+      "كتب صوتية",
+      "دبلجة",
+      "إعلانات صوتية"
+    ],
+    "use_cases_en": [
+      "Podcasting",
+      "Audiobooks",
+      "Dubbing",
+      "Voice ads"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=64"
+  },
+  {
+    "id": "suno-v4",
+    "name_ar": "Suno V4",
+    "name_en": "Suno V4",
+    "slug": "suno-v4",
+    "tagline_ar": "أقوى أداة لتوليد الموسيقى AI",
+    "tagline_en": "Most powerful AI music generation tool",
+    "desc_ar": "Suno V4 يولّد أغاني كاملة بجودة احترافية من وصف نصي. يدعم العربية وكل اللغات.",
+    "desc_en": "Suno V4 generates complete professional songs from text. Supports Arabic and all languages.",
+    "long_desc_ar": "Suno V4 أحدث ثورة في الموسيقى AI. يولّد أغاني بكلمات وموسيقى من وصف بسيط. كل الأنماط واللغات مدعومة.",
+    "long_desc_en": "Suno V4 revolutionized AI music. Generates songs with lyrics and music from simple description. All styles and languages supported.",
+    "category": "audio",
+    "tags_ar": [
+      "Suno",
+      "موسيقى AI",
+      "أغاني",
+      "عربي"
+    ],
+    "tags_en": [
+      "Suno",
+      "AI music",
+      "songs",
+      "Arabic"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://suno.ai",
+    "monthly_visits": "20M+",
+    "trending_score": 93,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [
+      "udio",
+      "musicfy"
+    ],
+    "integrations": [
+      "API"
+    ],
+    "use_cases_ar": [
+      "موسيقى خلفية",
+      "أغاني",
+      "سوشيال",
+      "إنتاج"
+    ],
+    "use_cases_en": [
+      "Background music",
+      "Songs",
+      "Social",
+      "Production"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=suno.ai&sz=64"
+  },
+  {
+    "id": "suno-4",
+    "name_ar": "سونو v4",
+    "name_en": "Suno v4",
+    "slug": "suno-4",
+    "tagline_ar": "موسيقى AI بجودة استوديو حقيقية",
+    "tagline_en": "AI music at real studio quality",
+    "desc_ar": "Suno v4 في المرتبة 15 في a16z 2026. موسيقى بجودة استوديو حقيقية لا تُميّز.",
+    "desc_en": "Suno v4 at rank 15 in a16z 2026. Studio-quality music that's indistinguishable from real.",
+    "long_desc_ar": "Suno v4 في المرتبة 15 في a16z 2026. موسيقى بجودة استوديو حقيقية لا تُميّز.",
+    "long_desc_en": "Suno v4 at rank 15 in a16z 2026. Studio-quality music that's indistinguishable from real.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://suno.com",
+    "monthly_visits": "20M+",
+    "trending_score": 91,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=suno.com&sz=64"
+  },
+  {
+    "id": "suno-ai-music",
+    "name_ar": "سونو موزيك",
+    "name_en": "Suno Music Platform",
+    "slug": "suno-ai-music",
+    "tagline_ar": "أغانٍ كاملة من جملة واحدة",
+    "tagline_en": "Complete songs from one sentence",
+    "desc_ar": "Suno في المرتبة 15 في a16z 2026. موسيقى بجودة استوديو من وصف نصي بسيط.",
+    "desc_en": "Suno في المرتبة 15 في a16z 2026. موسيقى بجودة استوديو من وصف نصي بسيط.",
+    "long_desc_ar": "Suno في المرتبة 15 في a16z 2026. موسيقى بجودة استوديو من وصف نصي بسيط.",
+    "long_desc_en": "Suno في المرتبة 15 في a16z 2026. موسيقى بجودة استوديو من وصف نصي بسيط.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://suno.com",
+    "monthly_visits": "20M+",
+    "trending_score": 91,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=suno.com&sz=64"
+  },
+  {
+    "id": "suno",
+    "name_ar": "سونو",
+    "name_en": "Suno",
+    "slug": "suno",
+    "tagline_ar": "أنشئ أغاني كاملة من كلمة واحدة",
+    "tagline_en": "Create complete songs from a single word",
+    "desc_ar": "منصة توليد الموسيقى AI الأشهر. تكتب كلمات الأغنية وتؤلف الموسيقى وتغني تلقائياً.",
+    "desc_en": "Most popular AI music platform. Writes lyrics, composes music, sings automatically.",
+    "long_desc_ar": "Suno في a16z Top 100 بالمرتبة 15. تولّد أغاني كاملة من وصف بسيط. جميع أنواع الموسيقى. 50 أغنية شهرياً مجاناً.",
+    "long_desc_en": "Suno ranked #15 on a16z Top 100. Generates complete songs from simple description. All music genres. 50 free songs monthly.",
+    "category": "audio",
+    "tags_ar": [
+      "موسيقى",
+      "أغاني",
+      "تلقائي",
+      "كل الأنواع"
+    ],
+    "tags_en": [
+      "music",
+      "songs",
+      "automatic",
+      "all genres"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://suno.com",
+    "monthly_visits": "20M+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "udio",
+      "musicgen",
+      "soundraw"
+    ],
+    "integrations": [
+      ""
+    ],
+    "use_cases_ar": [
+      "توليد موسيقى",
+      "أغاني مخصصة",
+      "موسيقى تسويقية",
+      "هواية"
+    ],
+    "use_cases_en": [
+      "Music generation",
+      "Custom songs",
+      "Marketing music",
+      "Hobby"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=suno.com&sz=64"
+  },
+  {
+    "id": "whisper-openai",
+    "name_ar": "OpenAI Whisper",
+    "name_en": "OpenAI Whisper",
+    "slug": "whisper-openai",
+    "tagline_ar": "أفضل نموذج تحويل صوت لنص — مجاني",
+    "tagline_en": "Best voice-to-text model — free",
+    "desc_ar": "OpenAI Whisper نموذج مفتوح المصدر لتحويل الصوت لنص بدقة عالية في 99 لغة. مجاني.",
+    "desc_en": "OpenAI Whisper is an open-source model for voice-to-text with high accuracy in 99 languages. Free.",
+    "long_desc_ar": "OpenAI Whisper نموذج مفتوح المصدر لتحويل الصوت لنص بدقة عالية في 99 لغة. مجاني.",
+    "long_desc_en": "OpenAI Whisper is an open-source model for voice-to-text with high accuracy in 99 languages. Free.",
+    "category": "audio",
+    "tags_ar": [
+      "Whisper",
+      "تحويل صوت",
+      "نص",
+      "99 لغة"
+    ],
+    "tags_en": [
+      "Whisper",
+      "speech to text",
+      "transcription",
+      "99 languages"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "API",
+      "Local"
+    ],
+    "website": "https://openai.com/whisper",
+    "monthly_visits": "20M+",
+    "trending_score": 88,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "otter-ai",
+      "fireflies-ai",
+      "deepgram"
+    ],
+    "integrations": [
+      "API",
+      "HuggingFace",
+      "Local"
+    ],
+    "use_cases_ar": [
+      "تحويل صوت",
+      "99 لغة",
+      "API",
+      "self-hosted"
+    ],
+    "use_cases_en": [
+      "Speech to text",
+      "99 languages",
+      "API",
+      "Self-hosted"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "speechify",
+    "name_ar": "سبيتشيفاي",
+    "name_en": "Speechify",
+    "slug": "speechify",
+    "tagline_ar": "حوّل أي نص لكلام وأنت في حركة",
+    "tagline_en": "Convert any text to speech on the go",
+    "desc_ar": "أداة تحويل النصوص والمستندات لكلام. اسمع كتبك ومقالاتك أثناء التنقل.",
+    "desc_en": "Tool for converting texts and documents to speech. Listen to books and articles while commuting.",
+    "long_desc_ar": "Speechify في a16z Top 100 AI Apps 2026. تحوّل أي نص أو مستند أو موقع ويب لكلام واضح. تدعم العربية. شائعة جداً للطلاب وذوي الإعاقات البصرية والمشغولين.",
+    "long_desc_en": "Speechify on a16z Top 100 AI Apps 2026. Converts any text, document, or website to clear speech. Supports Arabic. Very popular with students, visually impaired, and busy professionals.",
+    "category": "audio",
+    "tags_ar": [
+      "استماع",
+      "نص إلى كلام",
+      "تعلم",
+      "تنقل"
+    ],
+    "tags_en": [
+      "listening",
+      "text-to-speech",
+      "learning",
+      "commuting"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$24.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome"
+    ],
+    "website": "https://speechify.com",
+    "monthly_visits": "10M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [
+      "natural-reader",
+      "elevenlabs",
+      "murf"
+    ],
+    "integrations": [
+      "Chrome",
+      "iOS",
+      "Android"
+    ],
+    "use_cases_ar": [
+      "قراءة الكتب صوتاً",
+      "الاستماع أثناء التنقل",
+      "تعلم اللغات",
+      "إمكانية الوصول"
+    ],
+    "use_cases_en": [
+      "Book listening",
+      "Commute listening",
+      "Language learning",
+      "Accessibility"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=speechify.com&sz=64"
+  },
+  {
+    "id": "udio-v2",
+    "name_ar": "يوديو v2",
+    "name_en": "Udio v2",
+    "slug": "udio-v2",
+    "tagline_ar": "موسيقى AI بجودة استوديو حقيقية",
+    "tagline_en": "Studio-quality AI music",
+    "desc_ar": "Udio v2 يولد موسيقى بجودة استوديو لا تُميّز. منافس قوي لـ Suno v4.",
+    "desc_en": "Udio v2 يولد موسيقى بجودة استوديو لا تُميّز. منافس قوي لـ Suno v4.",
+    "long_desc_ar": "Udio v2 يولد موسيقى بجودة استوديو لا تُميّز. منافس قوي لـ Suno v4.",
+    "long_desc_en": "Udio v2 يولد موسيقى بجودة استوديو لا تُميّز. منافس قوي لـ Suno v4.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://udio.com",
+    "monthly_visits": "5M+",
+    "trending_score": 86,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=udio.com&sz=64"
+  },
+  {
+    "id": "udio",
+    "name_ar": "يوديو",
+    "name_en": "Udio",
+    "slug": "udio",
+    "tagline_ar": "منافس Suno في توليد الموسيقى AI",
+    "tagline_en": "Suno's rival in AI music generation",
+    "desc_ar": "منصة توليد موسيقى AI عالية الجودة. بديل قوي لـ Suno بأسلوب مختلف.",
+    "desc_en": "High-quality AI music generation platform. Strong Suno alternative with different style.",
+    "long_desc_ar": "Udio منافس قوي لـ Suno في توليد الموسيقى الكاملة. يتميز بجودة صوتية أعلى في بعض الأنواع الموسيقية. مجاني بحدود كافية للاستخدام الشخصي.",
+    "long_desc_en": "Udio is a strong Suno competitor in full music generation. Features higher audio quality in some music genres. Free with sufficient limits for personal use.",
+    "category": "audio",
+    "tags_ar": [
+      "موسيقى",
+      "AI",
+      "بديل Suno",
+      "جودة عالية"
+    ],
+    "tags_en": [
+      "music",
+      "AI",
+      "Suno alternative",
+      "high quality"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$10/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://udio.com",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [
+      "suno",
+      "musicgen",
+      "soundraw"
+    ],
+    "integrations": [
+      ""
+    ],
+    "use_cases_ar": [
+      "توليد موسيقى",
+      "أغاني مخصصة",
+      "موسيقى خلفية",
+      "هواية"
+    ],
+    "use_cases_en": [
+      "Music generation",
+      "Custom songs",
+      "Background music",
+      "Hobby"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=udio.com&sz=64"
+  },
+  {
+    "id": "whisper-ai",
+    "name_ar": "ويسبر OpenAI",
+    "name_en": "Whisper AI",
+    "slug": "whisper-ai",
+    "tagline_ar": "تفريغ صوت AI دقيق ومفتوح المصدر",
+    "tagline_en": "Accurate open-source AI transcription",
+    "desc_ar": "Whisper من OpenAI أدق نموذج مفتوح المصدر لتفريغ الصوت. 99 لغة مجاناً.",
+    "desc_en": "Whisper من OpenAI أدق نموذج مفتوح المصدر لتفريغ الصوت. 99 لغة مجاناً.",
+    "long_desc_ar": "Whisper من OpenAI أدق نموذج مفتوح المصدر لتفريغ الصوت. 99 لغة مجاناً.",
+    "long_desc_en": "Whisper من OpenAI أدق نموذج مفتوح المصدر لتفريغ الصوت. 99 لغة مجاناً.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://openai.com",
+    "monthly_visits": "5.2B+",
+    "trending_score": 85,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+  },
+  {
+    "id": "adobe-podcast",
+    "name_ar": "أدوبي بودكاست",
+    "name_en": "Adobe Podcast AI",
+    "slug": "adobe-podcast",
+    "tagline_ar": "تحسين جودة الصوت مجاناً من Adobe",
+    "tagline_en": "Free audio quality enhancement from Adobe",
+    "desc_ar": "أداة Adobe AI المجانية لتحسين جودة الصوت في البودكاست والاجتماعات.",
+    "desc_en": "Adobe's free AI tool for audio quality enhancement in podcasts and meetings.",
+    "long_desc_ar": "أداة Adobe AI المجانية لتحسين جودة الصوت في البودكاست والاجتماعات.",
+    "long_desc_en": "Adobe's free AI tool for audio quality enhancement in podcasts and meetings.",
+    "category": "audio",
+    "tags_ar": [
+      "أدوبي",
+      "تحسين صوت",
+      "مجاني",
+      "بودكاست"
+    ],
+    "tags_en": [
+      "Adobe",
+      "enhancement",
+      "free",
+      "podcast"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://podcast.adobe.com",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "descript",
+      "podcastle",
+      "elevenlabs"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=podcast.adobe.com&sz=64"
+  },
+  {
+    "id": "descript-audio",
+    "name_ar": "ديسكريبت صوت",
+    "name_en": "Descript Audio",
+    "slug": "descript-audio",
+    "tagline_ar": "تحرير الصوت بتحرير النص",
+    "tagline_en": "Edit audio by editing text",
+    "desc_ar": "Descript يُحرّر الصوت كالنص. احذف الجملة من النص وتختفي من التسجيل.",
+    "desc_en": "Descript يُحرّر الصوت كالنص. احذف الجملة من النص وتختفي من التسجيل.",
+    "long_desc_ar": "Descript يُحرّر الصوت كالنص. احذف الجملة من النص وتختفي من التسجيل.",
+    "long_desc_en": "Descript يُحرّر الصوت كالنص. احذف الجملة من النص وتختفي من التسجيل.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://descript.com",
+    "monthly_visits": "1M+",
+    "trending_score": 84,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=descript.com&sz=64"
+  },
+  {
+    "id": "murf-ai",
+    "name_ar": "Murf AI",
+    "name_en": "Murf AI",
+    "slug": "murf-ai",
+    "tagline_ar": "تحويل نص لصوت احترافي بالعربية",
+    "tagline_en": "Professional text-to-speech with Arabic",
+    "desc_ar": "Murf AI يحوّل النص لصوت احترافي بـ 120+ صوت و20 لغة بما فيها العربية.",
+    "desc_en": "Murf AI converts text to professional voice with 120+ voices and 20 languages including Arabic.",
+    "long_desc_ar": "Murf AI يحوّل النص لصوت احترافي بـ 120+ صوت و20 لغة بما فيها العربية.",
+    "long_desc_en": "Murf AI converts text to professional voice with 120+ voices and 20 languages including Arabic.",
+    "category": "audio",
+    "tags_ar": [
+      "Murf",
+      "Text to Speech",
+      "عربي",
+      "120 صوت"
+    ],
+    "tags_en": [
+      "Murf",
+      "TTS",
+      "Arabic",
+      "120 voices"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://murf.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 84,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [
+      "elevenlabs-v3",
+      "play-ht",
+      "speechify"
+    ],
+    "integrations": [
+      "API",
+      "PowerPoint",
+      "Premiere",
+      "Google Slides"
+    ],
+    "use_cases_ar": [
+      "TTS",
+      "عربي",
+      "بودكاست",
+      "كورسات"
+    ],
+    "use_cases_en": [
+      "TTS",
+      "Arabic",
+      "Podcast",
+      "Courses"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=murf.ai&sz=64"
+  },
+  {
+    "id": "krisp-ai",
+    "name_ar": "Krisp AI",
+    "name_en": "Krisp AI",
+    "slug": "krisp-ai",
+    "tagline_ar": "إلغاء ضوضاء الخلفية في المكالمات",
+    "tagline_en": "Cancel background noise in calls",
+    "desc_ar": "Krisp AI يُلغي ضوضاء الخلفية من مكالماتك. يعمل مع Zoom وTeams وكل تطبيقات الاجتماعات.",
+    "desc_en": "Krisp AI cancels background noise from your calls. Works with Zoom, Teams, and all meeting apps.",
+    "long_desc_ar": "Krisp AI يُلغي ضوضاء الخلفية من مكالماتك. يعمل مع Zoom وTeams وكل تطبيقات الاجتماعات.",
+    "long_desc_en": "Krisp AI cancels background noise from your calls. Works with Zoom, Teams, and all meeting apps.",
+    "category": "audio",
+    "tags_ar": [
+      "Krisp AI",
+      "audio"
+    ],
+    "tags_en": [
+      "Krisp AI",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://krisp.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 84,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=krisp.ai&sz=64"
+  },
+  {
+    "id": "play-ht",
+    "name_ar": "بلاي HT",
+    "name_en": "Play.ht",
+    "slug": "play-ht",
+    "tagline_ar": "أصوات AI واقعية للبودكاست والمحتوى",
+    "tagline_en": "Realistic AI voices for podcast and content",
+    "desc_ar": "منصة نص إلى كلام بأصوات فائقة الواقعية. 900+ صوت في 140+ لغة.",
+    "desc_en": "Text-to-speech with ultra-realistic voices. 900+ voices in 140+ languages.",
+    "long_desc_ar": "Play.ht تقدم 900+ صوت بشري فائق الواقعية في 140+ لغة. تنافس ElevenLabs بجودة مماثلة وأسعار مختلفة. مثالية للبودكاست والكتب الصوتية والمحتوى الصوتي الاحترافي.",
+    "long_desc_en": "Play.ht offers 900+ ultra-realistic voices in 140+ languages. Competes with ElevenLabs with similar quality and different pricing. Perfect for podcasting, audiobooks, and professional audio content.",
+    "category": "audio",
+    "tags_ar": [
+      "أصوات",
+      "900+ صوت",
+      "140 لغة",
+      "بودكاست"
+    ],
+    "tags_en": [
+      "voices",
+      "900+ voices",
+      "140 languages",
+      "podcast"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$31.2/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "website": "https://play.ht",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "elevenlabs",
+      "murf",
+      "speechify"
+    ],
+    "integrations": [
+      "API",
+      "Zapier"
+    ],
+    "use_cases_ar": [
+      "بودكاست",
+      "كتب صوتية",
+      "إعلانات",
+      "محتوى تعليمي"
+    ],
+    "use_cases_en": [
+      "Podcasting",
+      "Audiobooks",
+      "Ads",
+      "Educational content"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=play.ht&sz=64"
+  },
+  {
+    "id": "krisp",
+    "name_ar": "كريسب",
+    "name_en": "Krisp",
+    "slug": "krisp",
+    "tagline_ar": "إزالة ضوضاء الخلفية في المكالمات",
+    "tagline_en": "Remove background noise in calls",
+    "desc_ar": "أداة AI لإزالة ضوضاء الخلفية في الاجتماعات والمكالمات تلقائياً.",
+    "desc_en": "AI tool for automatically removing background noise in meetings and calls.",
+    "long_desc_ar": "أداة AI لإزالة ضوضاء الخلفية في الاجتماعات والمكالمات تلقائياً.",
+    "long_desc_en": "AI tool for automatically removing background noise in meetings and calls.",
+    "category": "audio",
+    "tags_ar": [
+      "ضوضاء",
+      "مكالمات",
+      "اجتماعات",
+      "نظيف"
+    ],
+    "tags_en": [
+      "noise",
+      "calls",
+      "meetings",
+      "clean"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "website": "https://krisp.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "adobe-podcast",
+      "cleanfeed",
+      "nvidia-voice"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=krisp.ai&sz=64"
+  },
+  {
+    "id": "adobe-enhance",
+    "name_ar": "أدوبي انهانس",
+    "name_en": "Adobe Speech Enhance",
+    "slug": "adobe-enhance",
+    "tagline_ar": "تحسين صوت البودكاست مجاناً",
+    "tagline_en": "Free podcast voice enhancement",
+    "desc_ar": "Adobe Speech Enhance يحوّل أي تسجيل لجودة استوديو بالذكاء الاصطناعي مجاناً.",
+    "desc_en": "Adobe Speech Enhance يحوّل أي تسجيل لجودة استوديو بالذكاء الاصطناعي مجاناً.",
+    "long_desc_ar": "Adobe Speech Enhance يحوّل أي تسجيل لجودة استوديو بالذكاء الاصطناعي مجاناً.",
+    "long_desc_en": "Adobe Speech Enhance يحوّل أي تسجيل لجودة استوديو بالذكاء الاصطناعي مجاناً.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://podcast.adobe.com",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=podcast.adobe.com&sz=64"
+  },
+  {
+    "id": "deepgram",
+    "name_ar": "Deepgram",
+    "name_en": "Deepgram",
+    "slug": "deepgram",
+    "tagline_ar": "API صوت AI للمطورين — الأسرع والأدق",
+    "tagline_en": "AI voice API for developers — fastest and most accurate",
+    "desc_ar": "Deepgram يُقدم أسرع وأدق API لتحويل الصوت لنص. يُستخدم من Developers لبناء تطبيقات صوتية.",
+    "desc_en": "Deepgram provides the fastest and most accurate speech-to-text API. Used by developers to build voice applications.",
+    "long_desc_ar": "Deepgram يُقدم أسرع وأدق API لتحويل الصوت لنص. يُستخدم من Developers لبناء تطبيقات صوتية.",
+    "long_desc_en": "Deepgram provides the fastest and most accurate speech-to-text API. Used by developers to build voice applications.",
+    "category": "audio",
+    "tags_ar": [
+      "Deepgram",
+      "Speech API",
+      "صوت",
+      "مطورين"
+    ],
+    "tags_en": [
+      "Deepgram",
+      "speech API",
+      "voice",
+      "developers"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0.0043/min",
+    "has_free_trial": true,
+    "platforms": [
+      "API"
+    ],
+    "website": "https://deepgram.com",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [
+      "whisper-openai",
+      "assemblyai",
+      "rev"
+    ],
+    "integrations": [
+      "API",
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "use_cases_ar": [
+      "تطبيقات صوتية",
+      "Call centers",
+      "بث",
+      "إمكانية وصول"
+    ],
+    "use_cases_en": [
+      "Voice apps",
+      "Call centers",
+      "Streaming",
+      "Accessibility"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepgram.com&sz=64"
+  },
+  {
+    "id": "murf",
+    "name_ar": "مورف AI",
+    "name_en": "Murf AI",
+    "slug": "murf",
+    "tagline_ar": "أصوات احترافية للعروض والتدريب",
+    "tagline_en": "Professional voices for presentations and training",
+    "desc_ar": "محرك نص إلى كلام احترافي بـ 120+ صوت في 20 لغة. مثالي للدورات الإلكترونية.",
+    "desc_en": "Professional TTS with 120+ voices in 20 languages. Perfect for e-learning.",
+    "long_desc_ar": "Murf AI تقدم 120+ صوت بشري واقعي في 20+ لغة. مثالية للدورات الإلكترونية والعروض التقديمية. تحكم في الإيقاع والنبرة. 10 دقائق مجانية شهرياً.",
+    "long_desc_en": "Murf AI offers 120+ realistic voices in 20+ languages. Perfect for e-learning and presentations. Control tempo and tone. 10 free minutes monthly.",
+    "category": "audio",
+    "tags_ar": [
+      "نص إلى كلام",
+      "احترافي",
+      "دورات",
+      "120 صوت"
+    ],
+    "tags_en": [
+      "text-to-speech",
+      "professional",
+      "courses",
+      "120 voices"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$19/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://murf.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "elevenlabs",
+      "play-ht",
+      "speechify"
+    ],
+    "integrations": [
+      "Canva",
+      "PowerPoint"
+    ],
+    "use_cases_ar": [
+      "دورات إلكترونية",
+      "عروض تقديمية",
+      "كتب صوتية",
+      "إعلانات"
+    ],
+    "use_cases_en": [
+      "E-learning",
+      "Presentations",
+      "Audiobooks",
+      "Ads"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=murf.ai&sz=64"
+  },
+  {
+    "id": "riverside-fm",
+    "name_ar": "ريفرسايد",
+    "name_en": "Riverside.fm",
+    "slug": "riverside-fm",
+    "tagline_ar": "تسجيل بودكاست بجودة استوديو",
+    "tagline_en": "Studio-quality podcast recording",
+    "desc_ar": "تسجيل البودكاست والمقابلات بجودة استوديو مع AI لتحسين الصوت.",
+    "desc_en": "Studio-quality podcast recording with AI for audio enhancement.",
+    "long_desc_ar": "تسجيل البودكاست والمقابلات بجودة استوديو مع AI لتحسين الصوت.",
+    "long_desc_en": "Studio-quality podcast recording with AI for audio enhancement.",
+    "category": "audio",
+    "tags_ar": [
+      "بودكاست",
+      "مقابلات",
+      "جودة عالية",
+      "استوديو"
+    ],
+    "tags_en": [
+      "podcast",
+      "interviews",
+      "high quality",
+      "studio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$24/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://riverside.fm",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [
+      "descript",
+      "podcastle",
+      "zoom"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=riverside.fm&sz=64"
+  },
+  {
+    "id": "vocal-remover",
+    "name_ar": "فوكال ريموفر",
+    "name_en": "Vocal Remover",
+    "slug": "vocal-remover",
+    "tagline_ar": "فصل الصوت عن الموسيقى بالذكاء AI",
+    "tagline_en": "AI separation of vocals from music",
+    "desc_ar": "أداة مجانية لفصل الأصوات عن الموسيقى لإنشاء كاريوكي وموسيقى خلفية.",
+    "desc_en": "Free tool for separating vocals from music to create karaoke and backing tracks.",
+    "long_desc_ar": "أداة مجانية لفصل الأصوات عن الموسيقى لإنشاء كاريوكي وموسيقى خلفية.",
+    "long_desc_en": "Free tool for separating vocals from music to create karaoke and backing tracks.",
+    "category": "audio",
+    "tags_ar": [
+      "فصل صوت",
+      "كاريوكي",
+      "موسيقى خلفية",
+      "مجاني"
+    ],
+    "tags_en": [
+      "vocal separation",
+      "karaoke",
+      "backing track",
+      "free"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://vocalremover.org",
+    "monthly_visits": "10M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [
+      "suno",
+      "udio",
+      "lalal-ai"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=vocalremover.org&sz=64"
+  },
+  {
+    "id": "assemblyai",
+    "name_ar": "أسيمبلي AI",
+    "name_en": "AssemblyAI",
+    "slug": "assemblyai",
+    "tagline_ar": "API تفريغ صوت AI للمطورين",
+    "tagline_en": "AI speech-to-text API for developers",
+    "desc_ar": "AssemblyAI يوفر أدق API لتفريغ الصوت والمحادثة بالذكاء الاصطناعي للمطورين.",
+    "desc_en": "AssemblyAI يوفر أدق API لتفريغ الصوت والمحادثة بالذكاء الاصطناعي للمطورين.",
+    "long_desc_ar": "AssemblyAI يوفر أدق API لتفريغ الصوت والمحادثة بالذكاء الاصطناعي للمطورين.",
+    "long_desc_en": "AssemblyAI يوفر أدق API لتفريغ الصوت والمحادثة بالذكاء الاصطناعي للمطورين.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://assemblyai.com",
+    "monthly_visits": "1M+",
+    "trending_score": 82,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=assemblyai.com&sz=64"
+  },
+  {
+    "id": "resemble-ai",
+    "name_ar": "Resemble AI",
+    "name_en": "Resemble AI",
+    "slug": "resemble-ai",
+    "tagline_ar": "استنساخ الصوت وتوليد TTS احترافي",
+    "tagline_en": "Voice cloning and professional TTS generation",
+    "desc_ar": "Resemble AI — استنساخ الصوت وتوليد TTS احترافي",
+    "desc_en": "Resemble AI — Voice cloning and professional TTS generation",
+    "long_desc_ar": "Resemble AI — استنساخ الصوت وتوليد TTS احترافي",
+    "long_desc_en": "Resemble AI — Voice cloning and professional TTS generation",
+    "category": "audio",
+    "tags_ar": [
+      "Resemble AI",
+      "audio"
+    ],
+    "tags_en": [
+      "Resemble AI",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://resemble.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=resemble.ai&sz=64"
+  },
+  {
+    "id": "musicgen-ai",
+    "name_ar": "ميوزيك جين",
+    "name_en": "MusicGen by Meta",
+    "slug": "musicgen-ai",
+    "tagline_ar": "توليد موسيقى مفتوح المصدر من Meta",
+    "tagline_en": "Open-source music generation from Meta",
+    "desc_ar": "MusicGen من Meta Research. نموذج مفتوح المصدر مجاني لتوليد الموسيقى.",
+    "desc_en": "MusicGen من Meta Research. نموذج مفتوح المصدر مجاني لتوليد الموسيقى.",
+    "long_desc_ar": "MusicGen من Meta Research. نموذج مفتوح المصدر مجاني لتوليد الموسيقى.",
+    "long_desc_en": "MusicGen من Meta Research. نموذج مفتوح المصدر مجاني لتوليد الموسيقى.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://huggingface.co",
+    "monthly_visits": "50M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+  },
+  {
+    "id": "plaud-ai",
+    "name_ar": "بلاود AI",
+    "name_en": "PLAUD AI",
+    "slug": "plaud-ai",
+    "tagline_ar": "مسجّل AI يلخص اجتماعاتك تلقائياً",
+    "tagline_en": "AI recorder that automatically summarizes meetings",
+    "desc_ar": "PLAUD جهاز تسجيل AI يلخص الاجتماعات فوراً. مُذكر في a16z كمنتج صوتي صاعد.",
+    "desc_en": "PLAUD جهاز تسجيل AI يلخص الاجتماعات فوراً. مُذكر في a16z كمنتج صوتي صاعد.",
+    "long_desc_ar": "PLAUD جهاز تسجيل AI يلخص الاجتماعات فوراً. مُذكر في a16z كمنتج صوتي صاعد.",
+    "long_desc_en": "PLAUD جهاز تسجيل AI يلخص الاجتماعات فوراً. مُذكر في a16z كمنتج صوتي صاعد.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "paid",
+    "price_starts": "$59 device",
+    "price_pro": "$59 device",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://plaud.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=plaud.ai&sz=64"
+  },
+  {
+    "id": "deepgram-ai",
+    "name_ar": "ديب جرام",
+    "name_en": "Deepgram AI",
+    "slug": "deepgram-ai",
+    "tagline_ar": "تفريغ صوت AI في الوقت الفعلي",
+    "tagline_en": "Real-time AI speech transcription",
+    "desc_ar": "Deepgram يوفر تفريغ صوت AI في الوقت الفعلي بدقة استثنائية وسرعة فائقة.",
+    "desc_en": "Deepgram يوفر تفريغ صوت AI في الوقت الفعلي بدقة استثنائية وسرعة فائقة.",
+    "long_desc_ar": "Deepgram يوفر تفريغ صوت AI في الوقت الفعلي بدقة استثنائية وسرعة فائقة.",
+    "long_desc_en": "Deepgram يوفر تفريغ صوت AI في الوقت الفعلي بدقة استثنائية وسرعة فائقة.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://deepgram.com",
+    "monthly_visits": "1M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=deepgram.com&sz=64"
+  },
+  {
+    "id": "lovo-ai",
+    "name_ar": "LOVO AI",
+    "name_en": "LOVO AI",
+    "slug": "lovo-ai",
+    "tagline_ar": "500+ صوت AI لتوليد المحتوى",
+    "tagline_en": "500+ AI voices for content generation",
+    "desc_ar": "LOVO AI — 500+ صوت AI لتوليد المحتوى",
+    "desc_en": "LOVO AI — 500+ AI voices for content generation",
+    "long_desc_ar": "LOVO AI — 500+ صوت AI لتوليد المحتوى",
+    "long_desc_en": "LOVO AI — 500+ AI voices for content generation",
+    "category": "audio",
+    "tags_ar": [
+      "LOVO AI",
+      "audio"
+    ],
+    "tags_en": [
+      "LOVO AI",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://lovo.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=lovo.ai&sz=64"
+  },
+  {
+    "id": "rev-ai",
+    "name_ar": "Rev AI",
+    "name_en": "Rev AI",
+    "slug": "rev-ai",
+    "tagline_ar": "نصوص بشرية وAI دقيقة 99%",
+    "tagline_en": "Human and AI transcription 99% accurate",
+    "desc_ar": "Rev AI — نصوص بشرية وAI دقيقة 99%",
+    "desc_en": "Rev AI — Human and AI transcription 99% accurate",
+    "long_desc_ar": "Rev AI — نصوص بشرية وAI دقيقة 99%",
+    "long_desc_en": "Rev AI — Human and AI transcription 99% accurate",
+    "category": "audio",
+    "tags_ar": [
+      "Rev AI",
+      "audio"
+    ],
+    "tags_en": [
+      "Rev AI",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://rev.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=rev.com&sz=64"
+  },
+  {
+    "id": "soundraw",
+    "name_ar": "ساوند رو",
+    "name_en": "Soundraw",
+    "slug": "soundraw",
+    "tagline_ar": "موسيقى AI بدون حقوق للمحتوى",
+    "tagline_en": "Royalty-free AI music for content",
+    "desc_ar": "إنشاء موسيقى AI بدون حقوق للاستخدام في المحتوى والفيديوهات.",
+    "desc_en": "Create royalty-free AI music for content and videos.",
+    "long_desc_ar": "إنشاء موسيقى AI بدون حقوق للاستخدام في المحتوى والفيديوهات.",
+    "long_desc_en": "Create royalty-free AI music for content and videos.",
+    "category": "audio",
+    "tags_ar": [
+      "موسيقى",
+      "بدون حقوق",
+      "محتوى",
+      "فيديوهات"
+    ],
+    "tags_en": [
+      "music",
+      "royalty-free",
+      "content",
+      "videos"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$16.99/mo",
+    "price_pro": "$29.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://soundraw.io",
+    "monthly_visits": "1M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2020,
+    "alternatives": [
+      "suno",
+      "aiva",
+      "epidemic-sound"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=soundraw.io&sz=64"
+  },
+  {
+    "id": "cartesia-ai",
+    "name_ar": "كارتيسيا AI",
+    "name_en": "Cartesia AI",
+    "slug": "cartesia-ai",
+    "tagline_ar": "نماذج صوت AI فائقة السرعة",
+    "tagline_en": "Ultra-fast AI voice models",
+    "desc_ar": "Cartesia تقدم نماذج صوت AI بزمن استجابة أقل من 90ms. للتطبيقات الصوتية.",
+    "desc_en": "Cartesia تقدم نماذج صوت AI بزمن استجابة أقل من 90ms. للتطبيقات الصوتية.",
+    "long_desc_ar": "Cartesia تقدم نماذج صوت AI بزمن استجابة أقل من 90ms. للتطبيقات الصوتية.",
+    "long_desc_en": "Cartesia تقدم نماذج صوت AI بزمن استجابة أقل من 90ms. للتطبيقات الصوتية.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://cartesia.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cartesia.ai&sz=64"
+  },
+  {
+    "id": "podcastle",
+    "name_ar": "Podcastle",
+    "name_en": "Podcastle",
+    "slug": "podcastle",
+    "tagline_ar": "منصة إنتاج بودكاست AI كاملة",
+    "tagline_en": "Complete AI podcast production platform",
+    "desc_ar": "Podcastle يُقدم تسجيل وتحرير ونشر البودكاست بالذكاء الاصطناعي. كل شيء في مكان واحد.",
+    "desc_en": "Podcastle provides podcast recording, editing, and publishing with AI. Everything in one place.",
+    "long_desc_ar": "Podcastle يُقدم تسجيل وتحرير ونشر البودكاست بالذكاء الاصطناعي. كل شيء في مكان واحد.",
+    "long_desc_en": "Podcastle provides podcast recording, editing, and publishing with AI. Everything in one place.",
+    "category": "audio",
+    "tags_ar": [
+      "Podcastle",
+      "audio"
+    ],
+    "tags_en": [
+      "Podcastle",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://podcastle.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=podcastle.ai&sz=64"
+  },
+  {
+    "id": "aiva-ai",
+    "name_ar": "AIVA",
+    "name_en": "AIVA",
+    "slug": "aiva-ai",
+    "tagline_ar": "موسيقى تصويرية AI للأفلام والألعاب",
+    "tagline_en": "AI film and game soundtrack music",
+    "desc_ar": "AIVA — موسيقى تصويرية AI للأفلام والألعاب",
+    "desc_en": "AIVA — AI film and game soundtrack music",
+    "long_desc_ar": "AIVA — موسيقى تصويرية AI للأفلام والألعاب",
+    "long_desc_en": "AIVA — AI film and game soundtrack music",
+    "category": "audio",
+    "tags_ar": [
+      "AIVA",
+      "audio"
+    ],
+    "tags_en": [
+      "AIVA",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://aiva.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aiva.ai&sz=64"
+  },
+  {
+    "id": "aiva",
+    "name_ar": "أيفا",
+    "name_en": "AIVA",
+    "slug": "aiva",
+    "tagline_ar": "موسيقى AI للأفلام والألعاب",
+    "tagline_en": "AI music for films and games",
+    "desc_ar": "تأليف الموسيقى الكلاسيكية والسينمائية بالذكاء الاصطناعي.",
+    "desc_en": "AI composition of classical and cinematic music.",
+    "long_desc_ar": "تأليف الموسيقى الكلاسيكية والسينمائية بالذكاء الاصطناعي.",
+    "long_desc_en": "AI composition of classical and cinematic music.",
+    "category": "audio",
+    "tags_ar": [
+      "موسيقى كلاسيكية",
+      "أفلام",
+      "ألعاب",
+      "تأليف"
+    ],
+    "tags_en": [
+      "classical",
+      "films",
+      "games",
+      "composition"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$16.6/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://aiva.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [
+      "suno",
+      "udio",
+      "murf"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=aiva.ai&sz=64"
+  },
+  {
+    "id": "natural-reader",
+    "name_ar": "ناتشرال ريدر",
+    "name_en": "Natural Reader",
+    "slug": "natural-reader",
+    "tagline_ar": "تحويل النص لصوت للتعلم والعمل",
+    "tagline_en": "Text to voice for learning and work",
+    "desc_ar": "Natural Reader يحوّل أي نص لصوت واضح. شائع للطلاب وذوي الاحتياجات الخاصة.",
+    "desc_en": "Natural Reader يحوّل أي نص لصوت واضح. شائع للطلاب وذوي الاحتياجات الخاصة.",
+    "long_desc_ar": "Natural Reader يحوّل أي نص لصوت واضح. شائع للطلاب وذوي الاحتياجات الخاصة.",
+    "long_desc_en": "Natural Reader يحوّل أي نص لصوت واضح. شائع للطلاب وذوي الاحتياجات الخاصة.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://naturalreaders.com",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=naturalreaders.com&sz=64"
+  },
+  {
+    "id": "wellsaid-labs",
+    "name_ar": "ويل سيد لابس",
+    "name_en": "WellSaid Labs",
+    "slug": "wellsaid-labs",
+    "tagline_ar": "أصوات AI للمحتوى المؤسسي",
+    "tagline_en": "AI voices for enterprise content",
+    "desc_ar": "WellSaid Labs يقدم أصواتاً AI احترافية للمحتوى المؤسسي والتدريبي.",
+    "desc_en": "WellSaid Labs يقدم أصواتاً AI احترافية للمحتوى المؤسسي والتدريبي.",
+    "long_desc_ar": "WellSaid Labs يقدم أصواتاً AI احترافية للمحتوى المؤسسي والتدريبي.",
+    "long_desc_en": "WellSaid Labs يقدم أصواتاً AI احترافية للمحتوى المؤسسي والتدريبي.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$49/mo",
+    "price_pro": "$49/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://wellsaidlabs.com",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wellsaidlabs.com&sz=64"
+  },
+  {
+    "id": "musicfy",
+    "name_ar": "Musicfy",
+    "name_en": "Musicfy",
+    "slug": "musicfy",
+    "tagline_ar": "تحويل الصوت لأي فنان بالذكاء الاصطناعي",
+    "tagline_en": "Convert voice to any artist with AI",
+    "desc_ar": "Musicfy يُحوّل صوتك ليُشبه أي فنان. مثالي لمنشئي المحتوى الموسيقي.",
+    "desc_en": "Musicfy converts your voice to sound like any artist. Ideal for music content creators.",
+    "long_desc_ar": "Musicfy يُحوّل صوتك ليُشبه أي فنان. مثالي لمنشئي المحتوى الموسيقي.",
+    "long_desc_en": "Musicfy converts your voice to sound like any artist. Ideal for music content creators.",
+    "category": "audio",
+    "tags_ar": [
+      "Musicfy",
+      "audio"
+    ],
+    "tags_en": [
+      "Musicfy",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://musicfy.lol",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=musicfy.lol&sz=64"
+  },
+  {
+    "id": "wondercraft",
+    "name_ar": "Wondercraft",
+    "name_en": "Wondercraft",
+    "slug": "wondercraft",
+    "tagline_ar": "تحويل المقالات لبودكاست بالذكاء الاصطناعي",
+    "tagline_en": "Convert articles to podcasts with AI",
+    "desc_ar": "Wondercraft يُحوّل أي نص أو مقالة لبودكاست احترافي في دقائق. مثالي لصناع المحتوى.",
+    "desc_en": "Wondercraft converts any text or article to a professional podcast in minutes. Ideal for content creators.",
+    "long_desc_ar": "Wondercraft يُحوّل أي نص أو مقالة لبودكاست احترافي في دقائق. مثالي لصناع المحتوى.",
+    "long_desc_en": "Wondercraft converts any text or article to a professional podcast in minutes. Ideal for content creators.",
+    "category": "audio",
+    "tags_ar": [
+      "Wondercraft",
+      "audio"
+    ],
+    "tags_en": [
+      "Wondercraft",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://wondercraft.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=wondercraft.ai&sz=64"
+  },
+  {
+    "id": "cleanvoice-ai",
+    "name_ar": "Cleanvoice AI",
+    "name_en": "Cleanvoice AI",
+    "slug": "cleanvoice-ai",
+    "tagline_ar": "إزالة الأصوات الملتقطة من البودكاست",
+    "tagline_en": "Remove filler sounds from podcasts",
+    "desc_ar": "Cleanvoice AI يُزيل الـ umm وah والضجيج من البودكاست تلقائياً. يوفر ساعات التحرير.",
+    "desc_en": "Cleanvoice AI removes umm, ah, and noise from podcasts automatically. Saves hours of editing.",
+    "long_desc_ar": "Cleanvoice AI يُزيل الـ umm وah والضجيج من البودكاست تلقائياً. يوفر ساعات التحرير.",
+    "long_desc_en": "Cleanvoice AI removes umm, ah, and noise from podcasts automatically. Saves hours of editing.",
+    "category": "audio",
+    "tags_ar": [
+      "Cleanvoice AI",
+      "audio"
+    ],
+    "tags_en": [
+      "Cleanvoice AI",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$11",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://cleanvoice.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cleanvoice.ai&sz=64"
+  },
+  {
+    "id": "voice-ai",
+    "name_ar": "Voice.ai",
+    "name_en": "Voice.ai",
+    "slug": "voice-ai",
+    "tagline_ar": "تغيير الصوت في الوقت الحقيقي",
+    "tagline_en": "Change voice in real-time",
+    "desc_ar": "Voice.ai — تغيير الصوت في الوقت الحقيقي",
+    "desc_en": "Voice.ai — Change voice in real-time",
+    "long_desc_ar": "Voice.ai — تغيير الصوت في الوقت الحقيقي",
+    "long_desc_en": "Voice.ai — Change voice in real-time",
+    "category": "audio",
+    "tags_ar": [
+      "Voice.ai",
+      "audio"
+    ],
+    "tags_en": [
+      "Voice.ai",
+      "audio"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://voice.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=voice.ai&sz=64"
+  },
+  {
+    "id": "anghami",
+    "name_ar": "أنغامي",
+    "name_en": "Anghami",
+    "slug": "anghami",
+    "tagline_ar": "موسيقى عربية وعالمية بالذكاء AI",
+    "tagline_en": "Arabic and global music with AI",
+    "desc_ar": "منصة الموسيقى الأولى في الشرق الأوسط. AI يوصي بالأغاني العربية.",
+    "desc_en": "#1 music platform in Middle East. AI recommends Arabic songs.",
+    "long_desc_ar": "منصة الموسيقى الأولى في الشرق الأوسط. AI يوصي بالأغاني العربية.",
+    "long_desc_en": "#1 music platform in Middle East. AI recommends Arabic songs.",
+    "category": "audio",
+    "tags_ar": [
+      "موسيقى عربية",
+      "شرق أوسط",
+      "بث",
+      "اشتراك"
+    ],
+    "tags_en": [
+      "arabic music",
+      "middle east",
+      "streaming",
+      "subscription"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$4.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://anghami.com",
+    "monthly_visits": "5M+",
+    "trending_score": 77,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "spotify",
+      "deezer",
+      "apple-music"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anghami.com&sz=64"
+  },
+  {
+    "id": "resemble-voices",
+    "name_ar": "ريسمبل فويسز",
+    "name_en": "Resemble AI Voice",
+    "slug": "resemble-voices",
+    "tagline_ar": "استنساخ صوتك لتطبيقاتك",
+    "tagline_en": "Clone your voice for your apps",
+    "desc_ar": "Resemble AI يستنسخ أي صوت لاستخدامه في التطبيقات والمنتجات بالذكاء الاصطناعي.",
+    "desc_en": "Resemble AI يستنسخ أي صوت لاستخدامه في التطبيقات والمنتجات بالذكاء الاصطناعي.",
+    "long_desc_ar": "Resemble AI يستنسخ أي صوت لاستخدامه في التطبيقات والمنتجات بالذكاء الاصطناعي.",
+    "long_desc_en": "Resemble AI يستنسخ أي صوت لاستخدامه في التطبيقات والمنتجات بالذكاء الاصطناعي.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$29/mo",
+    "price_pro": "$29/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://resemble.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=resemble.ai&sz=64"
+  },
+  {
+    "id": "voicemod-ai",
+    "name_ar": "فويس مود AI",
+    "name_en": "Voicemod AI",
+    "slug": "voicemod-ai",
+    "tagline_ar": "تغيير الصوت في الوقت الحقيقي",
+    "tagline_en": "Real-time voice changing",
+    "desc_ar": "Voicemod يغيّر صوتك في الوقت الحقيقي أثناء الألعاب والبث والمكالمات.",
+    "desc_en": "Voicemod يغيّر صوتك في الوقت الحقيقي أثناء الألعاب والبث والمكالمات.",
+    "long_desc_ar": "Voicemod يغيّر صوتك في الوقت الحقيقي أثناء الألعاب والبث والمكالمات.",
+    "long_desc_en": "Voicemod يغيّر صوتك في الوقت الحقيقي أثناء الألعاب والبث والمكالمات.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://voicemod.net",
+    "monthly_visits": "5M+",
+    "trending_score": 77,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=voicemod.net&sz=64"
+  },
+  {
+    "id": "boomy-ai",
+    "name_ar": "Boomy",
+    "name_en": "Boomy",
+    "slug": "boomy-ai",
+    "tagline_ar": "إنشاء موسيقى AI ونشرها على Spotify",
+    "tagline_en": "Create AI music and publish to Spotify",
+    "desc_ar": "Boomy — إنشاء موسيقى AI ونشرها على Spotify",
+    "desc_en": "Boomy — Create AI music and publish to Spotify",
+    "long_desc_ar": "Boomy — إنشاء موسيقى AI ونشرها على Spotify",
+    "long_desc_en": "Boomy — Create AI music and publish to Spotify",
+    "category": "audio",
+    "tags_ar": [
+      "Boomy",
+      "audio"
+    ],
+    "tags_en": [
+      "Boomy",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://boomy.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=boomy.com&sz=64"
+  },
+  {
+    "id": "soundverse",
+    "name_ar": "ساوندفيرس",
+    "name_en": "Soundverse",
+    "slug": "soundverse",
+    "tagline_ar": "إنتاج موسيقي AI للمحترفين",
+    "tagline_en": "Professional AI music production",
+    "desc_ar": "Soundverse للمنتجين الموسيقيين. يولد loops وbeats وmelodies بالذكاء الاصطناعي.",
+    "desc_en": "Soundverse للمنتجين الموسيقيين. يولد loops وbeats وmelodies بالذكاء الاصطناعي.",
+    "long_desc_ar": "Soundverse للمنتجين الموسيقيين. يولد loops وbeats وmelodies بالذكاء الاصطناعي.",
+    "long_desc_en": "Soundverse للمنتجين الموسيقيين. يولد loops وbeats وmelodies بالذكاء الاصطناعي.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://soundverse.ai",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=soundverse.ai&sz=64"
+  },
+  {
+    "id": "cleanfeed-ai",
+    "name_ar": "كلين فيد",
+    "name_en": "Cleanfeed",
+    "slug": "cleanfeed-ai",
+    "tagline_ar": "تسجيل بودكاست عن بُعد بجودة عالية",
+    "tagline_en": "High-quality remote podcast recording",
+    "desc_ar": "Cleanfeed يتيح التسجيل الاحترافي عن بُعد. جودة استوديو للضيوف في أي مكان.",
+    "desc_en": "Cleanfeed يتيح التسجيل الاحترافي عن بُعد. جودة استوديو للضيوف في أي مكان.",
+    "long_desc_ar": "Cleanfeed يتيح التسجيل الاحترافي عن بُعد. جودة استوديو للضيوف في أي مكان.",
+    "long_desc_en": "Cleanfeed يتيح التسجيل الاحترافي عن بُعد. جودة استوديو للضيوف في أي مكان.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://cleanfeed.net",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cleanfeed.net&sz=64"
+  },
+  {
+    "id": "narakeet",
+    "name_ar": "Narakeet",
+    "name_en": "Narakeet",
+    "slug": "narakeet",
+    "tagline_ar": "تحويل Slides ونصوص لفيديو ناطق",
+    "tagline_en": "Convert slides and text to talking video",
+    "desc_ar": "Narakeet — تحويل Slides ونصوص لفيديو ناطق",
+    "desc_en": "Narakeet — Convert slides and text to talking video",
+    "long_desc_ar": "Narakeet — تحويل Slides ونصوص لفيديو ناطق",
+    "long_desc_en": "Narakeet — Convert slides and text to talking video",
+    "category": "audio",
+    "tags_ar": [
+      "Narakeet",
+      "audio"
+    ],
+    "tags_en": [
+      "Narakeet",
+      "audio"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://narakeet.com",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2019,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=narakeet.com&sz=64"
+  },
+  {
+    "id": "beatoven-ai",
+    "name_ar": "بيتوفن AI",
+    "name_en": "Beatoven.ai",
+    "slug": "beatoven-ai",
+    "tagline_ar": "موسيقى AI بدون حقوق للمحتوى",
+    "tagline_en": "Royalty-free AI music for content",
+    "desc_ar": "Beatoven يولد موسيقى AI مخصصة بدون حقوق. مثالية للمحتوى والفيديوهات.",
+    "desc_en": "Beatoven يولد موسيقى AI مخصصة بدون حقوق. مثالية للمحتوى والفيديوهات.",
+    "long_desc_ar": "Beatoven يولد موسيقى AI مخصصة بدون حقوق. مثالية للمحتوى والفيديوهات.",
+    "long_desc_en": "Beatoven يولد موسيقى AI مخصصة بدون حقوق. مثالية للمحتوى والفيديوهات.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://beatoven.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 75,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2021,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=beatoven.ai&sz=64"
+  },
+  {
+    "id": "podium-ai",
+    "name_ar": "بوديوم AI",
+    "name_en": "Podium AI",
+    "slug": "podium-ai",
+    "tagline_ar": "بودكاست AI من أي محتوى",
+    "tagline_en": "AI podcast from any content",
+    "desc_ar": "Podium يحوّل أي محتوى لحلقة بودكاست احترافية تلقائياً.",
+    "desc_en": "Podium يحوّل أي محتوى لحلقة بودكاست احترافية تلقائياً.",
+    "long_desc_ar": "Podium يحوّل أي محتوى لحلقة بودكاست احترافية تلقائياً.",
+    "long_desc_en": "Podium يحوّل أي محتوى لحلقة بودكاست احترافية تلقائياً.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://podium.page",
+    "monthly_visits": "500K+",
+    "trending_score": 75,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=podium.page&sz=64"
+  },
+  {
+    "id": "listenbox",
+    "name_ar": "ليسن بوكس",
+    "name_en": "Listenbox",
+    "slug": "listenbox",
+    "tagline_ar": "تحويل المقالات لبودكاست صوتي",
+    "tagline_en": "Convert articles to audio podcast",
+    "desc_ar": "Listenbox يحوّل المقالات والنصوص لملفات صوتية. استمع للقراءة أثناء التنقل.",
+    "desc_en": "Listenbox يحوّل المقالات والنصوص لملفات صوتية. استمع للقراءة أثناء التنقل.",
+    "long_desc_ar": "Listenbox يحوّل المقالات والنصوص لملفات صوتية. استمع للقراءة أثناء التنقل.",
+    "long_desc_en": "Listenbox يحوّل المقالات والنصوص لملفات صوتية. استمع للقراءة أثناء التنقل.",
+    "category": "audio",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://listenbox.app",
+    "monthly_visits": "500K+",
+    "trending_score": 74,
+    "rating": 4.1,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=listenbox.app&sz=64"
+  }
+]

@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "talkpal",
+    "name_ar": "توك بال",
+    "name_en": "TalkPal",
+    "slug": "talkpal",
+    "tagline_ar": "تحدث مع AI لتتعلم أي لغة بسرعة",
+    "tagline_en": "Talk to AI to learn any language fast",
+    "desc_ar": "مدرّس لغات AI يتيح محادثة حقيقية. أسرع طريقة للتحدث بطلاقة. 57+ لغة.",
+    "desc_en": "AI language tutor for real conversation. Fastest way to speak fluently. 57+ languages.",
+    "long_desc_ar": "TalkPal مدرّس لغات AI بمحادثة طبيعية حقيقية. يصحح أخطاءك فوراً. 57+ لغة. شائع جداً في السوق العربي لتعلم الإنجليزية.",
+    "long_desc_en": "TalkPal AI language tutor with natural real conversation. Corrects mistakes instantly. 57+ languages. Very popular in Arab market for learning English.",
+    "category": "education",
+    "tags_ar": [
+      "تعلم لغات",
+      "محادثة",
+      "57 لغة",
+      "عربي"
+    ],
+    "tags_en": [
+      "language learning",
+      "conversation",
+      "57 languages",
+      "arabic"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$6.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://talkpal.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 85,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [
+      "duolingo",
+      "pimsleur",
+      "babbel"
+    ],
+    "integrations": [
+      ""
+    ],
+    "use_cases_ar": [
+      "تعلم الإنجليزية",
+      "محادثة فورية",
+      "تصحيح النطق",
+      "امتحانات اللغة"
+    ],
+    "use_cases_en": [
+      "Learning English",
+      "Real-time conversation",
+      "Pronunciation correction",
+      "Language exams"
+    ],
+    "affiliate_url": "https://talkpalinc.sjv.io/c/4032044/3899173/30644",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=talkpal.ai&sz=64"
+  },
+  {
+    "id": "claude-education",
+    "name_ar": "Claude Education",
+    "name_en": "Claude for Students",
+    "slug": "claude-education",
+    "tagline_ar": "Claude للطلاب والباحثين والمعلمين",
+    "tagline_en": "Claude for students, researchers and teachers",
+    "desc_ar": "Claude يساعد الطلاب في الفهم والتحليل والكتابة الأكاديمية بدون إعطاء الإجابات مباشرة.",
+    "desc_en": "Claude يساعد الطلاب في الفهم والتحليل والكتابة الأكاديمية بدون إعطاء الإجابات مباشرة.",
+    "long_desc_ar": "Claude يساعد الطلاب في الفهم والتحليل والكتابة الأكاديمية بدون إعطاء الإجابات مباشرة.",
+    "long_desc_en": "Claude يساعد الطلاب في الفهم والتحليل والكتابة الأكاديمية بدون إعطاء الإجابات مباشرة.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://claude.ai",
+    "monthly_visits": "111M+",
+    "trending_score": 90,
+    "rating": 4.8,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64"
+  },
+  {
+    "id": "khanmigo",
+    "name_ar": "Khanmigo",
+    "name_en": "Khanmigo",
+    "slug": "khanmigo",
+    "tagline_ar": "مدرس AI خاص من Khan Academy",
+    "tagline_en": "Personal AI tutor from Khan Academy",
+    "desc_ar": "Khanmigo مدرس AI خاص من Khan Academy. قفز من 40K إلى 700K طالب في عام واحد. مجاني للطلاب.",
+    "desc_en": "Khanmigo personal AI tutor from Khan Academy. Jumped from 40K to 700K students in one year. Free for students.",
+    "long_desc_ar": "Khanmigo يتصدر فئة الـ Tutoring AI. قفز من 40,000 إلى 700,000 طالب في عام دراسي واحد. يُقدم شرحاً مخصصاً لكل طالب دون إعطاء الإجابات مباشرة.",
+    "long_desc_en": "Khanmigo leads the AI tutoring category. Jumped from 40,000 to 700,000 students in one school year. Provides personalized explanations without giving direct answers.",
+    "category": "education",
+    "tags_ar": [
+      "Khanmigo",
+      "Khan Academy",
+      "مدرس AI",
+      "طلاب"
+    ],
+    "tags_en": [
+      "Khanmigo",
+      "Khan Academy",
+      "AI tutor",
+      "students"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$4",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://khanacademy.org",
+    "monthly_visits": "30M+",
+    "trending_score": 90,
+    "rating": 4.7,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "chatgpt",
+      "claude",
+      "notebooklm"
+    ],
+    "integrations": [
+      "Khan Academy",
+      "Google Classroom"
+    ],
+    "use_cases_ar": [
+      "رياضيات",
+      "علوم",
+      "تحضير امتحانات",
+      "شرح مخصص"
+    ],
+    "use_cases_en": [
+      "Math",
+      "Science",
+      "Exam prep",
+      "Personalized tutoring"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=khanacademy.org&sz=64"
+  },
+  {
+    "id": "duolingo",
+    "name_ar": "دولينجو",
+    "name_en": "Duolingo",
+    "slug": "duolingo",
+    "tagline_ar": "تعلّم اللغات مع AI بطريقة ممتعة",
+    "tagline_en": "Learn languages with AI in a fun way",
+    "desc_ar": "منصة تعلم اللغات الأشهر تضيف AI لشرح الأخطاء ومحادثة حقيقية مع شخصيات AI.",
+    "desc_en": "Most popular language learning platform adds AI for error explanation and real conversations.",
+    "long_desc_ar": "Duolingo Max يضيف AI قوياً. يشرح أخطاءك ويتيح محادثة مع شخصيات AI. 40+ لغة. Video Call مع شخصية AI. من أكثر التطبيقات تحميلاً.",
+    "long_desc_en": "Duolingo Max adds powerful AI. Explains mistakes and enables conversation with AI characters. 40+ languages. Video Call with AI character. Among most downloaded apps.",
+    "category": "education",
+    "tags_ar": [
+      "تعلم لغات",
+      "عربي",
+      "ترفيهي",
+      "40 لغة"
+    ],
+    "tags_en": [
+      "language learning",
+      "arabic",
+      "fun",
+      "40 languages"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$13.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://duolingo.com",
+    "monthly_visits": "100M+",
+    "trending_score": 89,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [
+      "talkpal",
+      "busuu",
+      "babbel"
+    ],
+    "integrations": [
+      ""
+    ],
+    "use_cases_ar": [
+      "تعلم الإنجليزية",
+      "ممارسة المحادثة",
+      "تحضير للاختبارات",
+      "تعلم الفرنسية"
+    ],
+    "use_cases_en": [
+      "Learning English",
+      "Conversation practice",
+      "Exam prep",
+      "Learning French"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=64"
+  },
+  {
+    "id": "quizlet-ai",
+    "name_ar": "Quizlet AI",
+    "name_en": "Quizlet AI",
+    "slug": "quizlet-ai",
+    "tagline_ar": "بطاقات تعليمية AI للحفظ والمراجعة",
+    "tagline_en": "AI flashcards for memorization and review",
+    "desc_ar": "Quizlet AI يولّد بطاقات تعليمية تلقائياً من ملاحظاتك. يستخدمه 300M+ طالب عالمياً.",
+    "desc_en": "Quizlet AI automatically generates flashcards from your notes. Used by 300M+ students worldwide.",
+    "long_desc_ar": "Quizlet AI أضاف Spaced Repetition ذكياً وتوليد اختبارات تلقائي من ملاحظاتك. 300M+ مستخدم وأكثر من 700M مجموعة دراسة.",
+    "long_desc_en": "Quizlet AI added smart Spaced Repetition and automatic test generation from your notes. 300M+ users and 700M+ study sets.",
+    "category": "education",
+    "tags_ar": [
+      "Quizlet",
+      "بطاقات تعليمية",
+      "Spaced Repetition",
+      "طلاب"
+    ],
+    "tags_en": [
+      "Quizlet",
+      "flashcards",
+      "spaced repetition",
+      "students"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$8",
+    "has_free_trial": true,
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "website": "https://quizlet.com",
+    "monthly_visits": "50M+",
+    "trending_score": 87,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2005,
+    "alternatives": [
+      "anki",
+      "khanmigo",
+      "notebooklm"
+    ],
+    "integrations": [
+      "Google Classroom",
+      "Canvas"
+    ],
+    "use_cases_ar": [
+      "حفظ مفردات",
+      "مراجعة امتحانات",
+      "تعلم لغات",
+      "دراسة"
+    ],
+    "use_cases_en": [
+      "Vocabulary",
+      "Exam review",
+      "Language learning",
+      "Study"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=quizlet.com&sz=64"
+  },
+  {
+    "id": "duolingo-ai",
+    "name_ar": "Duolingo AI",
+    "name_en": "Duolingo AI",
+    "slug": "duolingo-ai",
+    "tagline_ar": "تعلم اللغات بأساليب AI ممتعة",
+    "tagline_en": "Learn languages with fun AI methods",
+    "desc_ar": "Duolingo AI يُعلّم اللغات بطريقة ممتعة مع شخصية AI تُحادثك. 500M+ مستخدم.",
+    "desc_en": "Duolingo AI teaches languages in a fun way with an AI character that chats with you. 500M+ users.",
+    "long_desc_ar": "Duolingo AI يُعلّم اللغات بطريقة ممتعة مع شخصية AI تُحادثك. 500M+ مستخدم.",
+    "long_desc_en": "Duolingo AI teaches languages in a fun way with an AI character that chats with you. 500M+ users.",
+    "category": "education",
+    "tags_ar": [
+      "Duolingo AI",
+      "education"
+    ],
+    "tags_en": [
+      "Duolingo AI",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://duolingo.com",
+    "monthly_visits": "2M+",
+    "trending_score": 87,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2011,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=64"
+  },
+  {
+    "id": "khan-academy",
+    "name_ar": "خان أكاديمي",
+    "name_en": "Khan Academy",
+    "slug": "khan-academy",
+    "tagline_ar": "تعليم مجاني للجميع مع Khanmigo",
+    "tagline_en": "Free education for everyone with Khanmigo",
+    "desc_ar": "أكبر منصة تعليمية مجانية. Khanmigo المدرّس AI المجاني للطلاب.",
+    "desc_en": "Largest free educational platform. Khanmigo free AI tutor for students.",
+    "long_desc_ar": "أكبر منصة تعليمية مجانية. Khanmigo المدرّس AI المجاني للطلاب.",
+    "long_desc_en": "Largest free educational platform. Khanmigo free AI tutor for students.",
+    "category": "education",
+    "tags_ar": [
+      "مجاني",
+      "تعليم",
+      "أطفال",
+      "Khanmigo"
+    ],
+    "tags_en": [
+      "free",
+      "education",
+      "children",
+      "Khanmigo"
+    ],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://khanacademy.org",
+    "monthly_visits": "50M+",
+    "trending_score": 86,
+    "rating": 4.7,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [
+      "coursera",
+      "duolingo",
+      "quizlet"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=khanacademy.org&sz=64"
+  },
+  {
+    "id": "duolingo-ai-voice",
+    "name_ar": "Duolingo Video Call",
+    "name_en": "Duolingo Video Call AI",
+    "slug": "duolingo-ai-voice",
+    "tagline_ar": "مكالمة فيديو مع شخصية AI لتعلم اللغة",
+    "tagline_en": "Video call with AI character for language learning",
+    "desc_ar": "Duolingo أطلق Video Call مع شخصية AI. محادثة حقيقية لممارسة اللغة المستهدفة.",
+    "desc_en": "Duolingo أطلق Video Call مع شخصية AI. محادثة حقيقية لممارسة اللغة المستهدفة.",
+    "long_desc_ar": "Duolingo أطلق Video Call مع شخصية AI. محادثة حقيقية لممارسة اللغة المستهدفة.",
+    "long_desc_en": "Duolingo أطلق Video Call مع شخصية AI. محادثة حقيقية لممارسة اللغة المستهدفة.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://duolingo.com",
+    "monthly_visits": "100M+",
+    "trending_score": 86,
+    "rating": 4.6,
+    "featured": true,
+    "is_new": true,
+    "launch_year": 2025,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=64"
+  },
+  {
+    "id": "coursera",
+    "name_ar": "كورسيرا",
+    "name_en": "Coursera",
+    "slug": "coursera",
+    "tagline_ar": "تعلم من أفضل الجامعات مع AI",
+    "tagline_en": "Learn from top universities with AI",
+    "desc_ar": "دورات من MIT وStanford وGoogle. AI يخصص مسار التعلم.",
+    "desc_en": "Courses from MIT, Stanford, Google. AI personalizes learning path.",
+    "long_desc_ar": "دورات من MIT وStanford وGoogle. AI يخصص مسار التعلم.",
+    "long_desc_en": "Courses from MIT, Stanford, Google. AI personalizes learning path.",
+    "category": "education",
+    "tags_ar": [
+      "دورات",
+      "جامعات",
+      "MIT",
+      "تعلم"
+    ],
+    "tags_en": [
+      "courses",
+      "universities",
+      "MIT",
+      "learning"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$49/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://coursera.org",
+    "monthly_visits": "30M+",
+    "trending_score": 85,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [
+      "udemy",
+      "edx",
+      "linkedin-learning"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=coursera.org&sz=64"
+  },
+  {
+    "id": "udemy",
+    "name_ar": "يوديمي",
+    "name_en": "Udemy",
+    "slug": "udemy",
+    "tagline_ar": "أكبر سوق دورات تعليمية",
+    "tagline_en": "Largest online course marketplace",
+    "desc_ar": "200,000+ دورة بما فيها العربية. الأشهر لشراء وبيع الدورات.",
+    "desc_en": "200K+ courses including Arabic. Most popular for buying and selling courses.",
+    "long_desc_ar": "200,000+ دورة بما فيها العربية. الأشهر لشراء وبيع الدورات.",
+    "long_desc_en": "200K+ courses including Arabic. Most popular for buying and selling courses.",
+    "category": "education",
+    "tags_ar": [
+      "دورات",
+      "بيع",
+      "شراء",
+      "تعليم"
+    ],
+    "tags_en": [
+      "courses",
+      "sell",
+      "buy",
+      "education"
+    ],
+    "pricing_type": "paid",
+    "price_starts": "$9.99",
+    "price_pro": "$29.99",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "website": "https://udemy.com",
+    "monthly_visits": "50M+",
+    "trending_score": 84,
+    "rating": 4.4,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [
+      "coursera",
+      "skillshare",
+      "linkedin-learning"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=udemy.com&sz=64"
+  },
+  {
+    "id": "magicschool-ai",
+    "name_ar": "MagicSchool AI",
+    "name_en": "MagicSchool AI",
+    "slug": "magicschool-ai",
+    "tagline_ar": "80+ أداة AI للمعلمين توفر ساعات أسبوعياً",
+    "tagline_en": "80+ AI tools for teachers saving hours weekly",
+    "desc_ar": "MagicSchool AI يقدم 80+ أداة للمعلمين لتخطيط الدروس والتواصل مع أولياء الأمور والتقييم.",
+    "desc_en": "MagicSchool AI provides 80+ tools for teachers for lesson planning, parent communication, and grading.",
+    "long_desc_ar": "MagicSchool AI يتصدر فئة أدوات المعلمين. يوفر 80+ مولّد AI للمعلمين من تخطيط الدروس لتقارير الطلاب. يوفر 5+ ساعات أسبوعياً لكل معلم.",
+    "long_desc_en": "MagicSchool AI leads the teacher tools category. 80+ AI generators for teachers from lesson planning to student reports. Saves 5+ hours weekly per teacher.",
+    "category": "education",
+    "tags_ar": [
+      "MagicSchool",
+      "معلمين",
+      "تخطيط دروس",
+      "تقييم"
+    ],
+    "tags_en": [
+      "MagicSchool",
+      "teachers",
+      "lesson planning",
+      "grading"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$12",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://magicschool.ai",
+    "monthly_visits": "3M+",
+    "trending_score": 84,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [
+      "khanmigo",
+      "chatgpt",
+      "claude"
+    ],
+    "integrations": [
+      "Google Classroom",
+      "Canvas",
+      "Schoology"
+    ],
+    "use_cases_ar": [
+      "خطط دروس",
+      "تقارير طلاب",
+      "أسئلة امتحانات",
+      "تواصل أولياء"
+    ],
+    "use_cases_en": [
+      "Lesson plans",
+      "Student reports",
+      "Exam questions",
+      "Parent communication"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=magicschool.ai&sz=64"
+  },
+  {
+    "id": "photomath",
+    "name_ar": "فوتو ماث",
+    "name_en": "Photomath",
+    "slug": "photomath",
+    "tagline_ar": "حل المسائل الرياضية بالكاميرا",
+    "tagline_en": "Solve math problems with camera",
+    "desc_ar": "يحل المسائل الرياضية بمجرد توجيه الكاميرا خطوة بخطوة.",
+    "desc_en": "Solves math problems by pointing camera step by step.",
+    "long_desc_ar": "يحل المسائل الرياضية بمجرد توجيه الكاميرا خطوة بخطوة.",
+    "long_desc_en": "Solves math problems by pointing camera step by step.",
+    "category": "education",
+    "tags_ar": [
+      "رياضيات",
+      "كاميرا",
+      "حل فوري",
+      "خطوة بخطوة"
+    ],
+    "tags_en": [
+      "math",
+      "camera",
+      "instant",
+      "step by step"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "website": "https://photomath.com",
+    "monthly_visits": "10M+",
+    "trending_score": 83,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [
+      "wolfram-alpha",
+      "mathway",
+      "chatgpt"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=photomath.com&sz=64"
+  },
+  {
+    "id": "khanmigo-ai",
+    "name_ar": "كان ميجو AI",
+    "name_en": "Khanmigo AI Tutor",
+    "slug": "khanmigo-ai",
+    "tagline_ar": "مدرّس AI مجاني للطلاب من Khan Academy",
+    "tagline_en": "Free AI tutor from Khan Academy",
+    "desc_ar": "Khanmigo من Khan Academy مدرّس AI مجاني. يشرح ولا يعطي الإجابة مباشرة.",
+    "desc_en": "Khanmigo من Khan Academy مدرّس AI مجاني. يشرح ولا يعطي الإجابة مباشرة.",
+    "long_desc_ar": "Khanmigo من Khan Academy مدرّس AI مجاني. يشرح ولا يعطي الإجابة مباشرة.",
+    "long_desc_en": "Khanmigo من Khan Academy مدرّس AI مجاني. يشرح ولا يعطي الإجابة مباشرة.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://khanacademy.org",
+    "monthly_visits": "50M+",
+    "trending_score": 83,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=khanacademy.org&sz=64"
+  },
+  {
+    "id": "coursera-ai",
+    "name_ar": "Coursera AI",
+    "name_en": "Coursera AI",
+    "slug": "coursera-ai",
+    "tagline_ar": "تعلم مهارات AI من أفضل الجامعات",
+    "tagline_en": "Learn AI skills from top universities",
+    "desc_ar": "Coursera يُقدم كورسات من Google وMeta وStanford في الذكاء الاصطناعي. شهادات معترف بها.",
+    "desc_en": "Coursera offers courses from Google, Meta, and Stanford in AI. Recognized certificates.",
+    "long_desc_ar": "Coursera يُقدم كورسات من Google وMeta وStanford في الذكاء الاصطناعي. شهادات معترف بها.",
+    "long_desc_en": "Coursera offers courses from Google, Meta, and Stanford in AI. Recognized certificates.",
+    "category": "education",
+    "tags_ar": [
+      "Coursera AI",
+      "education"
+    ],
+    "tags_en": [
+      "Coursera AI",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://coursera.org",
+    "monthly_visits": "2M+",
+    "trending_score": 83,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=coursera.org&sz=64"
+  },
+  {
+    "id": "quizlet",
+    "name_ar": "كويزليت",
+    "name_en": "Quizlet",
+    "slug": "quizlet",
+    "tagline_ar": "بطاقات الدراسة AI لتعلم أسرع",
+    "tagline_en": "AI study cards for faster learning",
+    "desc_ar": "أشهر منصة بطاقات دراسة. AI يبني مجموعات من ملاحظاتك تلقائياً.",
+    "desc_en": "Most popular study card platform. AI builds sets from your notes automatically.",
+    "long_desc_ar": "أشهر منصة بطاقات دراسة. AI يبني مجموعات من ملاحظاتك تلقائياً.",
+    "long_desc_en": "Most popular study card platform. AI builds sets from your notes automatically.",
+    "category": "education",
+    "tags_ar": [
+      "بطاقات دراسة",
+      "طلاب",
+      "ذاكرة",
+      "اختبارات"
+    ],
+    "tags_en": [
+      "study cards",
+      "students",
+      "memory",
+      "tests"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$7.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://quizlet.com",
+    "monthly_visits": "20M+",
+    "trending_score": 82,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2005,
+    "alternatives": [
+      "anki",
+      "khan-academy",
+      "duolingo"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=quizlet.com&sz=64"
+  },
+  {
+    "id": "anki-ai",
+    "name_ar": "أنكي AI",
+    "name_en": "Anki AI",
+    "slug": "anki-ai",
+    "tagline_ar": "بطاقات دراسة AI بخوارزمية ذاكرة",
+    "tagline_en": "AI study cards with memory algorithm",
+    "desc_ar": "Anki الأشهر لبطاقات الدراسة. AI يتحكم في توقيت المراجعة لأقصى احتفاظ.",
+    "desc_en": "Anki الأشهر لبطاقات الدراسة. AI يتحكم في توقيت المراجعة لأقصى احتفاظ.",
+    "long_desc_ar": "Anki الأشهر لبطاقات الدراسة. AI يتحكم في توقيت المراجعة لأقصى احتفاظ.",
+    "long_desc_en": "Anki الأشهر لبطاقات الدراسة. AI يتحكم في توقيت المراجعة لأقصى احتفاظ.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://apps.ankiweb.net",
+    "monthly_visits": "10M+",
+    "trending_score": 82,
+    "rating": 4.6,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=apps.ankiweb.net&sz=64"
+  },
+  {
+    "id": "studysmarter",
+    "name_ar": "StudySmarter",
+    "name_en": "StudySmarter",
+    "slug": "studysmarter",
+    "tagline_ar": "خطة دراسية مخصصة بالذكاء الاصطناعي",
+    "tagline_en": "Personalized study plan with AI",
+    "desc_ar": "StudySmarter يُنشئ خطة دراسية مخصصة وبطاقات تعليمية من ملاحظاتك. 25M+ طالب.",
+    "desc_en": "StudySmarter creates personalized study plans and flashcards from your notes. 25M+ students.",
+    "long_desc_ar": "StudySmarter يُنشئ خطة دراسية مخصصة وبطاقات تعليمية من ملاحظاتك. 25M+ طالب.",
+    "long_desc_en": "StudySmarter creates personalized study plans and flashcards from your notes. 25M+ students.",
+    "category": "education",
+    "tags_ar": [
+      "StudySmarter",
+      "education"
+    ],
+    "tags_en": [
+      "StudySmarter",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://studysmarter.de",
+    "monthly_visits": "2M+",
+    "trending_score": 82,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2017,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=studysmarter.de&sz=64"
+  },
+  {
+    "id": "udemy-ai",
+    "name_ar": "Udemy AI Courses",
+    "name_en": "Udemy AI Courses",
+    "slug": "udemy-ai",
+    "tagline_ar": "دورات AI بأسعار منخفضة للجميع",
+    "tagline_en": "Low-price AI courses for everyone",
+    "desc_ar": "Udemy يُقدم آلاف الدورات في الذكاء الاصطناعي بأسعار تبدأ من $10.",
+    "desc_en": "Udemy offers thousands of AI courses at prices starting from $10.",
+    "long_desc_ar": "Udemy يُقدم آلاف الدورات في الذكاء الاصطناعي بأسعار تبدأ من $10.",
+    "long_desc_en": "Udemy offers thousands of AI courses at prices starting from $10.",
+    "category": "education",
+    "tags_ar": [
+      "Udemy AI Courses",
+      "education"
+    ],
+    "tags_en": [
+      "Udemy AI Courses",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$10",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://udemy.com",
+    "monthly_visits": "2M+",
+    "trending_score": 81,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=udemy.com&sz=64"
+  },
+  {
+    "id": "linkedin-learning",
+    "name_ar": "لينكد إن ليرنينج",
+    "name_en": "LinkedIn Learning",
+    "slug": "linkedin-learning",
+    "tagline_ar": "مهارات مهنية من LinkedIn",
+    "tagline_en": "Professional skills from LinkedIn",
+    "desc_ar": "تعلم المهارات المهنية من LinkedIn. AI يقترح الدورات بناءً على ملفك.",
+    "desc_en": "LinkedIn professional skills learning. AI recommends courses based on your profile.",
+    "long_desc_ar": "تعلم المهارات المهنية من LinkedIn. AI يقترح الدورات بناءً على ملفك.",
+    "long_desc_en": "LinkedIn professional skills learning. AI recommends courses based on your profile.",
+    "category": "education",
+    "tags_ar": [
+      "مهارات مهنية",
+      "LinkedIn",
+      "شهادات",
+      "أعمال"
+    ],
+    "tags_en": [
+      "professional skills",
+      "LinkedIn",
+      "certificates",
+      "business"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$39.99/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://linkedin.com/learning",
+    "monthly_visits": "5M+",
+    "trending_score": 80,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2015,
+    "alternatives": [
+      "coursera",
+      "udemy",
+      "skillshare"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64"
+  },
+  {
+    "id": "minerva-ai",
+    "name_ar": "مينيرفا AI",
+    "name_en": "Minerva AI",
+    "slug": "minerva-ai",
+    "tagline_ar": "حل مسائل الرياضيات خطوة بخطوة",
+    "tagline_en": "Step-by-step math problem solving",
+    "desc_ar": "Minerva من Google يحل مسائل الرياضيات المعقدة بتفصيل خطوة بخطوة.",
+    "desc_en": "Minerva من Google يحل مسائل الرياضيات المعقدة بتفصيل خطوة بخطوة.",
+    "long_desc_ar": "Minerva من Google يحل مسائل الرياضيات المعقدة بتفصيل خطوة بخطوة.",
+    "long_desc_en": "Minerva من Google يحل مسائل الرياضيات المعقدة بتفصيل خطوة بخطوة.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "free",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ai.google",
+    "monthly_visits": "10M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ai.google&sz=64"
+  },
+  {
+    "id": "brilliant-ai",
+    "name_ar": "Brilliant AI",
+    "name_en": "Brilliant AI",
+    "slug": "brilliant-ai",
+    "tagline_ar": "تعلم الرياضيات والعلوم تفاعلياً",
+    "tagline_en": "Interactive math and science learning",
+    "desc_ar": "Brilliant يعلّم الرياضيات والعلوم والبرمجة بمسائل تفاعلية مع AI.",
+    "desc_en": "Brilliant يعلّم الرياضيات والعلوم والبرمجة بمسائل تفاعلية مع AI.",
+    "long_desc_ar": "Brilliant يعلّم الرياضيات والعلوم والبرمجة بمسائل تفاعلية مع AI.",
+    "long_desc_en": "Brilliant يعلّم الرياضيات والعلوم والبرمجة بمسائل تفاعلية مع AI.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://brilliant.org",
+    "monthly_visits": "5M+",
+    "trending_score": 80,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2012,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=brilliant.org&sz=64"
+  },
+  {
+    "id": "speak-app",
+    "name_ar": "Speak",
+    "name_en": "Speak",
+    "slug": "speak-app",
+    "tagline_ar": "تعلم التحدث باللغات مع AI",
+    "tagline_en": "Learn to speak languages with AI",
+    "desc_ar": "Speak يُدرّبك على التحدث باللغات مع محادثة AI فورية. الأفضل لتطوير مهارات الكلام.",
+    "desc_en": "Speak trains you to speak languages with instant AI conversation. Best for developing speaking skills.",
+    "long_desc_ar": "Speak يُدرّبك على التحدث باللغات مع محادثة AI فورية. الأفضل لتطوير مهارات الكلام.",
+    "long_desc_en": "Speak trains you to speak languages with instant AI conversation. Best for developing speaking skills.",
+    "category": "education",
+    "tags_ar": [
+      "Speak",
+      "education"
+    ],
+    "tags_en": [
+      "Speak",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://speak.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2016,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=speak.com&sz=64"
+  },
+  {
+    "id": "learnlm",
+    "name_ar": "LearnLM",
+    "name_en": "LearnLM",
+    "slug": "learnlm",
+    "tagline_ar": "نموذج تعليمي من Google Gemini",
+    "tagline_en": "Educational model from Google Gemini",
+    "desc_ar": "LearnLM — نموذج تعليمي من Google Gemini",
+    "desc_en": "LearnLM — Educational model from Google Gemini",
+    "long_desc_ar": "LearnLM — نموذج تعليمي من Google Gemini",
+    "long_desc_en": "LearnLM — Educational model from Google Gemini",
+    "category": "education",
+    "tags_ar": [
+      "LearnLM",
+      "education"
+    ],
+    "tags_en": [
+      "LearnLM",
+      "education"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://google.com",
+    "monthly_visits": "2M+",
+    "trending_score": 80,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2024,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
+  },
+  {
+    "id": "skillshare",
+    "name_ar": "سكيل شير",
+    "name_en": "Skillshare",
+    "slug": "skillshare",
+    "tagline_ar": "مهارات إبداعية من المحترفين",
+    "tagline_en": "Creative skills from professionals",
+    "desc_ar": "تعلم التصميم والتصوير والكتابة والبرمجة من خبراء حقيقيين.",
+    "desc_en": "Learn design, photography, writing, coding from real experts.",
+    "long_desc_ar": "تعلم التصميم والتصوير والكتابة والبرمجة من خبراء حقيقيين.",
+    "long_desc_en": "Learn design, photography, writing, coding from real experts.",
+    "category": "education",
+    "tags_ar": [
+      "إبداعي",
+      "تصميم",
+      "تصوير",
+      "كتابة"
+    ],
+    "tags_en": [
+      "creative",
+      "design",
+      "photography",
+      "writing"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$32/mo",
+    "price_pro": "$32/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "website": "https://skillshare.com",
+    "monthly_visits": "3M+",
+    "trending_score": 79,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2010,
+    "alternatives": [
+      "udemy",
+      "coursera",
+      "linkedin-learning"
+    ],
+    "integrations": [],
+    "use_cases_ar": [
+      "انتاجية",
+      "ابداع",
+      "اعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=skillshare.com&sz=64"
+  },
+  {
+    "id": "readwise-ai",
+    "name_ar": "Readwise AI",
+    "name_en": "Readwise AI",
+    "slug": "readwise-ai",
+    "tagline_ar": "استذكار ما قرأته بالذكاء الاصطناعي",
+    "tagline_en": "Remember what you read with AI",
+    "desc_ar": "Readwise يُذكّرك بأهم ما قرأته ويلخّص الكتب والمقالات. يُتكامل مع Kindle وPocket.",
+    "desc_en": "Readwise reminds you of the best of what you read and summarizes books and articles. Integrates with Kindle.",
+    "long_desc_ar": "Readwise يُذكّرك بأهم ما قرأته ويلخّص الكتب والمقالات. يُتكامل مع Kindle وPocket.",
+    "long_desc_en": "Readwise reminds you of the best of what you read and summarizes books and articles. Integrates with Kindle.",
+    "category": "education",
+    "tags_ar": [
+      "Readwise AI",
+      "education"
+    ],
+    "tags_en": [
+      "Readwise AI",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$8",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://readwise.io",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2018,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=readwise.io&sz=64"
+  },
+  {
+    "id": "teachable-ai",
+    "name_ar": "Teachable AI",
+    "name_en": "Teachable AI",
+    "slug": "teachable-ai",
+    "tagline_ar": "إنشاء كورسات أونلاين مع AI",
+    "tagline_en": "Create online courses with AI",
+    "desc_ar": "Teachable AI — إنشاء كورسات أونلاين مع AI",
+    "desc_en": "Teachable AI — Create online courses with AI",
+    "long_desc_ar": "Teachable AI — إنشاء كورسات أونلاين مع AI",
+    "long_desc_en": "Teachable AI — Create online courses with AI",
+    "category": "education",
+    "tags_ar": [
+      "Teachable AI",
+      "education"
+    ],
+    "tags_en": [
+      "Teachable AI",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$39",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://teachable.com",
+    "monthly_visits": "2M+",
+    "trending_score": 79,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2014,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=teachable.com&sz=64"
+  },
+  {
+    "id": "studyx",
+    "name_ar": "ستادي إكس",
+    "name_en": "StudyX",
+    "slug": "studyx",
+    "tagline_ar": "مساعد الدراسة AI للطلاب",
+    "tagline_en": "AI study assistant for students",
+    "desc_ar": "مساعد دراسة AI شامل يحل الواجبات ويشرح المفاهيم ويبني خطط الدراسة للطلاب.",
+    "desc_en": "Comprehensive AI study assistant solving homework, explaining concepts, and building study plans for students.",
+    "long_desc_ar": "مساعد دراسة AI شامل يحل الواجبات ويشرح المفاهيم ويبني خطط الدراسة للطلاب.",
+    "long_desc_en": "Comprehensive AI study assistant solving homework, explaining concepts, and building study plans for students.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://studyx.ai",
+    "monthly_visits": "5M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=studyx.ai&sz=64"
+  },
+  {
+    "id": "synthesis-tutor",
+    "name_ar": "سينثيسيس",
+    "name_en": "Synthesis AI Tutor",
+    "slug": "synthesis-tutor",
+    "tagline_ar": "تعليم رياضيات AI تفاعلي للأطفال",
+    "tagline_en": "Interactive AI math education for children",
+    "desc_ar": "Synthesis يعلّم الأطفال الرياضيات بطريقة تفاعلية وممتعة بالذكاء الاصطناعي.",
+    "desc_en": "Synthesis يعلّم الأطفال الرياضيات بطريقة تفاعلية وممتعة بالذكاء الاصطناعي.",
+    "long_desc_ar": "Synthesis يعلّم الأطفال الرياضيات بطريقة تفاعلية وممتعة بالذكاء الاصطناعي.",
+    "long_desc_en": "Synthesis يعلّم الأطفال الرياضيات بطريقة تفاعلية وممتعة بالذكاء الاصطناعي.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$35/mo",
+    "price_pro": "$35/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://synthesis.com",
+    "monthly_visits": "500K+",
+    "trending_score": 78,
+    "rating": 4.5,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=synthesis.com&sz=64"
+  },
+  {
+    "id": "coursehero-ai",
+    "name_ar": "كورس هيرو AI",
+    "name_en": "Course Hero AI",
+    "slug": "coursehero-ai",
+    "tagline_ar": "مساعد دراسة AI للجامعات",
+    "tagline_en": "University AI study assistant",
+    "desc_ar": "Course Hero يضيف AI لشرح المفاهيم وحل الأسئلة الجامعية.",
+    "desc_en": "Course Hero يضيف AI لشرح المفاهيم وحل الأسئلة الجامعية.",
+    "long_desc_ar": "Course Hero يضيف AI لشرح المفاهيم وحل الأسئلة الجامعية.",
+    "long_desc_en": "Course Hero يضيف AI لشرح المفاهيم وحل الأسئلة الجامعية.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://coursehero.com",
+    "monthly_visits": "10M+",
+    "trending_score": 78,
+    "rating": 4.2,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2006,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=coursehero.com&sz=64"
+  },
+  {
+    "id": "heptabase",
+    "name_ar": "Heptabase",
+    "name_en": "Heptabase",
+    "slug": "heptabase",
+    "tagline_ar": "تعلم وبحث بطاقات مترابطة بصرياً",
+    "tagline_en": "Visual connected cards for learning and research",
+    "desc_ar": "Heptabase — تعلم وبحث بطاقات مترابطة بصرياً",
+    "desc_en": "Heptabase — Visual connected cards for learning and research",
+    "long_desc_ar": "Heptabase — تعلم وبحث بطاقات مترابطة بصرياً",
+    "long_desc_en": "Heptabase — Visual connected cards for learning and research",
+    "category": "education",
+    "tags_ar": [
+      "Heptabase",
+      "education"
+    ],
+    "tags_en": [
+      "Heptabase",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$8",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://heptabase.com",
+    "monthly_visits": "2M+",
+    "trending_score": 78,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2020,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=heptabase.com&sz=64"
+  },
+  {
+    "id": "unstuck-ai",
+    "name_ar": "Unstuck AI",
+    "name_en": "Unstuck AI",
+    "slug": "unstuck-ai",
+    "tagline_ar": "مساعد AI للطلاب في الفهم لا الغش",
+    "tagline_en": "AI assistant for students in understanding not cheating",
+    "desc_ar": "Unstuck AI يُساعد الطلاب على الفهم بدلاً من تقديم الإجابات. مُصمَّم خصيصاً للتعلم.",
+    "desc_en": "Unstuck AI helps students understand instead of providing answers. Specifically designed for learning.",
+    "long_desc_ar": "Unstuck AI يُساعد الطلاب على الفهم بدلاً من تقديم الإجابات. مُصمَّم خصيصاً للتعلم.",
+    "long_desc_en": "Unstuck AI helps students understand instead of providing answers. Specifically designed for learning.",
+    "category": "education",
+    "tags_ar": [
+      "Unstuck AI",
+      "education"
+    ],
+    "tags_en": [
+      "Unstuck AI",
+      "education"
+    ],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://unstuck.com",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.4,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=unstuck.com&sz=64"
+  },
+  {
+    "id": "mindsmith-ai",
+    "name_ar": "Mindsmith AI",
+    "name_en": "Mindsmith AI",
+    "slug": "mindsmith-ai",
+    "tagline_ar": "إنشاء كورسات تدريبية بالـ AI",
+    "tagline_en": "Create training courses with AI",
+    "desc_ar": "Mindsmith AI — إنشاء كورسات تدريبية بالـ AI",
+    "desc_en": "Mindsmith AI — Create training courses with AI",
+    "long_desc_ar": "Mindsmith AI — إنشاء كورسات تدريبية بالـ AI",
+    "long_desc_en": "Mindsmith AI — Create training courses with AI",
+    "category": "education",
+    "tags_ar": [
+      "Mindsmith AI",
+      "education"
+    ],
+    "tags_en": [
+      "Mindsmith AI",
+      "education"
+    ],
+    "pricing_type": true,
+    "price_starts": "$29",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://mindsmith.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 77,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2022,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=mindsmith.ai&sz=64"
+  },
+  {
+    "id": "chegg-ai",
+    "name_ar": "تشيج AI",
+    "name_en": "Chegg AI",
+    "slug": "chegg-ai",
+    "tagline_ar": "حل الواجبات AI للطلاب",
+    "tagline_en": "AI homework solving for students",
+    "desc_ar": "Chegg AI يحل الواجبات ويشرح المفاهيم للطلاب الجامعيين.",
+    "desc_en": "Chegg AI يحل الواجبات ويشرح المفاهيم للطلاب الجامعيين.",
+    "long_desc_ar": "Chegg AI يحل الواجبات ويشرح المفاهيم للطلاب الجامعيين.",
+    "long_desc_en": "Chegg AI يحل الواجبات ويشرح المفاهيم للطلاب الجامعيين.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "subscription",
+    "price_starts": "$19.95/mo",
+    "price_pro": "$19.95/mo",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://chegg.com",
+    "monthly_visits": "10M+",
+    "trending_score": 76,
+    "rating": 4.0,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2005,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=chegg.com&sz=64"
+  },
+  {
+    "id": "ielts-buddy",
+    "name_ar": "IELTS Buddy AI",
+    "name_en": "IELTS Buddy",
+    "slug": "ielts-buddy",
+    "tagline_ar": "تدريب AI تفاعلي على IELTS Speaking",
+    "tagline_en": "Interactive AI training for IELTS Speaking",
+    "desc_ar": "IELTS Buddy يدرّبك على Speaking وWriting بالذكاء الاصطناعي مع تقييم فوري.",
+    "desc_en": "IELTS Buddy يدرّبك على Speaking وWriting بالذكاء الاصطناعي مع تقييم فوري.",
+    "long_desc_ar": "IELTS Buddy يدرّبك على Speaking وWriting بالذكاء الاصطناعي مع تقييم فوري.",
+    "long_desc_en": "IELTS Buddy يدرّبك على Speaking وWriting بالذكاء الاصطناعي مع تقييم فوري.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ieltsbuddy.com",
+    "monthly_visits": "500K+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ieltsbuddy.com&sz=64"
+  },
+  {
+    "id": "synthia-ai",
+    "name_ar": "Synthia AI",
+    "name_en": "Synthia AI",
+    "slug": "synthia-ai",
+    "tagline_ar": "مدرّس AI للتعلم الذاتي المخصص",
+    "tagline_en": "AI teacher for personalized self-learning",
+    "desc_ar": "Synthia AI — مدرّس AI للتعلم الذاتي المخصص",
+    "desc_en": "Synthia AI — AI teacher for personalized self-learning",
+    "long_desc_ar": "Synthia AI — مدرّس AI للتعلم الذاتي المخصص",
+    "long_desc_en": "Synthia AI — AI teacher for personalized self-learning",
+    "category": "education",
+    "tags_ar": [
+      "Synthia AI",
+      "education"
+    ],
+    "tags_en": [
+      "Synthia AI",
+      "education"
+    ],
+    "pricing_type": true,
+    "price_starts": "$0",
+    "price_pro": "",
+    "has_free_trial": true,
+    "platforms": [
+      "Web"
+    ],
+    "website": "https://synthia.ai",
+    "monthly_visits": "2M+",
+    "trending_score": 76,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": false,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [],
+    "use_cases_en": [],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=synthia.ai&sz=64"
+  },
+  {
+    "id": "ielts-ai",
+    "name_ar": "آيلتس AI",
+    "name_en": "IELTS AI Prep",
+    "slug": "ielts-ai",
+    "tagline_ar": "التحضير لـ IELTS بالذكاء الاصطناعي",
+    "tagline_en": "IELTS preparation with AI",
+    "desc_ar": "تطبيق AI متخصص في التحضير لاختبار IELTS. تدريب مخصص وتقييم فوري.",
+    "desc_en": "تطبيق AI متخصص في التحضير لاختبار IELTS. تدريب مخصص وتقييم فوري.",
+    "long_desc_ar": "تطبيق AI متخصص في التحضير لاختبار IELTS. تدريب مخصص وتقييم فوري.",
+    "long_desc_en": "تطبيق AI متخصص في التحضير لاختبار IELTS. تدريب مخصص وتقييم فوري.",
+    "category": "education",
+    "tags_ar": [],
+    "tags_en": [],
+    "pricing_type": "freemium",
+    "price_starts": "$0",
+    "price_pro": "$0",
+    "has_free_trial": true,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://ielts.ai",
+    "monthly_visits": "1M+",
+    "trending_score": 75,
+    "rating": 4.3,
+    "featured": false,
+    "is_new": true,
+    "launch_year": 2023,
+    "alternatives": [],
+    "integrations": [],
+    "use_cases_ar": [
+      "إنتاجية",
+      "إبداع",
+      "أعمال",
+      "تعلم"
+    ],
+    "use_cases_en": [
+      "Productivity",
+      "Creativity",
+      "Business",
+      "Learning"
+    ],
+    "affiliate_url": "",
+    "coupon_code": "",
+    "coupon_discount": "",
+    "logo_url": "https://www.google.com/s2/favicons?domain=ielts.ai&sz=64"
+  }
+]
