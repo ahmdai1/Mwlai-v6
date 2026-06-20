@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
+import { Analytics } from '@vercel/analytics/next'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://mwlai.com'),
@@ -67,6 +68,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <div className="ai-bg"><div className="grid-lines" /></div>
         <div className="page-wrap">{children}</div>
+        <Analytics />
       </body>
     </html>
   )
