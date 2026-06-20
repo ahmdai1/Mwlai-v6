@@ -64,6 +64,71 @@
     "coupon_discount": "75% off+10%",
     "logo_url": "https://www.google.com/s2/favicons?domain=hostinger.com&sz=64"
   },
+    {
+    "id": "hostinger",
+    "name_ar": "هوستينجر",
+    "name_en": "Hostinger",
+    "slug": "hostinger",
+    "tagline_ar": "استضافة مواقع بخصم 95% مع AI",
+    "tagline_en": "Web hosting with 75% discount and AI",
+    "desc_ar": "أشهر استضافة بأسعار منخفضة مع منشئ مواقع AI وSSL مجاني ودومين مجاني. خصم 95% كود MWL.",
+    "desc_en": "Most popular affordable hosting with AI website builder, free SSL, free domain. 95% off code MWL.",
+    "long_desc_ar": "Hostinger من أشهر شركات الاستضافة بمنشئ مواقع AI ودومين وSSL مجاني. أداء ممتاز ونسبة 99.9%. دعم فني 24/7 بالعربية. كود MWL يوفر 75%.",
+    "long_desc_en": "Hostinger is one of the most popular hosting companies with AI website builder, free domain, SSL. Excellent 99.9% uptime. 24/7 Arabic support. Code MWL saves 75%.",
+    "category": "hosting",
+    "tags_ar": [
+      "استضافة",
+      "رخيص",
+      "AI builder",
+      "خصم 95%"
+    ],
+    "tags_en": [
+      "hosting",
+      "affordable",
+      "AI builder",
+      "95% off"
+    ],
+    "pricing_type": "subscription",
+    "price_starts": "$2.99/mo",
+    "price_pro": "$9.99/mo",
+    "has_free_trial": false,
+    "platforms": [
+      "web"
+    ],
+    "website": "https://hostinger.com",
+    "monthly_visits": "50M+",
+    "trending_score": 88,
+    "rating": 4.5,
+    "featured": true,
+    "is_new": false,
+    "launch_year": 2004,
+    "alternatives": [
+      "bluehost",
+      "namecheap",
+      "cloudways"
+    ],
+    "integrations": [
+      "WordPress",
+      "Cloudflare",
+      "Git"
+    ],
+    "use_cases_ar": [
+      "مواقع شخصية",
+      "متاجر إلكترونية",
+      "مدونات WordPress",
+      "مواقع الشركات"
+    ],
+    "use_cases_en": [
+      "Personal websites",
+      "Online stores",
+      "WordPress blogs",
+      "Business websites"
+    ],
+    "affiliate_url": "https://www.hostinger.com?REFERRALCODE=X95AHMED",
+    "coupon_code": "",
+    "coupon_discount": "75% off+20%",
+    "logo_url": "https://www.google.com/s2/favicons?domain=hostinger.com&sz=64"
+  },
   {
     "id": "namecheap",
     "name_ar": "نيم تشيب",
@@ -194,6 +259,7 @@
     "coupon_discount": "3 أشهر مجانية",
     "logo_url": "https://www.google.com/s2/favicons?domain=cloudways.com&sz=64"
   },
+  
   {
     "id": "fastcomet",
     "name_ar": "فاست كوميت",
